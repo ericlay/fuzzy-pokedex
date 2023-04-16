@@ -1,0 +1,7 @@
+#!/bin/bash
+
+LIST="$(pokemon-colorscripts -l | sort)"
+for pokemon in $LIST; do
+	echo "$pokemon"
+	/home/ez/Git/pokedex/pokeinfo "$pokemon" > "/home/ez/Git/pokedex/pokeData/$pokemon"
+done

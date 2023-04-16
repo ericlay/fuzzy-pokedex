@@ -1,0 +1,27 @@
+#!/bin/bash
+
+POKEMON="$(pokemon-colorscripts -l |
+	fzf +m +s -i \
+	--cycle \
+	--reverse \
+	--prompt=' ' \
+	--pointer='󰐝 ' \
+	--border=rounded \
+	--border-label="╢ Fuzzy-Pokedex ╟" \
+	--margin=4% \
+	--padding=4% \
+	--header="Choose Pokemon to view info" \
+	--info=inline:'  󰨉 ' \
+  	--color='fg+:15,fg:42,preview-fg:15,label:9,preview-label:15,hl+:134,hl:123,query:134,gutter:0,border:9,prompt:15,pointer:15,marker:15' \
+	--tiebreak=begin,chunk,length \
+	--preview="pokemon-colorscripts -n {1} --no-title; cat /home/ez/Git/pokedex/pokeData/{1}" \
+	--preview-window=65%:wrap:border-rounded \
+	--bind=focus:transform-preview-label:'echo [ {1} ] ' \
+	--bind=ctrl-b:preview:'pokemon-colorscripts -b -n {1} --no-title; cat /home/ez/Git/pokedex/pokeData/{1};' \
+	--bind=ctrl-s:preview:'pokemon-colorscripts -s -n {1} --no-title; cat /home/ez/Git/pokedex/pokeData/{1};' \
+	--bind=ctrl-n:preview:'pokemon-colorscripts -n {1} --no-title; cat /home/ez/Git/pokedex/pokeData/{1};'|
+	awk '{ printf "%s", $1 }')"
+	
+pokemon-colorscripts --no-title -n "$POKEMON"
+cat "/home/ez/Git/pokedex/pokeData/$POKEMON"
+exit 0
