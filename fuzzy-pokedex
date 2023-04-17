@@ -56,7 +56,7 @@ else
        			;;       			
     		-*) 
        			echo "Invalid Usage"
-       			Help
+       			help
        			;;
     	esac
 	done
