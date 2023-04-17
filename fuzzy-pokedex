@@ -6,7 +6,7 @@ help() {
     echo -e "Can optionally search by name"
 	echo -e "EXAMPLE\n\tfuzzy-pokedex [pokemon name]\n"
 	echo -e "OPTIONS"
-	echo -e "\t-u, --update\n\t\tScrape web for updated Pokemon stats\n\t\tWARNING: update function is resource heavy\n\t-h, --help\n\t\tPrint this help screen"
+	echo -e "\t-u, --update N/+N/-N/N%\n\t\tScrape web for updated Pokemon stats\n\t\tWARNING: update function is resource heavy\n\t\tSee Parallel job control (-j) for options\n\t\tDefault is 200%\n\t-h, --help\n\t\tPrint this help screen"
 	echo -e "KEYBINDS"
 	echo -e "\tctrl-n\tShows small sprite version\n\tctrl-b\tShows large sprite version\n\tctrl-s\tShows shiny sprite version\n\tctrl-h\tShows this help screen in preview window\n"
 }
@@ -43,7 +43,11 @@ update_pokeData() {
 	POKEINFO="/home/ez/Git/fuzzy-pokedex/pokeinfo"
 	POKEDATA="/home/ez/Git/fuzzy-pokedex/pokeData/"
 	echo -e "\n\t\tWARNING!!!\n\tThis WILL take a long time\n"
+	if [[ -n "$1" ]]; then
+	pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "$1" "$POKEINFO" {} ">" "$POKEDATA"{}
+	else
 	pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j 200% "$POKEINFO" {} ">" "$POKEDATA"{}
+	fi
 }
 
 if [[ ! "$1" =~ ^- ]]; then
@@ -52,7 +56,7 @@ else
 	for opt in "$@"; do
 		case $opt in
     		-u|--update)
-				update_pokeData
+				update_pokeData "$2"
 				;;
     		-h|--help)
        			help
