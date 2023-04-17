@@ -23,7 +23,15 @@ elif pokemon == "ho-oh":
 	pokemon = "Ho-oh" #serebii listed this way
 
 ######## Get Pokedex Entry Number  ########
-begin_url = ["http://serebii.net/pokedex-xy/","http://serebii.net/pokedex-sv/","http://serebii.net/pokedex-swsh/","http://serebii.net/pokedex-sm/","http://serebii.net/pokedex-bw/","http://serebii.net/pokedex-dp/","http://serebii.net/pokedex-rs/","http://serebii.net/pokedex-gs/","http://serebii.net/pokedex/"]
+begin_url = ["http://serebii.net/pokedex-xy/",
+	     "http://serebii.net/pokedex-sv/",
+		 "http://serebii.net/pokedex-swsh/",
+		 "http://serebii.net/pokedex-sm/",
+		 "http://serebii.net/pokedex-bw/",
+		 "http://serebii.net/pokedex-dp/",
+		 "http://serebii.net/pokedex-rs/",
+		 "http://serebii.net/pokedex-gs/",
+		 "http://serebii.net/pokedex/"]
 for i in begin_url:
     request1 = requests.get(i)
     html1 = request1.content
