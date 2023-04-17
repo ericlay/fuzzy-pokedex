@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ### Help 
-Help() {
-    echo -e "\nUse fzf to search and Pokemon stats\n"
+help() {
+    echo -e "\nUse fzf to search Pokemon stats\n"
     echo -e "Can optionally search by name"
 	echo -e "EXAMPLE\n\tfuzzy-pokedex [pokemon name]\n"
 	echo -e "OPTIONS"
@@ -12,7 +12,7 @@ Help() {
 }
 
 ### Pokedex viewer using pokemon-colorscripts and fzf
-pokedex() {
+fuzzy_pokedex() {
 	pokemon-colorscripts -l |
 	fzf +m -s -i \
 	--cycle \
@@ -44,7 +44,7 @@ update_pokeData() {
 }
 
 if [[ ! "$1" =~ ^- ]]; then
-	pokedex
+	fuzzy_pokedex "$1"
 else
 	for opt in "$@"; do
 		case $opt in
@@ -52,7 +52,7 @@ else
 				update_pokeData
 				;;
     		-h|--help)
-       			Help
+       			help
        			;;       			
     		-*) 
        			echo "Invalid Usage"
