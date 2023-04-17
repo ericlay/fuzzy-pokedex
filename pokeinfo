@@ -32,15 +32,19 @@ begin_url = ["http://serebii.net/pokedex-xy/",
 		 "http://serebii.net/pokedex-rs/",
 		 "http://serebii.net/pokedex-gs/",
 		 "http://serebii.net/pokedex/"]
+
 for i in begin_url:
-    request1 = requests.get(i)
-    html1 = request1.content
-    soup1 = BeautifulSoup(html1, "html.parser")
-    page_info1 = soup1.get_text()
+	try:
+		request1 = requests.get(i)
+	except OSError:
+		sys.exit(1)
+	html1 = request1.content
+	soup1 = BeautifulSoup(html1, "html.parser")
+	page_info1 = soup1.get_text()
   # Pokedex Entries Start At Index 5000
-    pokemon_index = page_info1.find(pokemon, 5000)
-    if pokemon_index != -1:
-        break
+	pokemon_index = page_info1.find(pokemon, 5000)
+	if pokemon_index != -1:
+    		break
 
 if pokemon_index == -1:
     print("You didn't enter a valid pokemon!")
@@ -58,9 +62,11 @@ for i in begin_url:
 	page_not_found = bool(soup2.find(string=re.compile("Page Not Found")))
 	if page_not_found == False:
 		break
+	
 if page_not_found:
 	print("	Stats currently unavailable :( ")
-
+	sys.exit(1)
+	
 ######## Get Stats ########
 base_total = soup2.find(string=re.compile("Base Stats - Total:"))
 # Only want everything after Total
