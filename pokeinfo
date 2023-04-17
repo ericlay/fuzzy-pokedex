@@ -23,96 +23,43 @@ elif pokemon == "ho-oh":
 	pokemon = "Ho-oh" #serebii listed this way
 
 ######## Get Pokedex Entry Number  ########
-begin_url = "http://serebii.net/pokedex-xy/"
-request1 = requests.get(begin_url)
-html1 = request1.content
-soup1 = BeautifulSoup(html1, "html.parser")
-page_info1 = soup1.get_text()
-# Pokedex Entries Start At Index 5000
-pokemon_index = page_info1.find(pokemon, 5000)
+begin_url = ["http://serebii.net/pokedex-xy/","http://serebii.net/pokedex-sv/","http://serebii.net/pokedex-swsh/","http://serebii.net/pokedex-sm/","http://serebii.net/pokedex-bw/","http://serebii.net/pokedex-dp/","http://serebii.net/pokedex-rs/","http://serebii.net/pokedex-gs/","http://serebii.net/pokedex/"]
+for i in begin_url:
+    request1 = requests.get(i)
+    html1 = request1.content
+    soup1 = BeautifulSoup(html1, "html.parser")
+    page_info1 = soup1.get_text()
+  # Pokedex Entries Start At Index 5000
+    pokemon_index = page_info1.find(pokemon, 5000)
+    if pokemon_index != -1:
+        break
 
 if pokemon_index == -1:
-    begin_url = "http://serebii.net/pokedex-sv/"
-    request1 = requests.get(begin_url)
-html1 = request1.content
-soup1 = BeautifulSoup(html1, "html.parser")
-page_info1 = soup1.get_text()
-pokemon_index = page_info1.find(pokemon, 5000)
-
-if pokemon_index == -1:
-	    begin_url = "http://serebii.net/pokedex-swsh/"
-request1 = requests.get(begin_url)
-html1 = request1.content
-soup1 = BeautifulSoup(html1, "html.parser")
-page_info1 = soup1.get_text()
-pokemon_index = page_info1.find(pokemon, 5000)
-
-if pokemon_index == -1:
-		    begin_url = "http://serebii.net/pokedex-sm/"
-request1 = requests.get(begin_url)
-html1 = request1.content
-soup1 = BeautifulSoup(html1, "html.parser")
-page_info1 = soup1.get_text()
-pokemon_index = page_info1.find(pokemon, 5000)
-
-if pokemon_index == -1:
-			    begin_url = "http://serebii.net/pokedex-bw/"
-request1 = requests.get(begin_url)
-html1 = request1.content
-soup1 = BeautifulSoup(html1, "html.parser")
-page_info1 = soup1.get_text()
-pokemon_index = page_info1.find(pokemon, 5000)
-
-if pokemon_index == -1:
-				    begin_url = "http://serebii.net/pokedex-dp/"
-request1 = requests.get(begin_url)
-html1 = request1.content
-soup1 = BeautifulSoup(html1, "html.parser")
-page_info1 = soup1.get_text()
-pokemon_index = page_info1.find(pokemon, 5000)
-
-if pokemon_index == -1:
-					    begin_url = "http://serebii.net/pokedex-rs/"
-request1 = requests.get(begin_url)
-html1 = request1.content
-soup1 = BeautifulSoup(html1, "html.parser")
-page_info1 = soup1.get_text()
-pokemon_index = page_info1.find(pokemon, 5000)
-
-if pokemon_index == -1:
-						    begin_url = "http://serebii.net/pokedex-gs/"
-request1 = requests.get(begin_url)
-html1 = request1.content
-soup1 = BeautifulSoup(html1, "html.parser")
-page_info1 = soup1.get_text()
-pokemon_index = page_info1.find(pokemon, 5000)
-
-if pokemon_index == -1:
-							    begin_url = "http://serebii.net/pokedex/"
-request1 = requests.get(begin_url)
-html1 = request1.content
-soup1 = BeautifulSoup(html1, "html.parser")
-page_info1 = soup1.get_text()
-pokemon_index = page_info1.find(pokemon, 5000)
-
-if pokemon_index == -1:
-									print("You didn't enter a valid pokemon!")
-									sys.exit()
+    print("You didn't enter a valid pokemon!")
+    sys.exit()
 	
-
 pokedex_number = page_info1[pokemon_index-4 : pokemon_index-1]
 
 ######## Get Pokemon Info ########
-full_url = begin_url + pokedex_number + ".shtml"
-request2 = requests.get(full_url)
-html2 = request2.content
-soup2 = BeautifulSoup(html2, "html.parser")
-page_info2 = soup2.get_text()
+for i in begin_url:
+	full_url = i + pokedex_number + ".shtml"
+	request2 = requests.get(full_url)
+	html2 = request2.content
+	soup2 = BeautifulSoup(html2, "html.parser")
+	page_info2 = soup2.get_text()
+	page_not_found = bool(soup2.find(string=re.compile("Page Not Found")))
+	if page_not_found == False:
+		break
+if page_not_found:
+	print("	Stats currently unavailable :( ")
 
 ######## Get Stats ########
 base_total = soup2.find(string=re.compile("Base Stats - Total:"))
 # Only want everything after Total
-base_total = base_total[base_total.find("Total"):]
+if base_total is None:
+	base_total = str("Total Unavailable")
+else:
+	base_total = base_total[base_total.find("Total"):]
 base_stats = soup2.find_all(class_="fooinfo")
 
 hp = str(base_stats[len(base_stats)-21])
@@ -145,11 +92,14 @@ if "is Genderless" in gender:
 	gender = "Genderless"
 
 ######## Print everything out ########
+print("")
 print("Name: ", pokemon)
 print("Pokedex Number: ", pokedex_number)
 print("Gender Ratio: ", str(gender))
 print(abilities)
-print("---Base Stats---")
+print("")
+print("Base Stats")
+print("----------------------")
 print(base_total)
 print("Hp: ", hp)
 print("Attack: ", attack)

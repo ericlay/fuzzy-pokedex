@@ -1,7 +1,8 @@
 #!/bin/bash
 
-POKEMON="$(pokemon-colorscripts -l |
-	fzf +m +s -i \
+pokedex() {
+	pokemon-colorscripts -l |
+	fzf +m -s -i \
 	--cycle \
 	--reverse \
 	--prompt=' ' \
@@ -14,14 +15,36 @@ POKEMON="$(pokemon-colorscripts -l |
 	--info=inline:'  󰨉 ' \
   	--color='fg+:15,fg:42,preview-fg:15,label:9,preview-label:15,hl+:134,hl:123,query:134,gutter:0,border:9,prompt:15,pointer:15,marker:15' \
 	--tiebreak=begin,chunk,length \
-	--preview="pokemon-colorscripts -n {1} --no-title; cat /home/ez/Git/pokedex/pokeData/{1}" \
-	--preview-window=65%:wrap:border-rounded \
+	--preview="echo; pokemon-colorscripts -n {1} --no-title; cat /home/ez/Git/fuzzy-pokedex/pokeData/{1}" \
+	--preview-window=68%:wrap:border-rounded \
 	--bind=focus:transform-preview-label:'echo [ {1} ] ' \
-	--bind=ctrl-b:preview:'pokemon-colorscripts -b -n {1} --no-title; cat /home/ez/Git/pokedex/pokeData/{1};' \
-	--bind=ctrl-s:preview:'pokemon-colorscripts -s -n {1} --no-title; cat /home/ez/Git/pokedex/pokeData/{1};' \
-	--bind=ctrl-n:preview:'pokemon-colorscripts -n {1} --no-title; cat /home/ez/Git/pokedex/pokeData/{1};'|
-	awk '{ printf "%s", $1 }')"
-	
-pokemon-colorscripts --no-title -n "$POKEMON"
-cat "/home/ez/Git/pokedex/pokeData/$POKEMON"
-exit 0
+	--bind=ctrl-b:preview:'echo; pokemon-colorscripts -b -n {1} --no-title; cat /home/ez/Git/fuzzy-pokedex/pokeData/{1};' \
+	--bind=ctrl-s:preview:'echo; pokemon-colorscripts -s -n {1} --no-title; cat /home/ez/Git/fuzzy-pokedex/pokeData/{1};' \
+	--bind=ctrl-n:preview:'echo; pokemon-colorscripts -n {1} --no-title; cat /home/ez/Git/fuzzy-pokedex/pokeData/{1};'|
+	awk '{ printf "%s", $1}' |
+	parallel pokemon-colorscripts --no-title -n {} "&&" cat /home/ez/Git/fuzzy-pokedex/pokeData/{} 
+}
+
+update_pokeData() {
+	echo -e "\n\t\tWARNING!!!\n\tThis WILL take a long time\n"
+	pokemon-colorscripts -l | sort | parallel --bar --color -j 200% /home/ez/Git/fuzzy-pokedex/pokeinfo {} ">" /home/ez/Git/pokedex/pokeData/{}
+}
+
+if [[ ! "$1" =~ ^- ]]; then
+	pokedex
+else
+	for opt in "$@"; do
+		case $opt in
+    		-u|--aur)
+				update_pokeData
+				;;
+    		-h|--help)
+       			Help
+       			;;       			
+    		-*) 
+       			echo "Invalid Usage"
+       			Help
+       			;;
+    	esac
+	done
+fi
