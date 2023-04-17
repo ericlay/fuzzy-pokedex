@@ -48,14 +48,17 @@ for i in begin_url:
 
 if pokemon_index == -1:
     print("You didn't enter a valid pokemon!")
-    sys.exit()
+    sys.exit(1)
 	
 pokedex_number = page_info1[pokemon_index-4 : pokemon_index-1]
 
 ######## Get Pokemon Info ########
 for i in begin_url:
-	full_url = i + pokedex_number + ".shtml"
-	request2 = requests.get(full_url)
+	try:
+		full_url = i + pokedex_number + ".shtml"
+		request2 = requests.get(full_url)
+	except OSError:
+		sys.exit(1)	
 	html2 = request2.content
 	soup2 = BeautifulSoup(html2, "html.parser")
 	page_info2 = soup2.get_text()
@@ -70,10 +73,8 @@ if page_not_found:
 ######## Get Stats ########
 base_total = soup2.find(string=re.compile("Base Stats - Total:"))
 # Only want everything after Total
-if base_total is None:
-	base_total = str("Total Unavailable")
-else:
-	base_total = base_total[base_total.find("Total"):]
+base_total = str("Total Unavailable")
+base_total = base_total[base_total.find("Total"):]
 base_stats = soup2.find_all(class_="fooinfo")
 
 hp = str(base_stats[len(base_stats)-21])
