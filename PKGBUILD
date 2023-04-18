@@ -25,6 +25,6 @@ package() {
 	cd "$srcdir/$_pkgname"
     mkdir -p "$pkgdir/usr/share/$_pkgname/pokeData"
     install -Dm644 pokeData/* -t "$pkgdir/usr/share/$_pkgname/pokeData"
-	install -Dm755 fuzzy-pokedex -t "$pkgdir/usr/bin"
-	install -Dm755 pokeinfo -t "$pkgdir/usr/bin"
+	install -Dm755 pokedex -t "$pkgdir/usr/bin"
+	install -Dm755 pokeInfo -t "$pkgdir/usr/bin"
 }

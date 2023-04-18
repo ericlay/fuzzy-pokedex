@@ -15,7 +15,7 @@ help() {
 POKEDATA="/usr/share/fuzzy-pokedex/pokeData/"
 
 ### Pokedex viewer using pokemon-colorscripts and fzf
-fuzzy_pokedex() {
+pokedex() {
 	pokemon-colorscripts -l |
 	fzf -q "$1" +m -s -i \
 	--cycle \
@@ -44,14 +44,14 @@ fuzzy_pokedex() {
 update_pokeData() {
 	echo -e "\n\t\tWARNING!!!\n\tThis WILL take a long time\n"
 	if [[ -n "$1" ]]; then
-		pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "$1" pokeinfo {} ">" "$POKEDATA"{}
+		pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "$1" pokeInfo {} ">" "$POKEDATA"{}
 	else
-		pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j 200% pokeinfo {} ">" "$POKEDATA"{}
+		pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j 200% pokeInfo {} ">" "$POKEDATA"{}
 	fi
 }
 
 if [[ ! "$1" =~ ^- ]]; then
-	fuzzy_pokedex "$1"
+	pokedex "$1"
 else
 	for opt in "$@"; do
 		case $opt in
