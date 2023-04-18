@@ -11,10 +11,12 @@ help() {
 	echo -e "\tctrl-n\tShows small sprite version\n\tctrl-b\tShows large sprite version\n\tctrl-s\tShows shiny sprite version\n\tctrl-h\tShows this help screen in preview window\n"
 }
 
+### Set pokeData location
+POKEDATA="/usr/share/fuzzy-pokedex/pokeData/"
+
 ### Pokedex viewer using pokemon-colorscripts and fzf
 fuzzy_pokedex() {
-	POKEDATA="/home/ez/Git/fuzzy-pokedex/pokeData/"
-	pokemon-colorscripts -l | sort |
+	pokemon-colorscripts -l |
 	fzf -q "$1" +m -s -i \
 	--cycle \
 	--reverse \
@@ -40,13 +42,11 @@ fuzzy_pokedex() {
 
 ### Update Pokemon stats file set
 update_pokeData() {
-	POKEINFO="/home/ez/Git/fuzzy-pokedex/pokeinfo"
-	POKEDATA="/home/ez/Git/fuzzy-pokedex/pokeData/"
 	echo -e "\n\t\tWARNING!!!\n\tThis WILL take a long time\n"
 	if [[ -n "$1" ]]; then
-	pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "$1" "$POKEINFO" {} ">" "$POKEDATA"{}
+		pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "$1" pokeinfo {} ">" "$POKEDATA"{}
 	else
-	pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j 200% "$POKEINFO" {} ">" "$POKEDATA"{}
+		pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j 200% pokeinfo {} ">" "$POKEDATA"{}
 	fi
 }
 
