@@ -33,7 +33,7 @@ pokedex() {
 	--preview="echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA{1}" \
 	--preview-window=68%:wrap:border-rounded \
 	--bind=focus:transform-preview-label:'echo [ {1} ] ' \
-	--bind=ctrl-h:preview:"echo; ./fuzzy-pokedex -h;" \
+	--bind=ctrl-h:preview:"echo; pokedex -h;" \
 	--bind=ctrl-b:preview:"echo; pokemon-colorscripts -b -n {1} --no-title; cat $POKEDATA{1};" \
 	--bind=ctrl-s:preview:"echo; pokemon-colorscripts -s -n {1} --no-title; cat $POKEDATA{1};" \
 	--bind=ctrl-n:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA{1};" |
