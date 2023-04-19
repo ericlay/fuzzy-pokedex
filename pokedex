@@ -12,7 +12,7 @@ help() {
 }
 
 ### Set pokeData location
-POKEDATA="/usr/share/fuzzy-pokedex/pokeData/"
+POKEDATA="/usr/share/fuzzy-pokedex/pokeData"
 
 ### Pokedex viewer using pokemon-colorscripts and fzf
 pokedex() {
@@ -30,30 +30,26 @@ pokedex() {
 	--info=inline:'  󰨉 ' \
   	--color='fg+:15,fg:42,preview-fg:15,label:9,preview-label:15,hl+:134,hl:123,query:134,gutter:0,border:9,prompt:15,pointer:15,marker:15' \
 	--tiebreak=begin,chunk,length \
-	--preview="echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA{1}" \
+	--preview="echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}" \
 	--preview-window=68%:wrap:border-rounded \
 	--bind=focus:transform-preview-label:'echo [ {1} ] ' \
 	--bind=ctrl-h:preview:"echo; pokedex -h;" \
-	--bind=ctrl-b:preview:"echo; pokemon-colorscripts -b -n {1} --no-title; cat $POKEDATA{1};" \
-	--bind=ctrl-s:preview:"echo; pokemon-colorscripts -s -n {1} --no-title; cat $POKEDATA{1};" \
-	--bind=ctrl-n:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA{1};" |
-	parallel pokemon-colorscripts --no-title -n {} "&&" cat "$POKEDATA"{} 
+	--bind=ctrl-b:preview:"echo; pokemon-colorscripts -b -n {1} --no-title; cat $POKEDATA/{1};" \
+	--bind=ctrl-s:preview:"echo; pokemon-colorscripts -s -n {1} --no-title; cat $POKEDATA/{1};" \
+	--bind=ctrl-n:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA{/1};" |
+	parallel pokemon-colorscripts --no-title -n {} "&&" cat "$POKEDATA/{}" 
 }
 
 
 ### Quick view returns single Pokemon stat instead of opening pokedex 
 quick_view() {
-	echo "$1" | parallel pokemon-colorscripts --no-title -n {} "&&" cat "$POKEDATA{}"
+	parallel pokemon-colorscripts --no-title -n {} "&&" cat "$POKEDATA/{}" <<<"$1"
 }
 
 ### Update Pokemon stats file set
 update_pokeData() {
 	echo -e "\n\t\tWARNING!!!\n\tThis WILL take a long time\n"
-	if [[ -n "$1" ]]; then
-		pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "$1" pokeInfo {} ">" "$POKEDATA"{}
-	else
-		pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j 200% pokeInfo {} ">" "$POKEDATA"{}
-	fi
+	pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "${1:-200%}" pokeInfo {} ">" "$POKEDATA/{}" 2>&1
 }
 
 if [[ ! "$1" =~ ^- ]]; then
