@@ -30,7 +30,7 @@ pokedex() {
 	--info=inline:'  󰨉 ' \
   	--color='fg+:15,fg:42,preview-fg:15,label:9,preview-label:15,hl+:134,hl:123,query:134,gutter:0,border:9,prompt:15,pointer:15,marker:15' \
 	--tiebreak=begin,chunk,length \
-	--preview="echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}" \
+	--preview="echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}; espeak-ng -f ./pokeData/{1} -g 2 -p 45 -s 160 -l 150 -ven+m3" \
 	--preview-window=68%:wrap:border-rounded \
 	--bind=focus:transform-preview-label:'echo [ {1} ] ' \
 	--bind=ctrl-h:preview:"echo; pokedex -h;" \
