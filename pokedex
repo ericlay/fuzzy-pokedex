@@ -8,7 +8,7 @@ help() {
 	echo -e "OPTIONS"
 	echo -e "\t-q, --quick [pokemon]\n\t\tPrints single pokedex entry to terminal\n\t-u, --update [N/+N/-N/N%]\n\t\tScrape web for updated Pokemon stats\n\t\tWARNING: update function is resource heavy\n\t\tSee Parallel job control (-j) for options\n\t\tDefault is 200%\n\t-h, --help\n\t\tPrint this help screen"
 	echo -e "KEYBINDS"
-	echo -e "\tctrl-n\tShows small sprite version\n\tctrl-b\tShows large sprite version\n\tctrl-s\tShows shiny sprite version\n\tctrl-h\tShows this help screen in preview window\n"
+	echo -e "\tspace\tReads the Pokedex entry\n\tctrl-space   Stops reading the Pokedex entry\n\tctrl-n\tShows small sprite version\n\tctrl-b\tShows large sprite version\n\tctrl-s\tShows shiny sprite version\n\tctrl-h\tShows this help screen in preview window\n"
 }
 
 ### Set pokeData location
