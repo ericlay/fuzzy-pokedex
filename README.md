@@ -11,10 +11,9 @@ https://github.com/rmccorm4/Pokefetch
  
 ## To-do
 
-* [ ] Rewrite arg parsing loop
-* [ ] Drop `echo`, use `printf` instead
+* [ ] Better arg parsing
 * [ ] Rewrite to use `PokeAPI` as data source
 * [ ] Refactor to allow user to choose local data source or from web
 * [ ] Get sprites from `PokeAPI` if possible
 * [ ] Work on TTS to read entries
-* [ ] Add `ripgrep` to filter on various attributes
+* [ ] Add ability to filter on various attributes
