@@ -1,0 +1,9 @@
+
+				KEYBINDS
+
+  	space        	Reads the Pokedex entry
+  	ctrl-space   	Stops reading the Pokedex entry
+  	ctrl-n       	Shows small sprite version
+  	ctrl-b       	Shows large sprite version
+  	ctrl-s       	Shows shiny sprite version
+  	ctrl-h       	Shows this help screen in preview window

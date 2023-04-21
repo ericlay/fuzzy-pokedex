@@ -24,6 +24,7 @@ pkgver(){
 package() {
 	cd "$srcdir/$pkgname"
     install -Dm666 pokeData/* -t "$pkgdir/usr/share/$pkgname/pokeData"
+    install -Dm666 keybinds-preview -t "$pkgdir/usr/share/$pkgname/"
 	install -Dm755 pokedex -t "$pkgdir/usr/bin"
 	install -Dm755 pokeInfo -t "$pkgdir/usr/bin"
 }
