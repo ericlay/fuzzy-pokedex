@@ -2,13 +2,10 @@
 
 ### Help 
 help() {
-    echo -e "\nUse fzf to search Pokemon stats\n"
-    echo -e "Can optionally search by name"
-	echo -e "EXAMPLE\n\tpokedex [pokemon name]\n"
-	echo -e "OPTIONS"
-	echo -e "\t-q, --quick [pokemon]\n\t\tPrints single pokedex entry to terminal\n\t-u, --update [N/+N/-N/N%]\n\t\tScrape web for updated Pokemon stats\n\t\tWARNING: update function is resource heavy\n\t\tSee Parallel job control (-j) for options\n\t\tDefault is 200%\n\t-h, --help\n\t\tPrint this help screen"
-	echo -e "KEYBINDS"
-	echo -e "\tspace\tReads the Pokedex entry\n\tctrl-space   Stops reading the Pokedex entry\n\tctrl-n\tShows small sprite version\n\tctrl-b\tShows large sprite version\n\tctrl-s\tShows shiny sprite version\n\tctrl-h\tShows this help screen in preview window\n"
+    printf "\n%s\n%s\n\n" "Use fzf to search Pokemon stats" "Can optionally search by name"
+	printf "%s\n\t%s\n\n%s" "EXAMPLE" "pokedex [pokemon name]"
+	printf "%s\n\t%s\n\t\t%s\n\t%s\n\t\t%s\n\t\t%s\n\t\t%s\n\t\t%s\n\t%s\n\t\t%s\n\n" "OPTIONS" "-q, --quick [pokemon]" "Prints single pokedex entry to terminal" "-u, --update [N/+N/-N/N%]" "Scrape web for updated Pokemon stats" "WARNING: update function is resource heavy" "See Parallel job control (-j) for options" "Default is 200%" "-h, --help" "Print this help screen"
+	printf "%s\n\t%s\t%s\n\t%s\t%s\n\t%s\t%s\n\t%s\t%s\n\t%s\t%s\n\t%s\t%s\n" "KEYBINDS" "space" "Reads the Pokedex entry" "ctrl-space" "Stops reading the Pokedex entry" "ctrl-n" "Shows small sprite version" "ctrl-b" "Shows large sprite version" "ctrl-s" "Shows shiny sprite version" "ctrl-h" "Shows this help screen in preview window"
 }
 
 ### Set pokeData location
@@ -34,14 +31,13 @@ pokedex() {
 	--preview-window=68%:wrap:border-rounded \
 	--bind=focus:transform-preview-label:'echo [ {1} ] ' \
 	--bind=ctrl-h:preview:"echo; pokedex -h;" \
-	--bind=space:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}; espeak-ng -f $POKEDATA/{1} -g 2 -p 45 -s 160 -l 150 -ven+m3" \
+	--bind=space:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}; espeak-ng -f $POKEDATA/{1} -g 2 -p 45 -s 160 -l 150 -ven+m3 &" \
 	--bind=ctrl-space:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1};" \
 	--bind=ctrl-b:preview:"echo; pokemon-colorscripts -b -n {1} --no-title; cat $POKEDATA/{1};" \
 	--bind=ctrl-s:preview:"echo; pokemon-colorscripts -s -n {1} --no-title; cat $POKEDATA/{1};" \
 	--bind=ctrl-n:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1};" |
 	parallel pokemon-colorscripts --no-title -n {} "&&" cat "$POKEDATA/{}" 
 }
-
 
 ### Quick view returns single Pokemon stat instead of opening pokedex 
 quick_view() {
@@ -50,28 +46,30 @@ quick_view() {
 
 ### Update Pokemon stats file set
 update_pokeData() {
-	echo -e "\n\t\tWARNING!!!\n\tThis WILL take a long time\n"
+	printf "\n\t\t%s\n\t%s\n" "WARNING!!!" "This WILL take a long time"
 	pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "${1:-200%}" pokeInfo {} ">" "$POKEDATA/{}" 2>&1
 }
 
 if [[ ! "$1" =~ ^- ]]; then
 	pokedex "$1"
 else
-	for opt in "$@"; do
-		case $opt in
+	while (( $# )); do
+    	arg=$1
+		shift
+    	case "$arg" in
 			-q|--quick)
-				quick_view "$2"
+				quick_view "$1"
 				;;
     		-u|--update)
-				update_pokeData "$2"
+				update_pokeData "$1"
 				;;
     		-h|--help)
-       			help
-       			;;       			
+    			help
+   				;;       			
     		-*) 
-       			echo "Invalid Usage"
-       			help
-       			;;
+    			echo "Invalid Usage"
+   				help
+   				;;
     	esac
 	done
 fi
