@@ -1,6 +1,6 @@
 # Maintainer: Eric Lay <ericlaytm@gmail.com>
 pkgname=fuzzy-pokedex
-pkgver=r37.342fffc
+pkgver=r38.ba9e1a3
 pkgrel=1
 pkgdesc="A Pokedex for your terminal"
 arch=('any')

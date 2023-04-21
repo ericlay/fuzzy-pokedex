@@ -57,7 +57,7 @@ quick_view() {
 
 ### Update Pokemon stats file set
 update_pokeData() {
-	printf "\n\t\t%s\n\t%s\n" "WARNING!!!" "This WILL take a long time"
+	printf "\n\t\t%s\n\t%s\n\n" "WARNING!!!" "This WILL take a long time"
 	pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "${1:-200%}" pokeInfo {} ">" "$POKEDATA/{}" 2>&1
 }
 
