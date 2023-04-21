@@ -1,6 +1,6 @@
 # Maintainer: Eric Lay <ericlaytm@gmail.com>
 pkgname=fuzzy-pokedex
-pkgver=r16.0c9b118
+pkgver=r37.342fffc
 pkgrel=1
 pkgdesc="A Pokedex for your terminal"
 arch=('any')
@@ -24,7 +24,7 @@ pkgver(){
 package() {
 	cd "$srcdir/$pkgname"
     install -Dm666 pokeData/* -t "$pkgdir/usr/share/$pkgname/pokeData"
-    install -Dm666 keybinds-preview -t "$pkgdir/usr/share/$pkgname/"
+    install -Dm666 keybindings-preview -t "$pkgdir/usr/share/$pkgname/"
 	install -Dm755 pokedex -t "$pkgdir/usr/bin"
 	install -Dm755 pokeInfo -t "$pkgdir/usr/bin"
 }
