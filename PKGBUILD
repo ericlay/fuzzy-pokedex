@@ -9,6 +9,7 @@ license=('GPL3')
 depends=('python-beautifulsoup4'
     'fzf'
     'parallel'
+    'jq'
     'espeak-ng'
     'pokemon-colorscripts-git'
     'ttf-font-nerd')
