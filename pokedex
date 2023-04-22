@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ### Overhad preparation
-KBINDS="/usr/share/fuzzy-pokedex/keybindings-preview"
-POKEDATA="./pokeData"
+KBINDS="/usr/share/fuzzy-pokedex-dev/keybindings-preview"
+POKEDATA="/usr/share/fuzzy-pokedex-dev/pokeData"
 
 ### Help 
 help() {
