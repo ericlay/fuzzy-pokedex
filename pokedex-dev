@@ -62,7 +62,7 @@ quick_view() {
 ### Update Pokemon stats file set
 update_pokeData() {
 	printf "\n\t\t%s\n\t%s\n\n" "WARNING!!!" "This WILL take a long time"
-	./jqPokeTest
+	pokeUpdate
 }
 
 if ! (( $# )); then
