@@ -1,5 +1,7 @@
 #!/bin/bash
 
+DATADIR="/usr/share/fuzzy-pokedex-dev"
+
 declare -i WC
 WC=$(pokemon-colorscripts -l | wc | awk '{print $1}' )
 
@@ -7,7 +9,7 @@ declare -i COUNT
 COUNT="$WC"
 
 for POKEMON in $(pokemon-colorscripts -l); do
-	./jqPoke "$POKEMON" > "./pokeData/$POKEMON"
+	pokeParse "$POKEMON" > "$DATADIR/$POKEMON"
 	((COUNT--))
 	PCTLEFT="$((COUNT*100/WC))"
 	PCTDONE="$((100-PCTLEFT))"

@@ -1,8 +1,0 @@
-#!/bin/bash
-
-block() {
-	./jqPoke "$1" > "./pokeData/$1"
-}
-
-export -f block
-pokemon-colorscripts -l | sort | parallel --bar -j 200 block
