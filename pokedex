@@ -34,19 +34,19 @@ pokedex() {
 	--border-label="╢ Fuzzy-Pokedex ╟" \
 	--margin=4% \
 	--padding=4% \
-	--header="Choose Pokemon to view info" \
+	--header="$(echo -e 'Choose a Pokemon to view info \n  ctrl+h to for help')" \
 	--info=inline:'  󰨉 ' \
   	--color='fg+:15,fg:42,preview-fg:15,label:9,preview-label:15,hl+:134,hl:123,query:134,gutter:0,border:9,prompt:15,pointer:15,marker:15' \
 	--tiebreak=begin,chunk,length \
-	--preview="echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}" \
+	--preview="printf '\n\t\t\t\t\t%s\n\t\t\t\t\t   %s\n' 'Press space to hear entry' 'ctrl+space to stop'; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA{1}" \
 	--preview-window=68%:wrap:border-rounded \
 	--bind=focus:transform-preview-label:'echo [ {1} ] ' \
 	--bind=ctrl-h:preview:"cat $KBINDS" \
-	--bind=space:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}; espeak-ng -f $POKEDATA/{1} -g 2 -p 45 -s 160 -l 150 -ven+m3 &" \
+	--bind=space:preview:"printf '\n\t\t\t\t\t%s\n\t\t\t\t\t   %s\n' 'Press space to hear entry' 'ctrl+space to stop'; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}; espeak-ng -f $POKEDATA/{1} -g 4 -p 50 -s 145 -l 250 -ven+m3 &" \
 	--bind=ctrl-space:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1};" \
 	--bind=ctrl-b:preview:"echo; pokemon-colorscripts -b -n {1} --no-title; cat $POKEDATA/{1};" \
 	--bind=ctrl-s:preview:"echo; pokemon-colorscripts -s -n {1} --no-title; cat $POKEDATA/{1};" \
-	--bind=ctrl-n:preview:"echo; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1};" |
+	--bind=ctrl-n:preview:"printf '\n\t\t\t\t\t%s\n\t\t\t\t\t   %s\n' 'Press space to hear entry' 'ctrl+space to stop'; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1};" |
 	parallel pokemon-colorscripts --no-title -n {} "&&" cat "$POKEDATA/{}" 
 }
 
@@ -58,7 +58,7 @@ quick_view() {
 ### Update Pokemon stats file set
 update_pokeData() {
 	printf "\n\t\t%s\n\t%s\n\n" "WARNING!!!" "This WILL take a long time"
-	pokemon-colorscripts -l | sort | parallel --bar --color --retry-failed -j "${1:-200%}" pokeInfo {} ">" "$POKEDATA/{}" 2>&1
+	pokemon-colorscripts -l | sort | parallel --progress --bar --color --retry-failed -j "${1:-200%}" pokeInfo {} ">" "$POKEDATA/{}" 2>&1
 }
 
 ### Arg parsing loop
