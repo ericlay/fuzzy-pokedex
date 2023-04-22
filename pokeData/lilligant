@@ -1,15 +1,25 @@
+lilligant	A grass type Pokémon
 
-Name:  Lilligant
-Pokedex Number:  549
-Gender Ratio:   ♂:0% ♀:100%
-Abilities: Chlorophyll - Own Tempo - Leaf Guard (Hidden Ability)
+머리에 있는 꽃 장식의 향기에는
+긴장을 풀어 주는 효과가 있다.
+자주 손질하지 않으면 시들어 버린다.
 
-Base Stats
-----------------------
-Total: 480
-Hp:  70
-Attack:  60
-Defence:  75
-Special Attack:  110
-Special Defence:  75
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         60
+        defense:         75
+ special-attack:        110
+special-defense:         75
+          speed:         90
+
+Pokedex ID: 549	Capture Rate: 75
+Base Exp: 168	Happiness: 50
+Height: 11	Weight: 163
+
+Genus: Flowering Pokémon
+Location Areas:
+pinwheel-forest-inside
+abundant-shrine-area
+lostlorn-forest-area
+castelia-city-area
+unova-victory-road-2-unknown-area-72

@@ -1,15 +1,21 @@
+mareanie	A poison type Pokémon
 
-Name:  Mareanie
-Pokedex Number:  747
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Merciless - Limber - Regenerator (Hidden Ability)
+It plunges the poison spike on its head into its
+prey. When the prey has weakened, Mareanie
+deals the finishing blow with its 10 tentacles.
 
-Base Stats
-----------------------
-Total: 305
-Hp:  50
-Attack:  53
-Defence:  62
-Special Attack:  43
-Special Defence:  52
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         53
+        defense:         62
+ special-attack:         43
+special-defense:         52
+          speed:         45
+
+Pokedex ID: 747	Capture Rate: 190
+Base Exp: 61	Happiness: 50
+Height: 4	Weight: 80
+
+Genus: Brutal Star Pokémon
+Location Areas:
+

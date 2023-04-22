@@ -1,15 +1,21 @@
+ninjask	A bug type Pokémon
 
-Name:  Ninjask
-Pokedex Number:  291
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Speed Boost - Infiltrator (Hidden Ability)
+Because it moves so quickly, it
+sometimes becomes unseeable. It
+congregates around tree sap.
 
-Base Stats
-----------------------
-Total: 456
-Hp:  61
-Attack:  90
-Defence:  45
-Special Attack:  50
-Special Defence:  50
-Speed:  160
+   ↞--------| STATS |--------↠ 
+             hp:         61
+         attack:         90
+        defense:         45
+ special-attack:         50
+special-defense:         50
+          speed:        160
+
+Pokedex ID: 291	Capture Rate: 120
+Base Exp: 160	Happiness: 50
+Height: 8	Weight: 120
+
+Genus: Ninja Pokémon
+Location Areas:
+

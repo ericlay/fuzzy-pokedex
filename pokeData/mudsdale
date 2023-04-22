@@ -1,15 +1,21 @@
+mudsdale	A ground type Pokémon
 
-Name:  Mudsdale
-Pokedex Number:  750
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Own Tempo - Stamina - Inner Focus (Hidden Ability)
+Una volta essiccato, il fango che produce
+dalla bocca resiste alla pioggia e al vento, tanto
+che un tempo vi si rivestivano i muri delle case.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  100
-Attack:  125
-Defence:  100
-Special Attack:  55
-Special Defence:  85
-Speed:  35
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        125
+        defense:        100
+ special-attack:         55
+special-defense:         85
+          speed:         35
+
+Pokedex ID: 750	Capture Rate: 60
+Base Exp: 175	Happiness: 50
+Height: 25	Weight: 9200
+
+Genus: Draft Horse Pokémon
+Location Areas:
+

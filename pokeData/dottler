@@ -1,15 +1,21 @@
+dottler	A bug type Pokémon
 
-Name:  Dottler
-Pokedex Number:  825
-Gender Ratio:   ♂:50.2% ♀:49.8% 
-Abilities: Swarm - Compoundeyes - Telepathy (Hidden Ability)
+It barely moves, but it’s still alive. Hiding in its
+shell without food or water seems to have
+awakened its psychic powers.
 
-Base Stats
-----------------------
-Total: 335
-Hp:  50
-Attack:  35
-Defence:  80
-Special Attack:  50
-Special Defence:  90
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         35
+        defense:         80
+ special-attack:         50
+special-defense:         90
+          speed:         30
+
+Pokedex ID: 825	Capture Rate: 120
+Base Exp: 117	Happiness: 50
+Height: 4	Weight: 195
+
+Genus: Radome Pokémon
+Location Areas:
+

@@ -1,15 +1,24 @@
+electrike	A electric type Pokémon
 
-Name:  Electrike
-Pokedex Number:  309
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Static - Lightningrod - Minus (Hidden Ability)
+Using electricity stored in its fur,
+it stimulates its muscles to
+heighten its reaction speed.
 
-Base Stats
-----------------------
-Total: 295
-Hp:  40
-Attack:  45
-Defence:  40
-Special Attack:  65
-Special Defence:  40
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         45
+        defense:         40
+ special-attack:         65
+special-defense:         40
+          speed:         65
+
+Pokedex ID: 309	Capture Rate: 120
+Base Exp: 59	Happiness: 50
+Height: 6	Weight: 152
+
+Genus: Lightning Pokémon
+Location Areas:
+valley-windworks-area
+hoenn-route-110-area
+hoenn-route-118-area
+kalos-route-10-area

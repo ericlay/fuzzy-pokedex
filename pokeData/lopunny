@@ -1,15 +1,21 @@
+lopunny	A normal type Pokémon
 
-Name:  Lopunny
-Pokedex Number:  428
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Cute Charm - Klutz - Limber (Hidden Ability)
+Il est capable de décocher de
+puissants coups de pied si on
+touche à ses délicates oreilles.
 
-Base Stats
-----------------------
-Total: 480
-Hp:  65
-Attack:  136
-Defence:  94
-Special Attack:  54
-Special Defence:  96
-Speed:  135
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         76
+        defense:         84
+ special-attack:         54
+special-defense:         96
+          speed:        105
+
+Pokedex ID: 428	Capture Rate: 60
+Base Exp: 168	Happiness: 140
+Height: 12	Weight: 333
+
+Genus: Rabbit Pokémon
+Location Areas:
+castelia-city-area

@@ -1,15 +1,24 @@
+vanillish	A ice type Pokémon
 
-Name:  Vanillish
-Pokedex Number:  583
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Ice Body - Weak Armor (Hidden Ability)
+주변 공기를 차갑게 해서
+얼음 알갱이를 발생시켜서
+상대의 몸을 얼려버린다.
 
-Base Stats
-----------------------
-Total: 395
-Hp:  51
-Attack:  65
-Defence:  65
-Special Attack:  80
-Special Defence:  75
-Speed:  59
+   ↞--------| STATS |--------↠ 
+             hp:         51
+         attack:         65
+        defense:         65
+ special-attack:         80
+special-defense:         75
+          speed:         59
+
+Pokedex ID: 583	Capture Rate: 120
+Base Exp: 138	Happiness: 50
+Height: 11	Weight: 410
+
+Genus: Icy Snow Pokémon
+Location Areas:
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+giant-chasm-outside
+giant-chasm-area

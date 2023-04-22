@@ -1,15 +1,26 @@
+vullaby	A dark type Pokémon
 
-Name:  Vullaby
-Pokedex Number:  629
-Gender Ratio:   ♂:0% ♀:100% 
-Abilities: Big Pecks - Overcoat - Weak Armor (Hidden Ability)
+つばさが　ちいさいため　とべない。
+しんかの　ときが　ちかづくと
+じぶんから　ガイコツを　ぬぎすてる。
 
-Base Stats
-----------------------
-Total: 370
-Hp:  70
-Attack:  55
-Defence:  75
-Special Attack:  45
-Special Defence:  65
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         55
+        defense:         75
+ special-attack:         45
+special-defense:         65
+          speed:         60
+
+Pokedex ID: 629	Capture Rate: 190
+Base Exp: 74	Happiness: 35
+Height: 5	Weight: 90
+
+Genus: Diapered Pokémon
+Location Areas:
+unova-victory-road-outside
+village-bridge-area
+unova-route-10-area
+unova-route-10-victory-road-gate
+unova-route-11-area
+unova-route-23-area

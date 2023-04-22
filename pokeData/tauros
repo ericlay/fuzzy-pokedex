@@ -1,15 +1,31 @@
+tauros	A normal type Pokémon
 
-Name:  Tauros
-Pokedex Number:  128
-Gender Ratio:   ♂:100% ♀:0%
-Abilities: Intimidate - Anger Point - Sheer Force (Hidden Ability)
+This POKéMON is not satisfied unless
+it is rampaging at all times.
+If there is no opponent for TAUROS tobattle, it will charge at thick trees and
+knock them down to calm itself.
 
-Base Stats
-----------------------
-Total: 490
-Hp:  75
-Attack:  100
-Defence:  95
-Special Attack:  40
-Special Defence:  70
-Speed:  110
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:        100
+        defense:         95
+ special-attack:         40
+special-defense:         70
+          speed:        110
+
+Pokedex ID: 128	Capture Rate: 45
+Base Exp: 172	Happiness: 50
+Height: 14	Weight: 884
+
+Genus: Wild Bull Pokémon
+Location Areas:
+sinnoh-route-209-area
+sinnoh-route-210-south-towards-solaceon-town
+johto-route-38-area
+johto-route-39-area
+johto-route-48-area
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+kalos-route-12-area
+johto-safari-zone-zone-savannah

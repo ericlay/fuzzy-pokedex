@@ -1,15 +1,38 @@
+abra	A psychic type Pokémon
 
-Name:  Abra
-Pokedex Number:  063
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Synchronize - Inner Focus - Magic Guard (Hidden Ability)
+ABRA needs to sleep for eighteen hours
+a day. If it doesn’t, this POKéMON loses
+its ability to use telekinetic powers.If it is attacked, ABRA escapes using
+TELEPORT while it is still sleeping.
 
-Base Stats
-----------------------
-Total: 310
-Hp:  25
-Attack:  20
-Defence:  15
-Special Attack:  105
-Special Defence:  55
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         25
+         attack:         20
+        defense:         15
+ special-attack:        105
+special-defense:         55
+          speed:         90
+
+Pokedex ID: 63	Capture Rate: 200
+Base Exp: 62	Happiness: 50
+Height: 9	Weight: 195
+
+Genus: Psi Pokémon
+Location Areas:
+sinnoh-route-203-area
+sinnoh-route-215-area
+johto-route-34-area
+johto-route-35-area
+kanto-route-5-area
+kanto-route-6-area
+kanto-route-7-area
+kanto-route-8-area
+kanto-route-24-area
+kanto-route-25-area
+granite-cave-1f
+granite-cave-b1f
+granite-cave-b2f
+granite-cave-1fsmall-room
+hoenn-route-116-area
+kalos-route-5-area
+johto-safari-zone-zone-plains

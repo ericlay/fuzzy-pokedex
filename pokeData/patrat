@@ -1,15 +1,29 @@
+patrat	A normal type Pokémon
 
-Name:  Patrat
-Pokedex Number:  504
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Run Away - Keen Eye - Analytic (Hidden Ability)
+볼의 주머니에 먹이를 모아두고
+며칠이고 망보기를 계속한다.
+꼬리로 동료에게 신호한다.
 
-Base Stats
-----------------------
-Total: 255
-Hp:  45
-Attack:  55
-Defence:  39
-Special Attack:  35
-Special Defence:  39
-Speed:  42
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         55
+        defense:         39
+ special-attack:         35
+special-defense:         39
+          speed:         42
+
+Pokedex ID: 504	Capture Rate: 255
+Base Exp: 51	Happiness: 70
+Height: 5	Weight: 116
+
+Genus: Scout Pokémon
+Location Areas:
+dreamyard-area
+unova-route-1-area
+unova-route-2-area
+unova-route-3-area
+floccesy-ranch-inner
+virbank-complex-outer
+virbank-complex-inner
+unova-route-19-area
+unova-route-20-area

@@ -1,15 +1,34 @@
+teddiursa	A normal type Pokémon
 
-Name:  Teddiursa
-Pokedex Number:  216
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Pickup - Quick Feet - Honey Gather (Hidden Ability)
+If it finds honey, its crescent mark glows.
+It always licks its paws because they are
+soaked with honey.
 
-Base Stats
-----------------------
-Total: 330
-Hp:  60
-Attack:  80
-Defence:  50
-Special Attack:  50
-Special Defence:  50
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         80
+        defense:         50
+ special-attack:         50
+special-defense:         50
+          speed:         40
+
+Pokedex ID: 216	Capture Rate: 120
+Base Exp: 66	Happiness: 70
+Height: 6	Weight: 88
+
+Genus: Little Bear Pokémon
+Location Areas:
+lake-acuity-area
+acuity-lakefront-area
+sinnoh-route-211-west-towards-eterna-city
+sinnoh-route-211-east-towards-celestic-town
+johto-route-45-area
+dark-cave-violet-city-entrance
+dark-cave-blackthorn-city-entrance
+mt-silver-1f-top
+mt-silver-1f
+mt-silver-mountainside
+mt-silver-3f
+hoenn-safari-zone-expansion-north
+hoenn-altering-cave-e
+kanto-altering-cave-e

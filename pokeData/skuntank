@@ -1,15 +1,22 @@
+skuntank	A poison type Pokémon
 
-Name:  Skuntank
-Pokedex Number:  435
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Stench - Aftermath - Keen Eye (Hidden Ability)
+Il attaque en projetant un liquide
+fétide du bout de sa queue. Mieux
+vaut l’attaquer par les airs.
 
-Base Stats
-----------------------
-Total: 479
-Hp:  103
-Attack:  93
-Defence:  67
-Special Attack:  71
-Special Defence:  61
-Speed:  84
+   ↞--------| STATS |--------↠ 
+             hp:        103
+         attack:         93
+        defense:         67
+ special-attack:         71
+special-defense:         61
+          speed:         84
+
+Pokedex ID: 435	Capture Rate: 60
+Base Exp: 168	Happiness: 50
+Height: 10	Weight: 380
+
+Genus: Skunk Pokémon
+Location Areas:
+sinnoh-route-221-area
+sinnoh-route-225-area

@@ -1,15 +1,24 @@
+pansage	A grass type Pokémon
 
-Name:  Pansage
-Pokedex Number:  511
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Gluttony - Overgrow (Hidden Ability)
+기운이 없는 포켓몬에게
+머리의 잎사귀를 나눠준다.
+피로를 풀어주는 효과가 있다.
 
-Base Stats
-----------------------
-Total: 316
-Hp:  50
-Attack:  53
-Defence:  48
-Special Attack:  53
-Special Defence:  48
-Speed:  64
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         53
+        defense:         48
+ special-attack:         53
+special-defense:         48
+          speed:         64
+
+Pokedex ID: 511	Capture Rate: 190
+Base Exp: 63	Happiness: 70
+Height: 6	Weight: 105
+
+Genus: Grass Monkey Pokémon
+Location Areas:
+dreamyard-area
+pinwheel-forest-inside
+lostlorn-forest-area
+santalune-forest-area

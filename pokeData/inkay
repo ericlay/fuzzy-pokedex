@@ -1,15 +1,22 @@
+inkay	A dark type Pokémon
 
-Name:  Inkay
-Pokedex Number:  686
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Contrary - Suction Cups - Infiltrator (Hidden Ability)
+発光体の　点滅を　見つめた　相手は
+目が　くらみ　戦う　気持ちが
+なくなってしまうのだ。
 
-Base Stats
-----------------------
-Total: 288
-Hp:  53
-Attack:  54
-Defence:  53
-Special Attack:  37
-Special Defence:  46
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         53
+         attack:         54
+        defense:         53
+ special-attack:         37
+special-defense:         46
+          speed:         45
+
+Pokedex ID: 686	Capture Rate: 190
+Base Exp: 58	Happiness: 50
+Height: 4	Weight: 35
+
+Genus: Revolving Pokémon
+Location Areas:
+kalos-route-8-area
+azure-bay-area

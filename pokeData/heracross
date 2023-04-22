@@ -1,15 +1,36 @@
+heracross	A bug type Pokémon
 
-Name:  Heracross
-Pokedex Number:  214
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swarm - Guts - Moxie (Hidden Ability)
+Usually docile, but if disturbed while
+sipping honey, it chases off the intruder
+with its horn.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  80
-Attack:  185
-Defence:  115
-Special Attack:  40
-Special Defence:  105
-Speed:  75
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        125
+        defense:         75
+ special-attack:         40
+special-defense:         95
+          speed:         85
+
+Pokedex ID: 214	Capture Rate: 45
+Base Exp: 175	Happiness: 50
+Height: 15	Weight: 540
+
+Genus: Single Horn Pokémon
+Location Areas:
+johto-route-29-area
+johto-route-30-area
+johto-route-31-area
+johto-route-32-area
+johto-route-33-area
+johto-route-42-area
+johto-route-43-area
+johto-route-44-area
+johto-route-45-area
+johto-route-46-area
+hoenn-safari-zone-neacro-bike-area
+pattern-bush-area
+unova-route-12-area
+lostlorn-forest-area
+kalos-route-12-area
+azalea-town-area

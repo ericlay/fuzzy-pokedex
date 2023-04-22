@@ -1,15 +1,21 @@
+decidueye	A grass type Pokémon
 
-Name:  Decidueye
-Pokedex Number:  724
-Gender Ratio:  
-Abilities: Overgrow - Long Reach (Hidden) (Normal Forme) - Overgrow- Scrappy (Hidden)  (Hisuian Form
+It fires arrow quills from its wings with such
+precision, they can pierce a pebble at distances
+over a hundred yards.
 
-Base Stats
-----------------------
-Total: 530
-Hp:  88
-Attack:  112
-Defence:  80
-Special Attack:  95
-Special Defence:  95
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         78
+         attack:        107
+        defense:         75
+ special-attack:        100
+special-defense:        100
+          speed:         70
+
+Pokedex ID: 724	Capture Rate: 45
+Base Exp: 265	Happiness: 50
+Height: 16	Weight: 366
+
+Genus: Arrow Quill Pokémon
+Location Areas:
+

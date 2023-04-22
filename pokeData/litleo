@@ -1,15 +1,21 @@
+litleo	A fire type Pokémon
 
-Name:  Litleo
-Pokedex Number:  667
-Gender Ratio:   ♂:25% ♀:75% 
-Abilities: Rivalry - Unnerve - Moxie (Hidden Ability)
+強い　相手に　立ち向かうときほど
+たてがみが　高温になり
+全身に　力が　みなぎるのだ。
 
-Base Stats
-----------------------
-Total: 369
-Hp:  62
-Attack:  50
-Defence:  58
-Special Attack:  73
-Special Defence:  54
-Speed:  72
+   ↞--------| STATS |--------↠ 
+             hp:         62
+         attack:         50
+        defense:         58
+ special-attack:         73
+special-defense:         54
+          speed:         72
+
+Pokedex ID: 667	Capture Rate: 220
+Base Exp: 74	Happiness: 70
+Height: 6	Weight: 135
+
+Genus: Lion Cub Pokémon
+Location Areas:
+kalos-route-22-area

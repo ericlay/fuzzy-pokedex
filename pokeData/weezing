@@ -1,15 +1,33 @@
+weezing	A poison type Pokémon
 
-Name:  Weezing
-Pokedex Number:  110
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Levitate
+WEEZING alternately shrinks and
+inflates its twin bodies to mix together
+toxic gases inside.The more the gases are mixed, the more
+powerful the toxins become. The
+POKéMON also becomes more putrid.
 
-Base Stats
-----------------------
-Total: 490
-Hp:  65
-Attack:  90
-Defence:  120
-Special Attack:  85
-Special Defence:  70
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         90
+        defense:        120
+ special-attack:         85
+special-defense:         70
+          speed:         60
+
+Pokedex ID: 110	Capture Rate: 60
+Base Exp: 172	Happiness: 50
+Height: 12	Weight: 95
+
+Genus: Poison Gas Pokémon
+Location Areas:
+stark-mountain-area
+stark-mountain-entrance
+stark-mountain-inside
+sinnoh-route-227-area
+burned-tower-b1f
+pokemon-mansion-1f
+pokemon-mansion-2f
+pokemon-mansion-3f
+pokemon-mansion-b1f
+p2-laboratory-area
+johto-safari-zone-zone-marshland

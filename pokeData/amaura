@@ -1,15 +1,21 @@
+amaura	A rock type Pokémon
 
-Name:  Amaura
-Pokedex Number:  698
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Refrigerate - Snow Warning (Hidden Ability)
+１億年前から　氷漬けに　なっていた
+体の　一部から　復活した
+古代の　ポケモン。
 
-Base Stats
-----------------------
-Total: 362
-Hp:  77
-Attack:  59
-Defence:  50
-Special Attack:  67
-Special Defence:  63
-Speed:  46
+   ↞--------| STATS |--------↠ 
+             hp:         77
+         attack:         59
+        defense:         50
+ special-attack:         67
+special-defense:         63
+          speed:         46
+
+Pokedex ID: 698	Capture Rate: 45
+Base Exp: 72	Happiness: 50
+Height: 13	Weight: 252
+
+Genus: Tundra Pokémon
+Location Areas:
+glittering-cave-unknown-area-303

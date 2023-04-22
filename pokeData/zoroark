@@ -1,15 +1,22 @@
+zoroark	A dark type Pokémon
 
-Name:  Zoroark
-Pokedex Number:  571
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Illusion
+한 번에 많은 사람을
+속이는 힘을 가졌다. 환영의
+경치를 보여줘 거처를 지킨다.
 
-Base Stats
-----------------------
-Total: 510
-Hp:  60
-Attack:  105
-Defence:  60
-Special Attack:  120
-Special Defence:  60
-Speed:  105
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:        105
+        defense:         60
+ special-attack:        120
+special-defense:         60
+          speed:        105
+
+Pokedex ID: 571	Capture Rate: 45
+Base Exp: 179	Happiness: 50
+Height: 16	Weight: 811
+
+Genus: Illusion Fox Pokémon
+Location Areas:
+kalos-route-20-area
+pokemon-village-area

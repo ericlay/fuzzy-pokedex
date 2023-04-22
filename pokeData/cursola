@@ -1,15 +1,21 @@
+cursola	A ghost type Pokémon
 
-Name:  Cursola
-Pokedex Number:  864
-Gender Ratio:   ♂:24.9% ♀:75.1%
-Abilities: Weak Armor - Perish Body (Hidden Ability)
+Its shell is overflowing with its heightened
+otherworldly energy. The ectoplasm serves as
+protection for this Pokémon’s core spirit.
 
-Base Stats
-----------------------
-Total: 510
-Hp:  60
-Attack:  95
-Defence:  50
-Special Attack:  145
-Special Defence:  130
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         95
+        defense:         50
+ special-attack:        145
+special-defense:        130
+          speed:         30
+
+Pokedex ID: 864	Capture Rate: 30
+Base Exp: 179	Happiness: 50
+Height: 10	Weight: 4
+
+Genus: Coral Pokémon
+Location Areas:
+

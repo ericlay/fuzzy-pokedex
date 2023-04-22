@@ -1,15 +1,21 @@
+reshiram	A dragon type Pokémon
 
-Name:  Reshiram
-Pokedex Number:  643
-Gender Ratio:  Genderless
-Abilities: Turboblaze
+불꽃으로 세상을 태워버릴 수 있는
+전설의 포켓몬. 진실의 세계를
+구축하는 사람을 도와준다.
 
-Base Stats
-----------------------
-Total: 680
-Hp:  100
-Attack:  120
-Defence:  100
-Special Attack:  150
-Special Defence:  120
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        120
+        defense:        100
+ special-attack:        150
+special-defense:        120
+          speed:         90
+
+Pokedex ID: 643	Capture Rate: 3
+Base Exp: 340	Happiness: 0
+Height: 32	Weight: 3300
+
+Genus: Vast White Pokémon
+Location Areas:
+

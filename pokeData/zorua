@@ -1,15 +1,22 @@
+zorua	A dark type Pokémon
 
-Name:  Zorua
-Pokedex Number:  570
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Illusion
+상대와 똑 닮게 둔갑한 것처럼
+보이게 하여 속이거나 놀라게 해서
+그 틈에 도망가는 일이 많다.
 
-Base Stats
-----------------------
-Total: 330
-Hp:  40
-Attack:  65
-Defence:  40
-Special Attack:  80
-Special Defence:  40
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         65
+        defense:         40
+ special-attack:         80
+special-defense:         40
+          speed:         65
+
+Pokedex ID: 570	Capture Rate: 75
+Base Exp: 66	Happiness: 50
+Height: 7	Weight: 125
+
+Genus: Tricky Fox Pokémon
+Location Areas:
+driftveil-city-area
+castelia-city-game-freak-hq-1f

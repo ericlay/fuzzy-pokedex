@@ -1,15 +1,21 @@
+regice	A ice type Pokémon
 
-Name:  Regice
-Pokedex Number:  378
-Gender Ratio:  Genderless
-Abilities: Clear Body - Ice Body (Hidden Ability)
+Its body is made of ice from the
+ice age. It controls frigid air of
+-328 degrees Fahrenheit.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  80
-Attack:  50
-Defence:  100
-Special Attack:  100
-Special Defence:  200
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:         50
+        defense:        100
+ special-attack:        100
+special-defense:        200
+          speed:         50
+
+Pokedex ID: 378	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 18	Weight: 1750
+
+Genus: Iceberg Pokémon
+Location Areas:
+island-cave-area

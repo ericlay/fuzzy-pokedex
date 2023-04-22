@@ -1,15 +1,21 @@
+sinistea	A ghost type Pokémon
 
-Name:  Sinistea
-Pokedex Number:  854
-Gender Ratio:  Genderless
-Abilities: Weak Armor - Cursed Body (Hidden Ability)
+This Pokémon is said to have been born when
+a lonely spirit possessed a cold, leftover cup
+of tea.
 
-Base Stats
-----------------------
-Total: 308
-Hp:  40
-Attack:  45
-Defence:  45
-Special Attack:  74
-Special Defence:  54
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         45
+        defense:         45
+ special-attack:         74
+special-defense:         54
+          speed:         50
+
+Pokedex ID: 854	Capture Rate: 120
+Base Exp: 62	Happiness: 50
+Height: 1	Weight: 2
+
+Genus: Black Tea Pokémon
+Location Areas:
+

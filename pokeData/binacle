@@ -1,15 +1,25 @@
+binacle	A rock type Pokémon
 
-Name:  Binacle
-Pokedex Number:  688
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Tough Claws - Sniper - Pickpocket (Hidden Ability)
+２匹の　カメテテが　ひとつの　岩で
+暮らす。ケンカすると　どちらかが
+他の　岩に　移る。
 
-Base Stats
-----------------------
-Total: 306
-Hp:  42
-Attack:  52
-Defence:  67
-Special Attack:  39
-Special Defence:  56
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         42
+         attack:         52
+        defense:         67
+ special-attack:         39
+special-defense:         56
+          speed:         50
+
+Pokedex ID: 688	Capture Rate: 120
+Base Exp: 61	Happiness: 50
+Height: 5	Weight: 310
+
+Genus: Two-Handed Pokémon
+Location Areas:
+ambrette-town-area
+cyllage-city-area
+kalos-route-8-area
+kalos-route-12-area
+azure-bay-area

@@ -1,15 +1,25 @@
+torkoal	A fire type Pokémon
 
-Name:  Torkoal
-Pokedex Number:  324
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: White Smoke - Shell Armor (Hidden Ability)
+It burns coal inside its shell for
+energy. It blows out black soot if
+it is endangered.
 
-Base Stats
-----------------------
-Total: 470
-Hp:  70
-Attack:  85
-Defence:  140
-Special Attack:  85
-Special Defence:  70
-Speed:  20
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         85
+        defense:        140
+ special-attack:         85
+special-defense:         70
+          speed:         20
+
+Pokedex ID: 324	Capture Rate: 90
+Base Exp: 165	Happiness: 50
+Height: 5	Weight: 804
+
+Genus: Coal Pokémon
+Location Areas:
+stark-mountain-area
+sinnoh-route-227-area
+fiery-path-area
+magma-hideout-area
+kalos-route-18-area

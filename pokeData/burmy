@@ -1,15 +1,21 @@
+burmy	A bug type Pokémon
 
-Name:  Burmy
-Pokedex Number:  412
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shed Skin - Overcoat (Hidden Ability)
+Nul ne sait comment il y parvient,
+mais il arrive toujours à se former
+une cape, où qu’il soit.
 
-Base Stats
-----------------------
-Total: 224
-Hp:  40
-Attack:  29
-Defence:  45
-Special Attack:  29
-Special Defence:  45
-Speed:  36
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         29
+        defense:         45
+ special-attack:         29
+special-defense:         45
+          speed:         36
+
+Pokedex ID: 412	Capture Rate: 120
+Base Exp: 45	Happiness: 70
+Height: 2	Weight: 34
+
+Genus: Bagworm Pokémon
+Location Areas:
+kalos-route-3-area

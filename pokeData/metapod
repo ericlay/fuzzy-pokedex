@@ -1,15 +1,45 @@
+metapod	A bug type Pokémon
 
-Name:  Metapod
-Pokedex Number:  011
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shed Skin
+The shell covering this POKéMON’s body
+is as hard as an iron slab.
+METAPOD does not move very much.It stays still because it is preparing
+its soft innards for evolution inside
+the hard shell.
 
-Base Stats
-----------------------
-Total: 205
-Hp:  50
-Attack:  20
-Defence:  55
-Special Attack:  25
-Special Defence:  25
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         20
+        defense:         55
+ special-attack:         25
+special-defense:         25
+          speed:         30
+
+Pokedex ID: 11	Capture Rate: 120
+Base Exp: 72	Happiness: 50
+Height: 7	Weight: 99
+
+Genus: Cocoon Pokémon
+Location Areas:
+eterna-forest-area
+johto-route-30-area
+johto-route-31-area
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+national-park-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+lake-of-rage-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-24-area
+kanto-route-25-area
+kanto-route-2-north-towards-pewter-city
+viridian-forest-area
+pattern-bush-area
+unova-route-12-area
+santalune-forest-area
+azalea-town-area

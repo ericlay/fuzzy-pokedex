@@ -1,15 +1,27 @@
+stoutland	A normal type Pokémon
 
-Name:  Stoutland
-Pokedex Number:  508
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Intimidate - Sand Rush - Scrappy (Hidden Ability)
+눈보라로 길이 막힌 산에 들어가
+조난된 사람을 구해준다.
+긴 털이 추위를 막는다.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  85
-Attack:  110
-Defence:  90
-Special Attack:  45
-Special Defence:  90
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:        110
+        defense:         90
+ special-attack:         45
+special-defense:         90
+          speed:         80
+
+Pokedex ID: 508	Capture Rate: 45
+Base Exp: 250	Happiness: 50
+Height: 12	Weight: 610
+
+Genus: Big-Hearted Pokémon
+Location Areas:
+cold-storage-area
+p2-laboratory-area
+unova-route-1-area
+unova-route-2-area
+unova-route-3-area
+unova-route-10-area
+unova-route-10-victory-road-gate

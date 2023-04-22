@@ -1,15 +1,21 @@
+salamence	A dragon type Pokémon
 
-Name:  Salamence
-Pokedex Number:  373
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Intimidate - Moxie (Hidden Ability)
+As a result of its long-held dream
+of flying, its cellular structure
+changed, and wings grew out.
 
-Base Stats
-----------------------
-Total: 600
-Hp:  95
-Attack:  145
-Defence:  130
-Special Attack:  120
-Special Defence:  90
-Speed:  120
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:        135
+        defense:         80
+ special-attack:        110
+special-defense:         80
+          speed:        100
+
+Pokedex ID: 373	Capture Rate: 45
+Base Exp: 300	Happiness: 35
+Height: 15	Weight: 1026
+
+Genus: Dragon Pokémon
+Location Areas:
+

@@ -1,15 +1,21 @@
+pangoro	A fighting type Pokémon
 
-Name:  Pangoro
-Pokedex Number:  675
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Iron Fist - Mold Breaker - Scrappy (Hidden Ability)
+気性が　荒く　ケンカっ早いが
+弱いものいじめは　許さない。
+葉っぱで　敵の　動きを　読む。
 
-Base Stats
-----------------------
-Total: 495
-Hp:  95
-Attack:  124
-Defence:  78
-Special Attack:  69
-Special Defence:  71
-Speed:  58
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:        124
+        defense:         78
+ special-attack:         69
+special-defense:         71
+          speed:         58
+
+Pokedex ID: 675	Capture Rate: 65
+Base Exp: 173	Happiness: 50
+Height: 21	Weight: 1360
+
+Genus: Daunting Pokémon
+Location Areas:
+

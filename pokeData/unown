@@ -1,15 +1,49 @@
+unown	A psychic type Pokémon
 
-Name:  Unown
-Pokedex Number:  201
-Gender Ratio:  Genderless
-Abilities: Levitate
+Their shapes look like hieroglyphs on
+ancient tablets. It is said that the two
+are somehow related.
 
-Base Stats
-----------------------
-Total: 336
-Hp:  48
-Attack:  72
-Defence:  48
-Special Attack:  72
-Special Defence:  48
-Speed:  48
+   ↞--------| STATS |--------↠ 
+             hp:         48
+         attack:         72
+        defense:         48
+ special-attack:         72
+special-defense:         48
+          speed:         48
+
+Pokedex ID: 201	Capture Rate: 225
+Base Exp: 118	Happiness: 70
+Height: 5	Weight: 50
+
+Genus: Symbol Pokémon
+Location Areas:
+solaceon-ruins-2f
+solaceon-ruins-1f
+solaceon-ruins-b1f-a
+solaceon-ruins-b1f-b
+solaceon-ruins-b1f-c
+solaceon-ruins-b2f-a
+solaceon-ruins-b2f-b
+solaceon-ruins-b2f-c
+solaceon-ruins-b3f-a
+solaceon-ruins-b3f-b
+solaceon-ruins-b3f-c
+solaceon-ruins-b3f-d
+solaceon-ruins-b3f-e
+solaceon-ruins-b4f-a
+solaceon-ruins-b4f-b
+solaceon-ruins-b4f-c
+solaceon-ruins-b4f-d
+solaceon-ruins-b5f
+ruins-of-alph-interior-a
+ruins-of-alph-interior-b
+ruins-of-alph-interior-c
+ruins-of-alph-interior-d
+monean-chamber-area
+liptoo-chamber-area
+weepth-chamber-area
+dilford-chamber-area
+scufib-chamber-area
+rixy-chamber-area
+viapos-chamber-area

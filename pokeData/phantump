@@ -1,15 +1,21 @@
+phantump	A ghost type Pokémon
 
-Name:  Phantump
-Pokedex Number:  708
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Natural Cure - Frisk - Harvest (Hidden Ability)
+腐った　切り株に　魂が　宿り
+ポケモンに　なった。
+人の　寄りつかない　森に　住む。
 
-Base Stats
-----------------------
-Total: 309
-Hp:  43
-Attack:  70
-Defence:  48
-Special Attack:  50
-Special Defence:  60
-Speed:  38
+   ↞--------| STATS |--------↠ 
+             hp:         43
+         attack:         70
+        defense:         48
+ special-attack:         50
+special-defense:         60
+          speed:         38
+
+Pokedex ID: 708	Capture Rate: 120
+Base Exp: 62	Happiness: 50
+Height: 4	Weight: 70
+
+Genus: Stump Pokémon
+Location Areas:
+kalos-route-16-area

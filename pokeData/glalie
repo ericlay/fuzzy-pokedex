@@ -1,15 +1,21 @@
+glalie	A ice type Pokémon
 
-Name:  Glalie
-Pokedex Number:  362
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Inner Focus - Ice Body - Moody (Hidden Ability)
+It prevents prey from escaping by
+instantaneously freezing moisture
+in the air.
 
-Base Stats
-----------------------
-Total: 480
-Hp:  80
-Attack:  120
-Defence:  80
-Special Attack:  120
-Special Defence:  80
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:         80
+        defense:         80
+ special-attack:         80
+special-defense:         80
+          speed:         80
+
+Pokedex ID: 362	Capture Rate: 75
+Base Exp: 168	Happiness: 50
+Height: 15	Weight: 2565
+
+Genus: Face Pokémon
+Location Areas:
+

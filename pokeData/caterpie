@@ -1,15 +1,48 @@
+caterpie	A bug type Pokémon
 
-Name:  Caterpie
-Pokedex Number:  010
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shield Dust - Run Away (Hidden Ability)
+It crawls into
+foliage where it
+camouflages itselfamong leaves that
+are the same color
+as its body.
 
-Base Stats
-----------------------
-Total: 195
-Hp:  45
-Attack:  30
-Defence:  35
-Special Attack:  20
-Special Defence:  20
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         30
+        defense:         35
+ special-attack:         20
+special-defense:         20
+          speed:         45
+
+Pokedex ID: 10	Capture Rate: 255
+Base Exp: 39	Happiness: 50
+Height: 3	Weight: 29
+
+Genus: Worm Pokémon
+Location Areas:
+eterna-forest-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+johto-route-30-area
+johto-route-31-area
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+national-park-area
+unknown-all-bugs-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+lake-of-rage-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-24-area
+kanto-route-25-area
+kanto-route-2-north-towards-pewter-city
+viridian-forest-area
+pattern-bush-area
+kalos-route-2-area
+santalune-forest-area
+azalea-town-area

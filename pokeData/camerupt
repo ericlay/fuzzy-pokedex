@@ -1,15 +1,38 @@
+camerupt	A fire type Pokémon
 
-Name:  Camerupt
-Pokedex Number:  323
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Magma Armor - Solid Rock - Anger Point (Hidden Ability)
+It has volcanoes on its back. If
+magma builds up in its body, it
+shudders, then erupts violently.
 
-Base Stats
-----------------------
-Total: 460
-Hp:  70
-Attack:  120
-Defence:  100
-Special Attack:  145
-Special Defence:  105
-Speed:  20
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:        100
+        defense:         70
+ special-attack:        105
+special-defense:         75
+          speed:         40
+
+Pokedex ID: 323	Capture Rate: 150
+Base Exp: 161	Happiness: 70
+Height: 19	Weight: 2200
+
+Genus: Eruption Pokémon
+Location Areas:
+stark-mountain-area
+stark-mountain-entrance
+stark-mountain-inside
+sinnoh-route-227-area
+reversal-mountain-unknown-area-48
+reversal-mountain-unknown-area-49
+reversal-mountain-unknown-area-50
+reversal-mountain-unknown-area-51
+reversal-mountain-unknown-area-52
+reversal-mountain-unknown-area-53
+reversal-mountain-unknown-area-54
+reversal-mountain-unknown-area-55
+reversal-mountain-unknown-area-56
+reversal-mountain-unknown-area-57
+reversal-mountain-unknown-area-58
+reversal-mountain-unknown-area-59
+reversal-mountain-unknown-area-60
+battle-resort-area

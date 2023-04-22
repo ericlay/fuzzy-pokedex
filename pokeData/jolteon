@@ -1,15 +1,23 @@
+jolteon	A electric type Pokémon
 
-Name:  Jolteon
-Pokedex Number:  135
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Volt Absorb - Quick Feet (Hidden Ability)
+JOLTEON’s cells generate a low level of
+electricity. This power is amplified by
+the static electricity of its fur,enabling the POKéMON to drop
+thunderbolts. The bristling fur is made
+of electrically charged needles.
 
-Base Stats
-----------------------
-Total: 525
-Hp:  65
-Attack:  65
-Defence:  60
-Special Attack:  110
-Special Defence:  95
-Speed:  130
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         65
+        defense:         60
+ special-attack:        110
+special-defense:         95
+          speed:        130
+
+Pokedex ID: 135	Capture Rate: 45
+Base Exp: 184	Happiness: 50
+Height: 8	Weight: 245
+
+Genus: Lightning Pokémon
+Location Areas:
+

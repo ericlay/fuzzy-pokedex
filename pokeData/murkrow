@@ -1,15 +1,42 @@
+murkrow	A dark type Pokémon
 
-Name:  Murkrow
-Pokedex Number:  198
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Insomnia - Super Luck - Prankster (Hidden Ability)
+Feared and loathed by many, it is
+believed to bring misfortune to all those
+who see it at night.
 
-Base Stats
-----------------------
-Total: 405
-Hp:  60
-Attack:  85
-Defence:  42
-Special Attack:  85
-Special Defence:  42
-Speed:  91
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         85
+        defense:         42
+ special-attack:         85
+special-defense:         42
+          speed:         91
+
+Pokedex ID: 198	Capture Rate: 30
+Base Exp: 81	Happiness: 35
+Height: 5	Weight: 21
+
+Genus: Darkness Pokémon
+Location Areas:
+eterna-forest-area
+lost-tower-1f
+lost-tower-2f
+lost-tower-3f
+lost-tower-4f
+lost-tower-5f
+kanto-route-7-area
+kanto-route-16-area
+kanto-route-18-area
+lost-cave-room-1
+lost-cave-room-2
+lost-cave-room-3
+lost-cave-room-4
+lost-cave-room-5
+lost-cave-room-6
+lost-cave-room-7
+lost-cave-room-8
+lost-cave-room-9
+lost-cave-room-10
+lost-cave-item-rooms
+abundant-shrine-area
+johto-safari-zone-zone-swamp

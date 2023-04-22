@@ -1,15 +1,23 @@
+machamp	A fighting type Pokémon
 
-Name:  Machamp
-Pokedex Number:  068
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Guts - No Guard - Steadfast (Hidden Ability)
+MACHAMP is known as the POKéMON that
+has mastered every kind of martial arts.
+If it grabs hold of the foe with its fourarms, the battle is all but over.
+The hapless foe is thrown far over the
+horizon.
 
-Base Stats
-----------------------
-Total: 505
-Hp:  90
-Attack:  130
-Defence:  80
-Special Attack:  65
-Special Defence:  85
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:        130
+        defense:         80
+ special-attack:         65
+special-defense:         85
+          speed:         55
+
+Pokedex ID: 68	Capture Rate: 45
+Base Exp: 253	Happiness: 50
+Height: 16	Weight: 1300
+
+Genus: Superpower Pokémon
+Location Areas:
+

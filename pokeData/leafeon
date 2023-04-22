@@ -1,15 +1,21 @@
+leafeon	A grass type Pokémon
 
-Name:  Leafeon
-Pokedex Number:  470
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Leaf Guard - Chlorophyll (Hidden Ability)
+Il utilise la photosynthèse comme
+une plante et a aussi tendance à
+éviter le combat à tout prix.
 
-Base Stats
-----------------------
-Total: 525
-Hp:  65
-Attack:  110
-Defence:  130
-Special Attack:  60
-Special Defence:  65
-Speed:  95
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:        110
+        defense:        130
+ special-attack:         60
+special-defense:         65
+          speed:         95
+
+Pokedex ID: 470	Capture Rate: 45
+Base Exp: 184	Happiness: 35
+Height: 10	Weight: 255
+
+Genus: Verdant Pokémon
+Location Areas:
+

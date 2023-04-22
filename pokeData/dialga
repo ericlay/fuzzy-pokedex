@@ -1,15 +1,22 @@
+dialga	A steel type Pokémon
 
-Name:  Dialga
-Pokedex Number:  483
-Gender Ratio:  Genderless
-Abilities: Pressure - Telepathy (Hidden Ability)
+On dit que le temps s’écoule au
+rythme des battements de cœur de
+ce Pokémon légendaire de Sinnoh.
 
-Base Stats
-----------------------
-Total: 680
-Hp:  100
-Attack:  120
-Defence:  120
-Special Attack:  150
-Special Defence:  100
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        120
+        defense:        120
+ special-attack:        150
+special-defense:        100
+          speed:         90
+
+Pokedex ID: 483	Capture Rate: 3
+Base Exp: 340	Happiness: 0
+Height: 54	Weight: 6830
+
+Genus: Temporal Pokémon
+Location Areas:
+spear-pillar-area
+sinjoh-ruins-area

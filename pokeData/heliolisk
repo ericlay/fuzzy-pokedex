@@ -1,15 +1,21 @@
+heliolisk	A electric type Pokémon
 
-Name:  Heliolisk
-Pokedex Number:  695
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Dry Skin - Sand Veil - Solar Power (Hidden Ability)
+エリマキを　広げて　発電する。
+エレザード　１匹で　高層ビルで
+必要な　電気を　作れるのだ。
 
-Base Stats
-----------------------
-Total: 481
-Hp:  62
-Attack:  55
-Defence:  52
-Special Attack:  109
-Special Defence:  94
-Speed:  109
+   ↞--------| STATS |--------↠ 
+             hp:         62
+         attack:         55
+        defense:         52
+ special-attack:        109
+special-defense:         94
+          speed:        109
+
+Pokedex ID: 695	Capture Rate: 75
+Base Exp: 168	Happiness: 50
+Height: 10	Weight: 210
+
+Genus: Generator Pokémon
+Location Areas:
+

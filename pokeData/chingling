@@ -1,15 +1,89 @@
+chingling	A psychic type Pokémon
 
-Name:  Chingling
-Pokedex Number:  433
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Levitate
+Quand il sautille, l’orbe qu’il a
+dans la bouche s’agite et tinte
+comme une cloche.
 
-Base Stats
-----------------------
-Total: 285
-Hp:  45
-Attack:  30
-Defence:  50
-Special Attack:  65
-Special Defence:  50
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         30
+        defense:         50
+ special-attack:         65
+special-defense:         50
+          speed:         45
+
+Pokedex ID: 433	Capture Rate: 120
+Base Exp: 57	Happiness: 70
+Height: 2	Weight: 6
+
+Genus: Bell Pokémon
+Location Areas:
+mt-coronet-1f-route-207
+mt-coronet-2f
+mt-coronet-3f
+mt-coronet-exterior-snowfall
+mt-coronet-exterior-blizzard
+mt-coronet-4f
+mt-coronet-4f-small-room
+mt-coronet-5f
+mt-coronet-1f-from-exterior
+mt-coronet-1f-route-216
+mt-coronet-1f-route-211
+mt-coronet-b1f
+sendoff-spring-area
+turnback-cave-pillar-1
+turnback-cave-before-pillar-1
+turnback-cave-between-pillars-1-and-2
+lake-valor-area
+lake-acuity-area
+sinnoh-route-211-west-towards-eterna-city
+sinnoh-route-211-east-towards-celestic-town
+union-cave-1f
+union-cave-b1f
+union-cave-b2f
+slowpoke-well-1f
+slowpoke-well-b1f
+whirl-islands-1f
+whirl-islands-b1f
+whirl-islands-b2f
+whirl-islands-b3f
+mt-mortar-1f
+mt-mortar-lower-cave
+mt-mortar-upper-cave
+mt-mortar-b1f
+ice-path-1f
+ice-path-b1f
+ice-path-b2f
+ice-path-b3f
+dark-cave-violet-city-entrance
+dark-cave-blackthorn-city-entrance
+seafoam-islands-1f
+seafoam-islands-b1f
+seafoam-islands-b2f
+seafoam-islands-b3f
+seafoam-islands-b4f
+mt-silver-2f
+mt-silver-1f-top
+mt-silver-4f
+johto-route-47-inside-cave
+mt-silver-1f
+mt-silver-mountainside
+mt-silver-3f
+mt-silver-top
+mt-moon-1f
+mt-moon-2f
+rock-tunnel-1f
+rock-tunnel-b1f
+kanto-victory-road-1-1f
+tohjo-falls-area
+digletts-cave-area
+kanto-victory-road-1-2f
+kanto-victory-road-1-3f
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+kalos-route-11-area
+reflection-cave-unknown-area-305
+reflection-cave-unknown-area-306
+reflection-cave-unknown-area-307
+reflection-cave-unknown-area-308

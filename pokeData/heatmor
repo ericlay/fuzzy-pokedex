@@ -1,15 +1,23 @@
+heatmor	A fire type Pokémon
 
-Name:  Heatmor
-Pokedex Number:  631
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Gluttony - Flash Fire - White Smoke (Hidden Ability)
+뜨겁게 타오르는 불꽃의 혀로
+아이앤트의 강철 몸을
+녹여서 알맹이를 먹어치운다.
 
-Base Stats
-----------------------
-Total: 484
-Hp:  85
-Attack:  97
-Defence:  66
-Special Attack:  105
-Special Defence:  66
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:         97
+        defense:         66
+ special-attack:        105
+special-defense:         66
+          speed:         65
+
+Pokedex ID: 631	Capture Rate: 90
+Base Exp: 169	Happiness: 50
+Height: 14	Weight: 580
+
+Genus: Anteater Pokémon
+Location Areas:
+twist-mountain-area
+unova-victory-road-outside
+kalos-route-18-area

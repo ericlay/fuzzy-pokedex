@@ -1,15 +1,23 @@
+hariyama	A fighting type Pokémon
 
-Name:  Hariyama
-Pokedex Number:  297
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Thick Fat - Guts - Sheer Force (Hidden Ability)
+It loves to match power with
+big-bodied Pokémon. It can knock a
+truck flying with its arm thrusts.
 
-Base Stats
-----------------------
-Total: 474
-Hp:  144
-Attack:  120
-Defence:  60
-Special Attack:  40
-Special Defence:  60
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:        144
+         attack:        120
+        defense:         60
+ special-attack:         40
+special-defense:         60
+          speed:         50
+
+Pokedex ID: 297	Capture Rate: 200
+Base Exp: 166	Happiness: 70
+Height: 23	Weight: 2538
+
+Genus: Arm Thrust Pokémon
+Location Areas:
+hoenn-victory-road-1f
+hoenn-victory-road-b1f
+kalos-route-11-area

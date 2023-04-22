@@ -1,15 +1,21 @@
+froslass	A ice type Pokémon
 
-Name:  Froslass
-Pokedex Number:  478
-Gender Ratio:   ♂:0% ♀:100% 
-Abilities: Snow Cloak - Cursed Body (Hidden Ability)
+On dit que Momartik gèle ses proies
+grâce à son souffle à -50 °C avant
+de les exposer dans sa tanière.
 
-Base Stats
-----------------------
-Total: 480
-Hp:  70
-Attack:  80
-Defence:  70
-Special Attack:  80
-Special Defence:  70
-Speed:  110
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         80
+        defense:         70
+ special-attack:         80
+special-defense:         70
+          speed:        110
+
+Pokedex ID: 478	Capture Rate: 75
+Base Exp: 168	Happiness: 50
+Height: 13	Weight: 266
+
+Genus: Snow Land Pokémon
+Location Areas:
+

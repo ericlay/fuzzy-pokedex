@@ -1,15 +1,38 @@
+bibarel	A normal type Pokémon
 
-Name:  Bibarel
-Pokedex Number:  400
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Simple - Unaware - Moody (Hidden Ability)
+Les digues insubmersibles qu’il
+construit font le bonheur des
+habitants proches.
 
-Base Stats
-----------------------
-Total: 410
-Hp:  79
-Attack:  85
-Defence:  60
-Special Attack:  55
-Special Defence:  60
-Speed:  71
+   ↞--------| STATS |--------↠ 
+             hp:         79
+         attack:         85
+        defense:         60
+ special-attack:         55
+special-defense:         60
+          speed:         71
+
+Pokedex ID: 400	Capture Rate: 127
+Base Exp: 144	Happiness: 70
+Height: 10	Weight: 315
+
+Genus: Beaver Pokémon
+Location Areas:
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+sendoff-spring-area
+lake-verity-before-galactic-intervention
+lake-verity-after-galactic-intervention
+lake-valor-area
+lake-acuity-area
+valor-lakefront-area
+sinnoh-route-208-area
+sinnoh-route-209-area
+sinnoh-route-210-west-towards-celestic-town
+sinnoh-route-212-east-towards-pastoria-city
+village-bridge-area
+kalos-route-22-area

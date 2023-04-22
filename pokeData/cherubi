@@ -1,15 +1,21 @@
+cherubi	A grass type Pokémon
 
-Name:  Cherubi
-Pokedex Number:  420
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Chlorophyll
+The small ball is not only filled with
+nutrients, it is also tasty. Starly
+try to peck it off.
 
-Base Stats
-----------------------
-Total: 275
-Hp:  45
-Attack:  35
-Defence:  45
-Special Attack:  62
-Special Defence:  53
-Speed:  35
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         35
+        defense:         45
+ special-attack:         62
+special-defense:         53
+          speed:         35
+
+Pokedex ID: 420	Capture Rate: 190
+Base Exp: 55	Happiness: 50
+Height: 4	Weight: 33
+
+Genus: Cherry Pokémon
+Location Areas:
+

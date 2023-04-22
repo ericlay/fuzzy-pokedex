@@ -1,15 +1,21 @@
+swalot	A poison type Pokémon
 
-Name:  Swalot
-Pokedex Number:  317
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Liquid Ooze - Sticky Hold - Gluttony (Hidden Ability)
+It swallows anything whole.
+It sweats toxic fluids from its
+follicles to douse foes.
 
-Base Stats
-----------------------
-Total: 467
-Hp:  100
-Attack:  73
-Defence:  83
-Special Attack:  73
-Special Defence:  83
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:         73
+        defense:         83
+ special-attack:         73
+special-defense:         83
+          speed:         55
+
+Pokedex ID: 317	Capture Rate: 75
+Base Exp: 163	Happiness: 70
+Height: 17	Weight: 800
+
+Genus: Poison Bag Pokémon
+Location Areas:
+

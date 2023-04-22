@@ -1,15 +1,24 @@
+skiploom	A grass type Pokémon
 
-Name:  Skiploom
-Pokedex Number:  188
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Leaf Guard - Infiltrator (Hidden Ability)
+The bloom on top of its head opens and
+closes as the temperature fluctuates up
+and down.
 
-Base Stats
-----------------------
-Total: 340
-Hp:  55
-Attack:  45
-Defence:  50
-Special Attack:  45
-Special Defence:  65
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         45
+        defense:         50
+ special-attack:         45
+special-defense:         65
+          speed:         80
+
+Pokedex ID: 188	Capture Rate: 120
+Base Exp: 119	Happiness: 70
+Height: 6	Weight: 10
+
+Genus: Cottonweed Pokémon
+Location Areas:
+fuego-ironworks-area
+sinnoh-route-205-east-towards-eterna-city
+kanto-route-14-area
+johto-safari-zone-zone-meadow

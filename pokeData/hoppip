@@ -1,15 +1,39 @@
+hoppip	A grass type Pokémon
 
-Name:  Hoppip
-Pokedex Number:  187
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Leaf Guard - Infiltrator (Hidden Ability)
+To keep from being blown away by the
+wind, they gather in clusters. They do
+enjoy gentle breezes, though.
 
-Base Stats
-----------------------
-Total: 250
-Hp:  35
-Attack:  35
-Defence:  40
-Special Attack:  35
-Special Defence:  55
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:         35
+        defense:         40
+ special-attack:         35
+special-defense:         55
+          speed:         50
+
+Pokedex ID: 187	Capture Rate: 255
+Base Exp: 50	Happiness: 70
+Height: 4	Weight: 5
+
+Genus: Cottonweed Pokémon
+Location Areas:
+fuego-ironworks-area
+sinnoh-route-205-south-towards-floaroma-town
+sinnoh-route-205-east-towards-eterna-city
+johto-route-29-area
+johto-route-30-area
+johto-route-31-area
+johto-route-32-area
+johto-route-33-area
+johto-route-48-area
+kanto-route-11-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+resort-gorgeous-area
+water-labyrinth-area
+five-isle-meadow-area
+memorial-pillar-area
+five-island-area
+johto-safari-zone-zone-meadow

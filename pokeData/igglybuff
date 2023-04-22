@@ -1,15 +1,21 @@
+igglybuff	A normal type Pokémon
 
-Name:  Igglybuff
-Pokedex Number:  174
-Gender Ratio:   ♂:25% ♀:75% 
-Abilities: Cute Charm - Competitive - Friend Guard (Hidden Ability)
+It has a very soft body. If it starts to
+roll, it will bounce all over and be
+impossible to stop.
 
-Base Stats
-----------------------
-Total: 210
-Hp:  90
-Attack:  30
-Defence:  15
-Special Attack:  40
-Special Defence:  20
-Speed:  15
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         30
+        defense:         15
+ special-attack:         40
+special-defense:         20
+          speed:         15
+
+Pokedex ID: 174	Capture Rate: 170
+Base Exp: 42	Happiness: 50
+Height: 3	Weight: 10
+
+Genus: Balloon Pokémon
+Location Areas:
+johto-route-34-area

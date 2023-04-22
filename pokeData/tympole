@@ -1,15 +1,21 @@
+tympole	A water type Pokémon
 
-Name:  Tympole
-Pokedex Number:  535
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swift Swim - Hydration - Water Absorb (Hidden Ability)
+볼의 진동막을 떨어
+사람에게는 들리지 않는 음파를 내어
+동료에게 위험을 전달한다.
 
-Base Stats
-----------------------
-Total: 294
-Hp:  50
-Attack:  50
-Defence:  40
-Special Attack:  50
-Special Defence:  40
-Speed:  64
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         50
+        defense:         40
+ special-attack:         50
+special-defense:         40
+          speed:         64
+
+Pokedex ID: 535	Capture Rate: 255
+Base Exp: 59	Happiness: 50
+Height: 5	Weight: 45
+
+Genus: Tadpole Pokémon
+Location Areas:
+pinwheel-forest-outside

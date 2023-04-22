@@ -1,15 +1,38 @@
+spoink	A psychic type Pokémon
 
-Name:  Spoink
-Pokedex Number:  325
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Thick Fat - Own Tempo - Gluttony (Hidden Ability)
+It bounces constantly, using its
+tail like a spring. The shock of
+bouncing keeps its heart beating.
 
-Base Stats
-----------------------
-Total: 330
-Hp:  60
-Attack:  25
-Defence:  35
-Special Attack:  70
-Special Defence:  80
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         25
+        defense:         35
+ special-attack:         70
+special-defense:         80
+          speed:         60
+
+Pokedex ID: 325	Capture Rate: 255
+Base Exp: 66	Happiness: 70
+Height: 7	Weight: 306
+
+Genus: Bounce Pokémon
+Location Areas:
+sinnoh-route-214-area
+ilex-forest-area
+viridian-forest-area
+jagged-pass-area
+reversal-mountain-unknown-area-48
+reversal-mountain-unknown-area-49
+reversal-mountain-unknown-area-50
+reversal-mountain-unknown-area-51
+reversal-mountain-unknown-area-52
+reversal-mountain-unknown-area-53
+reversal-mountain-unknown-area-54
+reversal-mountain-unknown-area-55
+reversal-mountain-unknown-area-56
+reversal-mountain-unknown-area-57
+reversal-mountain-unknown-area-58
+reversal-mountain-unknown-area-59
+reversal-mountain-unknown-area-60
+kalos-route-8-area

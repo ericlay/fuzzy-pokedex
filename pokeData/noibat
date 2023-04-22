@@ -1,15 +1,21 @@
+noibat	A flying type Pokémon
 
-Name:  Noibat
-Pokedex Number:  714
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Frisk - Infiltrator - Telepathy (Hidden Ability)
+真っ暗な　洞窟で　暮らす。
+２０万ヘルツの　超音波を
+大きな　耳から　発射する。
 
-Base Stats
-----------------------
-Total: 245
-Hp:  40
-Attack:  30
-Defence:  35
-Special Attack:  45
-Special Defence:  40
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         30
+        defense:         35
+ special-attack:         45
+special-defense:         40
+          speed:         55
+
+Pokedex ID: 714	Capture Rate: 190
+Base Exp: 49	Happiness: 50
+Height: 5	Weight: 80
+
+Genus: Sound Wave Pokémon
+Location Areas:
+

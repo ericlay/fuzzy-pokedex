@@ -1,15 +1,21 @@
+regidrago	A dragon type Pokémon
 
-Name:  Regidrago
-Pokedex Number:  895
-Gender Ratio:  Genderless
-Abilities: Dragon's Maw
+An academic theory proposes that Regidrago’s
+arms were once the head of an ancient dragon
+Pokémon. The theory remains unproven.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  200
-Attack:  100
-Defence:  50
-Special Attack:  100
-Special Defence:  50
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:        200
+         attack:        100
+        defense:         50
+ special-attack:        100
+special-defense:         50
+          speed:         80
+
+Pokedex ID: 895	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 21	Weight: 2000
+
+Genus: Dragon Orb Pokémon
+Location Areas:
+

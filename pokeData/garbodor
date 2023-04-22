@@ -1,15 +1,21 @@
+garbodor	A poison type Pokémon
 
-Name:  Garbodor
-Pokedex Number:  569
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Stench - Weak Armor - Aftermath (Hidden Ability)
+왼팔로 상대를 꼭 붙들고
+입에서 악취가 나는 독가스를
+토해내서 마무리한다.
 
-Base Stats
-----------------------
-Total: 474
-Hp:  80
-Attack:  95
-Defence:  82
-Special Attack:  60
-Special Defence:  82
-Speed:  75
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:         95
+        defense:         82
+ special-attack:         60
+special-defense:         82
+          speed:         75
+
+Pokedex ID: 569	Capture Rate: 60
+Base Exp: 166	Happiness: 50
+Height: 19	Weight: 1073
+
+Genus: Trash Heap Pokémon
+Location Areas:
+unova-route-9-area

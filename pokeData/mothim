@@ -1,15 +1,21 @@
+mothim	A bug type Pokémon
 
-Name:  Mothim
-Pokedex Number:  414
-Gender Ratio:   ♂:100% ♀:0% 
-Abilities: Swarm - Tinted Lens (Hidden Ability)
+Il adore le nectar des fleurs mais
+n’en récolte pas lui-même.
+Il préfère en voler à un Apitrini.
 
-Base Stats
-----------------------
-Total: 424
-Hp:  70
-Attack:  94
-Defence:  50
-Special Attack:  94
-Special Defence:  50
-Speed:  66
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         94
+        defense:         50
+ special-attack:         94
+special-defense:         50
+          speed:         66
+
+Pokedex ID: 414	Capture Rate: 45
+Base Exp: 148	Happiness: 70
+Height: 9	Weight: 233
+
+Genus: Moth Pokémon
+Location Areas:
+

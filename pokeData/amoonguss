@@ -1,15 +1,27 @@
+amoonguss	A grass type Pokémon
 
-Name:  Amoonguss
-Pokedex Number:  591
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Effect Spore - Regenerator (Hidden Ability)
+몬스터볼 무늬의 삿갓을 보여주며
+먹이를 유인하려 하지만
+속아 넘어가는 포켓몬은 드물다.
 
-Base Stats
-----------------------
-Total: 464
-Hp:  114
-Attack:  85
-Defence:  70
-Special Attack:  85
-Special Defence:  80
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:        114
+         attack:         85
+        defense:         70
+ special-attack:         85
+special-defense:         80
+          speed:         30
+
+Pokedex ID: 591	Capture Rate: 75
+Base Exp: 162	Happiness: 50
+Height: 6	Weight: 105
+
+Genus: Mushroom Pokémon
+Location Areas:
+unova-route-10-area
+unova-route-10-victory-road-gate
+unova-route-11-area
+unova-route-22-area
+unova-route-23-area
+kalos-route-20-area
+pokemon-village-area

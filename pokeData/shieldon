@@ -1,15 +1,21 @@
+shieldon	A rock type Pokémon
 
-Name:  Shieldon
-Pokedex Number:  410
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Sturdy - Soundproof (Hidden Ability)
+Il est si bien protégé qu’il peut
+déguster Baies et herbe fraîche
+sans craindre de prédateurs.
 
-Base Stats
-----------------------
-Total: 350
-Hp:  30
-Attack:  42
-Defence:  118
-Special Attack:  42
-Special Defence:  88
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         30
+         attack:         42
+        defense:        118
+ special-attack:         42
+special-defense:         88
+          speed:         30
+
+Pokedex ID: 410	Capture Rate: 45
+Base Exp: 70	Happiness: 70
+Height: 5	Weight: 570
+
+Genus: Shield Pokémon
+Location Areas:
+

@@ -1,15 +1,39 @@
+chinchou	A water type Pokémon
 
-Name:  Chinchou
-Pokedex Number:  170
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Volt Absorb - Illuminate - Water Absorb (Hidden Ability)
+On the dark ocean floor, its only means
+of communication is its constantly
+flashing lights.
 
-Base Stats
-----------------------
-Total: 330
-Hp:  75
-Attack:  38
-Defence:  38
-Special Attack:  56
-Special Defence:  56
-Speed:  67
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         38
+        defense:         38
+ special-attack:         56
+special-defense:         56
+          speed:         67
+
+Pokedex ID: 170	Capture Rate: 190
+Base Exp: 66	Happiness: 50
+Height: 5	Weight: 120
+
+Genus: Angler Pokémon
+Location Areas:
+sinnoh-sea-route-220-area
+new-bark-town-area
+johto-sea-route-41-area
+johto-route-47-area
+kanto-sea-route-20-area
+cinnabar-island-area
+vermilion-city-area
+pallet-town-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-sea-route-21-area
+vermilion-city-ss-anne-dock
+hoenn-route-124-underwater
+hoenn-route-126-underwater
+driftveil-city-area
+undella-bay-area
+unova-route-18-area
+shalour-city-area
+azure-bay-area

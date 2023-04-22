@@ -1,15 +1,24 @@
+charmander	A fire type Pokémon
 
-Name:  Charmander
-Pokedex Number:  004
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Blaze - Solar Power (Hidden Ability)
+The flame that burns at the tip of its
+tail is an indication of its emotions.
+The flame wavers when CHARMANDER isenjoying itself. If the POKéMON becomes
+enraged, the flame burns fiercely.
 
-Base Stats
-----------------------
-Total: 309
-Hp:  39
-Attack:  52
-Defence:  43
-Special Attack:  60
-Special Defence:  50
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         39
+         attack:         52
+        defense:         43
+ special-attack:         60
+special-defense:         50
+          speed:         65
+
+Pokedex ID: 4	Capture Rate: 45
+Base Exp: 62	Happiness: 50
+Height: 6	Weight: 85
+
+Genus: Lizard Pokémon
+Location Areas:
+pallet-town-area
+kanto-route-24-area
+lumiose-city-area

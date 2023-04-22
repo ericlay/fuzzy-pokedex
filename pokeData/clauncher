@@ -1,15 +1,23 @@
+clauncher	A water type Pokémon
 
-Name:  Clauncher
-Pokedex Number:  692
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Mega Launcher
+大きな　ハサミから　圧縮した　水を
+ピストルのように　撃ち出し
+飛んでいる　獲物を　撃ち落とす。
 
-Base Stats
-----------------------
-Total: 330
-Hp:  50
-Attack:  53
-Defence:  62
-Special Attack:  58
-Special Defence:  63
-Speed:  44
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         53
+        defense:         62
+ special-attack:         58
+special-defense:         63
+          speed:         44
+
+Pokedex ID: 692	Capture Rate: 225
+Base Exp: 66	Happiness: 50
+Height: 5	Weight: 83
+
+Genus: Water Gun Pokémon
+Location Areas:
+ambrette-town-area
+cyllage-city-area
+kalos-route-8-area

@@ -1,15 +1,26 @@
+kadabra	A psychic type Pokémon
 
-Name:  Kadabra
-Pokedex Number:  064
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Synchronize - Inner Focus - Magic Guard (Hidden Ability)
+Viele seltsame Dinge passieren, wenn ein
+Kadabra in der Nähe ist. Uhren laufen zum
+Beispiel rückwärts.
 
-Base Stats
-----------------------
-Total: 400
-Hp:  40
-Attack:  35
-Defence:  30
-Special Attack:  120
-Special Defence:  70
-Speed:  105
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         35
+        defense:         30
+ special-attack:        120
+special-defense:         70
+          speed:        105
+
+Pokedex ID: 64	Capture Rate: 100
+Base Exp: 140	Happiness: 50
+Height: 13	Weight: 565
+
+Genus: Psi Pokémon
+Location Areas:
+sinnoh-victory-road-2f
+sinnoh-route-215-area
+kanto-route-8-area
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f

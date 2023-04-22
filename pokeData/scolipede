@@ -1,15 +1,21 @@
+scolipede	A bug type Pokémon
 
-Name:  Scolipede
-Pokedex Number:  545
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Poison Point - Swarm - Speed Boost (Hidden Ability)
+먹이를 목의 가시에 끼워 넣어
+움직이지 못하게 한 후
+맹독을 퍼뜨려 마무리한다.
 
-Base Stats
-----------------------
-Total: 485
-Hp:  60
-Attack:  100
-Defence:  89
-Special Attack:  55
-Special Defence:  69
-Speed:  112
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:        100
+        defense:         89
+ special-attack:         55
+special-defense:         69
+          speed:        112
+
+Pokedex ID: 545	Capture Rate: 45
+Base Exp: 243	Happiness: 50
+Height: 25	Weight: 2005
+
+Genus: Megapede Pokémon
+Location Areas:
+pinwheel-forest-inside

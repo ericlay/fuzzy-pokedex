@@ -1,15 +1,62 @@
+audino	A normal type Pokémon
 
-Name:  Audino
-Pokedex Number:  531
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Healer - Regenerator - Klutz (Hidden Ability)
+귀의 더듬이로 상대의
+컨디션이나 알에서 포켓몬이
+언제 나올지도 알 수 있다.
 
-Base Stats
-----------------------
-Total: 445
-Hp:  103
-Attack:  60
-Defence:  126
-Special Attack:  80
-Special Defence:  126
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:        103
+         attack:         60
+        defense:         86
+ special-attack:         60
+special-defense:         86
+          speed:         50
+
+Pokedex ID: 531	Capture Rate: 255
+Base Exp: 390	Happiness: 50
+Height: 11	Weight: 310
+
+Genus: Hearing Pokémon
+Location Areas:
+dreamyard-area
+pinwheel-forest-outside
+pinwheel-forest-inside
+cold-storage-area
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+giant-chasm-outside
+giant-chasm-forest
+giant-chasm-forest-cave
+p2-laboratory-area
+village-bridge-area
+unova-route-1-area
+unova-route-2-area
+unova-route-3-area
+unova-route-5-area
+unova-route-6-area
+unova-route-7-area
+unova-route-9-area
+unova-route-10-area
+unova-route-10-victory-road-gate
+unova-route-11-area
+unova-route-12-area
+unova-route-13-area
+unova-route-14-area
+abundant-shrine-area
+unova-route-15-area
+unova-route-16-area
+lostlorn-forest-area
+unova-route-18-area
+castelia-city-area
+unova-victory-road-2-unknown-area-72
+unova-victory-road-2-unknown-area-73
+unova-victory-road-2-unknown-area-76
+unova-victory-road-2-unknown-area-79
+floccesy-ranch-inner
+virbank-complex-outer
+virbank-complex-inner
+reversal-mountain-unknown-area-48
+nature-sanctuary-area
+unova-route-20-area
+unova-route-22-area
+unova-route-23-area

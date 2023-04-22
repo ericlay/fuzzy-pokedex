@@ -1,15 +1,21 @@
+flygon	A ground type Pokémon
 
-Name:  Flygon
-Pokedex Number:  330
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Levitate
+It whips up sandstorms with
+powerful flaps of its wings. It is
+known as “The Desert Spirit.”
 
-Base Stats
-----------------------
-Total: 520
-Hp:  80
-Attack:  100
-Defence:  80
-Special Attack:  80
-Special Defence:  80
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        100
+        defense:         80
+ special-attack:         80
+special-defense:         80
+          speed:        100
+
+Pokedex ID: 330	Capture Rate: 45
+Base Exp: 260	Happiness: 50
+Height: 20	Weight: 820
+
+Genus: Mystic Pokémon
+Location Areas:
+

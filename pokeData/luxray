@@ -1,15 +1,21 @@
+luxray	A electric type Pokémon
 
-Name:  Luxray
-Pokedex Number:  405
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Rivalry - Intimidate - Guts (Hidden Ability)
+Il est capable de voir à travers
+les murs pour chasser des proies
+ou retrouver ses petits égarés.
 
-Base Stats
-----------------------
-Total: 523
-Hp:  80
-Attack:  120
-Defence:  79
-Special Attack:  95
-Special Defence:  79
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        120
+        defense:         79
+ special-attack:         95
+special-defense:         79
+          speed:         70
+
+Pokedex ID: 405	Capture Rate: 45
+Base Exp: 262	Happiness: 50
+Height: 14	Weight: 420
+
+Genus: Gleam Eyes Pokémon
+Location Areas:
+

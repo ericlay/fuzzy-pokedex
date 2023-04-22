@@ -1,15 +1,21 @@
+goodra	A dragon type Pokémon
 
-Name:  Goodra
-Pokedex Number:  706
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sap Sipper - Hydration - Gooey (Hidden Ability)
+人懐っこい　ドラゴンポケモン。
+大好きな　トレーナーに　抱き着いて
+粘液で　ヌルヌルにしてしまう。
 
-Base Stats
-----------------------
-Total: 600
-Hp:  90
-Attack:  100
-Defence:  70
-Special Attack:  110
-Special Defence:  150
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:        100
+        defense:         70
+ special-attack:        110
+special-defense:        150
+          speed:         80
+
+Pokedex ID: 706	Capture Rate: 45
+Base Exp: 300	Happiness: 35
+Height: 20	Weight: 1505
+
+Genus: Dragon Pokémon
+Location Areas:
+

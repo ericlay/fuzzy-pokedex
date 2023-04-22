@@ -1,15 +1,22 @@
+mamoswine	A ice type Pokémon
 
-Name:  Mamoswine
-Pokedex Number:  473
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Oblivious - Snow Cloak - Thick Fat (Hidden Ability)
+On a libéré un spécimen de sa prison
+glacée au bout de 10 000 ans.
+Il n’en revenait pas.
 
-Base Stats
-----------------------
-Total: 530
-Hp:  110
-Attack:  130
-Defence:  80
-Special Attack:  70
-Special Defence:  60
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:        110
+         attack:        130
+        defense:         80
+ special-attack:         70
+special-defense:         60
+          speed:         80
+
+Pokedex ID: 473	Capture Rate: 50
+Base Exp: 265	Happiness: 50
+Height: 25	Weight: 2910
+
+Genus: Twin Tusk Pokémon
+Location Areas:
+giant-chasm-forest
+giant-chasm-forest-cave

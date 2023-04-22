@@ -1,15 +1,23 @@
+chikorita	A grass type Pokémon
 
-Name:  Chikorita
-Pokedex Number:  152
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Overgrow - Leaf Guard (Hidden Ability)
+A sweet aroma gently wafts from the leaf
+on its head. It is docile and loves to
+soak up the sun’s rays.
 
-Base Stats
-----------------------
-Total: 318
-Hp:  45
-Attack:  49
-Defence:  65
-Special Attack:  49
-Special Defence:  65
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         49
+        defense:         65
+ special-attack:         49
+special-defense:         65
+          speed:         45
+
+Pokedex ID: 152	Capture Rate: 45
+Base Exp: 64	Happiness: 70
+Height: 9	Weight: 64
+
+Genus: Leaf Pokémon
+Location Areas:
+new-bark-town-area
+hoenn-route-101-area
+littleroot-town-area

@@ -1,15 +1,21 @@
+shiftry	A grass type Pokémon
 
-Name:  Shiftry
-Pokedex Number:  275
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Early Bird - Pickpocket (Hidden Ability)
+By flapping its leafy fan, it can
+whip up gusts of 100 ft/second
+that can level houses.
 
-Base Stats
-----------------------
-Total: 480
-Hp:  90
-Attack:  100
-Defence:  60
-Special Attack:  90
-Special Defence:  60
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:        100
+        defense:         60
+ special-attack:         90
+special-defense:         60
+          speed:         80
+
+Pokedex ID: 275	Capture Rate: 45
+Base Exp: 240	Happiness: 50
+Height: 13	Weight: 596
+
+Genus: Wicked Pokémon
+Location Areas:
+nature-sanctuary-area

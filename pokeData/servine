@@ -1,15 +1,21 @@
+servine	A grass type Pokémon
 
-Name:  Servine
-Pokedex Number:  496
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Overgrow - Contrary (Hidden Ability)
+땅을 미끄러지듯 달린다.
+빠른 움직임으로 상대를 혼란시키고
+덩굴채찍으로 꼼짝 못하게 한다.
 
-Base Stats
-----------------------
-Total: 413
-Hp:  60
-Attack:  60
-Defence:  75
-Special Attack:  60
-Special Defence:  75
-Speed:  83
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         60
+        defense:         75
+ special-attack:         60
+special-defense:         75
+          speed:         83
+
+Pokedex ID: 496	Capture Rate: 45
+Base Exp: 145	Happiness: 70
+Height: 8	Weight: 160
+
+Genus: Grass Snake Pokémon
+Location Areas:
+

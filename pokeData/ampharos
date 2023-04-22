@@ -1,15 +1,21 @@
+ampharos	A electric type Pokémon
 
-Name:  Ampharos
-Pokedex Number:  181
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Static - Plus (Hidden Ability)
+The tail’s tip shines brightly and can be
+seen from far away. It acts as a beacon
+for lost people.
 
-Base Stats
-----------------------
-Total: 510
-Hp:  90
-Attack:  95
-Defence:  105
-Special Attack:  165
-Special Defence:  110
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         75
+        defense:         85
+ special-attack:        115
+special-defense:         90
+          speed:         55
+
+Pokedex ID: 181	Capture Rate: 45
+Base Exp: 230	Happiness: 70
+Height: 14	Weight: 615
+
+Genus: Light Pokémon
+Location Areas:
+

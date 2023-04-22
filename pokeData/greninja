@@ -1,15 +1,21 @@
+greninja	A water type Pokémon
 
-Name:  Greninja
-Pokedex Number:  658
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Torrent - Protean (Hidden Ability)
+水を　圧縮して　手裏剣を　作り出す。
+高速回転させて　飛ばすと
+金属も　真っ二つ。
 
-Base Stats
-----------------------
-Total: 530
-Hp:  72
-Attack:  95
-Defence:  67
-Special Attack:  103
-Special Defence:  71
-Speed:  122
+   ↞--------| STATS |--------↠ 
+             hp:         72
+         attack:         95
+        defense:         67
+ special-attack:        103
+special-defense:         71
+          speed:        122
+
+Pokedex ID: 658	Capture Rate: 45
+Base Exp: 239	Happiness: 70
+Height: 15	Weight: 400
+
+Genus: Ninja Pokémon
+Location Areas:
+

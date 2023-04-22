@@ -1,15 +1,23 @@
+klefki	A steel type Pokémon
 
-Name:  Klefki
-Pokedex Number:  707
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Prankster - Magician (Hidden Ability)
+カギを　集める　習性。
+敵に　襲われると　ジャラジャラと
+カギを　打ち鳴らして　威嚇する。
 
-Base Stats
-----------------------
-Total: 470
-Hp:  57
-Attack:  80
-Defence:  91
-Special Attack:  80
-Special Defence:  87
-Speed:  75
+   ↞--------| STATS |--------↠ 
+             hp:         57
+         attack:         80
+        defense:         91
+ special-attack:         80
+special-defense:         87
+          speed:         75
+
+Pokedex ID: 707	Capture Rate: 75
+Base Exp: 165	Happiness: 50
+Height: 2	Weight: 30
+
+Genus: Key Ring Pokémon
+Location Areas:
+kalos-route-15-area
+kalos-route-16-area
+lost-hotel-area

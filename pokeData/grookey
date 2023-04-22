@@ -1,15 +1,21 @@
+grookey	A grass type Pokémon
 
-Name:  Grookey
-Pokedex Number:  810
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Overgrow - Grassy Surge (Hidden Ability)
+When it uses its special stick to strike up a beat,
+the sound waves produced carry revitalizing
+energy to the plants and flowers in the area.
 
-Base Stats
-----------------------
-Total: 310
-Hp:  50
-Attack:  65
-Defence:  50
-Special Attack:  40
-Special Defence:  40
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         65
+        defense:         50
+ special-attack:         40
+special-defense:         40
+          speed:         65
+
+Pokedex ID: 810	Capture Rate: 45
+Base Exp: 62	Happiness: 50
+Height: 3	Weight: 50
+
+Genus: Chimp Pokémon
+Location Areas:
+

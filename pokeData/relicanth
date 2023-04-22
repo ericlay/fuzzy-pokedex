@@ -1,15 +1,27 @@
+relicanth	A water type Pokémon
 
-Name:  Relicanth
-Pokedex Number:  369
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Swift Swim - Rock Head - Sturdy (Hidden Ability)
+A rare Pokémon discovered during
+a deep-sea exploration. It has not
+changed in over 100 million years.
 
-Base Stats
-----------------------
-Total: 485
-Hp:  100
-Attack:  90
-Defence:  130
-Special Attack:  45
-Special Defence:  65
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:         90
+        defense:        130
+ special-attack:         45
+special-defense:         65
+          speed:         55
+
+Pokedex ID: 369	Capture Rate: 25
+Base Exp: 170	Happiness: 50
+Height: 10	Weight: 234
+
+Genus: Longevity Pokémon
+Location Areas:
+sinnoh-sea-route-226-area
+kanto-route-12-area
+hoenn-route-124-underwater
+hoenn-route-126-underwater
+unova-route-4-area
+ambrette-town-area
+cyllage-city-area

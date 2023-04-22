@@ -1,15 +1,19 @@
+sneasler	A fighting type Pokémon
 
-Name:  Sneasler
-Pokedex Number:  903
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Pressure - Unburden - Poison Touch (Hidden Ability)
+                null
 
-Base Stats
-----------------------
-Total: 510
-Hp:  80
-Attack:  130
-Defence:  60
-Special Attack:  40
-Special Defence:  80
-Speed:  120
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        130
+        defense:         60
+ special-attack:         40
+special-defense:         80
+          speed:        120
+
+Pokedex ID: 903	Capture Rate: 135
+Base Exp: null	Happiness: null
+Height: 13	Weight: 430
+
+Genus: null
+Location Areas:
+

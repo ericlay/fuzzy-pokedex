@@ -1,15 +1,30 @@
+watchog	A normal type Pokémon
 
-Name:  Watchog
-Pokedex Number:  505
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Illuminate - Keen Eye - Analytic (Hidden Ability)
+체내의 발광물질로
+눈이나 몸을 빛나게 하여
+습격해 온 상대를 풀이 죽게 만든다.
 
-Base Stats
-----------------------
-Total: 420
-Hp:  60
-Attack:  85
-Defence:  69
-Special Attack:  60
-Special Defence:  69
-Speed:  77
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         85
+        defense:         69
+ special-attack:         60
+special-defense:         69
+          speed:         77
+
+Pokedex ID: 505	Capture Rate: 255
+Base Exp: 147	Happiness: 70
+Height: 11	Weight: 270
+
+Genus: Lookout Pokémon
+Location Areas:
+dreamyard-area
+dreamyard-b1f
+p2-laboratory-area
+unova-route-1-area
+unova-route-2-area
+unova-route-3-area
+unova-route-7-area
+unova-route-15-area
+unova-route-18-area
+kalos-route-15-area

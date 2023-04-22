@@ -1,15 +1,21 @@
+vivillon	A bug type Pokémon
 
-Name:  Vivillon
-Pokedex Number:  666
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shield Dust - Compoundeyes - Friend Guard (Hidden Ability)
+世界には　さまざまな　羽模様の
+ビビヨンがいる。住んでいる　土地の
+気候が　影響しているようだ。
 
-Base Stats
-----------------------
-Total: 411
-Hp:  80
-Attack:  52
-Defence:  50
-Special Attack:  90
-Special Defence:  50
-Speed:  89
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:         52
+        defense:         50
+ special-attack:         90
+special-defense:         50
+          speed:         89
+
+Pokedex ID: 666	Capture Rate: 45
+Base Exp: 185	Happiness: 70
+Height: 12	Weight: 170
+
+Genus: Scale Pokémon
+Location Areas:
+

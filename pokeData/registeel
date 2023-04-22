@@ -1,15 +1,21 @@
+registeel	A steel type Pokémon
 
-Name:  Registeel
-Pokedex Number:  379
-Gender Ratio:  Genderless
-Abilities: Clear Body - Light Metal (Hidden Ability)
+Tempered by pressure underground
+over tens of thousands of years,
+its body cannot be scratched.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  80
-Attack:  75
-Defence:  150
-Special Attack:  75
-Special Defence:  150
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:         75
+        defense:        150
+ special-attack:         75
+special-defense:        150
+          speed:         50
+
+Pokedex ID: 379	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 19	Weight: 2050
+
+Genus: Iron Pokémon
+Location Areas:
+ancient-tomb-area

@@ -1,15 +1,21 @@
+toxapex	A poison type Pokémon
 
-Name:  Toxapex
-Pokedex Number:  748
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Merciless - Limber - Regenerator (Hidden Ability)
+Toxapex crawls along the ocean floor on its
+12 legs. It leaves a trail of Corsola bits
+scattered in its wake.
 
-Base Stats
-----------------------
-Total: 495
-Hp:  50
-Attack:  63
-Defence:  152
-Special Attack:  53
-Special Defence:  142
-Speed:  35
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         63
+        defense:        152
+ special-attack:         53
+special-defense:        142
+          speed:         35
+
+Pokedex ID: 748	Capture Rate: 75
+Base Exp: 173	Happiness: 50
+Height: 7	Weight: 145
+
+Genus: Brutal Star Pokémon
+Location Areas:
+

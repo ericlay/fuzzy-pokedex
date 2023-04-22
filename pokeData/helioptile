@@ -1,15 +1,21 @@
+helioptile	A electric type Pokémon
 
-Name:  Helioptile
-Pokedex Number:  694
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Dry Skin - Sand Veil - Solar Power (Hidden Ability)
+砂漠で　生活する。
+太陽の　光を　浴びて　発電すれば
+エサを　食べなくても　平気なのだ。
 
-Base Stats
-----------------------
-Total: 289
-Hp:  44
-Attack:  38
-Defence:  33
-Special Attack:  61
-Special Defence:  43
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         44
+         attack:         38
+        defense:         33
+ special-attack:         61
+special-defense:         43
+          speed:         70
+
+Pokedex ID: 694	Capture Rate: 190
+Base Exp: 58	Happiness: 50
+Height: 5	Weight: 60
+
+Genus: Generator Pokémon
+Location Areas:
+kalos-route-9-area

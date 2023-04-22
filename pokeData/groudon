@@ -1,15 +1,23 @@
+groudon	A ground type Pokémon
 
-Name:  Groudon
-Pokedex Number:  383
-Gender Ratio:  Genderless
-Abilities: Drought
+It had been asleep in underground
+magma ever since it fiercely
+fought KYOGRE long ago.
 
-Base Stats
-----------------------
-Total: 670
-Hp:  100
-Attack:  180
-Defence:  160
-Special Attack:  150
-Special Defence:  90
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        150
+        defense:        140
+ special-attack:        100
+special-defense:         90
+          speed:         90
+
+Pokedex ID: 383	Capture Rate: 3
+Base Exp: 335	Happiness: 0
+Height: 35	Weight: 9500
+
+Genus: Continent Pokémon
+Location Areas:
+cave-of-origin-b4f
+terra-cave-area
+embedded-tower-groundon-room

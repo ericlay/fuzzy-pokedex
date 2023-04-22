@@ -1,15 +1,77 @@
+onix	A rock type Pokémon
 
-Name:  Onix
-Pokedex Number:  095
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Rock Head - Sturdy - Weak Armor (Hidden Ability)
+ONIX has a magnet in its brain. It acts
+as a compass so that this POKéMON does
+not lose direction while it is tunneling.As it grows older, its body becomes
+increasingly rounder and smoother.
 
-Base Stats
-----------------------
-Total: 385
-Hp:  35
-Attack:  45
-Defence:  160
-Special Attack:  30
-Special Defence:  45
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:         45
+        defense:        160
+ special-attack:         30
+special-defense:         45
+          speed:         70
+
+Pokedex ID: 95	Capture Rate: 45
+Base Exp: 77	Happiness: 50
+Height: 88	Weight: 2100
+
+Genus: Rock Snake Pokémon
+Location Areas:
+oreburgh-mine-1f
+oreburgh-mine-b1f
+sinnoh-victory-road-1f
+sinnoh-victory-road-2f
+sinnoh-victory-road-b1f
+sinnoh-victory-road-inside
+sinnoh-victory-road-inside-exit
+stark-mountain-entrance
+stark-mountain-inside
+snowpoint-temple-1f
+snowpoint-temple-b1f
+snowpoint-temple-b2f
+snowpoint-temple-b3f
+wayward-cave-1f
+wayward-cave-b1f
+iron-island-1f
+iron-island-b1f-left
+iron-island-b1f-right
+iron-island-b2f-right
+iron-island-b2f-left
+iron-island-b3f
+union-cave-1f
+union-cave-b1f
+union-cave-b2f
+johto-route-47-inside-cave
+mt-silver-1f
+mt-silver-mountainside
+mt-silver-top
+rock-tunnel-1f
+rock-tunnel-b1f
+kanto-victory-road-1-1f
+kanto-victory-road-1-2f
+kanto-victory-road-1-3f
+rock-tunnel-b2f
+kanto-victory-road-2-1f
+kanto-victory-road-2-2f
+kanto-victory-road-2-3f
+sevault-canyon-area
+relic-castle-c
+twist-mountain-area
+unova-victory-road-2-unknown-area-74
+unova-victory-road-2-unknown-area-75
+unova-victory-road-2-unknown-area-77
+unova-victory-road-2-unknown-area-80
+relic-passage-castelia-sewers-entrance
+relic-passage-relic-castle-entrance
+relic-passage-pwt-entrance
+clay-tunnel-area
+underground-ruins-area
+rocky-mountain-room-area
+glacier-room-area
+iron-room-area
+cyllage-city-area
+glittering-cave-unknown-area-303
+glittering-cave-unknown-area-304
+johto-safari-zone-zone-wasteland

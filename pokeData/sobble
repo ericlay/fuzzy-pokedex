@@ -1,15 +1,21 @@
+sobble	A water type Pokémon
 
-Name:  Sobble
-Pokedex Number:  816
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Torrent - Sniper (Hidden Ability)
+When scared, this Pokémon cries. Its tears pack
+the chemical punch of 100 onions, and attackers
+won’t be able to resist weeping.
 
-Base Stats
-----------------------
-Total: 310
-Hp:  50
-Attack:  40
-Defence:  40
-Special Attack:  70
-Special Defence:  40
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         40
+        defense:         40
+ special-attack:         70
+special-defense:         40
+          speed:         70
+
+Pokedex ID: 816	Capture Rate: 45
+Base Exp: 62	Happiness: 50
+Height: 3	Weight: 40
+
+Genus: Water Lizard Pokémon
+Location Areas:
+

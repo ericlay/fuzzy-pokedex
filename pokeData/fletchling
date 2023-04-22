@@ -1,15 +1,23 @@
+fletchling	A normal type Pokémon
 
-Name:  Fletchling
-Pokedex Number:  661
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Big Pecks - Gale Wings (Hidden Ability)
+人懐っこい　性格。美しい　さえずりと
+尾羽を　振る　動きで
+仲間に　合図を　送る。
 
-Base Stats
-----------------------
-Total: 278
-Hp:  45
-Attack:  50
-Defence:  43
-Special Attack:  40
-Special Defence:  38
-Speed:  62
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         50
+        defense:         43
+ special-attack:         40
+special-defense:         38
+          speed:         62
+
+Pokedex ID: 661	Capture Rate: 255
+Base Exp: 56	Happiness: 50
+Height: 3	Weight: 17
+
+Genus: Tiny Robin Pokémon
+Location Areas:
+kalos-route-2-area
+kalos-route-3-area
+santalune-forest-area

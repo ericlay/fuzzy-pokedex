@@ -1,15 +1,21 @@
+crabrawler	A fighting type Pokémon
 
-Name:  Crabrawler
-Pokedex Number:  739
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Hyper Cutter - Iron Fist - Anger Point (Hidden Ability)
+While guarding its weak points with its pincers,
+it looks for an opening and unleashes punches.
+When it loses, it foams at the mouth and faints.
 
-Base Stats
-----------------------
-Total: 338
-Hp:  47
-Attack:  82
-Defence:  57
-Special Attack:  42
-Special Defence:  47
-Speed:  63
+   ↞--------| STATS |--------↠ 
+             hp:         47
+         attack:         82
+        defense:         57
+ special-attack:         42
+special-defense:         47
+          speed:         63
+
+Pokedex ID: 739	Capture Rate: 225
+Base Exp: 68	Happiness: 70
+Height: 6	Weight: 70
+
+Genus: Boxing Pokémon
+Location Areas:
+

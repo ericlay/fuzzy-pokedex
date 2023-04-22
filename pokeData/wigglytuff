@@ -1,15 +1,26 @@
+wigglytuff	A normal type Pokémon
 
-Name:  Wigglytuff
-Pokedex Number:  040
-Gender Ratio:   ♂:25% ♀:75% 
-Abilities: Cute Charm - Competitive - Frisk (Hidden Ability)
+WIGGLYTUFF’s body is very flexible.
+By inhaling deeply, this POKéMON can
+inflate itself seemingly without end.Once inflated, WIGGLYTUFF bounces
+along lightly like a balloon.
 
-Base Stats
-----------------------
-Total: 435
-Hp:  140
-Attack:  70
-Defence:  45
-Special Attack:  85
-Special Defence:  50
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:        140
+         attack:         70
+        defense:         45
+ special-attack:         85
+special-defense:         50
+          speed:         45
+
+Pokedex ID: 40	Capture Rate: 50
+Base Exp: 218	Happiness: 50
+Height: 10	Weight: 120
+
+Genus: Balloon Pokémon
+Location Areas:
+cerulean-cave-2f
+dreamyard-area
+unova-route-1-area
+unova-route-2-area
+unova-route-14-area

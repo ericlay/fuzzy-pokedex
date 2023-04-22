@@ -1,15 +1,21 @@
+lickilicky	A normal type Pokémon
 
-Name:  Lickilicky
-Pokedex Number:  463
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Own Tempo - Oblivious - Cloud Nine (Hidden Ability)
+The long tongue is always soggy
+with slobber. The saliva contains
+a solvent that causes numbness.
 
-Base Stats
-----------------------
-Total: 515
-Hp:  110
-Attack:  85
-Defence:  95
-Special Attack:  80
-Special Defence:  95
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:        110
+         attack:         85
+        defense:         95
+ special-attack:         80
+special-defense:         95
+          speed:         50
+
+Pokedex ID: 463	Capture Rate: 30
+Base Exp: 180	Happiness: 50
+Height: 17	Weight: 1400
+
+Genus: Licking Pokémon
+Location Areas:
+unova-route-2-area

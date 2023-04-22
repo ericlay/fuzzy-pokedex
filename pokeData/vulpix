@@ -1,15 +1,35 @@
+vulpix	A fire type Pokémon
 
-Name:  Vulpix
-Pokedex Number:  037
-Gender Ratio:   ♂:25% ♀:75%
-Abilities: Flash Fire - Drought (Hidden Ability)
+Inside VULPIX’s body burns a flame that
+never goes out. During the daytime,
+when the temperatures rise, thisPOKéMON releases flames from its mouth
+to prevent its body from growing too
+hot.
 
-Base Stats
-----------------------
-Total: 299
-Hp:  38
-Attack:  41
-Defence:  40
-Special Attack:  50
-Special Defence:  65
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         38
+         attack:         41
+        defense:         40
+ special-attack:         50
+special-defense:         65
+          speed:         65
+
+Pokedex ID: 37	Capture Rate: 190
+Base Exp: 60	Happiness: 50
+Height: 6	Weight: 99
+
+Genus: Fox Pokémon
+Location Areas:
+sinnoh-route-209-area
+sinnoh-route-214-area
+johto-route-36-area
+johto-route-37-area
+johto-route-48-area
+kanto-route-7-area
+kanto-route-8-area
+pokemon-mansion-1f
+pokemon-mansion-2f
+pokemon-mansion-3f
+pokemon-mansion-b1f
+mt-pyre-outside
+abundant-shrine-area

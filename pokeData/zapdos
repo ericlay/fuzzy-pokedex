@@ -1,15 +1,24 @@
+zapdos	A electric type Pokémon
 
-Name:  Zapdos
-Pokedex Number:  145
-Gender Ratio:  Genderless
-Abilities: Pressure - Static (Hidden Ability)
+ZAPDOS is a legendary bird POKéMON that
+has the ability to control electricity.
+It usually lives in thunderclouds.The POKéMON gains power if it is
+stricken by lightning bolts.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  90
-Attack:  90
-Defence:  85
-Special Attack:  125
-Special Defence:  90
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         90
+        defense:         85
+ special-attack:        125
+special-defense:         90
+          speed:        100
+
+Pokedex ID: 145	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 16	Weight: 526
+
+Genus: Electric Pokémon
+Location Areas:
+kanto-route-10-area
+power-plant-area
+roaming-sinnoh-area

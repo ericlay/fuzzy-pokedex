@@ -1,15 +1,21 @@
+terrakion	A rock type Pokémon
 
-Name:  Terrakion
-Pokedex Number:  639
-Gender Ratio:  Genderless
-Abilities: Justified
+거대한 성벽을 일격에
+돌파할 만한 돌진력을 가졌다.
+전설로 전해지는 포켓몬이다.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  91
-Attack:  129
-Defence:  90
-Special Attack:  72
-Special Defence:  90
-Speed:  108
+   ↞--------| STATS |--------↠ 
+             hp:         91
+         attack:        129
+        defense:         90
+ special-attack:         72
+special-defense:         90
+          speed:        108
+
+Pokedex ID: 639	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 19	Weight: 2600
+
+Genus: Cavern Pokémon
+Location Areas:
+

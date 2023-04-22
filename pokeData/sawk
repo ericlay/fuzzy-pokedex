@@ -1,15 +1,28 @@
+sawk	A fighting type Pokémon
 
-Name:  Sawk
-Pokedex Number:  539
-Gender Ratio:   ♂:100% ♀:0%
-Abilities: Sturdy - Inner Focus - Mold Breaker (Hidden Ability)
+さいきょうの　からてチョップを
+もとめて　やまおくに　こもって
+ねむることなく　しゅぎょうする。
 
-Base Stats
-----------------------
-Total: 465
-Hp:  75
-Attack:  125
-Defence:  75
-Special Attack:  30
-Special Defence:  75
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:        125
+        defense:         75
+ special-attack:         30
+special-defense:         75
+          speed:         85
+
+Pokedex ID: 539	Capture Rate: 45
+Base Exp: 163	Happiness: 50
+Height: 14	Weight: 510
+
+Genus: Karate Pokémon
+Location Areas:
+pinwheel-forest-outside
+unova-route-10-area
+unova-route-10-victory-road-gate
+unova-route-15-area
+unova-route-18-area
+unova-victory-road-2-unknown-area-76
+unova-route-23-area
+kalos-route-11-area

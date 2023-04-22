@@ -1,15 +1,25 @@
+electabuzz	A electric type Pokémon
 
-Name:  Electabuzz
-Pokedex Number:  125
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Static - Vital Spirit (Hidden Ability)
+When a storm arrives, gangs of this
+POKéMON compete with each other to
+scale heights that are likely to bestricken by lightning bolts.
+Some towns use ELECTABUZZ in place of
+lightning rods.
 
-Base Stats
-----------------------
-Total: 490
-Hp:  65
-Attack:  83
-Defence:  57
-Special Attack:  95
-Special Defence:  85
-Speed:  105
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         83
+        defense:         57
+ special-attack:         95
+special-defense:         85
+          speed:        105
+
+Pokedex ID: 125	Capture Rate: 45
+Base Exp: 172	Happiness: 50
+Height: 11	Weight: 300
+
+Genus: Electric Pokémon
+Location Areas:
+sinnoh-route-222-area
+kanto-route-10-area
+power-plant-area

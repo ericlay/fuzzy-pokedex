@@ -1,15 +1,22 @@
+happiny	A normal type Pokémon
 
-Name:  Happiny
-Pokedex Number:  440
-Gender Ratio:   ♂:0% ♀:100%
-Abilities: Natural Cure - Serene Grace - Friend Guard (Hidden Ability)
+Ce Pokémon ne se sépare jamais de
+son petit caillou et a tendance à
+traîner dans les pieds des gens.
 
-Base Stats
-----------------------
-Total: 220
-Hp:  100
-Attack:  5
-Defence:  5
-Special Attack:  15
-Special Defence:  65
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:          5
+        defense:          5
+ special-attack:         15
+special-defense:         65
+          speed:         30
+
+Pokedex ID: 440	Capture Rate: 130
+Base Exp: 110	Happiness: 140
+Height: 6	Weight: 244
+
+Genus: Playhouse Pokémon
+Location Areas:
+hearthome-city-west-gate
+nacrene-city-west-gate

@@ -1,15 +1,22 @@
+whirlipede	A bug type Pokémon
 
-Name:  Whirlipede
-Pokedex Number:  544
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Poison Point - Swarm - Speed Boost (Hidden Ability)
+단단한 껍질로 보호되고 있다.
+타이어처럼 회전하여 상대에게
+격렬히 몸통박치기를 날린다.
 
-Base Stats
-----------------------
-Total: 360
-Hp:  40
-Attack:  55
-Defence:  99
-Special Attack:  40
-Special Defence:  79
-Speed:  47
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         55
+        defense:         99
+ special-attack:         40
+special-defense:         79
+          speed:         47
+
+Pokedex ID: 544	Capture Rate: 120
+Base Exp: 126	Happiness: 50
+Height: 12	Weight: 585
+
+Genus: Curlipede Pokémon
+Location Areas:
+pinwheel-forest-inside
+lostlorn-forest-area

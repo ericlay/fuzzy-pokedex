@@ -1,15 +1,21 @@
+monferno	A fire type Pokémon
 
-Name:  Monferno
-Pokedex Number:  391
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Blaze - Iron Fist (Hidden Ability)
+Il contrôle habilement l’intensité
+de la flamme de sa queue pour tenir
+ses adversaires à distance.
 
-Base Stats
-----------------------
-Total: 405
-Hp:  64
-Attack:  78
-Defence:  52
-Special Attack:  78
-Special Defence:  52
-Speed:  81
+   ↞--------| STATS |--------↠ 
+             hp:         64
+         attack:         78
+        defense:         52
+ special-attack:         78
+special-defense:         52
+          speed:         81
+
+Pokedex ID: 391	Capture Rate: 45
+Base Exp: 142	Happiness: 70
+Height: 9	Weight: 220
+
+Genus: Playful Pokémon
+Location Areas:
+

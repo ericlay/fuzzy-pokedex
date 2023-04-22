@@ -1,15 +1,28 @@
+mantyke	A water type Pokémon
 
-Name:  Mantyke
-Pokedex Number:  458
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swift Swim - Water Absorb - Water Veil (Hidden Ability)
+On organise des excursions pour le
+voir surfer sur les vagues au côté
+des Rémoraid.
 
-Base Stats
-----------------------
-Total: 345
-Hp:  45
-Attack:  20
-Defence:  50
-Special Attack:  60
-Special Defence:  120
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         20
+        defense:         50
+ special-attack:         60
+special-defense:        120
+          speed:         50
+
+Pokedex ID: 458	Capture Rate: 25
+Base Exp: 69	Happiness: 50
+Height: 10	Weight: 650
+
+Genus: Kite Pokémon
+Location Areas:
+sunyshore-city-area
+sinnoh-sea-route-223-area
+undella-bay-area
+undella-town-area
+unova-route-21-area
+shalour-city-area
+kalos-route-12-area
+azure-bay-area

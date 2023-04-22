@@ -1,15 +1,24 @@
+kirlia	A psychic type Pokémon
 
-Name:  Kirlia
-Pokedex Number:  281
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Synchronize - Trace - Telepathy (Hidden Ability)
+If its Trainer becomes happy, it
+overflows with energy, dancing
+joyously while spinning about.
 
-Base Stats
-----------------------
-Total: 278
-Hp:  38
-Attack:  35
-Defence:  35
-Special Attack:  65
-Special Defence:  55
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         38
+         attack:         35
+        defense:         35
+ special-attack:         65
+special-defense:         55
+          speed:         50
+
+Pokedex ID: 281	Capture Rate: 120
+Base Exp: 97	Happiness: 35
+Height: 8	Weight: 202
+
+Genus: Emotion Pokémon
+Location Areas:
+sinnoh-route-203-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-209-area
+sinnoh-route-212-north-towards-hearthome-city

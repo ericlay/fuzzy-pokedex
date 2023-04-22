@@ -1,15 +1,32 @@
+dusclops	A ghost type Pokémon
 
-Name:  Dusclops
-Pokedex Number:  356
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Pressure - Frisk (Hidden Ability)
+It seeks drifting will-o’-the-wisps
+and sucks them into its empty body.
+What happens inside is a mystery.
 
-Base Stats
-----------------------
-Total: 455
-Hp:  40
-Attack:  70
-Defence:  130
-Special Attack:  60
-Special Defence:  130
-Speed:  25
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         70
+        defense:        130
+ special-attack:         60
+special-defense:        130
+          speed:         25
+
+Pokedex ID: 356	Capture Rate: 90
+Base Exp: 159	Happiness: 35
+Height: 16	Weight: 306
+
+Genus: Beckon Pokémon
+Location Areas:
+sendoff-spring-area
+turnback-cave-pillar-1
+turnback-cave-pillar-2
+turnback-cave-pillar-3
+turnback-cave-before-pillar-1
+turnback-cave-between-pillars-1-and-2
+turnback-cave-between-pillars-2-and-3
+turnback-cave-after-pillar-3
+sinnoh-route-224-area
+sky-pillar-1f
+sky-pillar-3f
+sky-pillar-5f

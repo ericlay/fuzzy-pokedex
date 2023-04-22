@@ -1,15 +1,22 @@
+feebas	A water type Pokémon
 
-Name:  Feebas
-Pokedex Number:  349
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swift Swim - Oblivious - Adaptability (Hidden Ability)
+It is a shabby and ugly Pokémon.
+However, it is very hardy and
+can survive on little water.
 
-Base Stats
-----------------------
-Total: 200
-Hp:  20
-Attack:  15
-Defence:  20
-Special Attack:  10
-Special Defence:  55
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         20
+         attack:         15
+        defense:         20
+ special-attack:         10
+special-defense:         55
+          speed:         80
+
+Pokedex ID: 349	Capture Rate: 255
+Base Exp: 40	Happiness: 50
+Height: 6	Weight: 74
+
+Genus: Fish Pokémon
+Location Areas:
+hoenn-route-119-area
+unova-route-1-area

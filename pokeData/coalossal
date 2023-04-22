@@ -1,15 +1,21 @@
+coalossal	A rock type Pokémon
 
-Name:  Coalossal
-Pokedex Number:  839
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Steam Engine - Flame Body - Flash Fire (Hidden Ability)
+Di solito è tranquillo, ma se gli esseri umani
+danneggiano la sua miniera va su tutte le furie e
+brucia tutto emettendo fiamme a 1.500 ºC.
 
-Base Stats
-----------------------
-Total: 510
-Hp:  110
-Attack:  80
-Defence:  120
-Special Attack:  80
-Special Defence:  90
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:        110
+         attack:         80
+        defense:        120
+ special-attack:         80
+special-defense:         90
+          speed:         30
+
+Pokedex ID: 839	Capture Rate: 45
+Base Exp: 255	Happiness: 50
+Height: 28	Weight: 3105
+
+Genus: Coal Pokémon
+Location Areas:
+

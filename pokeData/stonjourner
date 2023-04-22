@@ -1,15 +1,21 @@
+stonjourner	A rock type Pokémon
 
-Name:  Stonjourner
-Pokedex Number:  874
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Power Spot
+It stands in grasslands, watching the sun’s descent
+from zenith to horizon. This Pokémon has a talent
+for delivering dynamic kicks.
 
-Base Stats
-----------------------
-Total: 470
-Hp:  100
-Attack:  125
-Defence:  135
-Special Attack:  20
-Special Defence:  20
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        125
+        defense:        135
+ special-attack:         20
+special-defense:         20
+          speed:         70
+
+Pokedex ID: 874	Capture Rate: 60
+Base Exp: 165	Happiness: 50
+Height: 25	Weight: 5200
+
+Genus: Big Rock Pokémon
+Location Areas:
+

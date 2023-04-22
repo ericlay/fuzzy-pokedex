@@ -1,15 +1,20 @@
+falinks	A fighting type Pokémon
 
-Name:  Falinks
-Pokedex Number:  870
-Gender Ratio:  Genderless
-Abilities: Battle Armor - Defiant (Hidden Ability)
+Five of them are troopers, and one is the brass.
+The brass’s orders are absolute.
 
-Base Stats
-----------------------
-Total: 470
-Hp:  65
-Attack:  100
-Defence:  100
-Special Attack:  70
-Special Defence:  60
-Speed:  75
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:        100
+        defense:        100
+ special-attack:         70
+special-defense:         60
+          speed:         75
+
+Pokedex ID: 870	Capture Rate: 45
+Base Exp: 165	Happiness: 50
+Height: 30	Weight: 620
+
+Genus: Formation Pokémon
+Location Areas:
+

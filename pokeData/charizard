@@ -1,15 +1,23 @@
+charizard	A fire type Pokémon
 
-Name:  Charizard
-Pokedex Number:  006
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Blaze - Solar Power (Hidden Ability)
+CHARIZARD flies around the sky in
+search of powerful opponents.
+It breathes fire of such great heatthat it melts anything. However, it
+never turns its fiery breath on any
+opponent weaker than itself.
 
-Base Stats
-----------------------
-Total: 534
-Hp:  78
-Attack:  104
-Defence:  78
-Special Attack:  159
-Special Defence:  115
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         78
+         attack:         84
+        defense:         78
+ special-attack:        109
+special-defense:         85
+          speed:        100
+
+Pokedex ID: 6	Capture Rate: 45
+Base Exp: 267	Happiness: 50
+Height: 17	Weight: 905
+
+Genus: Flame Pokémon
+Location Areas:
+

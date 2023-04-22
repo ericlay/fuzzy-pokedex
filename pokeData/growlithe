@@ -1,15 +1,35 @@
+growlithe	A fire type Pokémon
 
-Name:  Growlithe
-Pokedex Number:  058
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Intimidate - Flash Fire - Justified (Hidden Ability)
+GROWLITHE has a superb sense of smell.
+Once it smells anything, this POKéMON
+won’t forget the scent, no matter what.It uses its advanced olfactory sense
+to determine the emotions of other
+living things.
 
-Base Stats
-----------------------
-Total: 350
-Hp:  55
-Attack:  70
-Defence:  45
-Special Attack:  70
-Special Defence:  50
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         70
+        defense:         45
+ special-attack:         70
+special-defense:         50
+          speed:         60
+
+Pokedex ID: 58	Capture Rate: 190
+Base Exp: 70	Happiness: 50
+Height: 7	Weight: 190
+
+Genus: Puppy Pokémon
+Location Areas:
+sinnoh-route-201-area
+sinnoh-route-202-area
+johto-route-35-area
+johto-route-36-area
+johto-route-37-area
+johto-route-48-area
+kanto-route-7-area
+kanto-route-8-area
+pokemon-mansion-1f
+pokemon-mansion-2f
+pokemon-mansion-3f
+pokemon-mansion-b1f
+virbank-complex-inner

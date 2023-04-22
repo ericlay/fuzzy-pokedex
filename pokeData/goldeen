@@ -1,15 +1,121 @@
+goldeen	A water type Pokémon
 
-Name:  Goldeen
-Pokedex Number:  118
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swift Swim - Water Veil - Lightningrod (Hidden Ability)
+GOLDEEN loves swimming wild and free
+in rivers and ponds.
+If one of these POKéMON is placed in anaquarium, it will shatter even the
+thickest glass with one ram of its horn
+and make its escape.
 
-Base Stats
-----------------------
-Total: 320
-Hp:  45
-Attack:  67
-Defence:  60
-Special Attack:  35
-Special Defence:  50
-Speed:  63
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         67
+        defense:         60
+ special-attack:         35
+special-defense:         50
+          speed:         63
+
+Pokedex ID: 118	Capture Rate: 225
+Base Exp: 64	Happiness: 50
+Height: 6	Weight: 150
+
+Genus: Goldfish Pokémon
+Location Areas:
+sendoff-spring-area
+lake-verity-before-galactic-intervention
+lake-verity-after-galactic-intervention
+lake-valor-area
+lake-acuity-area
+sinnoh-route-203-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+sinnoh-route-208-area
+sinnoh-route-209-area
+sinnoh-route-212-north-towards-hearthome-city
+sinnoh-route-214-area
+sinnoh-route-229-area
+twinleaf-town-area
+celestic-town-area
+resort-area-area
+union-cave-1f
+union-cave-b1f
+slowpoke-well-1f
+slowpoke-well-b1f
+johto-route-42-area
+mt-mortar-1f
+mt-mortar-upper-cave
+mt-mortar-b1f
+dark-cave-violet-city-entrance
+dark-cave-blackthorn-city-entrance
+seafoam-islands-b3f
+seafoam-islands-b4f
+mt-silver-2f
+mt-silver-1f-top
+mt-silver-4f
+mt-silver-1f
+mt-silver-top
+unknown-all-rattata-area
+kanto-route-12-area
+kanto-sea-route-19-area
+kanto-sea-route-20-area
+cinnabar-island-area
+viridian-city-area
+cerulean-city-area
+vermilion-city-area
+celadon-city-area
+fuchsia-city-area
+pallet-town-area
+kanto-route-4-area
+kanto-route-6-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-11-area
+kanto-route-13-area
+kanto-route-17-area
+kanto-route-18-area
+kanto-sea-route-21-area
+kanto-route-22-area
+kanto-route-24-area
+kanto-route-25-area
+tohjo-falls-area
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+kanto-route-23-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+vermilion-city-ss-anne-dock
+petalburg-city-area
+meteor-falls-area
+meteor-falls-back
+meteor-falls-b1f
+meteor-falls-backsmall-room
+hoenn-victory-road-b2f
+hoenn-route-102-area
+hoenn-route-111-area
+hoenn-route-114-area
+hoenn-route-117-area
+hoenn-route-120-area
+hoenn-safari-zone-nwmach-bike-area
+hoenn-safari-zone-sw
+hoenn-safari-zone-expansion-south
+berry-forest-area
+icefall-cave-entrance
+cape-brink-area
+ruin-valley-area
+four-island-area
+striaton-city-area
+pinwheel-forest-inside
+unova-route-3-area
+unova-route-11-area
+unova-route-14-area
+abundant-shrine-area
+lostlorn-forest-area
+aspertia-city-area
+unova-route-22-area
+kalos-route-3-area
+kalos-route-22-area
+parfum-palace-area
+johto-safari-zone-zone-swamp
+johto-safari-zone-zone-rocky-beach

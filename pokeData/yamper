@@ -1,15 +1,21 @@
+yamper	A electric type Pokémon
 
-Name:  Yamper
-Pokedex Number:  835
-Gender Ratio:   ♂:50.2% ♀:49.8%
-Abilities: Ball Fetch - Rattled (Hidden Ability)
+This Pokémon is very popular as a herding dog
+in the Galar region. As it runs, it generates
+electricity from the base of its tail.
 
-Base Stats
-----------------------
-Total: 270
-Hp:  59
-Attack:  45
-Defence:  50
-Special Attack:  40
-Special Defence:  50
-Speed:  26
+   ↞--------| STATS |--------↠ 
+             hp:         59
+         attack:         45
+        defense:         50
+ special-attack:         40
+special-defense:         50
+          speed:         26
+
+Pokedex ID: 835	Capture Rate: 255
+Base Exp: 54	Happiness: 50
+Height: 3	Weight: 135
+
+Genus: Puppy Pokémon
+Location Areas:
+

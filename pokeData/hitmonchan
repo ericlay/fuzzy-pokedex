@@ -1,15 +1,23 @@
+hitmonchan	A fighting type Pokémon
 
-Name:  Hitmonchan
-Pokedex Number:  107
-Gender Ratio:   ♂:100% ♀:0%
-Abilities: Keen Eye - Iron Fist - Inner Focus (Hidden Ability)
+HITMONCHAN is said to possess the
+spirit of a boxer who had been working
+towards a world championship.This POKéMON has an indomitable spirit
+and will never give up in the face of
+adversity.
 
-Base Stats
-----------------------
-Total: 455
-Hp:  50
-Attack:  105
-Defence:  79
-Special Attack:  35
-Special Defence:  110
-Speed:  76
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:        105
+        defense:         79
+ special-attack:         35
+special-defense:        110
+          speed:         76
+
+Pokedex ID: 107	Capture Rate: 45
+Base Exp: 159	Happiness: 50
+Height: 14	Weight: 502
+
+Genus: Punching Pokémon
+Location Areas:
+saffron-city-fighting-dojo

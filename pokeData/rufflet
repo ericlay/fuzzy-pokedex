@@ -1,15 +1,26 @@
+rufflet	A normal type Pokémon
 
-Name:  Rufflet
-Pokedex Number:  627
-Gender Ratio:   ♂:100% ♀:0% 
-Abilities: Keen Eye - Sheer Force - Hustle (Hidden Ability)
+きゃくりょくで　きのみを　くだく。
+どんなに　つよい　あいてでも
+ゆうかんに　たちむかう　しゅうせい。
 
-Base Stats
-----------------------
-Total: 350
-Hp:  70
-Attack:  83
-Defence:  50
-Special Attack:  37
-Special Defence:  50
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         83
+        defense:         50
+ special-attack:         37
+special-defense:         50
+          speed:         60
+
+Pokedex ID: 627	Capture Rate: 190
+Base Exp: 70	Happiness: 50
+Height: 5	Weight: 105
+
+Genus: Eaglet Pokémon
+Location Areas:
+unova-victory-road-outside
+village-bridge-area
+unova-route-10-area
+unova-route-10-victory-road-gate
+unova-route-11-area
+unova-route-23-area

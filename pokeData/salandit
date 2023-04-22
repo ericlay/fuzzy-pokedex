@@ -1,15 +1,21 @@
+salandit	A poison type Pokémon
 
-Name:  Salandit
-Pokedex Number:  757
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Corrosion - Oblivious (Hidden Ability)
+It burns its bodily fluids to create a poisonous
+gas. When its enemies become disoriented from
+inhaling the gas, it attacks them.
 
-Base Stats
-----------------------
-Total: 320
-Hp:  48
-Attack:  44
-Defence:  40
-Special Attack:  71
-Special Defence:  40
-Speed:  77
+   ↞--------| STATS |--------↠ 
+             hp:         48
+         attack:         44
+        defense:         40
+ special-attack:         71
+special-defense:         40
+          speed:         77
+
+Pokedex ID: 757	Capture Rate: 120
+Base Exp: 64	Happiness: 50
+Height: 6	Weight: 48
+
+Genus: Toxic Lizard Pokémon
+Location Areas:
+

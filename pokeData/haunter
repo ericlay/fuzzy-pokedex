@@ -1,15 +1,67 @@
+haunter	A ghost type Pokémon
 
-Name:  Haunter
-Pokedex Number:  093
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Levitate
+HAUNTER is a dangerous POKéMON.
+If one beckons you while floating in
+darkness, you must never approach it.This POKéMON will try to lick you with its
+tongue and steal your life away.
 
-Base Stats
-----------------------
-Total: 405
-Hp:  45
-Attack:  50
-Defence:  45
-Special Attack:  115
-Special Defence:  55
-Speed:  95
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         50
+        defense:         45
+ special-attack:        115
+special-defense:         55
+          speed:         95
+
+Pokedex ID: 93	Capture Rate: 90
+Base Exp: 142	Happiness: 50
+Height: 16	Weight: 1
+
+Genus: Gas Pokémon
+Location Areas:
+turnback-cave-pillar-1
+turnback-cave-pillar-2
+turnback-cave-pillar-3
+turnback-cave-before-pillar-1
+turnback-cave-between-pillars-1-and-2
+turnback-cave-between-pillars-2-and-3
+turnback-cave-after-pillar-3
+old-chateau-entrance
+old-chateau-dining-room
+old-chateau-2f-private-room
+old-chateau-2f
+old-chateau-2f-leftmost-room
+old-chateau-2f-left-room
+old-chateau-2f-middle-room
+old-chateau-2f-right-room
+old-chateau-2f-rightmost-room
+rock-tunnel-1f
+rock-tunnel-b1f
+kanto-route-8-area
+pokemon-tower-3f
+pokemon-tower-4f
+pokemon-tower-5f
+pokemon-tower-6f
+pokemon-tower-7f
+lost-cave-room-1
+lost-cave-room-2
+lost-cave-room-3
+lost-cave-room-4
+lost-cave-room-5
+lost-cave-room-6
+lost-cave-room-7
+lost-cave-room-8
+lost-cave-room-9
+lost-cave-room-10
+lost-cave-item-rooms
+kalos-route-14-area
+kalos-route-19-area
+frost-cavern-unknown-area-314
+frost-cavern-unknown-area-315
+frost-cavern-unknown-area-316
+frost-cavern-unknown-area-317
+kalos-victory-road-unknown-area-322
+kalos-victory-road-unknown-area-324
+kalos-victory-road-unknown-area-326
+kalos-victory-road-unknown-area-328
+johto-safari-zone-zone-forest

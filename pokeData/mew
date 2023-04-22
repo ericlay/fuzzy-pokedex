@@ -1,15 +1,22 @@
+mew	A psychic type Pokémon
 
-Name:  Mew
-Pokedex Number:  150
-Gender Ratio:  Genderless
-Abilities: Pressure - Unnerve (Hidden Ability)
+MEW is said to possess the genetic
+composition of all POKéMON.
+It is capable of making itself invisibleat will, so it entirely avoids notice even
+if it approaches people.
 
-Base Stats
-----------------------
-Total: 680
-Hp:  106
-Attack:  150
-Defence:  70
-Special Attack:  194
-Special Defence:  120
-Speed:  140
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        100
+        defense:        100
+ special-attack:        100
+special-defense:        100
+          speed:        100
+
+Pokedex ID: 151	Capture Rate: 45
+Base Exp: 300	Happiness: 100
+Height: 4	Weight: 40
+
+Genus: New Species Pokémon
+Location Areas:
+faraway-island-area

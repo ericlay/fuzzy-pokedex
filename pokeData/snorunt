@@ -1,15 +1,25 @@
+snorunt	A ice type Pokémon
 
-Name:  Snorunt
-Pokedex Number:  361
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Inner Focus - Ice Body - Moody (Hidden Ability)
+It is said that several SNORUNT
+gather under giant leaves and
+live together in harmony.
 
-Base Stats
-----------------------
-Total: 300
-Hp:  50
-Attack:  50
-Defence:  50
-Special Attack:  50
-Special Defence:  50
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         50
+        defense:         50
+ special-attack:         50
+special-defense:         50
+          speed:         50
+
+Pokedex ID: 361	Capture Rate: 190
+Base Exp: 60	Happiness: 50
+Height: 7	Weight: 168
+
+Genus: Snow Hat Pokémon
+Location Areas:
+lake-acuity-area
+acuity-lakefront-area
+sinnoh-route-216-area
+sinnoh-route-217-area
+shoal-cave-b1f

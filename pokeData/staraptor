@@ -1,15 +1,21 @@
+staraptor	A normal type Pokémon
 
-Name:  Staraptor
-Pokedex Number:  398
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Intimidate - Reckless (Hidden Ability)
+Il combattra sans relâche, même
+blessé. Il prend grand soin de sa
+mèche.
 
-Base Stats
-----------------------
-Total: 485
-Hp:  85
-Attack:  120
-Defence:  70
-Special Attack:  50
-Special Defence:  60
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:        120
+        defense:         70
+ special-attack:         50
+special-defense:         60
+          speed:        100
+
+Pokedex ID: 398	Capture Rate: 45
+Base Exp: 218	Happiness: 70
+Height: 12	Weight: 249
+
+Genus: Predator Pokémon
+Location Areas:
+

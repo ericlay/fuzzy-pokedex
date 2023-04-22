@@ -1,15 +1,25 @@
+spheal	A ice type Pokémon
 
-Name:  Spheal
-Pokedex Number:  363
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Thick Fat - Ice Body - Oblivious (Hidden Ability)
+It rolls across ice floes to reach
+shore because its body is poorly
+shaped for swimming.
 
-Base Stats
-----------------------
-Total: 290
-Hp:  70
-Attack:  40
-Defence:  50
-Special Attack:  55
-Special Defence:  50
-Speed:  25
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         40
+        defense:         50
+ special-attack:         55
+special-defense:         50
+          speed:         25
+
+Pokedex ID: 363	Capture Rate: 255
+Base Exp: 58	Happiness: 50
+Height: 8	Weight: 395
+
+Genus: Clap Pokémon
+Location Areas:
+sinnoh-sea-route-226-area
+sinnoh-sea-route-230-area
+shoal-cave-area
+shoal-cave-b1f
+undella-bay-area

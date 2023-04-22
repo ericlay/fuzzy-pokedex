@@ -1,15 +1,55 @@
+hoothoot	A normal type Pokémon
 
-Name:  Hoothoot
-Pokedex Number:  163
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Insomnia - Keen Eye - Tinted Lens (Hidden Ability)
+It always stands on one foot. It changes
+feet so fast, the movement can rarely be
+seen.
 
-Base Stats
-----------------------
-Total: 262
-Hp:  60
-Attack:  30
-Defence:  30
-Special Attack:  36
-Special Defence:  56
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         30
+        defense:         30
+ special-attack:         36
+special-defense:         56
+          speed:         50
+
+Pokedex ID: 163	Capture Rate: 255
+Base Exp: 52	Happiness: 50
+Height: 7	Weight: 212
+
+Genus: Owl Pokémon
+Location Areas:
+eterna-forest-area
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+sinnoh-route-205-east-towards-eterna-city
+sinnoh-route-210-south-towards-solaceon-town
+sinnoh-route-210-west-towards-celestic-town
+sinnoh-route-211-west-towards-eterna-city
+johto-route-29-area
+johto-route-30-area
+johto-route-31-area
+johto-route-32-area
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+national-park-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+johto-route-43-area
+lake-of-rage-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-1-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-5-area
+kanto-route-25-area
+kanto-route-2-north-towards-pewter-city
+viridian-forest-area
+hoenn-safari-zone-expansion-south
+hoenn-safari-zone-expansion-north

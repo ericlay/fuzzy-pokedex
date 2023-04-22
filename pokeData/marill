@@ -1,15 +1,60 @@
+marill	A water type Pokémon
 
-Name:  Marill
-Pokedex Number:  183
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Thick Fat - Huge Power - Sap Sipper (Hidden Ability)
+The tip of its tail, which contains oil
+that is lighter than water, lets it swim
+without drowning.
 
-Base Stats
-----------------------
-Total: 250
-Hp:  70
-Attack:  20
-Defence:  50
-Special Attack:  20
-Special Defence:  50
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         20
+        defense:         50
+ special-attack:         20
+special-defense:         50
+          speed:         40
+
+Pokedex ID: 183	Capture Rate: 190
+Base Exp: 88	Happiness: 50
+Height: 4	Weight: 85
+
+Genus: Aqua Mouse Pokémon
+Location Areas:
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+sinnoh-route-212-north-towards-hearthome-city
+sinnoh-route-215-area
+johto-route-42-area
+mt-mortar-1f
+mt-mortar-lower-cave
+mt-mortar-upper-cave
+mt-mortar-b1f
+petalburg-city-area
+hoenn-route-102-area
+hoenn-route-104-area
+hoenn-route-111-area
+hoenn-route-112-area
+hoenn-route-114-area
+hoenn-route-117-area
+hoenn-route-120-area
+hoenn-safari-zone-expansion-south
+icefall-cave-entrance
+ruin-valley-area
+four-island-area
+pinwheel-forest-inside
+village-bridge-area
+unova-route-6-area
+unova-route-11-area
+abundant-shrine-area
+unova-victory-road-2-unknown-area-71
+unova-victory-road-2-unknown-area-75
+unova-victory-road-2-unknown-area-78
+floccesy-ranch-outer
+floccesy-ranch-inner
+relic-passage-relic-castle-entrance
+unova-route-20-area
+unova-route-22-area
+kalos-route-3-area
+johto-safari-zone-zone-meadow

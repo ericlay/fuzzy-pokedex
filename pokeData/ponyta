@@ -1,15 +1,40 @@
+ponyta	A fire type Pokémon
 
-Name:  Ponyta
-Pokedex Number:  077
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Run Away - Flash Fire - Flame Body (Hidden Ability)
+PONYTA is very weak at birth.
+It can barely stand up.
+This POKéMON becomes stronger bystumbling and falling to keep up with
+its parent.
 
-Base Stats
-----------------------
-Total: 410
-Hp:  50
-Attack:  85
-Defence:  55
-Special Attack:  65
-Special Defence:  65
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         85
+        defense:         55
+ special-attack:         65
+special-defense:         65
+          speed:         90
+
+Pokedex ID: 77	Capture Rate: 190
+Base Exp: 82	Happiness: 50
+Height: 10	Weight: 300
+
+Genus: Fire Horse Pokémon
+Location Areas:
+sinnoh-route-206-area
+sinnoh-route-207-area
+sinnoh-route-210-south-towards-solaceon-town
+sinnoh-route-211-west-towards-eterna-city
+sinnoh-route-211-east-towards-celestic-town
+sinnoh-route-214-area
+sinnoh-route-215-area
+mt-silver-outside
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-28-area
+kanto-route-17-area
+kanto-route-22-area
+pokemon-mansion-1f
+pokemon-mansion-2f
+pokemon-mansion-3f
+pokemon-mansion-b1f
+mt-ember-area
+kindle-road-area

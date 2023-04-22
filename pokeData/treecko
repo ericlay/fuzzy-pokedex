@@ -1,15 +1,22 @@
+treecko	A grass type Pokémon
 
-Name:  Treecko
-Pokedex Number:  252
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Overgrow - Unburden (Hidden Ability)
+The soles of its feet are covered
+by countless tiny spikes, enabling
+it to walk on walls and ceilings.
 
-Base Stats
-----------------------
-Total: 310
-Hp:  40
-Attack:  45
-Defence:  35
-Special Attack:  65
-Special Defence:  55
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         45
+        defense:         35
+ special-attack:         65
+special-defense:         55
+          speed:         70
+
+Pokedex ID: 252	Capture Rate: 45
+Base Exp: 62	Happiness: 50
+Height: 5	Weight: 50
+
+Genus: Wood Gecko Pokémon
+Location Areas:
+hoenn-route-101-area
+saffron-city-silph-co

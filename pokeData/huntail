@@ -1,15 +1,22 @@
+huntail	A water type Pokémon
 
-Name:  Huntail
-Pokedex Number:  367
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swift Swim - Water Veil (Hidden Ability)
+It lives deep in the sea. With a
+tail shaped like a small fish, it
+attracts unsuspecting prey.
 
-Base Stats
-----------------------
-Total: 485
-Hp:  55
-Attack:  104
-Defence:  105
-Special Attack:  94
-Special Defence:  75
-Speed:  52
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:        104
+        defense:        105
+ special-attack:         94
+special-defense:         75
+          speed:         52
+
+Pokedex ID: 367	Capture Rate: 60
+Base Exp: 170	Happiness: 70
+Height: 17	Weight: 270
+
+Genus: Deep Sea Pokémon
+Location Areas:
+unova-route-4-area
+kalos-route-12-area

@@ -1,15 +1,36 @@
+skorupi	A poison type Pokémon
 
-Name:  Skorupi
-Pokedex Number:  451
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Battle Armor - Sniper - Keen Eye (Hidden Ability)
+Il saisit sa proie avec les pinces de
+sa queue et lui injecte un poison.
+Il peut survivre un an sans manger.
 
-Base Stats
-----------------------
-Total: 330
-Hp:  40
-Attack:  50
-Defence:  90
-Special Attack:  30
-Special Defence:  55
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         50
+        defense:         90
+ special-attack:         30
+special-defense:         55
+          speed:         65
+
+Pokedex ID: 451	Capture Rate: 120
+Base Exp: 66	Happiness: 50
+Height: 8	Weight: 120
+
+Genus: Scorpion Pokémon
+Location Areas:
+reversal-mountain-unknown-area-48
+reversal-mountain-unknown-area-49
+reversal-mountain-unknown-area-50
+reversal-mountain-unknown-area-51
+reversal-mountain-unknown-area-52
+reversal-mountain-unknown-area-53
+reversal-mountain-unknown-area-54
+reversal-mountain-unknown-area-55
+reversal-mountain-unknown-area-56
+reversal-mountain-unknown-area-57
+reversal-mountain-unknown-area-58
+reversal-mountain-unknown-area-59
+reversal-mountain-unknown-area-60
+kalos-route-14-area
+kalos-route-15-area
+kalos-route-16-area

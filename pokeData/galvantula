@@ -1,15 +1,21 @@
+galvantula	A bug type Pokémon
 
-Name:  Galvantula
-Pokedex Number:  596
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Compoundeyes - Unnerve - Swarm (Hidden Ability)
+전기를 띤 실로 함정을 설치한다.
+감전돼서 움직이지 못하는
+먹이를 천천히 먹어치운다.
 
-Base Stats
-----------------------
-Total: 472
-Hp:  70
-Attack:  77
-Defence:  60
-Special Attack:  97
-Special Defence:  60
-Speed:  108
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         77
+        defense:         60
+ special-attack:         97
+special-defense:         60
+          speed:        108
+
+Pokedex ID: 596	Capture Rate: 75
+Base Exp: 165	Happiness: 50
+Height: 8	Weight: 143
+
+Genus: EleSpider Pokémon
+Location Areas:
+

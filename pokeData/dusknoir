@@ -1,15 +1,21 @@
+dusknoir	A ghost type Pokémon
 
-Name:  Dusknoir
-Pokedex Number:  477
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Pressure - Frisk (Hidden Ability)
+It is said to take lost spirits
+into its pliant body and guide
+them home.
 
-Base Stats
-----------------------
-Total: 525
-Hp:  45
-Attack:  100
-Defence:  135
-Special Attack:  65
-Special Defence:  135
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:        100
+        defense:        135
+ special-attack:         65
+special-defense:        135
+          speed:         45
+
+Pokedex ID: 477	Capture Rate: 45
+Base Exp: 263	Happiness: 35
+Height: 22	Weight: 1066
+
+Genus: Gripper Pokémon
+Location Areas:
+

@@ -1,15 +1,30 @@
+drilbur	A ground type Pokémon
 
-Name:  Drilbur
-Pokedex Number:  529
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sand Rush - Sand Force - Mold Breaker (Hidden Ability)
+양손의 손톱을 서로 겹치고
+몸을 고속 회전시키면서
+맹렬한 속도로 땅속을 헤쳐나간다.
 
-Base Stats
-----------------------
-Total: 328
-Hp:  60
-Attack:  85
-Defence:  40
-Special Attack:  30
-Special Defence:  45
-Speed:  68
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         85
+        defense:         40
+ special-attack:         30
+special-defense:         45
+          speed:         68
+
+Pokedex ID: 529	Capture Rate: 120
+Base Exp: 66	Happiness: 50
+Height: 3	Weight: 85
+
+Genus: Mole Pokémon
+Location Areas:
+chargestone-cave-1f
+chargestone-cave-b1f
+chargestone-cave-b2f
+twist-mountain-area
+wellspring-cave-area
+mistralton-cave-area
+guidance-chamber-area
+relic-passage-castelia-sewers-entrance
+relic-passage-relic-castle-entrance
+relic-passage-pwt-entrance

@@ -1,15 +1,21 @@
+jirachi	A steel type Pokémon
 
-Name:  Jirachi
-Pokedex Number:  385
-Gender Ratio:  Genderless
-Abilities: Serene Grace
+It is said to have the ability to
+grant any wish for just one week
+every thousand years.
 
-Base Stats
-----------------------
-Total: 600
-Hp:  100
-Attack:  100
-Defence:  100
-Special Attack:  100
-Special Defence:  100
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        100
+        defense:        100
+ special-attack:        100
+special-defense:        100
+          speed:        100
+
+Pokedex ID: 385	Capture Rate: 3
+Base Exp: 300	Happiness: 100
+Height: 3	Weight: 11
+
+Genus: Wish Pokémon
+Location Areas:
+

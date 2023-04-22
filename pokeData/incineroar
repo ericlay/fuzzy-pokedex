@@ -1,15 +1,21 @@
+incineroar	A fire type Pokémon
 
-Name:  Incineroar
-Pokedex Number:  727
-Gender Ratio:   ♂:88.14% ♀:11.86% 
-Abilities: Blaze - Intimidate (Hidden Ability)
+Posee un carácter rudo y egoísta. Si un
+Entrenador no le cae en gracia, ignora sus
+órdenes con total impasibilidad.
 
-Base Stats
-----------------------
-Total: 530
-Hp:  95
-Attack:  115
-Defence:  90
-Special Attack:  80
-Special Defence:  90
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:        115
+        defense:         90
+ special-attack:         80
+special-defense:         90
+          speed:         60
+
+Pokedex ID: 727	Capture Rate: 45
+Base Exp: 265	Happiness: 50
+Height: 18	Weight: 830
+
+Genus: Heel Pokémon
+Location Areas:
+

@@ -1,15 +1,21 @@
+archeops	A rock type Pokémon
 
-Name:  Archeops
-Pokedex Number:  567
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Defeatist
+지상에서 도움닫기를 하여
+날아오른다. 동료와 협력하여
+먹이를 잡는 지능을 가졌다.
 
-Base Stats
-----------------------
-Total: 567
-Hp:  75
-Attack:  140
-Defence:  65
-Special Attack:  112
-Special Defence:  65
-Speed:  110
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:        140
+        defense:         65
+ special-attack:        112
+special-defense:         65
+          speed:        110
+
+Pokedex ID: 567	Capture Rate: 45
+Base Exp: 177	Happiness: 50
+Height: 14	Weight: 320
+
+Genus: First Bird Pokémon
+Location Areas:
+

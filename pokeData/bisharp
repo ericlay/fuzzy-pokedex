@@ -1,15 +1,21 @@
+bisharp	A dark type Pokémon
 
-Name:  Bisharp
-Pokedex Number:  625
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Defiant - Inner Focus - Pressure (Hidden Ability)
+몇 마리의 자망칼과 싸우게 해서
+상처 입고 움직일 수 없게 된 먹이를
+두 동강 내버리는 무서운 포켓몬.
 
-Base Stats
-----------------------
-Total: 490
-Hp:  65
-Attack:  125
-Defence:  100
-Special Attack:  60
-Special Defence:  70
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:        125
+        defense:        100
+ special-attack:         60
+special-defense:         70
+          speed:         70
+
+Pokedex ID: 625	Capture Rate: 45
+Base Exp: 172	Happiness: 35
+Height: 16	Weight: 700
+
+Genus: Sword Blade Pokémon
+Location Areas:
+unova-route-11-area

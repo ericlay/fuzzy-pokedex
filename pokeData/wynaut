@@ -1,15 +1,22 @@
+wynaut	A psychic type Pokémon
 
-Name:  Wynaut
-Pokedex Number:  360
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shadow Tag - Telepathy (Hidden Ability)
+It grows strong by pushing up
+against others en masse.
+It loves eating sweet fruit.
 
-Base Stats
-----------------------
-Total: 260
-Hp:  95
-Attack:  23
-Defence:  48
-Special Attack:  23
-Special Defence:  48
-Speed:  23
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:         23
+        defense:         48
+ special-attack:         23
+special-defense:         48
+          speed:         23
+
+Pokedex ID: 360	Capture Rate: 125
+Base Exp: 52	Happiness: 50
+Height: 6	Weight: 140
+
+Genus: Bright Pokémon
+Location Areas:
+hoenn-route-130-area
+lavaridge-town-area

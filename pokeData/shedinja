@@ -1,15 +1,21 @@
+shedinja	A bug type Pokémon
 
-Name:  Shedinja
-Pokedex Number:  292
-Gender Ratio:  Genderless
-Abilities: Wonder Guard
+A discarded bug shell that came to
+life. Peering into the crack on its
+back is said to steal one’s spirit.
 
-Base Stats
-----------------------
-Total: 236
-Hp:  1
-Attack:  90
-Defence:  45
-Special Attack:  30
-Special Defence:  30
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:          1
+         attack:         90
+        defense:         45
+ special-attack:         30
+special-defense:         30
+          speed:         40
+
+Pokedex ID: 292	Capture Rate: 45
+Base Exp: 83	Happiness: 50
+Height: 8	Weight: 12
+
+Genus: Shed Pokémon
+Location Areas:
+

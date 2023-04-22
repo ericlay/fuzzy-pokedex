@@ -1,15 +1,21 @@
+simisage	A grass type Pokémon
 
-Name:  Simisage
-Pokedex Number:  512
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Gluttony - Overgrow (Hidden Ability)
+가시가 잔뜩 박힌 꼬리를
+상대에게 힘껏 쳐서 공격한다.
+기질이 격한 포켓몬이다.
 
-Base Stats
-----------------------
-Total: 498
-Hp:  75
-Attack:  98
-Defence:  63
-Special Attack:  98
-Special Defence:  63
-Speed:  101
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         98
+        defense:         63
+ special-attack:         98
+special-defense:         63
+          speed:        101
+
+Pokedex ID: 512	Capture Rate: 75
+Base Exp: 174	Happiness: 70
+Height: 11	Weight: 305
+
+Genus: Thorn Monkey Pokémon
+Location Areas:
+

@@ -1,15 +1,39 @@
+medicham	A fighting type Pokémon
 
-Name:  Medicham
-Pokedex Number:  308
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Pure Power - Telepathy (Hidden Ability)
+It gains the ability to see the aura
+of its opponents by honing its mind
+through starvation.
 
-Base Stats
-----------------------
-Total: 410
-Hp:  60
-Attack:  100
-Defence:  85
-Special Attack:  80
-Special Defence:  85
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         60
+        defense:         75
+ special-attack:         60
+special-defense:         75
+          speed:         80
+
+Pokedex ID: 308	Capture Rate: 90
+Base Exp: 144	Happiness: 70
+Height: 13	Weight: 315
+
+Genus: Meditate Pokémon
+Location Areas:
+mt-coronet-2f
+mt-coronet-3f
+mt-coronet-exterior-snowfall
+mt-coronet-exterior-blizzard
+mt-coronet-4f
+mt-coronet-4f-small-room
+mt-coronet-5f
+mt-coronet-6f
+mt-coronet-1f-from-exterior
+sinnoh-victory-road-1f
+sinnoh-victory-road-2f
+sinnoh-victory-road-b1f
+sinnoh-victory-road-inside-b1f
+sinnoh-victory-road-inside
+sinnoh-victory-road-inside-exit
+acuity-lakefront-area
+sinnoh-route-217-area
+hoenn-victory-road-b1f
+hoenn-victory-road-b2f

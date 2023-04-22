@@ -1,15 +1,83 @@
+slowpoke	A water type Pokémon
 
-Name:  Slowpoke
-Pokedex Number:  079
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Oblivious - Own Tempo - Regenerator (Hidden Ability)
+It is always so
+absent-minded that
+it won't react,even if its
+flavorful tail is
+bitten.
 
-Base Stats
-----------------------
-Total: 315
-Hp:  90
-Attack:  65
-Defence:  65
-Special Attack:  40
-Special Defence:  40
-Speed:  15
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         65
+        defense:         65
+ special-attack:         40
+special-defense:         40
+          speed:         15
+
+Pokedex ID: 79	Capture Rate: 190
+Base Exp: 63	Happiness: 50
+Height: 12	Weight: 360
+
+Genus: Dopey Pokémon
+Location Areas:
+sinnoh-route-205-east-towards-eterna-city
+slowpoke-well-1f
+slowpoke-well-b1f
+seafoam-islands-1f
+seafoam-islands-b1f
+seafoam-islands-b2f
+seafoam-islands-b3f
+seafoam-islands-b4f
+kanto-route-12-area
+kanto-sea-route-19-area
+kanto-sea-route-20-area
+cinnabar-island-area
+viridian-city-area
+cerulean-city-area
+vermilion-city-area
+celadon-city-area
+fuchsia-city-area
+pallet-town-area
+kanto-route-4-area
+kanto-route-6-area
+kanto-route-10-area
+kanto-route-11-area
+kanto-route-13-area
+kanto-sea-route-21-area
+kanto-route-22-area
+kanto-route-24-area
+kanto-route-25-area
+tohjo-falls-area
+cerulean-cave-1f
+cerulean-cave-b1f
+kanto-route-23-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+ss-anne-area
+berry-forest-area
+icefall-cave-entrance
+icefall-cave-waterfall
+kindle-road-area
+treasure-beach-area
+cape-brink-area
+bond-bridge-area
+resort-gorgeous-area
+water-labyrinth-area
+five-isle-meadow-area
+memorial-pillar-area
+outcast-island-area
+green-path-area
+water-path-area
+ruin-valley-area
+trainer-tower-area
+canyon-entrance-area
+tanoby-ruins-area
+one-island-area
+four-island-area
+five-island-area
+abundant-shrine-area
+kalos-route-12-area
+azure-bay-area
+johto-safari-zone-zone-rocky-beach

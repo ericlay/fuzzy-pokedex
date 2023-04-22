@@ -1,15 +1,23 @@
+snivy	A grass type Pokémon
 
-Name:  Snivy
-Pokedex Number:  495
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Overgrow - Contrary (Hidden Ability)
+태양의 빛을 받으면
+평소보다 빨리 움직일 수 있다.
+손보다 덩굴을 잘 사용한다.
 
-Base Stats
-----------------------
-Total: 308
-Hp:  45
-Attack:  45
-Defence:  55
-Special Attack:  45
-Special Defence:  55
-Speed:  63
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         45
+        defense:         55
+ special-attack:         45
+special-defense:         55
+          speed:         63
+
+Pokedex ID: 495	Capture Rate: 45
+Base Exp: 62	Happiness: 70
+Height: 6	Weight: 81
+
+Genus: Grass Snake Pokémon
+Location Areas:
+hoenn-route-101-area
+aspertia-city-area
+nuvema-town-area

@@ -1,15 +1,23 @@
+flaaffy	A electric type Pokémon
 
-Name:  Flaaffy
-Pokedex Number:  180
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Static - Plus (Hidden Ability)
+Its fluffy fleece easily stores
+electricity. Its rubbery hide keeps it
+from being electrocuted.
 
-Base Stats
-----------------------
-Total: 365
-Hp:  70
-Attack:  55
-Defence:  55
-Special Attack:  80
-Special Defence:  60
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         55
+        defense:         55
+ special-attack:         80
+special-defense:         60
+          speed:         45
+
+Pokedex ID: 180	Capture Rate: 120
+Base Exp: 128	Happiness: 70
+Height: 8	Weight: 133
+
+Genus: Wool Pokémon
+Location Areas:
+sinnoh-route-222-area
+johto-route-42-area
+johto-route-43-area

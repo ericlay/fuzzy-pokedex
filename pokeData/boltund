@@ -1,15 +1,21 @@
+boltund	A electric type Pokémon
 
-Name:  Boltund
-Pokedex Number:  836
-Gender Ratio:   ♂:50.2% ♀:49.8%
-Abilities: Strong Jaw - Competitive (Hidden Ability)
+This Pokémon generates electricity and channels
+it into its legs to keep them going strong.
+Boltund can run nonstop for three full days.
 
-Base Stats
-----------------------
-Total: 490
-Hp:  69
-Attack:  90
-Defence:  60
-Special Attack:  90
-Special Defence:  60
-Speed:  121
+   ↞--------| STATS |--------↠ 
+             hp:         69
+         attack:         90
+        defense:         60
+ special-attack:         90
+special-defense:         60
+          speed:        121
+
+Pokedex ID: 836	Capture Rate: 45
+Base Exp: 172	Happiness: 50
+Height: 10	Weight: 340
+
+Genus: Dog Pokémon
+Location Areas:
+

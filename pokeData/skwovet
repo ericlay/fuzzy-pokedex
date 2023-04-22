@@ -1,15 +1,21 @@
+skwovet	A normal type Pokémon
 
-Name:  Skwovet
-Pokedex Number:  819
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Cheek Pouch - Gluttony (Hidden Ability)
+Found throughout the Galar region, this Pokémon
+becomes uneasy if its cheeks are ever completely
+empty of berries.
 
-Base Stats
-----------------------
-Total: 275
-Hp:  70
-Attack:  55
-Defence:  55
-Special Attack:  35
-Special Defence:  35
-Speed:  25
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         55
+        defense:         55
+ special-attack:         35
+special-defense:         35
+          speed:         25
+
+Pokedex ID: 819	Capture Rate: 255
+Base Exp: 55	Happiness: 50
+Height: 3	Weight: 25
+
+Genus: Cheeky Pokémon
+Location Areas:
+

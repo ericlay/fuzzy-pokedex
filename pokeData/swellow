@@ -1,15 +1,24 @@
+swellow	A normal type Pokémon
 
-Name:  Swellow
-Pokedex Number:  277
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Guts - Scrappy (Hidden Ability)
+It circles the sky in search of
+prey. When it spots one, it dives
+steeply to catch the prey.
 
-Base Stats
-----------------------
-Total: 430
-Hp:  60
-Attack:  85
-Defence:  60
-Special Attack:  50
-Special Defence:  50
-Speed:  125
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         85
+        defense:         60
+ special-attack:         75
+special-defense:         50
+          speed:        125
+
+Pokedex ID: 277	Capture Rate: 45
+Base Exp: 159	Happiness: 70
+Height: 7	Weight: 198
+
+Genus: Swallow Pokémon
+Location Areas:
+sinnoh-route-213-area
+hoenn-route-115-area
+giant-chasm-outside
+unova-route-13-area

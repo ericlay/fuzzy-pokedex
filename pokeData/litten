@@ -1,15 +1,21 @@
+litten	A fire type Pokémon
 
-Name:  Litten
-Pokedex Number:  725
-Gender Ratio:   ♂:88.14% ♀:11.86%
-Abilities: Blaze - Intimidate (Hidden Ability)
+While grooming itself, it builds up fur inside its
+stomach. It sets the fur alight and spews fiery
+attacks, which change based on how it coughs.
 
-Base Stats
-----------------------
-Total: 320
-Hp:  45
-Attack:  65
-Defence:  40
-Special Attack:  60
-Special Defence:  40
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         65
+        defense:         40
+ special-attack:         60
+special-defense:         40
+          speed:         70
+
+Pokedex ID: 725	Capture Rate: 45
+Base Exp: 64	Happiness: 50
+Height: 4	Weight: 43
+
+Genus: Fire Cat Pokémon
+Location Areas:
+

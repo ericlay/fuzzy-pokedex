@@ -1,15 +1,21 @@
+chandelure	A ghost type Pokémon
 
-Name:  Chandelure
-Pokedex Number:  609
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Flash Fire - Flame Body - Infiltrator (Hidden Ability)
+샹델라의 불꽃에 둘러싸이면
+영혼이 빨려가 불타버린다.
+빈 껍데기인 몸만 남는다.
 
-Base Stats
-----------------------
-Total: 520
-Hp:  60
-Attack:  55
-Defence:  90
-Special Attack:  145
-Special Defence:  90
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         55
+        defense:         90
+ special-attack:        145
+special-defense:         90
+          speed:         80
+
+Pokedex ID: 609	Capture Rate: 45
+Base Exp: 260	Happiness: 50
+Height: 10	Weight: 343
+
+Genus: Luring Pokémon
+Location Areas:
+

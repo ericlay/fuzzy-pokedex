@@ -1,15 +1,21 @@
+corvisquire	A flying type Pokémon
 
-Name:  Corvisquire
-Pokedex Number:  822
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Keen Eye - Unnerve - Big Pecks (Hidden Ability)
+Smart enough to use tools in battle, these
+Pokémon have been seen picking up rocks and
+flinging them or using ropes to wrap up enemies.
 
-Base Stats
-----------------------
-Total: 365
-Hp:  68
-Attack:  67
-Defence:  55
-Special Attack:  43
-Special Defence:  55
-Speed:  77
+   ↞--------| STATS |--------↠ 
+             hp:         68
+         attack:         67
+        defense:         55
+ special-attack:         43
+special-defense:         55
+          speed:         77
+
+Pokedex ID: 822	Capture Rate: 120
+Base Exp: 128	Happiness: 50
+Height: 8	Weight: 160
+
+Genus: Raven Pokémon
+Location Areas:
+

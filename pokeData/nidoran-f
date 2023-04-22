@@ -1,15 +1,36 @@
+nidoran-f	A poison type Pokémon
 
-Name:  Nidoran-F
-Pokedex Number:  029
-Gender Ratio:   ♂:0% ♀:100%
-Abilities: Poison Point - Rivalry - Hustle (Hidden Ability)
+NIDORAN has barbs that secrete a
+powerful poison. They are thought to
+have developed as protection for thissmall-bodied POKéMON.
+When enraged, it releases a horrible
+toxin from its horn.
 
-Base Stats
-----------------------
-Total: 275
-Hp:  55
-Attack:  47
-Defence:  52
-Special Attack:  40
-Special Defence:  40
-Speed:  41
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         47
+        defense:         52
+ special-attack:         40
+special-defense:         40
+          speed:         41
+
+Pokedex ID: 29	Capture Rate: 235
+Base Exp: 55	Happiness: 50
+Height: 4	Weight: 70
+
+Genus: Poison Pin Pokémon
+Location Areas:
+sinnoh-route-201-area
+johto-route-35-area
+national-park-area
+johto-route-36-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-3-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-22-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+johto-safari-zone-zone-savannah

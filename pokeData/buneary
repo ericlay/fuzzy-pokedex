@@ -1,15 +1,23 @@
+buneary	A normal type Pokémon
 
-Name:  Buneary
-Pokedex Number:  427
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Run Away - Klutz - Limber (Hidden Ability)
+Ses oreilles repliées se déroulent
+avec une force capable de briser
+un gros rocher.
 
-Base Stats
-----------------------
-Total: 350
-Hp:  55
-Attack:  66
-Defence:  44
-Special Attack:  44
-Special Defence:  56
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         66
+        defense:         44
+ special-attack:         44
+special-defense:         56
+          speed:         85
+
+Pokedex ID: 427	Capture Rate: 190
+Base Exp: 70	Happiness: 0
+Height: 4	Weight: 55
+
+Genus: Rabbit Pokémon
+Location Areas:
+eterna-forest-area
+kanto-route-25-area
+castelia-city-area

@@ -73,6 +73,7 @@ if page_not_found:
 ######## Get Stats ########
 base_total = soup2.find(string=re.compile("Base Stats - Total:"))
 # Only want everything after Total
+base_total = str("Total Unavailable")
 base_total = base_total[base_total.find("Total"):]
 base_stats = soup2.find_all(class_="fooinfo")
 

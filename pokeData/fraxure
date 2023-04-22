@@ -1,15 +1,22 @@
+fraxure	A dragon type Pokémon
 
-Name:  Fraxure
-Pokedex Number:  611
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Rivalry - Mold Breaker - Unnerve (Hidden Ability)
+큰 바위를 부수는 이빨을 가지고 있다.
+액슨도들의 영역 싸움은
+매우 격렬하다.
 
-Base Stats
-----------------------
-Total: 410
-Hp:  66
-Attack:  117
-Defence:  70
-Special Attack:  40
-Special Defence:  50
-Speed:  67
+   ↞--------| STATS |--------↠ 
+             hp:         66
+         attack:        117
+        defense:         70
+ special-attack:         40
+special-defense:         50
+          speed:         67
+
+Pokedex ID: 611	Capture Rate: 60
+Base Exp: 144	Happiness: 35
+Height: 10	Weight: 360
+
+Genus: Axe Jaw Pokémon
+Location Areas:
+unova-victory-road-outside
+nature-sanctuary-area

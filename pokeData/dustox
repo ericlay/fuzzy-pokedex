@@ -1,15 +1,25 @@
+dustox	A bug type Pokémon
 
-Name:  Dustox
-Pokedex Number:  269
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shield Dust - Compoundeyes (Hidden Ability)
+Toxic powder is scattered with each
+flap. At night, it is known to strip
+leaves off trees lining boulevards.
 
-Base Stats
-----------------------
-Total: 385
-Hp:  60
-Attack:  50
-Defence:  70
-Special Attack:  50
-Special Defence:  90
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         50
+        defense:         70
+ special-attack:         50
+special-defense:         90
+          speed:         65
+
+Pokedex ID: 269	Capture Rate: 45
+Base Exp: 173	Happiness: 70
+Height: 12	Weight: 316
+
+Genus: Poison Moth Pokémon
+Location Areas:
+eterna-forest-area
+sinnoh-route-205-east-towards-eterna-city
+sinnoh-route-224-area
+sinnoh-route-229-area
+sinnoh-sea-route-230-area

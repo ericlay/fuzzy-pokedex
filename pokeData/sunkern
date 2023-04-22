@@ -1,15 +1,28 @@
+sunkern	A grass type Pokémon
 
-Name:  Sunkern
-Pokedex Number:  191
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Chlorophyll - Solar Power - Early Bird (Hidden Ability)
+It may drop out of the sky suddenly.
+If attacked by a SPEAROW, it will
+violently shake its leaves.
 
-Base Stats
-----------------------
-Total: 180
-Hp:  30
-Attack:  30
-Defence:  30
-Special Attack:  30
-Special Defence:  30
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         30
+         attack:         30
+        defense:         30
+ special-attack:         30
+special-defense:         30
+          speed:         30
+
+Pokedex ID: 191	Capture Rate: 235
+Base Exp: 36	Happiness: 70
+Height: 3	Weight: 18
+
+Genus: Seed Pokémon
+Location Areas:
+sinnoh-route-204-north-towards-floaroma-town
+national-park-area
+kanto-route-24-area
+hoenn-safari-zone-expansion-south
+hoenn-safari-zone-expansion-north
+unova-route-12-area
+unova-route-20-area
+johto-safari-zone-zone-meadow

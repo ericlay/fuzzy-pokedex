@@ -1,15 +1,21 @@
+kartana	A grass type Pokémon
 
-Name:  Kartana
-Pokedex Number:  798
-Gender Ratio:  Genderless
-Abilities: Beast Boost
+This Ultra Beast came from the Ultra Wormhole.
+It seems not to attack enemies on its own, but
+its sharp body is a dangerous weapon in itself.
 
-Base Stats
-----------------------
-Total: 570
-Hp:  59
-Attack:  181
-Defence:  131
-Special Attack:  59
-Special Defence:  31
-Speed:  109
+   ↞--------| STATS |--------↠ 
+             hp:         59
+         attack:        181
+        defense:        131
+ special-attack:         59
+special-defense:         31
+          speed:        109
+
+Pokedex ID: 798	Capture Rate: 45
+Base Exp: 285	Happiness: 0
+Height: 3	Weight: 1
+
+Genus: Drawn Sword Pokémon
+Location Areas:
+

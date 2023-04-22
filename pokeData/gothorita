@@ -1,15 +1,25 @@
+gothorita	A psychic type Pokémon
 
-Name:  Gothorita
-Pokedex Number:  575
-Gender Ratio:   ♂:25% ♀:75%
-Abilities: Frisk - Competitive - Shadow Tag (Hidden Ability)
+별빛이 힘의 원천이다.
+밤이 되면 사이코 파워로 돌을
+띄워 별의 배치를 표시한다.
 
-Base Stats
-----------------------
-Total: 390
-Hp:  60
-Attack:  45
-Defence:  70
-Special Attack:  75
-Special Defence:  85
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         45
+        defense:         70
+ special-attack:         75
+special-defense:         85
+          speed:         55
+
+Pokedex ID: 575	Capture Rate: 100
+Base Exp: 137	Happiness: 50
+Height: 7	Weight: 180
+
+Genus: Manipulate Pokémon
+Location Areas:
+unova-route-9-area
+strange-house-1f
+strange-house-b1f
+kalos-route-20-area
+pokemon-village-area

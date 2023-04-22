@@ -1,15 +1,21 @@
+shelgon	A dragon type Pokémon
 
-Name:  Shelgon
-Pokedex Number:  372
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Rock Head - Overcoat (Hidden Ability)
+Within its rugged shell, its cells
+have begun changing. The shell
+peels off the instant it evolves.
 
-Base Stats
-----------------------
-Total: 420
-Hp:  65
-Attack:  95
-Defence:  100
-Special Attack:  60
-Special Defence:  50
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         95
+        defense:        100
+ special-attack:         60
+special-defense:         50
+          speed:         50
+
+Pokedex ID: 372	Capture Rate: 45
+Base Exp: 147	Happiness: 35
+Height: 11	Weight: 1105
+
+Genus: Endurance Pokémon
+Location Areas:
+

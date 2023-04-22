@@ -1,15 +1,21 @@
+honchkrow	A dark type Pokémon
 
-Name:  Honchkrow
-Pokedex Number:  430
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Insomnia - Super Luck - Moxie (Hidden Ability)
+Son cri profond peut invoquer une
+meute de Cornèbre. On l’appelle
+“le crieur de mauvais augure”.
 
-Base Stats
-----------------------
-Total: 505
-Hp:  100
-Attack:  125
-Defence:  52
-Special Attack:  105
-Special Defence:  52
-Speed:  71
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        125
+        defense:         52
+ special-attack:        105
+special-defense:         52
+          speed:         71
+
+Pokedex ID: 430	Capture Rate: 30
+Base Exp: 177	Happiness: 35
+Height: 9	Weight: 273
+
+Genus: Big Boss Pokémon
+Location Areas:
+abundant-shrine-area

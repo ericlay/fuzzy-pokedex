@@ -1,15 +1,22 @@
+yamask	A ghost type Pokémon
 
-Name:  Yamask
-Pokedex Number:  562
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Mummy
+무덤에 매장된 사람의
+영혼이 포켓몬으로 변했다.
+죽기 전 기억이 남아 있다.
 
-Base Stats
-----------------------
-Total: 303
-Hp:  38
-Attack:  30
-Defence:  85
-Special Attack:  55
-Special Defence:  65
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         38
+         attack:         30
+        defense:         85
+ special-attack:         55
+special-defense:         65
+          speed:         30
+
+Pokedex ID: 562	Capture Rate: 190
+Base Exp: 61	Happiness: 50
+Height: 5	Weight: 15
+
+Genus: Spirit Pokémon
+Location Areas:
+relic-castle-a
+relic-castle-c

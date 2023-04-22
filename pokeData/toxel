@@ -1,15 +1,21 @@
+toxel	A electric type Pokémon
 
-Name:  Toxel
-Pokedex Number:  848
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Rattled - Static - Klutz (Hidden Ability)
+It stores poison in an internal poison sac and
+secretes that poison through its skin. If you touch
+this Pokémon, a tingling sensation follows.
 
-Base Stats
-----------------------
-Total: 242
-Hp:  40
-Attack:  38
-Defence:  35
-Special Attack:  54
-Special Defence:  35
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         38
+        defense:         35
+ special-attack:         54
+special-defense:         35
+          speed:         40
+
+Pokedex ID: 848	Capture Rate: 75
+Base Exp: 48	Happiness: 50
+Height: 4	Weight: 110
+
+Genus: Baby Pokémon
+Location Areas:
+

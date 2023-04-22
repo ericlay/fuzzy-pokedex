@@ -1,15 +1,21 @@
+tyrunt	A rock type Pokémon
 
-Name:  Tyrunt
-Pokedex Number:  696
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Strong Jaw - Sturdy (Hidden Ability)
+化石から　復活した　ポケモン。
+気に入らない　ことが　あると
+かんしゃくを　起こして　大暴れ。
 
-Base Stats
-----------------------
-Total: 362
-Hp:  58
-Attack:  89
-Defence:  77
-Special Attack:  45
-Special Defence:  45
-Speed:  48
+   ↞--------| STATS |--------↠ 
+             hp:         58
+         attack:         89
+        defense:         77
+ special-attack:         45
+special-defense:         45
+          speed:         48
+
+Pokedex ID: 696	Capture Rate: 45
+Base Exp: 72	Happiness: 50
+Height: 8	Weight: 260
+
+Genus: Royal Heir Pokémon
+Location Areas:
+glittering-cave-unknown-area-303

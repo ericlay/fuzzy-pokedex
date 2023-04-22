@@ -1,15 +1,21 @@
+umbreon	A dark type Pokémon
 
-Name:  Umbreon
-Pokedex Number:  197
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Synchronize - Inner Focus (Hidden Ability)
+When agitated, this POKéMON protects
+itself by spraying poisonous sweat from its
+pores.
 
-Base Stats
-----------------------
-Total: 525
-Hp:  95
-Attack:  65
-Defence:  110
-Special Attack:  60
-Special Defence:  130
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:         65
+        defense:        110
+ special-attack:         60
+special-defense:        130
+          speed:         65
+
+Pokedex ID: 197	Capture Rate: 45
+Base Exp: 184	Happiness: 35
+Height: 10	Weight: 270
+
+Genus: Moonlight Pokémon
+Location Areas:
+

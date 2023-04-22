@@ -1,15 +1,21 @@
+pyukumuku	A water type Pokémon
 
-Name:  Pyukumuku
-Pokedex Number:  771
-Gender Ratio:   ♂:50.2% ♀:49.8%
-Abilities: Innards Out - Unaware (Hidden Ability)
+Vive nei pressi delle spiagge e in acque
+poco profonde. Espelle gli organi interni per
+catturare le prede e attaccare i nemici.
 
-Base Stats
-----------------------
-Total: 410
-Hp:  55
-Attack:  60
-Defence:  130
-Special Attack:  30
-Special Defence:  130
-Speed:  5
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         60
+        defense:        130
+ special-attack:         30
+special-defense:        130
+          speed:          5
+
+Pokedex ID: 771	Capture Rate: 60
+Base Exp: 144	Happiness: 50
+Height: 3	Weight: 12
+
+Genus: Sea Cucumber Pokémon
+Location Areas:
+

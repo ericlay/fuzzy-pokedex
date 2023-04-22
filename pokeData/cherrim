@@ -1,15 +1,21 @@
+cherrim	A grass type Pokémon
 
-Name:  Cherrim
-Pokedex Number:  421
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Flower Gift
+Sous un grand soleil, il ouvre
+ses pétales pour en absorber
+les rayons.
 
-Base Stats
-----------------------
-Total: 450
-Hp:  70
-Attack:  60
-Defence:  70
-Special Attack:  87
-Special Defence:  78
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         60
+        defense:         70
+ special-attack:         87
+special-defense:         78
+          speed:         85
+
+Pokedex ID: 421	Capture Rate: 75
+Base Exp: 158	Happiness: 50
+Height: 5	Weight: 93
+
+Genus: Blossom Pokémon
+Location Areas:
+unova-route-12-area

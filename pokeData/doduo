@@ -1,15 +1,38 @@
+doduo	A normal type Pokémon
 
-Name:  Doduo
-Pokedex Number:  084
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Run Away - Early Bird - Tangled Feet (Hidden Ability)
+DODUO’s two heads contain completely
+identical brains.
+A scientific study reported that onrare occasions, there will be examples
+of this POKéMON possessing different
+sets of brains.
 
-Base Stats
-----------------------
-Total: 310
-Hp:  35
-Attack:  85
-Defence:  45
-Special Attack:  35
-Special Defence:  35
-Speed:  75
+   ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:         85
+        defense:         45
+ special-attack:         35
+special-defense:         35
+          speed:         75
+
+Pokedex ID: 84	Capture Rate: 190
+Base Exp: 62	Happiness: 70
+Height: 14	Weight: 392
+
+Genus: Twin Bird Pokémon
+Location Areas:
+sinnoh-route-201-area
+mt-silver-outside
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-28-area
+kanto-route-16-area
+kanto-route-17-area
+kanto-route-18-area
+kanto-route-22-area
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-3-west
+hoenn-safari-zone-nwmach-bike-area
+hoenn-safari-zone-sw
+hoenn-safari-zone-se
+kalos-route-5-area
+johto-safari-zone-zone-rocky-beach

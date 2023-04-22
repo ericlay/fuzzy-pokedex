@@ -1,15 +1,19 @@
+wyrdeer	A normal type Pokémon
 
-Name:  Wyrdeer
-Pokedex Number:  899
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Intimidate - Frisk - Sap Sipper (Hidden Ability)
+                null
 
-Base Stats
-----------------------
-Total: 525
-Hp:  103
-Attack:  105
-Defence:  72
-Special Attack:  105
-Special Defence:  75
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:        103
+         attack:        105
+        defense:         72
+ special-attack:        105
+special-defense:         75
+          speed:         65
+
+Pokedex ID: 899	Capture Rate: 135
+Base Exp: null	Happiness: null
+Height: 18	Weight: 951
+
+Genus: null
+Location Areas:
+

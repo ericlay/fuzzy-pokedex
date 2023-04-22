@@ -1,15 +1,21 @@
+sliggoo	A dragon type Pokémon
 
-Name:  Sliggoo
-Pokedex Number:  705
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sap Sipper - Hydration - Gooey (Hidden Ability)
+なんでも　溶かしてしまう　粘液を
+分泌して　敵を　撃退する。
+目玉は　退化して　見えていない。
 
-Base Stats
-----------------------
-Total: 452
-Hp:  68
-Attack:  75
-Defence:  53
-Special Attack:  83
-Special Defence:  113
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         68
+         attack:         75
+        defense:         53
+ special-attack:         83
+special-defense:        113
+          speed:         60
+
+Pokedex ID: 705	Capture Rate: 45
+Base Exp: 158	Happiness: 35
+Height: 8	Weight: 175
+
+Genus: Soft Tissue Pokémon
+Location Areas:
+kalos-route-19-area

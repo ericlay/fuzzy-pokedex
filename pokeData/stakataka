@@ -1,15 +1,21 @@
+stakataka	A rock type Pokémon
 
-Name:  Stakataka
-Pokedex Number:  805
-Gender Ratio:  Genderless
-Abilities: Beast Boost
+It appeared from an Ultra Wormhole. Each one
+appears to be made up of many life-forms
+stacked one on top of each other.
 
-Base Stats
-----------------------
-Total: 570
-Hp:  61
-Attack:  131
-Defence:  211
-Special Attack:  53
-Special Defence:  101
-Speed:  13
+   ↞--------| STATS |--------↠ 
+             hp:         61
+         attack:        131
+        defense:        211
+ special-attack:         53
+special-defense:        101
+          speed:         13
+
+Pokedex ID: 805	Capture Rate: 30
+Base Exp: 285	Happiness: 0
+Height: 55	Weight: 8200
+
+Genus: Rampart Pokémon
+Location Areas:
+

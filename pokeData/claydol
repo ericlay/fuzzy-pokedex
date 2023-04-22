@@ -1,15 +1,24 @@
+claydol	A ground type Pokémon
 
-Name:  Claydol
-Pokedex Number:  344
-Gender Ratio:  Genderless
-Abilities: Levitate
+An ancient clay figurine that came
+to life as a Pokémon from exposure
+to a mysterious ray of light.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  60
-Attack:  70
-Defence:  105
-Special Attack:  70
-Special Defence:  120
-Speed:  75
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         70
+        defense:        105
+ special-attack:         70
+special-defense:        120
+          speed:         75
+
+Pokedex ID: 344	Capture Rate: 90
+Base Exp: 175	Happiness: 50
+Height: 15	Weight: 1080
+
+Genus: Clay Doll Pokémon
+Location Areas:
+sky-pillar-1f
+sky-pillar-3f
+sky-pillar-5f
+relic-castle-d

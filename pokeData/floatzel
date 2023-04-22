@@ -1,15 +1,47 @@
+floatzel	A water type Pokémon
 
-Name:  Floatzel
-Pokedex Number:  419
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swift Swim - Water Veil (Hidden Ability)
+Il chasse souvent près des ports
+de pêche où il sauve parfois les
+gens tombés à la mer.
 
-Base Stats
-----------------------
-Total: 495
-Hp:  85
-Attack:  105
-Defence:  55
-Special Attack:  85
-Special Defence:  50
-Speed:  115
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:        105
+        defense:         55
+ special-attack:         85
+special-defense:         50
+          speed:        115
+
+Pokedex ID: 419	Capture Rate: 75
+Base Exp: 173	Happiness: 70
+Height: 11	Weight: 335
+
+Genus: Sea Weasel Pokémon
+Location Areas:
+fuego-ironworks-area
+sinnoh-victory-road-b1f
+sinnoh-victory-road-inside-b1f
+sinnoh-victory-road-inside
+sinnoh-victory-road-inside-exit
+sinnoh-route-213-area
+sinnoh-route-218-area
+sinnoh-route-221-area
+sinnoh-route-222-area
+sinnoh-route-224-area
+sinnoh-sea-route-230-area
+unova-route-11-area
+unova-route-14-area
+lostlorn-forest-area
+unova-victory-road-2-unknown-area-73
+unova-victory-road-2-unknown-area-79
+nature-sanctuary-area
+unova-route-23-area
+couriway-town-area
+kalos-route-15-area
+kalos-route-16-area
+kalos-route-21-area
+frost-cavern-unknown-area-313
+frost-cavern-unknown-area-315
+kalos-victory-road-unknown-area-322
+kalos-victory-road-unknown-area-327
+kalos-victory-road-unknown-area-328

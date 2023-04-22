@@ -1,15 +1,22 @@
+raikou	A electric type Pokémon
 
-Name:  Raikou
-Pokedex Number:  243
-Gender Ratio:  Genderless
-Abilities: Pressure - Volt Absorb (Hidden Ability)
+The rain clouds it carries let it fire
+thunderbolts at will. They say that it
+descended with lightning.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  90
-Attack:  85
-Defence:  75
-Special Attack:  115
-Special Defence:  100
-Speed:  115
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         85
+        defense:         75
+ special-attack:        115
+special-defense:        100
+          speed:        115
+
+Pokedex ID: 243	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 19	Weight: 1780
+
+Genus: Thunder Pokémon
+Location Areas:
+roaming-kanto-area
+roaming-johto-area

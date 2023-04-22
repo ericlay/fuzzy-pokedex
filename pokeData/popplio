@@ -1,15 +1,21 @@
+popplio	A water type Pokémon
 
-Name:  Popplio
-Pokedex Number:  728
-Gender Ratio:   ♂:88.14% ♀:11.86%
-Abilities: Torrent - Liquid Voice (Hidden Ability)
+This Pokémon snorts body fluids from its nose,
+blowing balloons to smash into its foes.
+It’s famous for being a hard worker.
 
-Base Stats
-----------------------
-Total: 320
-Hp:  50
-Attack:  54
-Defence:  54
-Special Attack:  66
-Special Defence:  56
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         54
+        defense:         54
+ special-attack:         66
+special-defense:         56
+          speed:         40
+
+Pokedex ID: 728	Capture Rate: 45
+Base Exp: 64	Happiness: 50
+Height: 4	Weight: 75
+
+Genus: Sea Lion Pokémon
+Location Areas:
+

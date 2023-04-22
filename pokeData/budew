@@ -1,15 +1,35 @@
+budew	A grass type Pokémon
 
-Name:  Budew
-Pokedex Number:  406
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Natural Cure - Poison Point - Leaf Guard (Hidden Ability)
+Il est sensible aux variations de
+température et on dit qu’il fleurit
+quand il sent la chaleur du soleil.
 
-Base Stats
-----------------------
-Total: 280
-Hp:  40
-Attack:  30
-Defence:  35
-Special Attack:  50
-Special Defence:  70
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         30
+        defense:         35
+ special-attack:         50
+special-defense:         70
+          speed:         55
+
+Pokedex ID: 406	Capture Rate: 255
+Base Exp: 56	Happiness: 50
+Height: 2	Weight: 12
+
+Genus: Bud Pokémon
+Location Areas:
+eterna-forest-area
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+sinnoh-route-205-east-towards-eterna-city
+sinnoh-route-208-area
+sinnoh-route-212-north-towards-hearthome-city
+ilex-forest-area
+viridian-forest-area
+kalos-route-4-area

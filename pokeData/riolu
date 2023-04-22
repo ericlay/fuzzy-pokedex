@@ -1,15 +1,25 @@
+riolu	A fighting type Pokémon
 
-Name:  Riolu
-Pokedex Number:  447
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Steadfast - Inner Focus - Prankster (Hidden Ability)
+Il a la faculté unique de visualiser
+les émotions telles que la joie ou
+la colère sous forme d’ondes.
 
-Base Stats
-----------------------
-Total: 285
-Hp:  40
-Attack:  70
-Defence:  40
-Special Attack:  35
-Special Defence:  40
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         70
+        defense:         40
+ special-attack:         35
+special-defense:         40
+          speed:         60
+
+Pokedex ID: 447	Capture Rate: 75
+Base Exp: 57	Happiness: 50
+Height: 7	Weight: 202
+
+Genus: Emanation Pokémon
+Location Areas:
+iron-island-b2f-left
+challengers-cave-b1f
+challengers-cave-b2f
+floccesy-ranch-inner
+kalos-route-22-area

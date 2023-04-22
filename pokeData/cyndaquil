@@ -1,15 +1,25 @@
+cyndaquil	A fire type Pokémon
 
-Name:  Cyndaquil
-Pokedex Number:  155
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Blaze - Flash Fire (Hidden Ability)
+CYNDAQUIL protects itself by flaring up
+the flames on its back.
+The flames are vigorous if the POKéMONis angry. However, if it is tired, the
+flames splutter fitfully with incomplete
+combustion.
 
-Base Stats
-----------------------
-Total: 309
-Hp:  39
-Attack:  52
-Defence:  43
-Special Attack:  60
-Special Defence:  50
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         39
+         attack:         52
+        defense:         43
+ special-attack:         60
+special-defense:         50
+          speed:         65
+
+Pokedex ID: 155	Capture Rate: 45
+Base Exp: 62	Happiness: 70
+Height: 5	Weight: 79
+
+Genus: Fire Mouse Pokémon
+Location Areas:
+new-bark-town-area
+hoenn-route-101-area
+littleroot-town-area

@@ -1,15 +1,21 @@
+jumpluff	A grass type Pokémon
 
-Name:  Jumpluff
-Pokedex Number:  189
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Leaf Guard - Infiltrator (Hidden Ability)
+Once it catches the wind, it deftly
+controls its cotton-puff spores to float,
+even around the world.
 
-Base Stats
-----------------------
-Total: 460
-Hp:  75
-Attack:  55
-Defence:  70
-Special Attack:  55
-Special Defence:  95
-Speed:  110
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         55
+        defense:         70
+ special-attack:         55
+special-defense:         95
+          speed:        110
+
+Pokedex ID: 189	Capture Rate: 45
+Base Exp: 207	Happiness: 70
+Height: 8	Weight: 30
+
+Genus: Cottonweed Pokémon
+Location Areas:
+

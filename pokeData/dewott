@@ -1,15 +1,21 @@
+dewott	A water type Pokémon
 
-Name:  Dewott
-Pokedex Number:  502
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Torrent - Shell Armor (Hidden Ability)
+물 흐르는 듯한 칼솜씨로
+2개의 가리비칼을 사용하는 기술은
+엄격한 수련을 통해 익힌 것이다.
 
-Base Stats
-----------------------
-Total: 413
-Hp:  75
-Attack:  75
-Defence:  60
-Special Attack:  83
-Special Defence:  60
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         75
+        defense:         60
+ special-attack:         83
+special-defense:         60
+          speed:         60
+
+Pokedex ID: 502	Capture Rate: 45
+Base Exp: 145	Happiness: 70
+Height: 8	Weight: 245
+
+Genus: Discipline Pokémon
+Location Areas:
+

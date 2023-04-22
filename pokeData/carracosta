@@ -1,15 +1,21 @@
+carracosta	A water type Pokémon
 
-Name:  Carracosta
-Pokedex Number:  565
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Solid Rock - Sturdy - Swift Swim (Hidden Ability)
+바다와 육지에서 생활한다.
+손바닥으로 쳐서 배 밑바닥에
+구멍을 내는 파워의 소유자다.
 
-Base Stats
-----------------------
-Total: 495
-Hp:  74
-Attack:  108
-Defence:  133
-Special Attack:  83
-Special Defence:  65
-Speed:  32
+   ↞--------| STATS |--------↠ 
+             hp:         74
+         attack:        108
+        defense:        133
+ special-attack:         83
+special-defense:         65
+          speed:         32
+
+Pokedex ID: 565	Capture Rate: 45
+Base Exp: 173	Happiness: 50
+Height: 12	Weight: 810
+
+Genus: Prototurtle Pokémon
+Location Areas:
+

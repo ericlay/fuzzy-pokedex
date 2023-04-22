@@ -1,15 +1,21 @@
+nihilego	A rock type Pokémon
 
-Name:  Nihilego
-Pokedex Number:  793
-Gender Ratio:  Genderless
-Abilities: Beast Boost
+One of several mysterious Ultra Beasts. People
+on the street report observing those infested
+by it suddenly becoming violent.
 
-Base Stats
-----------------------
-Total: 570
-Hp:  109
-Attack:  53
-Defence:  47
-Special Attack:  127
-Special Defence:  131
-Speed:  103
+   ↞--------| STATS |--------↠ 
+             hp:        109
+         attack:         53
+        defense:         47
+ special-attack:        127
+special-defense:        131
+          speed:        103
+
+Pokedex ID: 793	Capture Rate: 45
+Base Exp: 285	Happiness: 0
+Height: 12	Weight: 555
+
+Genus: Parasite Pokémon
+Location Areas:
+

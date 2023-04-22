@@ -1,15 +1,27 @@
+zangoose	A normal type Pokémon
 
-Name:  Zangoose
-Pokedex Number:  335
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Immunity - Toxic Boost (Hidden Ability)
+It has feuded with SEVIPER for
+many generations. Its sharp claws
+are its biggest weapons.
 
-Base Stats
-----------------------
-Total: 458
-Hp:  73
-Attack:  115
-Defence:  60
-Special Attack:  60
-Special Defence:  60
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         73
+         attack:        115
+        defense:         60
+ special-attack:         60
+special-defense:         60
+          speed:         90
+
+Pokedex ID: 335	Capture Rate: 90
+Base Exp: 160	Happiness: 70
+Height: 13	Weight: 403
+
+Genus: Cat Ferret Pokémon
+Location Areas:
+sinnoh-route-208-area
+sinnoh-route-210-west-towards-celestic-town
+hoenn-route-114-area
+village-bridge-area
+unova-route-7-area
+unova-route-11-area
+kalos-route-8-area

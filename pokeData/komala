@@ -1,15 +1,21 @@
+komala	A normal type Pokémon
 
-Name:  Komala
-Pokedex Number:  775
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Comatose
+It is born asleep, and it dies asleep. All its
+movements are apparently no more than the
+results of it tossing and turning in its dreams.
 
-Base Stats
-----------------------
-Total: 480
-Hp:  65
-Attack:  115
-Defence:  65
-Special Attack:  75
-Special Defence:  95
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:        115
+        defense:         65
+ special-attack:         75
+special-defense:         95
+          speed:         65
+
+Pokedex ID: 775	Capture Rate: 45
+Base Exp: 168	Happiness: 70
+Height: 4	Weight: 199
+
+Genus: Drowsing Pokémon
+Location Areas:
+

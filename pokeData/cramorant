@@ -1,15 +1,21 @@
+cramorant	A flying type Pokémon
 
-Name:  Cramorant
-Pokedex Number:  845
-Gender Ratio:   ♂:50.2% ♀:49.8% 
-Abilities: Gulp Missile
+It’s so strong that it can knock out some
+opponents in a single hit, but it also may
+forget what it’s battling midfight.
 
-Base Stats
-----------------------
-Total: 475
-Hp:  70
-Attack:  85
-Defence:  55
-Special Attack:  85
-Special Defence:  95
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         85
+        defense:         55
+ special-attack:         85
+special-defense:         95
+          speed:         85
+
+Pokedex ID: 845	Capture Rate: 45
+Base Exp: 166	Happiness: 50
+Height: 8	Weight: 180
+
+Genus: Gulp Pokémon
+Location Areas:
+

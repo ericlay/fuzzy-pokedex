@@ -1,15 +1,21 @@
+electivire	A electric type Pokémon
 
-Name:  Electivire
-Pokedex Number:  466
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Motor Drive - Vital Spirit (Hidden Ability)
+Encaissant les attaques, il vient
+toucher l’ennemi de ses queues
+et lui inflige une forte décharge.
 
-Base Stats
-----------------------
-Total: 540
-Hp:  75
-Attack:  123
-Defence:  67
-Special Attack:  95
-Special Defence:  85
-Speed:  95
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:        123
+        defense:         67
+ special-attack:         95
+special-defense:         85
+          speed:         95
+
+Pokedex ID: 466	Capture Rate: 30
+Base Exp: 270	Happiness: 50
+Height: 18	Weight: 1386
+
+Genus: Thunderbolt Pokémon
+Location Areas:
+

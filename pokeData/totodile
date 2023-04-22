@@ -1,15 +1,23 @@
+totodile	A water type Pokémon
 
-Name:  Totodile
-Pokedex Number:  158
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Torrent - Sheer Force (Hidden Ability)
+Its well-developed jaws are powerful and
+capable of crushing anything. Even its
+TRAINER must be careful.
 
-Base Stats
-----------------------
-Total: 314
-Hp:  50
-Attack:  65
-Defence:  64
-Special Attack:  44
-Special Defence:  48
-Speed:  43
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         65
+        defense:         64
+ special-attack:         44
+special-defense:         48
+          speed:         43
+
+Pokedex ID: 158	Capture Rate: 45
+Base Exp: 63	Happiness: 70
+Height: 6	Weight: 95
+
+Genus: Big Jaw Pokémon
+Location Areas:
+new-bark-town-area
+hoenn-route-101-area
+littleroot-town-area

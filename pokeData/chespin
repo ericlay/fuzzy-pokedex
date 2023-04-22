@@ -1,15 +1,21 @@
+chespin	A grass type Pokémon
 
-Name:  Chespin
-Pokedex Number:  650
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Overgrow - Bulletproof (Hidden Ability)
+普段　やわらかい　頭の　トゲは
+力を　こめると　鋭く　とがり
+岩をも　つらぬくほど　硬くなる。
 
-Base Stats
-----------------------
-Total: 313
-Hp:  56
-Attack:  61
-Defence:  65
-Special Attack:  48
-Special Defence:  45
-Speed:  38
+   ↞--------| STATS |--------↠ 
+             hp:         56
+         attack:         61
+        defense:         65
+ special-attack:         48
+special-defense:         45
+          speed:         38
+
+Pokedex ID: 650	Capture Rate: 45
+Base Exp: 63	Happiness: 70
+Height: 4	Weight: 90
+
+Genus: Spiny Nut Pokémon
+Location Areas:
+aquacorde-town-area

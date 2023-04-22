@@ -1,15 +1,21 @@
+simisear	A fire type Pokémon
 
-Name:  Simisear
-Pokedex Number:  514
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Gluttony - Blaze (Hidden Ability)
+몸속에서 태운 불꽃을
+머리나 꼬리로 흩뿌려서
+상대를 태운다.
 
-Base Stats
-----------------------
-Total: 498
-Hp:  75
-Attack:  98
-Defence:  63
-Special Attack:  98
-Special Defence:  63
-Speed:  101
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         98
+        defense:         63
+ special-attack:         98
+special-defense:         63
+          speed:        101
+
+Pokedex ID: 514	Capture Rate: 75
+Base Exp: 174	Happiness: 70
+Height: 10	Weight: 280
+
+Genus: Ember Pokémon
+Location Areas:
+

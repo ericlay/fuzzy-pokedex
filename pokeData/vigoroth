@@ -1,15 +1,21 @@
+vigoroth	A normal type Pokémon
 
-Name:  Vigoroth
-Pokedex Number:  288
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Vital Spirit
+Its heart beats at a tenfold
+tempo, so it cannot sit still for
+even a moment.
 
-Base Stats
-----------------------
-Total: 440
-Hp:  80
-Attack:  80
-Defence:  80
-Special Attack:  55
-Special Defence:  55
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:         80
+        defense:         80
+ special-attack:         55
+special-defense:         55
+          speed:         90
+
+Pokedex ID: 288	Capture Rate: 120
+Base Exp: 154	Happiness: 70
+Height: 14	Weight: 465
+
+Genus: Wild Monkey Pokémon
+Location Areas:
+pinwheel-forest-inside

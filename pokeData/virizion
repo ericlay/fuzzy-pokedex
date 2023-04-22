@@ -1,15 +1,21 @@
+virizion	A grass type Pokémon
 
-Name:  Virizion
-Pokedex Number:  640
-Gender Ratio:  Genderless
-Abilities: Justified
+머리의 뿔은 날카로운 칼날이다.
+회오리바람과 같은 움직임으로
+상대를 농락하여 재빠르게 벤다.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  91
-Attack:  90
-Defence:  72
-Special Attack:  90
-Special Defence:  129
-Speed:  108
+   ↞--------| STATS |--------↠ 
+             hp:         91
+         attack:         90
+        defense:         72
+ special-attack:         90
+special-defense:        129
+          speed:        108
+
+Pokedex ID: 640	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 20	Weight: 2000
+
+Genus: Grassland Pokémon
+Location Areas:
+

@@ -1,15 +1,23 @@
+articuno	A ice type Pokémon
 
-Name:  Articuno
-Pokedex Number:  144
-Gender Ratio:  Genderless
-Abilities: Pressure - Snow Cloak (Hidden Ability)
+ARTICUNO is a legendary bird POKéMON
+that can control ice.
+The flapping of its wings chills the air.As a result, it is said that when this
+POKéMON flies, snow will fall.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  90
-Attack:  85
-Defence:  100
-Special Attack:  95
-Special Defence:  125
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         85
+        defense:        100
+ special-attack:         95
+special-defense:        125
+          speed:         85
+
+Pokedex ID: 144	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 17	Weight: 554
+
+Genus: Freeze Pokémon
+Location Areas:
+seafoam-islands-b4f
+roaming-sinnoh-area

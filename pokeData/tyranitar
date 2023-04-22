@@ -1,15 +1,21 @@
+tyranitar	A rock type Pokémon
 
-Name:  Tyranitar
-Pokedex Number:  248
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Sand Stream - Unnerve (Hidden Ability)
+Its body can’t be harmed by any sort of
+attack, so it is very eager to make
+challenges against enemies.
 
-Base Stats
-----------------------
-Total: 600
-Hp:  100
-Attack:  164
-Defence:  150
-Special Attack:  95
-Special Defence:  120
-Speed:  71
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        134
+        defense:        110
+ special-attack:         95
+special-defense:        100
+          speed:         61
+
+Pokedex ID: 248	Capture Rate: 45
+Base Exp: 300	Happiness: 35
+Height: 20	Weight: 2020
+
+Genus: Armor Pokémon
+Location Areas:
+unova-route-15-area

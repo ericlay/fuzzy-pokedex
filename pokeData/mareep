@@ -1,15 +1,29 @@
+mareep	A electric type Pokémon
 
-Name:  Mareep
-Pokedex Number:  179
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Static - Plus (Hidden Ability)
+If static electricity builds in its body,
+its fleece doubles in volume. Touching
+it will shock you.
 
-Base Stats
-----------------------
-Total: 280
-Hp:  55
-Attack:  40
-Defence:  40
-Special Attack:  65
-Special Defence:  45
-Speed:  35
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         40
+        defense:         40
+ special-attack:         65
+special-defense:         45
+          speed:         35
+
+Pokedex ID: 179	Capture Rate: 235
+Base Exp: 56	Happiness: 70
+Height: 6	Weight: 78
+
+Genus: Wool Pokémon
+Location Areas:
+valley-windworks-area
+johto-route-32-area
+johto-route-42-area
+johto-route-43-area
+hoenn-safari-zone-expansion-south
+hoenn-altering-cave-b
+kanto-altering-cave-b
+floccesy-ranch-inner
+violet-city-pokemon-center

@@ -1,15 +1,22 @@
+exeggutor	A grass type Pokémon
 
-Name:  Exeggutor
-Pokedex Number:  103
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Harvest (Hidden Ability)
+EXEGGUTOR originally came from the
+tropics. Its heads steadily grow larger
+from exposure to strong sunlight.It is said that when the heads fall off,
+they group together to form EXEGGCUTE.
 
-Base Stats
-----------------------
-Total: 520
-Hp:  95
-Attack:  95
-Defence:  85
-Special Attack:  125
-Special Defence:  65
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:         95
+        defense:         85
+ special-attack:        125
+special-defense:         75
+          speed:         55
+
+Pokedex ID: 103	Capture Rate: 45
+Base Exp: 186	Happiness: 50
+Height: 20	Weight: 1200
+
+Genus: Coconut Pokémon
+Location Areas:
+

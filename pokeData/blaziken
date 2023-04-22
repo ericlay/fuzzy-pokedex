@@ -1,15 +1,21 @@
+blaziken	A fire type Pokémon
 
-Name:  Blaziken
-Pokedex Number:  257
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Blaze - Speed Boost (Hidden Ability)
+Flames spout from its wrists,
+enveloping its knuckles. Its
+punches scorch its foes.
 
-Base Stats
-----------------------
-Total: 530
-Hp:  80
-Attack:  160
-Defence:  80
-Special Attack:  130
-Special Defence:  80
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        120
+        defense:         70
+ special-attack:        110
+special-defense:         70
+          speed:         80
+
+Pokedex ID: 257	Capture Rate: 45
+Base Exp: 265	Happiness: 50
+Height: 19	Weight: 520
+
+Genus: Blaze Pokémon
+Location Areas:
+

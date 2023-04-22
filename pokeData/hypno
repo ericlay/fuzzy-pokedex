@@ -1,15 +1,26 @@
+hypno	A psychic type Pokémon
 
-Name:  Hypno
-Pokedex Number:  097
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Insomnia - Forewarn - Inner Focus (Hidden Ability)
+HYPNO holds a pendulum in its hand.
+The arcing movement and glitter of the
+pendulum lull the foe into a deep stateof hypnosis.
+While this POKéMON searches for prey,
+it polishes the pendulum.
 
-Base Stats
-----------------------
-Total: 483
-Hp:  85
-Attack:  73
-Defence:  70
-Special Attack:  73
-Special Defence:  115
-Speed:  67
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:         73
+        defense:         70
+ special-attack:         73
+special-defense:        115
+          speed:         67
+
+Pokedex ID: 97	Capture Rate: 75
+Base Exp: 169	Happiness: 70
+Height: 16	Weight: 756
+
+Genus: Hypnosis Pokémon
+Location Areas:
+kanto-route-11-area
+cerulean-cave-1f
+berry-forest-area
+johto-safari-zone-zone-swamp

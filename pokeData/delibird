@@ -1,15 +1,34 @@
+delibird	A ice type Pokémon
 
-Name:  Delibird
-Pokedex Number:  225
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Vital Spirit - Hustle - Insomnia (Hidden Ability)
+It carries food all day long. There are
+tales about lost people who were saved
+by the food it had.
 
-Base Stats
-----------------------
-Total: 330
-Hp:  45
-Attack:  55
-Defence:  45
-Special Attack:  65
-Special Defence:  45
-Speed:  75
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         55
+        defense:         45
+ special-attack:         65
+special-defense:         45
+          speed:         75
+
+Pokedex ID: 225	Capture Rate: 45
+Base Exp: 116	Happiness: 50
+Height: 9	Weight: 160
+
+Genus: Delivery Pokémon
+Location Areas:
+sinnoh-route-216-area
+sinnoh-route-217-area
+ice-path-1f
+ice-path-b1f
+ice-path-b2f
+ice-path-b3f
+icefall-cave-1f
+icefall-cave-b1f
+giant-chasm-outside
+giant-chasm-area
+giant-chasm-forest
+giant-chasm-forest-cave
+unova-route-22-area
+kalos-route-17-area

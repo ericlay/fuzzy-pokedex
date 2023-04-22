@@ -1,15 +1,23 @@
+gulpin	A poison type Pokémon
 
-Name:  Gulpin
-Pokedex Number:  316
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Liquid Ooze - Sticky Hold - Gluttony (Hidden Ability)
+Almost all its body is its stomach.
+Its harsh digestive juices quickly
+dissolve anything it swallows.
 
-Base Stats
-----------------------
-Total: 302
-Hp:  70
-Attack:  43
-Defence:  53
-Special Attack:  43
-Special Defence:  53
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         43
+        defense:         53
+ special-attack:         43
+special-defense:         53
+          speed:         40
+
+Pokedex ID: 316	Capture Rate: 225
+Base Exp: 60	Happiness: 70
+Height: 4	Weight: 103
+
+Genus: Stomach Pokémon
+Location Areas:
+kanto-route-3-area
+hoenn-route-110-area
+kalos-route-5-area

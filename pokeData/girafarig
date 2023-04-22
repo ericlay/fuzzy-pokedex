@@ -1,15 +1,29 @@
+girafarig	A normal type Pokémon
 
-Name:  Girafarig
-Pokedex Number:  203
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Inner Focus - Early Bird - Sap Sipper (Hidden Ability)
+Its tail has a small brain of its own.
+Beware! If you get close, it may react
+to your scent and bite.
 
-Base Stats
-----------------------
-Total: 455
-Hp:  70
-Attack:  80
-Defence:  65
-Special Attack:  90
-Special Defence:  65
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         80
+        defense:         65
+ special-attack:         90
+special-defense:         65
+          speed:         85
+
+Pokedex ID: 203	Capture Rate: 60
+Base Exp: 159	Happiness: 70
+Height: 15	Weight: 415
+
+Genus: Long Neck Pokémon
+Location Areas:
+valor-lakefront-area
+sinnoh-route-214-area
+sinnoh-route-221-area
+johto-route-43-area
+johto-route-48-area
+hoenn-safari-zone-sw
+hoenn-safari-zone-se
+nature-sanctuary-area
+johto-safari-zone-zone-plains

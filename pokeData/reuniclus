@@ -1,15 +1,21 @@
+reuniclus	A psychic type Pokémon
 
-Name:  Reuniclus
-Pokedex Number:  579
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Overcoat - Magic Guard - Regenerator (Hidden Ability)
+발휘한 사이코 파워를 사용해
+특수한 액체로 만들어진
+팔을 조종해서 바위를 부순다.
 
-Base Stats
-----------------------
-Total: 490
-Hp:  110
-Attack:  65
-Defence:  75
-Special Attack:  125
-Special Defence:  85
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:        110
+         attack:         65
+        defense:         75
+ special-attack:        125
+special-defense:         85
+          speed:         30
+
+Pokedex ID: 579	Capture Rate: 50
+Base Exp: 245	Happiness: 50
+Height: 10	Weight: 201
+
+Genus: Multiplying Pokémon
+Location Areas:
+unova-route-9-area

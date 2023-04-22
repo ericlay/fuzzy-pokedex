@@ -1,15 +1,21 @@
+ferrothorn	A grass type Pokémon
 
-Name:  Ferrothorn
-Pokedex Number:  598
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Iron Barbs - Anticipation (Hidden Ability)
+3개의 촉수를 세게 내리치고
+거기에 가시를 날려 상대를
+흔적도 없이 분쇄한다.
 
-Base Stats
-----------------------
-Total: 489
-Hp:  74
-Attack:  94
-Defence:  131
-Special Attack:  54
-Special Defence:  116
-Speed:  20
+   ↞--------| STATS |--------↠ 
+             hp:         74
+         attack:         94
+        defense:        131
+ special-attack:         54
+special-defense:        116
+          speed:         20
+
+Pokedex ID: 598	Capture Rate: 90
+Base Exp: 171	Happiness: 50
+Height: 10	Weight: 1100
+
+Genus: Thorn Pod Pokémon
+Location Areas:
+

@@ -1,15 +1,19 @@
+kleavor	A bug type Pokémon
 
-Name:  Kleavor
-Pokedex Number:  900
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swarm - Sheer Force - Sharpness (Hidden Ability)
+                null
 
-Base Stats
-----------------------
-Total: 500
-Hp:  70
-Attack:  135
-Defence:  95
-Special Attack:  45
-Special Defence:  70
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:        135
+        defense:         95
+ special-attack:         45
+special-defense:         70
+          speed:         85
+
+Pokedex ID: 900	Capture Rate: 115
+Base Exp: null	Happiness: null
+Height: 18	Weight: 890
+
+Genus: null
+Location Areas:
+

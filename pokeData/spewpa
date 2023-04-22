@@ -1,15 +1,21 @@
+spewpa	A bug type Pokémon
 
-Name:  Spewpa
-Pokedex Number:  665
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shed Skin - Friend Guard (Hidden Ability)
+しげみの　陰に　隠れて　暮らす。
+敵に　襲われると　体の　毛を
+鋭く　逆立てて　威嚇する。
 
-Base Stats
-----------------------
-Total: 213
-Hp:  45
-Attack:  22
-Defence:  60
-Special Attack:  27
-Special Defence:  30
-Speed:  29
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         22
+        defense:         60
+ special-attack:         27
+special-defense:         30
+          speed:         29
+
+Pokedex ID: 665	Capture Rate: 120
+Base Exp: 75	Happiness: 70
+Height: 3	Weight: 84
+
+Genus: Scatterdust Pokémon
+Location Areas:
+

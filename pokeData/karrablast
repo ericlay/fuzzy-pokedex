@@ -1,15 +1,27 @@
+karrablast	A bug type Pokémon
 
-Name:  Karrablast
-Pokedex Number:  588
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swarm - Shed Skin - No Guard (Hidden Ability)
+쪼마리와 함께 있을 때
+전기적인 자극을 받으면
+진화하는 이상한 포켓몬이다.
 
-Base Stats
-----------------------
-Total: 315
-Hp:  50
-Attack:  75
-Defence:  45
-Special Attack:  40
-Special Defence:  45
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         75
+        defense:         45
+ special-attack:         40
+special-defense:         45
+          speed:         60
+
+Pokedex ID: 588	Capture Rate: 200
+Base Exp: 63	Happiness: 50
+Height: 5	Weight: 59
+
+Genus: Clamping Pokémon
+Location Areas:
+icirrus-city-area
+unova-route-6-area
+unova-route-8-area
+moor-of-icirrus-area
+unova-route-11-area
+kalos-route-14-area
+kalos-route-19-area

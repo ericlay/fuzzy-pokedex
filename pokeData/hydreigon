@@ -1,15 +1,21 @@
+hydreigon	A dark type Pokémon
 
-Name:  Hydreigon
-Pokedex Number:  635
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Levitate
+양팔에 있는 머리에는 뇌가
+없다. 3개의 머리로 모든 것을
+먹어치워 파괴해 버린다.
 
-Base Stats
-----------------------
-Total: 600
-Hp:  92
-Attack:  105
-Defence:  90
-Special Attack:  125
-Special Defence:  90
-Speed:  98
+   ↞--------| STATS |--------↠ 
+             hp:         92
+         attack:        105
+        defense:         90
+ special-attack:        125
+special-defense:         90
+          speed:         98
+
+Pokedex ID: 635	Capture Rate: 45
+Base Exp: 300	Happiness: 35
+Height: 18	Weight: 1600
+
+Genus: Brutal Pokémon
+Location Areas:
+

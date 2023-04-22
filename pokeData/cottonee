@@ -1,15 +1,25 @@
+cottonee	A grass type Pokémon
 
-Name:  Cottonee
-Pokedex Number:  546
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Prankster - Infiltrator - Chlorophyll (Hidden Ability)
+공격당하면 몸에서 솜을
+날린다. 상대가 솜을 소미안으로
+착각하고 있는 동안 도망친다.
 
-Base Stats
-----------------------
-Total: 280
-Hp:  40
-Attack:  27
-Defence:  60
-Special Attack:  37
-Special Defence:  50
-Speed:  66
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         27
+        defense:         60
+ special-attack:         37
+special-defense:         50
+          speed:         66
+
+Pokedex ID: 546	Capture Rate: 190
+Base Exp: 56	Happiness: 50
+Height: 3	Weight: 6
+
+Genus: Cotton Puff Pokémon
+Location Areas:
+pinwheel-forest-inside
+abundant-shrine-area
+lostlorn-forest-area
+castelia-city-area
+unova-victory-road-2-unknown-area-72

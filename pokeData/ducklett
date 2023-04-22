@@ -1,15 +1,22 @@
+ducklett	A water type Pokémon
 
-Name:  Ducklett
-Pokedex Number:  580
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Keen Eye - Big Pecks - Hydration (Hidden Ability)
+상대에게 공격당하면 전신의
+깃털에서 물보라를 내뿜는다.
+물안개에 숨어들어 도망친다.
 
-Base Stats
-----------------------
-Total: 305
-Hp:  62
-Attack:  44
-Defence:  50
-Special Attack:  44
-Special Defence:  50
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         62
+         attack:         44
+        defense:         50
+ special-attack:         44
+special-defense:         50
+          speed:         55
+
+Pokedex ID: 580	Capture Rate: 190
+Base Exp: 61	Happiness: 70
+Height: 5	Weight: 55
+
+Genus: Water Bird Pokémon
+Location Areas:
+driftveil-drawbridge-area
+kalos-route-7-area

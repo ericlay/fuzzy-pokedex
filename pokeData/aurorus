@@ -1,15 +1,21 @@
+aurorus	A rock type Pokémon
 
-Name:  Aurorus
-Pokedex Number:  699
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Refrigerate - Snow Warning (Hidden Ability)
+マイナス１５０度の　冷気を
+ひし形の　結晶から　出して
+敵を　包み　氷漬けにする。
 
-Base Stats
-----------------------
-Total: 521
-Hp:  123
-Attack:  77
-Defence:  72
-Special Attack:  99
-Special Defence:  92
-Speed:  58
+   ↞--------| STATS |--------↠ 
+             hp:        123
+         attack:         77
+        defense:         72
+ special-attack:         99
+special-defense:         92
+          speed:         58
+
+Pokedex ID: 699	Capture Rate: 45
+Base Exp: 104	Happiness: 50
+Height: 27	Weight: 2250
+
+Genus: Tundra Pokémon
+Location Areas:
+

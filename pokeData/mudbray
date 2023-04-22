@@ -1,15 +1,21 @@
+mudbray	A ground type Pokémon
 
-Name:  Mudbray
-Pokedex Number:  749
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Own Tempo - Stamina - Inner Focus (Hidden Ability)
+Il fango attaccato alle zampe gli dà un’aderenza
+tale da permettergli di lanciarsi in una potente
+corsa senza rischio di scivolare.
 
-Base Stats
-----------------------
-Total: 385
-Hp:  70
-Attack:  100
-Defence:  70
-Special Attack:  45
-Special Defence:  55
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:        100
+        defense:         70
+ special-attack:         45
+special-defense:         55
+          speed:         45
+
+Pokedex ID: 749	Capture Rate: 190
+Base Exp: 77	Happiness: 50
+Height: 10	Weight: 1100
+
+Genus: Donkey Pokémon
+Location Areas:
+

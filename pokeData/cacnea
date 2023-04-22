@@ -1,15 +1,22 @@
+cacnea	A grass type Pokémon
 
-Name:  Cacnea
-Pokedex Number:  331
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sand Veil - Water Absorb (Hidden Ability)
+By storing water in its body, this
+desert dweller can survive for 30
+days without water.
 
-Base Stats
-----------------------
-Total: 335
-Hp:  50
-Attack:  85
-Defence:  40
-Special Attack:  85
-Special Defence:  40
-Speed:  35
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         85
+        defense:         40
+ special-attack:         85
+special-defense:         40
+          speed:         35
+
+Pokedex ID: 331	Capture Rate: 190
+Base Exp: 67	Happiness: 35
+Height: 4	Weight: 513
+
+Genus: Cactus Pokémon
+Location Areas:
+sinnoh-route-228-area
+hoenn-route-111-area

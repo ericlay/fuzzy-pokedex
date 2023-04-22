@@ -1,15 +1,21 @@
+magmortar	A fire type Pokémon
 
-Name:  Magmortar
-Pokedex Number:  467
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Flame Body - Vital Spirit (Hidden Ability)
+Quand il lance des boules de feu
+à plus de 2 000 °C, son corps
+est comme chauffé à blanc.
 
-Base Stats
-----------------------
-Total: 540
-Hp:  75
-Attack:  95
-Defence:  67
-Special Attack:  125
-Special Defence:  95
-Speed:  83
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         95
+        defense:         67
+ special-attack:        125
+special-defense:         95
+          speed:         83
+
+Pokedex ID: 467	Capture Rate: 30
+Base Exp: 270	Happiness: 50
+Height: 16	Weight: 680
+
+Genus: Blast Pokémon
+Location Areas:
+

@@ -1,15 +1,21 @@
+araquanid	A water type Pokémon
 
-Name:  Araquanid
-Pokedex Number:  752
-Gender Ratio:   ♂:50.2% ♀:49.8% 
-Abilities: Water Bubble - Water Absorb (Hidden Ability)
+It delivers headbutts with the water bubble
+on its head. Small Pokémon get sucked into
+the bubble, where they drown.
 
-Base Stats
-----------------------
-Total: 454
-Hp:  68
-Attack:  70
-Defence:  92
-Special Attack:  50
-Special Defence:  132
-Speed:  42
+   ↞--------| STATS |--------↠ 
+             hp:         68
+         attack:         70
+        defense:         92
+ special-attack:         50
+special-defense:        132
+          speed:         42
+
+Pokedex ID: 752	Capture Rate: 100
+Base Exp: 159	Happiness: 50
+Height: 18	Weight: 820
+
+Genus: Water Bubble Pokémon
+Location Areas:
+

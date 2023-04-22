@@ -1,15 +1,21 @@
+regigigas	A normal type Pokémon
 
-Name:  Regigigas
-Pokedex Number:  486
-Gender Ratio:  Genderless
-Abilities: Slow Start
+On dit qu’il a créé des Pokémon
+à son image à partir de glace,
+de roche et de magma.
 
-Base Stats
-----------------------
-Total: 670
-Hp:  110
-Attack:  160
-Defence:  110
-Special Attack:  80
-Special Defence:  110
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:        110
+         attack:        160
+        defense:        110
+ special-attack:         80
+special-defense:        110
+          speed:        100
+
+Pokedex ID: 486	Capture Rate: 3
+Base Exp: 335	Happiness: 0
+Height: 37	Weight: 4200
+
+Genus: Colossal Pokémon
+Location Areas:
+snowpoint-temple-b5f

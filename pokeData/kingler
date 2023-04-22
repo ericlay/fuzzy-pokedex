@@ -1,15 +1,65 @@
+kingler	A water type Pokémon
 
-Name:  Kingler
-Pokedex Number:  099
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Hyper Cutter - Shell Armor - Sheer Force (Hidden Ability)
+KINGLER has an enormous, oversized
+claw. It waves this huge claw in the
+air to communicate with others.However, because the claw is so heavy,
+the POKéMON quickly tires.
 
-Base Stats
-----------------------
-Total: 475
-Hp:  55
-Attack:  130
-Defence:  115
-Special Attack:  50
-Special Defence:  50
-Speed:  75
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:        130
+        defense:        115
+ special-attack:         50
+special-defense:         50
+          speed:         75
+
+Pokedex ID: 99	Capture Rate: 60
+Base Exp: 166	Happiness: 50
+Height: 13	Weight: 600
+
+Genus: Pincer Pokémon
+Location Areas:
+cherrygrove-city-area
+union-cave-b2f
+johto-route-34-area
+olivine-city-area
+johto-sea-route-40-area
+whirl-islands-1f
+whirl-islands-b2f
+whirl-islands-b3f
+cianwood-city-area
+seafoam-islands-b1f
+seafoam-islands-b2f
+seafoam-islands-b3f
+seafoam-islands-b4f
+johto-route-47-inside-cave
+kanto-sea-route-19-area
+kanto-sea-route-20-area
+pallet-town-area
+kanto-route-10-area
+kanto-sea-route-21-area
+kanto-route-25-area
+cerulean-cave-1f
+cerulean-cave-b1f
+kanto-route-23-area
+icefall-cave-waterfall
+kindle-road-area
+treasure-beach-area
+bond-bridge-area
+resort-gorgeous-area
+water-labyrinth-area
+five-isle-meadow-area
+memorial-pillar-area
+outcast-island-area
+green-path-area
+water-path-area
+trainer-tower-area
+tanoby-ruins-area
+one-island-area
+five-island-area
+driftveil-city-area
+unova-route-4-area
+unova-route-13-area
+virbank-city-area
+virbank-complex-outer
+johto-safari-zone-zone-rocky-beach

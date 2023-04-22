@@ -1,15 +1,24 @@
+skitty	A normal type Pokémon
 
-Name:  Skitty
-Pokedex Number:  300
-Gender Ratio:   ♂:25% ♀:75%
-Abilities: Cute Charm - Normalize - Wonder Skin  (Hidden Ability)
+It can’t stop itself from chasing
+moving things, and it runs in a
+circle, chasing its own tail.
 
-Base Stats
-----------------------
-Total: 260
-Hp:  50
-Attack:  45
-Defence:  45
-Special Attack:  35
-Special Defence:  35
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         45
+        defense:         45
+ special-attack:         35
+special-defense:         35
+          speed:         50
+
+Pokedex ID: 300	Capture Rate: 255
+Base Exp: 52	Happiness: 70
+Height: 6	Weight: 110
+
+Genus: Kitten Pokémon
+Location Areas:
+sinnoh-route-222-area
+hoenn-route-116-area
+castelia-city-area
+kalos-route-4-area

@@ -1,15 +1,22 @@
+omastar	A rock type Pokémon
 
-Name:  Omastar
-Pokedex Number:  139
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Swift Swim - Shell Armor - Weak Armor (Hidden Ability)
+OMASTAR uses its tentacles to capture
+its prey. It is believed to have become
+extinct because its shell grew too largeand heavy, causing its movements to
+become too slow and ponderous.
 
-Base Stats
-----------------------
-Total: 495
-Hp:  70
-Attack:  60
-Defence:  125
-Special Attack:  115
-Special Defence:  70
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         60
+        defense:        125
+ special-attack:        115
+special-defense:         70
+          speed:         55
+
+Pokedex ID: 139	Capture Rate: 45
+Base Exp: 173	Happiness: 50
+Height: 10	Weight: 350
+
+Genus: Spiral Pokémon
+Location Areas:
+

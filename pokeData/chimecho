@@ -1,15 +1,31 @@
+chimecho	A psychic type Pokémon
 
-Name:  Chimecho
-Pokedex Number:  358
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Levitate
+Its cries echo inside its hollow
+body to emerge as beautiful notes
+for startling and repelling foes.
 
-Base Stats
-----------------------
-Total: 425
-Hp:  65
-Attack:  50
-Defence:  70
-Special Attack:  95
-Special Defence:  80
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         50
+        defense:         80
+ special-attack:         95
+special-defense:         90
+          speed:         65
+
+Pokedex ID: 358	Capture Rate: 45
+Base Exp: 159	Happiness: 70
+Height: 6	Weight: 10
+
+Genus: Wind Chime Pokémon
+Location Areas:
+mt-coronet-4f-small-room
+mt-coronet-5f
+mt-coronet-6f
+sendoff-spring-area
+turnback-cave-pillar-2
+turnback-cave-pillar-3
+turnback-cave-between-pillars-1-and-2
+turnback-cave-between-pillars-2-and-3
+turnback-cave-after-pillar-3
+mt-pyre-summit
+abundant-shrine-area

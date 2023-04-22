@@ -1,15 +1,21 @@
+dedenne	A electric type Pokémon
 
-Name:  Dedenne
-Pokedex Number:  702
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Cheek Pouch - Pickup - Plus (Hidden Ability)
+Its whiskers serve as antennas. By sending and
+receiving electrical waves, it can communicate
+with others over vast distances.
 
-Base Stats
-----------------------
-Total: 431
-Hp:  67
-Attack:  58
-Defence:  57
-Special Attack:  81
-Special Defence:  67
-Speed:  101
+   ↞--------| STATS |--------↠ 
+             hp:         67
+         attack:         58
+        defense:         57
+ special-attack:         81
+special-defense:         67
+          speed:        101
+
+Pokedex ID: 702	Capture Rate: 180
+Base Exp: 151	Happiness: 50
+Height: 2	Weight: 22
+
+Genus: Antenna Pokémon
+Location Areas:
+kalos-route-11-area

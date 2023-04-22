@@ -1,1 +1,22 @@
-You didn't enter a valid pokemon!
+mime-jr	A psychic type Pokémon
+
+Il imite les mouvements et les
+expressions des autres pour
+comprendre leurs sentiments.
+
+   ↞--------| STATS |--------↠ 
+             hp:         20
+         attack:         25
+        defense:         45
+ special-attack:         70
+special-defense:         90
+          speed:         60
+
+Pokedex ID: 439	Capture Rate: 145
+Base Exp: 62	Happiness: 50
+Height: 6	Weight: 130
+
+Genus: Mime Pokémon
+Location Areas:
+sinnoh-route-209-area
+sinnoh-route-210-south-towards-solaceon-town

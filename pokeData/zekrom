@@ -1,15 +1,21 @@
+zekrom	A dragon type Pokémon
 
-Name:  Zekrom
-Pokedex Number:  644
-Gender Ratio:  Genderless
-Abilities: Teravolt
+번개로 세상을 태워버릴 수 있는
+전설의 포켓몬. 이상의 세계를
+구축하는 사람을 보좌한다.
 
-Base Stats
-----------------------
-Total: 680
-Hp:  100
-Attack:  150
-Defence:  120
-Special Attack:  120
-Special Defence:  100
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        150
+        defense:        120
+ special-attack:        120
+special-defense:        100
+          speed:         90
+
+Pokedex ID: 644	Capture Rate: 3
+Base Exp: 340	Happiness: 0
+Height: 29	Weight: 3450
+
+Genus: Deep Black Pokémon
+Location Areas:
+

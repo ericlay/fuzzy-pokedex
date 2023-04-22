@@ -1,15 +1,31 @@
+pinsir	A bug type Pokémon
 
-Name:  Pinsir
-Pokedex Number:  127
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Hyper Cutter - Mold Breaker - Moxie (Hidden Ability)
+PINSIR has a pair of massive horns 
+Protruding from the surface of these
+horns are thorns.These thorns are driven deeply into the
+foe’s body when the pincer closes,
+making it tough for the foe to escape.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  65
-Attack:  155
-Defence:  120
-Special Attack:  65
-Special Defence:  90
-Speed:  105
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:        125
+        defense:        100
+ special-attack:         55
+special-defense:         70
+          speed:         85
+
+Pokedex ID: 127	Capture Rate: 45
+Base Exp: 175	Happiness: 50
+Height: 15	Weight: 550
+
+Genus: Stag Beetle Pokémon
+Location Areas:
+sinnoh-route-229-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+hoenn-safari-zone-nwmach-bike-area
+unova-route-12-area
+lostlorn-forest-area
+kalos-route-12-area

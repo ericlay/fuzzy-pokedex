@@ -1,15 +1,21 @@
+hawlucha	A fighting type Pokémon
 
-Name:  Hawlucha
-Pokedex Number:  701
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Limber - Unburden - Mold Breaker (Hidden Ability)
+体格は　小柄だが　カイリキーや
+ハリテヤマなど　大きな　ポケモンと
+互角に　戦う　テクニシャン。
 
-Base Stats
-----------------------
-Total: 500
-Hp:  78
-Attack:  92
-Defence:  75
-Special Attack:  74
-Special Defence:  63
-Speed:  118
+   ↞--------| STATS |--------↠ 
+             hp:         78
+         attack:         92
+        defense:         75
+ special-attack:         74
+special-defense:         63
+          speed:        118
+
+Pokedex ID: 701	Capture Rate: 100
+Base Exp: 175	Happiness: 50
+Height: 8	Weight: 215
+
+Genus: Wrestling Pokémon
+Location Areas:
+kalos-route-10-area

@@ -1,15 +1,21 @@
+empoleon	A water type Pokémon
 
-Name:  Empoleon
-Pokedex Number:  395
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Torrent - Defiant (Hidden Ability)
+S’il voit son honneur bafoué, il
+est capable de faire des ravages
+avec ses ailes tranchantes.
 
-Base Stats
-----------------------
-Total: 530
-Hp:  84
-Attack:  86
-Defence:  88
-Special Attack:  111
-Special Defence:  101
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         84
+         attack:         86
+        defense:         88
+ special-attack:        111
+special-defense:        101
+          speed:         60
+
+Pokedex ID: 395	Capture Rate: 45
+Base Exp: 239	Happiness: 70
+Height: 17	Weight: 845
+
+Genus: Emperor Pokémon
+Location Areas:
+

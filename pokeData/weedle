@@ -1,15 +1,48 @@
+weedle	A bug type Pokémon
 
-Name:  Weedle
-Pokedex Number:  013
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shield Dust - Run Away (Hidden Ability)
+WEEDLE has an extremely acute sense
+of smell.
+It is capable of distinguishing itsfavorite kinds of leaves from those it
+dislikes just by sniffing with its big
+red proboscis (nose).
 
-Base Stats
-----------------------
-Total: 195
-Hp:  40
-Attack:  35
-Defence:  30
-Special Attack:  20
-Special Defence:  20
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         35
+        defense:         30
+ special-attack:         20
+special-defense:         20
+          speed:         50
+
+Pokedex ID: 13	Capture Rate: 255
+Base Exp: 39	Happiness: 70
+Height: 3	Weight: 32
+
+Genus: Hairy Bug Pokémon
+Location Areas:
+eterna-forest-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+johto-route-30-area
+johto-route-31-area
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+national-park-area
+unknown-all-bugs-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+lake-of-rage-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-24-area
+kanto-route-25-area
+kanto-route-2-north-towards-pewter-city
+viridian-forest-area
+pattern-bush-area
+kalos-route-2-area
+santalune-forest-area
+azalea-town-area

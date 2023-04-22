@@ -1,15 +1,22 @@
+drifloon	A ghost type Pokémon
 
-Name:  Drifloon
-Pokedex Number:  425
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Aftermath - Unburden - Flare Boost (Hidden Ability)
+Sa façon de flotter sans but au
+gré du vent lui a valu le surnom
+de “bouée des esprits égarés”.
 
-Base Stats
-----------------------
-Total: 348
-Hp:  90
-Attack:  50
-Defence:  34
-Special Attack:  60
-Special Defence:  44
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         50
+        defense:         34
+ special-attack:         60
+special-defense:         44
+          speed:         70
+
+Pokedex ID: 425	Capture Rate: 125
+Base Exp: 70	Happiness: 50
+Height: 4	Weight: 12
+
+Genus: Balloon Pokémon
+Location Areas:
+valley-windworks-area
+kalos-route-8-area

@@ -1,15 +1,21 @@
+drampa	A normal type Pokémon
 
-Name:  Drampa
-Pokedex Number:  780
-Gender Ratio:   ♂:50.2% ♀:49.8% 
-Abilities: Berserk - Sap Sipper - Cloud Nine (Hidden Ability)
+It has a compassionate personality, but if it is
+angered, it completely destroys its surroundings
+with its intense breath.
 
-Base Stats
-----------------------
-Total: 485
-Hp:  78
-Attack:  60
-Defence:  85
-Special Attack:  135
-Special Defence:  91
-Speed:  36
+   ↞--------| STATS |--------↠ 
+             hp:         78
+         attack:         60
+        defense:         85
+ special-attack:        135
+special-defense:         91
+          speed:         36
+
+Pokedex ID: 780	Capture Rate: 70
+Base Exp: 170	Happiness: 50
+Height: 30	Weight: 1850
+
+Genus: Placid Pokémon
+Location Areas:
+

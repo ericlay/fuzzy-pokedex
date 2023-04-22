@@ -1,15 +1,21 @@
+mismagius	A ghost type Pokémon
 
-Name:  Mismagius
-Pokedex Number:  429
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Levitate
+Pareil à une incantation magique,
+son cri n’est que très rarement
+source de joie.
 
-Base Stats
-----------------------
-Total: 495
-Hp:  60
-Attack:  60
-Defence:  60
-Special Attack:  105
-Special Defence:  105
-Speed:  105
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         60
+        defense:         60
+ special-attack:        105
+special-defense:        105
+          speed:        105
+
+Pokedex ID: 429	Capture Rate: 45
+Base Exp: 173	Happiness: 35
+Height: 9	Weight: 44
+
+Genus: Magical Pokémon
+Location Areas:
+abundant-shrine-area

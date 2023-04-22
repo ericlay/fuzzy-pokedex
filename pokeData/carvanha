@@ -1,15 +1,30 @@
+carvanha	A water type Pokémon
 
-Name:  Carvanha
-Pokedex Number:  318
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Rough Skin - Speed Boost (Hidden Ability)
+They swarm any foe that invades
+their territory. Their sharp fangs
+can tear out boat hulls.
 
-Base Stats
-----------------------
-Total: 305
-Hp:  45
-Attack:  90
-Defence:  20
-Special Attack:  65
-Special Defence:  20
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         90
+        defense:         20
+ special-attack:         65
+special-defense:         20
+          speed:         65
+
+Pokedex ID: 318	Capture Rate: 225
+Base Exp: 61	Happiness: 35
+Height: 8	Weight: 208
+
+Genus: Savage Pokémon
+Location Areas:
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+hoenn-route-118-area
+hoenn-route-119-area
+village-bridge-area
+kalos-route-22-area

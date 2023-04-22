@@ -1,15 +1,110 @@
+psyduck	A water type Pokémon
 
-Name:  Psyduck
-Pokedex Number:  054
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Damp - Cloud Nine - Swift Swim (Hidden Ability)
+If it uses its mysterious power,
+PSYDUCK can’t remember having done so.
+It apparently can’t form a memory ofsuch an event because it goes into
+an altered state that is much like
+deep sleep.
 
-Base Stats
-----------------------
-Total: 320
-Hp:  50
-Attack:  52
-Defence:  48
-Special Attack:  65
-Special Defence:  50
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         52
+        defense:         48
+ special-attack:         65
+special-defense:         50
+          speed:         55
+
+Pokedex ID: 54	Capture Rate: 190
+Base Exp: 64	Happiness: 50
+Height: 8	Weight: 196
+
+Genus: Duck Pokémon
+Location Areas:
+eterna-city-area
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-6
+ravaged-path-area
+oreburgh-gate-1f
+oreburgh-gate-b1f
+lake-verity-before-galactic-intervention
+lake-verity-after-galactic-intervention
+lake-valor-area
+lake-acuity-area
+sinnoh-route-203-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+sinnoh-route-205-east-towards-eterna-city
+sinnoh-route-208-area
+sinnoh-route-209-area
+sinnoh-route-210-west-towards-celestic-town
+sinnoh-route-212-north-towards-hearthome-city
+sinnoh-route-214-area
+sinnoh-route-225-area
+twinleaf-town-area
+celestic-town-area
+resort-area-area
+ilex-forest-area
+johto-route-35-area
+national-park-area
+seafoam-islands-1f
+seafoam-islands-b1f
+seafoam-islands-b2f
+seafoam-islands-b3f
+seafoam-islands-b4f
+kanto-route-12-area
+kanto-sea-route-19-area
+kanto-sea-route-20-area
+cinnabar-island-area
+viridian-city-area
+cerulean-city-area
+vermilion-city-area
+celadon-city-area
+fuchsia-city-area
+pallet-town-area
+kanto-route-4-area
+kanto-route-6-area
+kanto-route-10-area
+kanto-route-11-area
+kanto-route-13-area
+kanto-sea-route-21-area
+kanto-route-22-area
+kanto-route-24-area
+kanto-route-25-area
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+kanto-route-23-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+hoenn-safari-zone-nwmach-bike-area
+hoenn-safari-zone-sw
+ss-anne-area
+berry-forest-area
+icefall-cave-entrance
+icefall-cave-waterfall
+kindle-road-area
+treasure-beach-area
+cape-brink-area
+bond-bridge-area
+resort-gorgeous-area
+water-labyrinth-area
+five-isle-meadow-area
+memorial-pillar-area
+outcast-island-area
+green-path-area
+water-path-area
+ruin-valley-area
+trainer-tower-area
+canyon-entrance-area
+tanoby-ruins-area
+one-island-area
+four-island-area
+five-island-area
+floccesy-ranch-inner
+kalos-route-22-area
+johto-safari-zone-zone-wetland

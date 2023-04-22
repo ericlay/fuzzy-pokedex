@@ -1,15 +1,22 @@
+vibrava	A ground type Pokémon
 
-Name:  Vibrava
-Pokedex Number:  329
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Levitate
+It violently shudders its wings,
+generating ultrasonic waves to
+induce headaches in people.
 
-Base Stats
-----------------------
-Total: 340
-Hp:  50
-Attack:  70
-Defence:  50
-Special Attack:  50
-Special Defence:  50
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         70
+        defense:         50
+ special-attack:         50
+special-defense:         50
+          speed:         70
+
+Pokedex ID: 329	Capture Rate: 120
+Base Exp: 119	Happiness: 50
+Height: 11	Weight: 153
+
+Genus: Vibration Pokémon
+Location Areas:
+sinnoh-route-228-area
+reversal-mountain-unknown-area-48

@@ -1,15 +1,27 @@
+miltank	A normal type Pokémon
 
-Name:  Miltank
-Pokedex Number:  241
-Gender Ratio:   ♂:0% ♀:100%
-Abilities: Thick Fat - Scrappy - Sap Sipper (Hidden Ability)
+If it has just had a baby, the milk it
+produces contains much more nutrition than
+usual.
 
-Base Stats
-----------------------
-Total: 490
-Hp:  95
-Attack:  80
-Defence:  105
-Special Attack:  40
-Special Defence:  70
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:         80
+        defense:        105
+ special-attack:         40
+special-defense:         70
+          speed:        100
+
+Pokedex ID: 241	Capture Rate: 45
+Base Exp: 172	Happiness: 50
+Height: 12	Weight: 755
+
+Genus: Milk Cow Pokémon
+Location Areas:
+sinnoh-route-209-area
+sinnoh-route-210-south-towards-solaceon-town
+johto-route-38-area
+johto-route-39-area
+johto-route-47-area
+hoenn-safari-zone-expansion-north
+kalos-route-12-area

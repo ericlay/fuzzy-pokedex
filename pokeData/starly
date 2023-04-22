@@ -1,15 +1,35 @@
+starly	A normal type Pokémon
 
-Name:  Starly
-Pokedex Number:  396
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Keen Eye - Reckless (Hidden Ability)
+La faiblesse des Étourmi les force
+à vivre en groupe, mais ils se
+chamaillent souvent.
 
-Base Stats
-----------------------
-Total: 245
-Hp:  40
-Attack:  55
-Defence:  30
-Special Attack:  30
-Special Defence:  30
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         55
+        defense:         30
+ special-attack:         30
+special-defense:         30
+          speed:         60
+
+Pokedex ID: 396	Capture Rate: 255
+Base Exp: 49	Happiness: 70
+Height: 3	Weight: 20
+
+Genus: Starling Pokémon
+Location Areas:
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+lake-verity-before-galactic-intervention
+lake-verity-after-galactic-intervention
+sinnoh-route-201-area
+sinnoh-route-202-area
+sinnoh-route-203-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+sinnoh-route-209-area
+sinnoh-route-212-north-towards-hearthome-city

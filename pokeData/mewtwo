@@ -1,15 +1,23 @@
+mewtwo	A psychic type Pokémon
 
-Name:  Mewtwo
-Pokedex Number:  150
-Gender Ratio:  Genderless
-Abilities: Pressure - Unnerve (Hidden Ability)
+MEWTWO is a POKéMON that was created
+by genetic manipulation.
+However, even though the scientificpower of humans created this POKéMON’s
+body, they failed to endow MEWTWO with
+a compassionate heart.
 
-Base Stats
-----------------------
-Total: 680
-Hp:  106
-Attack:  150
-Defence:  70
-Special Attack:  194
-Special Defence:  120
-Speed:  140
+   ↞--------| STATS |--------↠ 
+             hp:        106
+         attack:        110
+        defense:         90
+ special-attack:        154
+special-defense:         90
+          speed:        130
+
+Pokedex ID: 150	Capture Rate: 3
+Base Exp: 340	Happiness: 0
+Height: 20	Weight: 1220
+
+Genus: Genetic Pokémon
+Location Areas:
+cerulean-cave-b1f

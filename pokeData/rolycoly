@@ -1,15 +1,21 @@
+rolycoly	A rock type Pokémon
 
-Name:  Rolycoly
-Pokedex Number:  837
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Steam Engine - Heatproof - Flash Fire (Hidden Ability)
+Most of its body has the same composition as
+coal. Fittingly, this Pokémon was first discovered
+in coal mines about 400 years ago.
 
-Base Stats
-----------------------
-Total: 240
-Hp:  30
-Attack:  40
-Defence:  50
-Special Attack:  40
-Special Defence:  50
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         30
+         attack:         40
+        defense:         50
+ special-attack:         40
+special-defense:         50
+          speed:         30
+
+Pokedex ID: 837	Capture Rate: 255
+Base Exp: 48	Happiness: 50
+Height: 3	Weight: 120
+
+Genus: Coal Pokémon
+Location Areas:
+

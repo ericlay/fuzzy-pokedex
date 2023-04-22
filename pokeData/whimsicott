@@ -1,15 +1,25 @@
+whimsicott	A grass type Pokémon
 
-Name:  Whimsicott
-Pokedex Number:  547
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Prankster - Infiltrator - Chlorophyll (Hidden Ability)
+つむじかぜと　ともに　あらわれて
+いえのなかの　かぐを　うごかしたり
+わたを　のこす　いたずらをする。
 
-Base Stats
-----------------------
-Total: 480
-Hp:  60
-Attack:  67
-Defence:  85
-Special Attack:  77
-Special Defence:  75
-Speed:  116
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         67
+        defense:         85
+ special-attack:         77
+special-defense:         75
+          speed:        116
+
+Pokedex ID: 547	Capture Rate: 75
+Base Exp: 168	Happiness: 50
+Height: 7	Weight: 66
+
+Genus: Windveiled Pokémon
+Location Areas:
+pinwheel-forest-inside
+abundant-shrine-area
+lostlorn-forest-area
+castelia-city-area
+unova-victory-road-2-unknown-area-72

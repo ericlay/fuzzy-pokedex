@@ -1,15 +1,29 @@
+lombre	A water type Pokémon
 
-Name:  Lombre
-Pokedex Number:  271
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swift Swim - Rain Dish - Own Tempo (Hidden Ability)
+It has a mischievous spirit. If it
+spots an angler, it will tug on the
+fishing line to interfere.
 
-Base Stats
-----------------------
-Total: 340
-Hp:  60
-Attack:  50
-Defence:  50
-Special Attack:  60
-Special Defence:  70
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         50
+        defense:         50
+ special-attack:         60
+special-defense:         70
+          speed:         50
+
+Pokedex ID: 271	Capture Rate: 120
+Base Exp: 119	Happiness: 50
+Height: 12	Weight: 325
+
+Genus: Jolly Pokémon
+Location Areas:
+sinnoh-route-212-east-towards-pastoria-city
+sinnoh-route-229-area
+hoenn-route-114-area
+couriway-town-area
+kalos-route-15-area
+kalos-route-16-area
+kalos-route-21-area
+pokemon-village-area
+kalos-victory-road-unknown-area-327

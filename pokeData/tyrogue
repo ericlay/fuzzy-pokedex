@@ -1,15 +1,24 @@
+tyrogue	A fighting type Pokémon
 
-Name:  Tyrogue
-Pokedex Number:  236
-Gender Ratio:   ♂:100% ♀:0%
-Abilities: Guts - Steadfast - Vital Spirit (Hidden Ability)
+It is always bursting with energy. To make
+itself stronger, it keeps on fighting even
+if it loses.
 
-Base Stats
-----------------------
-Total: 210
-Hp:  35
-Attack:  35
-Defence:  35
-Special Attack:  35
-Special Defence:  35
-Speed:  35
+   ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:         35
+        defense:         35
+ special-attack:         35
+special-defense:         35
+          speed:         35
+
+Pokedex ID: 236	Capture Rate: 75
+Base Exp: 42	Happiness: 50
+Height: 7	Weight: 210
+
+Genus: Scuffle Pokémon
+Location Areas:
+sinnoh-route-208-area
+sinnoh-route-211-west-towards-eterna-city
+johto-route-34-area
+mt-mortar-b1f

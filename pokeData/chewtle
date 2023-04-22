@@ -1,15 +1,20 @@
+chewtle	A water type Pokémon
 
-Name:  Chewtle
-Pokedex Number:  833
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Strong Jaw - Shell Armor - Swift Swim (Hidden Ability)
+Apparently the itch of its teething impels it to
+snap its jaws at anything in front of it.
 
-Base Stats
-----------------------
-Total: 284
-Hp:  50
-Attack:  64
-Defence:  50
-Special Attack:  38
-Special Defence:  38
-Speed:  44
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         64
+        defense:         50
+ special-attack:         38
+special-defense:         38
+          speed:         44
+
+Pokedex ID: 833	Capture Rate: 255
+Base Exp: 57	Happiness: 50
+Height: 3	Weight: 85
+
+Genus: Snapping Pokémon
+Location Areas:
+

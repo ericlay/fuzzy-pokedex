@@ -1,15 +1,21 @@
+thwackey	A grass type Pokémon
 
-Name:  Thwackey
-Pokedex Number:  811
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Overgrow - Grassy Surge (Hidden Ability)
+The faster a Thwackey can beat out a rhythm
+with its two sticks, the more respect it wins from
+its peers.
 
-Base Stats
-----------------------
-Total: 420
-Hp:  70
-Attack:  85
-Defence:  70
-Special Attack:  55
-Special Defence:  60
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         85
+        defense:         70
+ special-attack:         55
+special-defense:         60
+          speed:         80
+
+Pokedex ID: 811	Capture Rate: 45
+Base Exp: 147	Happiness: 50
+Height: 7	Weight: 140
+
+Genus: Beat Pokémon
+Location Areas:
+

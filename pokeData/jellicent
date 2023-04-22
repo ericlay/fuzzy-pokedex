@@ -1,15 +1,33 @@
+jellicent	A water type Pokémon
 
-Name:  Jellicent
-Pokedex Number:  593
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Water Absorb - Cursed Body - Damp (Hidden Ability)
+몸 대부분이 해수다.
+해저에는 탱탱겔이 가라앉힌
+배로 만들어진 성이 있다고 한다.
 
-Base Stats
-----------------------
-Total: 480
-Hp:  100
-Attack:  60
-Defence:  70
-Special Attack:  85
-Special Defence:  105
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:         60
+        defense:         70
+ special-attack:         85
+special-defense:        105
+          speed:         60
+
+Pokedex ID: 593	Capture Rate: 60
+Base Exp: 168	Happiness: 50
+Height: 22	Weight: 1350
+
+Genus: Floating Pokémon
+Location Areas:
+driftveil-city-area
+p2-laboratory-area
+undella-bay-area
+unova-route-4-area
+unova-route-13-area
+unova-route-18-area
+undella-town-area
+unova-route-17-area
+virbank-city-area
+humilau-city-area
+virbank-complex-outer
+seaside-cave-1f
+unova-route-21-area

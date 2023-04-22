@@ -1,15 +1,21 @@
+anorith	A rock type Pokémon
 
-Name:  Anorith
-Pokedex Number:  347
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Battle Armor - Swift Swim (Hidden Ability)
+A Pokémon ancestor that was
+reanimated from a fossil. It lived
+in the sea and hunted with claws.
 
-Base Stats
-----------------------
-Total: 355
-Hp:  45
-Attack:  95
-Defence:  50
-Special Attack:  40
-Special Defence:  50
-Speed:  75
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         95
+        defense:         50
+ special-attack:         40
+special-defense:         50
+          speed:         75
+
+Pokedex ID: 347	Capture Rate: 45
+Base Exp: 71	Happiness: 50
+Height: 7	Weight: 125
+
+Genus: Old Shrimp Pokémon
+Location Areas:
+rustboro-city-area

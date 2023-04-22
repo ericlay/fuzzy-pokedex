@@ -1,15 +1,22 @@
+castform	A normal type Pokémon
 
-Name:  Castform
-Pokedex Number:  351
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Forecast
+Its appearance changes with the
+weather. Recently, its molecules
+were found to be just like water.
 
-Base Stats
-----------------------
-Total: 420
-Hp:  70
-Attack:  70
-Defence:  70
-Special Attack:  70
-Special Defence:  70
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         70
+        defense:         70
+ special-attack:         70
+special-defense:         70
+          speed:         70
+
+Pokedex ID: 351	Capture Rate: 45
+Base Exp: 147	Happiness: 70
+Height: 3	Weight: 8
+
+Genus: Weather Pokémon
+Location Areas:
+unova-route-6-area
+hoenn-route-119-weather-institute

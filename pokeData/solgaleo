@@ -1,15 +1,21 @@
+solgaleo	A psychic type Pokémon
 
-Name:  Solgaleo
-Pokedex Number:  791
-Gender Ratio:  Genderless
-Abilities: Full Metal Body
+It is said to live in another world. The intense
+light it radiates from the surface of its body can
+make the darkest of nights light up like midday.
 
-Base Stats
-----------------------
-Total: 680
-Hp:  137
-Attack:  137
-Defence:  107
-Special Attack:  113
-Special Defence:  89
-Speed:  97
+   ↞--------| STATS |--------↠ 
+             hp:        137
+         attack:        137
+        defense:        107
+ special-attack:        113
+special-defense:         89
+          speed:         97
+
+Pokedex ID: 791	Capture Rate: 45
+Base Exp: 340	Happiness: 0
+Height: 34	Weight: 2300
+
+Genus: Sunne Pokémon
+Location Areas:
+

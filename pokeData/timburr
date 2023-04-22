@@ -1,15 +1,23 @@
+timburr	A fighting type Pokémon
 
-Name:  Timburr
-Pokedex Number:  532
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Guts - Sheer Force - Iron Fist (Hidden Ability)
+항상 각목을 끼고 있다.
+건설 현장에 나타나
+공사를 도와주는 포켓몬이다.
 
-Base Stats
-----------------------
-Total: 305
-Hp:  75
-Attack:  80
-Defence:  55
-Special Attack:  25
-Special Defence:  35
-Speed:  35
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         80
+        defense:         55
+ special-attack:         25
+special-defense:         35
+          speed:         35
+
+Pokedex ID: 532	Capture Rate: 180
+Base Exp: 61	Happiness: 70
+Height: 6	Weight: 125
+
+Genus: Muscular Pokémon
+Location Areas:
+pinwheel-forest-outside
+cold-storage-area
+relic-passage-castelia-sewers-entrance

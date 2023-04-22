@@ -1,15 +1,22 @@
+metagross	A steel type Pokémon
 
-Name:  Metagross
-Pokedex Number:  376
-Gender Ratio:  Genderless
-Abilities: Clear Body - Light Metal (Hidden Ability)
+METANG combined to form it.
+With four brains, it has the
+intelligence of a supercomputer.
 
-Base Stats
-----------------------
-Total: 600
-Hp:  80
-Attack:  145
-Defence:  150
-Special Attack:  105
-Special Defence:  110
-Speed:  110
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        135
+        defense:        130
+ special-attack:         95
+special-defense:         90
+          speed:         70
+
+Pokedex ID: 376	Capture Rate: 3
+Base Exp: 300	Happiness: 35
+Height: 16	Weight: 5500
+
+Genus: Iron Leg Pokémon
+Location Areas:
+giant-chasm-forest
+giant-chasm-forest-cave

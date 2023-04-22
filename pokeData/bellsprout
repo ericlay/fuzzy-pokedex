@@ -1,15 +1,42 @@
+bellsprout	A grass type Pokémon
 
-Name:  Bellsprout
-Pokedex Number:  069
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Gluttony (Hidden Ability)
+BELLSPROUT’s thin and flexible body
+lets it bend and sway to avoid any
+attack, however strong it may be.From its mouth, this POKéMON spits a
+corrosive fluid that melts even iron.
 
-Base Stats
-----------------------
-Total: 300
-Hp:  50
-Attack:  75
-Defence:  35
-Special Attack:  70
-Special Defence:  30
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         75
+        defense:         35
+ special-attack:         70
+special-defense:         30
+          speed:         40
+
+Pokedex ID: 69	Capture Rate: 255
+Base Exp: 60	Happiness: 70
+Height: 7	Weight: 40
+
+Genus: Flower Pokémon
+Location Areas:
+sinnoh-route-224-area
+sinnoh-route-229-area
+sinnoh-sea-route-230-area
+johto-route-31-area
+johto-route-32-area
+johto-route-36-area
+johto-route-44-area
+kanto-route-12-area
+kanto-route-5-area
+kanto-route-6-area
+kanto-route-7-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+kanto-route-24-area
+kanto-route-25-area
+berry-forest-area
+cape-brink-area
+bond-bridge-area
+water-path-area
+johto-safari-zone-zone-forest

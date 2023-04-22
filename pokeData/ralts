@@ -1,15 +1,28 @@
+ralts	A psychic type Pokémon
 
-Name:  Ralts
-Pokedex Number:  280
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Synchronize - Trace - Telepathy (Hidden Ability)
+If its horns capture the warm
+feelings of people or Pokémon,
+its body warms up slightly.
 
-Base Stats
-----------------------
-Total: 198
-Hp:  28
-Attack:  25
-Defence:  25
-Special Attack:  45
-Special Defence:  35
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         28
+         attack:         25
+        defense:         25
+ special-attack:         45
+special-defense:         35
+          speed:         40
+
+Pokedex ID: 280	Capture Rate: 235
+Base Exp: 40	Happiness: 35
+Height: 4	Weight: 66
+
+Genus: Feeling Pokémon
+Location Areas:
+sinnoh-route-203-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-208-area
+sinnoh-route-209-area
+sinnoh-route-212-north-towards-hearthome-city
+johto-route-34-area
+hoenn-route-102-area
+kalos-route-4-area

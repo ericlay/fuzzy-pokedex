@@ -1,15 +1,21 @@
+cresselia	A psychic type Pokémon
 
-Name:  Cresselia
-Pokedex Number:  488
-Gender Ratio:   ♂:0% ♀:100%
-Abilities: Levitate
+Les nuits où le premier croissant
+de lune est visible, l’arc de sa
+queue se déploie de façon superbe.
 
-Base Stats
-----------------------
-Total: 600
-Hp:  120
-Attack:  70
-Defence:  120
-Special Attack:  75
-Special Defence:  130
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:        120
+         attack:         70
+        defense:        120
+ special-attack:         75
+special-defense:        130
+          speed:         85
+
+Pokedex ID: 488	Capture Rate: 3
+Base Exp: 300	Happiness: 100
+Height: 15	Weight: 856
+
+Genus: Lunar Pokémon
+Location Areas:
+roaming-sinnoh-area

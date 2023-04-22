@@ -1,15 +1,23 @@
+volbeat	A bug type Pokémon
 
-Name:  Volbeat
-Pokedex Number:  313
-Gender Ratio:   ♂:100% ♀:0%
-Abilities: Illuminate - Swarm - Prankster (Hidden Ability)
+It communicates with others by
+lighting up its rear at night. It
+loves ILLUMISE’s sweet aroma.
 
-Base Stats
-----------------------
-Total: 400
-Hp:  65
-Attack:  73
-Defence:  55
-Special Attack:  47
-Special Defence:  75
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         73
+        defense:         75
+ special-attack:         47
+special-defense:         85
+          speed:         85
+
+Pokedex ID: 313	Capture Rate: 150
+Base Exp: 151	Happiness: 70
+Height: 7	Weight: 177
+
+Genus: Firefly Pokémon
+Location Areas:
+sinnoh-route-229-area
+hoenn-route-117-area
+kalos-route-7-area

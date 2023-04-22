@@ -1,15 +1,44 @@
+exeggcute	A grass type Pokémon
 
-Name:  Exeggcute
-Pokedex Number:  102
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Harvest (Hidden Ability)
+This POKéMON consists of six eggs that
+form a closely knit cluster. The six eggs
+attract each other and spin around.When cracks increasingly appear on the
+eggs, EXEGGCUTE is close to evolution.
 
-Base Stats
-----------------------
-Total: 325
-Hp:  60
-Attack:  40
-Defence:  80
-Special Attack:  60
-Special Defence:  45
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         40
+        defense:         80
+ special-attack:         60
+special-defense:         45
+          speed:         40
+
+Pokedex ID: 102	Capture Rate: 90
+Base Exp: 65	Happiness: 50
+Height: 4	Weight: 25
+
+Genus: Egg Pokémon
+Location Areas:
+johto-route-29-area
+johto-route-30-area
+johto-route-31-area
+johto-route-32-area
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+johto-route-43-area
+lake-of-rage-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+berry-forest-area
+kalos-route-12-area
+azure-bay-area
+azalea-town-area

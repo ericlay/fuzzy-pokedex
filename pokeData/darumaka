@@ -1,15 +1,23 @@
+darumaka	A fire type Pokémon
 
-Name:  Darumaka
-Pokedex Number:  554
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Hustle - Inner Focus (Hidden Ability)
+달막화의 배설물은 뜨거워서
+옛날 사람은 품에 넣고
+몸을 따뜻하게 하는 데 사용했다.
 
-Base Stats
-----------------------
-Total: 315
-Hp:  70
-Attack:  90
-Defence:  45
-Special Attack:  15
-Special Defence:  45
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         90
+        defense:         45
+ special-attack:         15
+special-defense:         45
+          speed:         50
+
+Pokedex ID: 554	Capture Rate: 120
+Base Exp: 63	Happiness: 50
+Height: 6	Weight: 375
+
+Genus: Zen Charm Pokémon
+Location Areas:
+desert-resort-entrance
+desert-resort-area
+unova-route-4-area

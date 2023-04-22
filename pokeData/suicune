@@ -1,15 +1,25 @@
+suicune	A water type Pokémon
 
-Name:  Suicune
-Pokedex Number:  245
-Gender Ratio:  Genderless
-Abilities: Pressure - Water Absorb (Hidden Ability)
+SUICUNE embodies the compassion of
+a pure spring of water. It runs across
+the land with gliding elegance. It has the
+power to purify dirty water.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  100
-Attack:  75
-Defence:  115
-Special Attack:  90
-Special Defence:  115
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:         75
+        defense:        115
+ special-attack:         90
+special-defense:        115
+          speed:         85
+
+Pokedex ID: 245	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 20	Weight: 1870
+
+Genus: Aurora Pokémon
+Location Areas:
+kanto-route-25-area
+roaming-kanto-area
+roaming-johto-area
+bell-tower-1f

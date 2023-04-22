@@ -1,15 +1,21 @@
+greedent	A normal type Pokémon
 
-Name:  Greedent
-Pokedex Number:  820
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Cheek Pouch - Gluttony (Hidden Ability)
+Conserva talmente tante bacche nella coda
+che le perde una dopo l’altra, ma non essendo
+molto perspicace non se ne rende conto.
 
-Base Stats
-----------------------
-Total: 460
-Hp:  120
-Attack:  95
-Defence:  95
-Special Attack:  55
-Special Defence:  75
-Speed:  20
+   ↞--------| STATS |--------↠ 
+             hp:        120
+         attack:         95
+        defense:         95
+ special-attack:         55
+special-defense:         75
+          speed:         20
+
+Pokedex ID: 820	Capture Rate: 90
+Base Exp: 161	Happiness: 50
+Height: 6	Weight: 60
+
+Genus: Greedy Pokémon
+Location Areas:
+

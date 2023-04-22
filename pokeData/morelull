@@ -1,15 +1,20 @@
+morelull	A grass type Pokémon
 
-Name:  Morelull
-Pokedex Number:  755
-Gender Ratio:   ♂:50.2% ♀:49.8% 
-Abilities: Illuminate - Effect Spore - Rain Dish (Hidden Ability)
+It scatters spores that flicker and glow. Anyone
+seeing these lights falls into a deep slumber.
 
-Base Stats
-----------------------
-Total: 285
-Hp:  40
-Attack:  35
-Defence:  55
-Special Attack:  65
-Special Defence:  75
-Speed:  15
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         35
+        defense:         55
+ special-attack:         65
+special-defense:         75
+          speed:         15
+
+Pokedex ID: 755	Capture Rate: 190
+Base Exp: 57	Happiness: 50
+Height: 2	Weight: 15
+
+Genus: Illuminating Pokémon
+Location Areas:
+

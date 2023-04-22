@@ -1,15 +1,21 @@
+mesprit	A psychic type Pokémon
 
-Name:  Mesprit
-Pokedex Number:  481
-Gender Ratio:  Genderless
-Abilities: Levitate
+Quand il prit son envol, les hommes
+apprirent à ressentir la joie et la
+peine. L’émotion était née.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  80
-Attack:  105
-Defence:  105
-Special Attack:  105
-Special Defence:  105
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        105
+        defense:        105
+ special-attack:        105
+special-defense:        105
+          speed:         80
+
+Pokedex ID: 481	Capture Rate: 3
+Base Exp: 290	Happiness: 140
+Height: 3	Weight: 3
+
+Genus: Emotion Pokémon
+Location Areas:
+roaming-sinnoh-area

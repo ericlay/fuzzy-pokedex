@@ -1,15 +1,49 @@
+linoone	A normal type Pokémon
 
-Name:  Linoone
-Pokedex Number:  264
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Pickup - Gluttony - Quick Feet (Hidden Ability)
+It charges prey at speeds over
+60 mph. However, because it can
+only run straight, it often fails.
 
-Base Stats
-----------------------
-Total: 420
-Hp:  78
-Attack:  70
-Defence:  61
-Special Attack:  50
-Special Defence:  61
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         78
+         attack:         70
+        defense:         61
+ special-attack:         50
+special-defense:         61
+          speed:        100
+
+Pokedex ID: 264	Capture Rate: 90
+Base Exp: 147	Happiness: 50
+Height: 5	Weight: 325
+
+Genus: Rushing Pokémon
+Location Areas:
+johto-route-30-area
+johto-route-31-area
+johto-route-32-area
+ruins-of-alph-outside
+johto-route-34-area
+johto-route-35-area
+johto-route-42-area
+johto-route-43-area
+johto-route-44-area
+johto-route-45-area
+johto-route-47-area
+mt-silver-outside
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-28-area
+kanto-route-4-area
+kanto-route-6-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-13-area
+kanto-sea-route-21-area
+kanto-route-22-area
+kanto-route-24-area
+kanto-route-25-area
+hoenn-route-118-area
+hoenn-route-119-area
+hoenn-route-120-area
+hoenn-route-121-area
+hoenn-route-123-area

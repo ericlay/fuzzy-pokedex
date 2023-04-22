@@ -1,15 +1,26 @@
+togepi	A fairy type Pokémon
 
-Name:  Togepi
-Pokedex Number:  175
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Hustle - Serene Grace - Super Luck (Hidden Ability)
+The shell seems to be filled with joy.
+It is said that it will share good luck
+when treated kindly.
 
-Base Stats
-----------------------
-Total: 245
-Hp:  35
-Attack:  20
-Defence:  65
-Special Attack:  40
-Special Defence:  65
-Speed:  20
+   ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:         20
+        defense:         65
+ special-attack:         40
+special-defense:         65
+          speed:         20
+
+Pokedex ID: 175	Capture Rate: 190
+Base Exp: 49	Happiness: 50
+Height: 3	Weight: 15
+
+Genus: Spike Ball Pokémon
+Location Areas:
+sinnoh-sea-route-230-area
+violet-city-area
+water-labyrinth-area
+lavaridge-town-area
+eterna-city-west-gate
+violet-city-poke-mart

@@ -1,15 +1,30 @@
+phanpy	A ground type Pokémon
 
-Name:  Phanpy
-Pokedex Number:  231
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Pickup - Sand Veil (Hidden Ability)
+It swings its long snout around playfully,
+but because it is so strong, this can be
+dangerous.
 
-Base Stats
-----------------------
-Total: 330
-Hp:  90
-Attack:  60
-Defence:  60
-Special Attack:  40
-Special Defence:  40
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         60
+        defense:         60
+ special-attack:         40
+special-defense:         40
+          speed:         40
+
+Pokedex ID: 231	Capture Rate: 120
+Base Exp: 66	Happiness: 70
+Height: 5	Weight: 335
+
+Genus: Long Nose Pokémon
+Location Areas:
+sinnoh-route-207-area
+johto-route-45-area
+johto-route-46-area
+mt-silver-1f-top
+mt-silver-1f
+mt-silver-mountainside
+mt-silver-3f
+hoenn-safari-zone-neacro-bike-area
+canyon-entrance-area
+sevault-canyon-area

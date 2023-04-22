@@ -1,15 +1,22 @@
+vespiquen	A bug type Pokémon
 
-Name:  Vespiquen
-Pokedex Number:  416
-Gender Ratio:   ♂:0% ♀:100% 
-Abilities: Pressure - Unnerve (Hidden Ability)
+Ce Pokémon utilise des phéromones
+pour donner des ordres de combat
+aux larves dans son abdomen.
 
-Base Stats
-----------------------
-Total: 474
-Hp:  70
-Attack:  80
-Defence:  102
-Special Attack:  80
-Special Defence:  102
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         80
+        defense:        102
+ special-attack:         80
+special-defense:        102
+          speed:         40
+
+Pokedex ID: 416	Capture Rate: 45
+Base Exp: 166	Happiness: 50
+Height: 12	Weight: 385
+
+Genus: Beehive Pokémon
+Location Areas:
+unova-route-12-area
+lostlorn-forest-area

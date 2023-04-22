@@ -1,15 +1,21 @@
+dreepy	A dragon type Pokémon
 
-Name:  Dreepy
-Pokedex Number:  885
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Clear Body - Infiltrator - Cursed Body (Hidden Ability)
+After being reborn as a ghost Pokémon,
+Dreepy wanders the areas it used to inhabit
+back when it was alive in prehistoric seas.
 
-Base Stats
-----------------------
-Total: 270
-Hp:  28
-Attack:  60
-Defence:  30
-Special Attack:  40
-Special Defence:  30
-Speed:  82
+   ↞--------| STATS |--------↠ 
+             hp:         28
+         attack:         60
+        defense:         30
+ special-attack:         40
+special-defense:         30
+          speed:         82
+
+Pokedex ID: 885	Capture Rate: 45
+Base Exp: 54	Happiness: 50
+Height: 5	Weight: 20
+
+Genus: Lingering Pokémon
+Location Areas:
+

@@ -1,15 +1,21 @@
+torterra	A grass type Pokémon
 
-Name:  Torterra
-Pokedex Number:  389
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Overgrow - Shell Armor (Hidden Ability)
+Certains petits Pokémon peuvent
+naître sur son dos et y passer
+toute leur vie.
 
-Base Stats
-----------------------
-Total: 525
-Hp:  95
-Attack:  109
-Defence:  105
-Special Attack:  75
-Special Defence:  85
-Speed:  56
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:        109
+        defense:        105
+ special-attack:         75
+special-defense:         85
+          speed:         56
+
+Pokedex ID: 389	Capture Rate: 45
+Base Exp: 236	Happiness: 70
+Height: 22	Weight: 3100
+
+Genus: Continent Pokémon
+Location Areas:
+

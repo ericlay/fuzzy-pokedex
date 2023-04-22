@@ -1,15 +1,21 @@
+cradily	A rock type Pokémon
 
-Name:  Cradily
-Pokedex Number:  346
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Suction Cups - Storm Drain (Hidden Ability)
+It lives in the shallows of warm
+seas. When the tide goes out, it
+digs up prey from beaches.
 
-Base Stats
-----------------------
-Total: 495
-Hp:  86
-Attack:  81
-Defence:  97
-Special Attack:  81
-Special Defence:  107
-Speed:  43
+   ↞--------| STATS |--------↠ 
+             hp:         86
+         attack:         81
+        defense:         97
+ special-attack:         81
+special-defense:        107
+          speed:         43
+
+Pokedex ID: 346	Capture Rate: 45
+Base Exp: 173	Happiness: 50
+Height: 15	Weight: 604
+
+Genus: Barnacle Pokémon
+Location Areas:
+

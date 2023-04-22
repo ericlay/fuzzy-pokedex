@@ -1,15 +1,21 @@
+pincurchin	A electric type Pokémon
 
-Name:  Pincurchin
-Pokedex Number:  871
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Lightning Rod - Electric Surge (Hidden Ability)
+It feeds on seaweed, using its teeth to scrape it
+off rocks. Electric current flows from the tips of
+its spines.
 
-Base Stats
-----------------------
-Total: 435
-Hp:  48
-Attack:  101
-Defence:  95
-Special Attack:  91
-Special Defence:  85
-Speed:  15
+   ↞--------| STATS |--------↠ 
+             hp:         48
+         attack:        101
+        defense:         95
+ special-attack:         91
+special-defense:         85
+          speed:         15
+
+Pokedex ID: 871	Capture Rate: 75
+Base Exp: 152	Happiness: 50
+Height: 3	Weight: 10
+
+Genus: Sea Urchin Pokémon
+Location Areas:
+

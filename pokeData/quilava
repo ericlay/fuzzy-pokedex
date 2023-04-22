@@ -1,15 +1,21 @@
+quilava	A fire type Pokémon
 
-Name:  Quilava
-Pokedex Number:  156
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Blaze - Flash Fire (Hidden Ability)
+Be careful if it turns its back during
+battle. It means that it will attack with
+the fire on its back.
 
-Base Stats
-----------------------
-Total: 405
-Hp:  58
-Attack:  64
-Defence:  58
-Special Attack:  80
-Special Defence:  65
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         58
+         attack:         64
+        defense:         58
+ special-attack:         80
+special-defense:         65
+          speed:         80
+
+Pokedex ID: 156	Capture Rate: 45
+Base Exp: 142	Happiness: 70
+Height: 9	Weight: 190
+
+Genus: Volcano Pokémon
+Location Areas:
+

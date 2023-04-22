@@ -1,15 +1,22 @@
+mandibuzz	A dark type Pokémon
 
-Name:  Mandibuzz
-Pokedex Number:  630
-Gender Ratio:   ♂:0% ♀:100% 
-Abilities: Big Pecks - Overcoat - Weak Armor (Hidden Ability)
+넓은 하늘에서 원을 그리며 날고
+먹이를 발견하면 덮쳐서
+둥지까지 가뿐히 나른다.
 
-Base Stats
-----------------------
-Total: 510
-Hp:  110
-Attack:  65
-Defence:  105
-Special Attack:  55
-Special Defence:  95
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:        110
+         attack:         65
+        defense:        105
+ special-attack:         55
+special-defense:         95
+          speed:         80
+
+Pokedex ID: 630	Capture Rate: 60
+Base Exp: 179	Happiness: 35
+Height: 12	Weight: 395
+
+Genus: Bone Vulture Pokémon
+Location Areas:
+village-bridge-area
+unova-route-11-area

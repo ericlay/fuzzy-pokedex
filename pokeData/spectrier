@@ -1,15 +1,21 @@
+spectrier	A ghost type Pokémon
 
-Name:  Spectrier
-Pokedex Number:  897
-Gender Ratio:  Genderless
-Abilities: Grim Neigh
+It probes its surroundings with all its senses save
+one—it doesn’t use its sense of sight. Spectrier’s
+kicks are said to separate soul from body.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  100
-Attack:  65
-Defence:  60
-Special Attack:  145
-Special Defence:  80
-Speed:  130
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:         65
+        defense:         60
+ special-attack:        145
+special-defense:         80
+          speed:        130
+
+Pokedex ID: 897	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 20	Weight: 445
+
+Genus: Swift Horse Pokémon
+Location Areas:
+

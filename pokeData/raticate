@@ -1,15 +1,60 @@
+raticate	A normal type Pokémon
 
-Name:  Raticate
-Pokedex Number:  020
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Run Away - Guts - Hustle (Hidden Ability)
+RATICATE’s sturdy fangs grow steadily.
+To keep them ground down, it gnaws
+on rocks and logs.It may even chew on the walls of
+houses.
 
-Base Stats
-----------------------
-Total: 413
-Hp:  55
-Attack:  81
-Defence:  60
-Special Attack:  50
-Special Defence:  70
-Speed:  97
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         81
+        defense:         60
+ special-attack:         50
+special-defense:         70
+          speed:         97
+
+Pokedex ID: 20	Capture Rate: 127
+Base Exp: 145	Happiness: 70
+Height: 7	Weight: 185
+
+Genus: Mouse Pokémon
+Location Areas:
+sinnoh-route-225-area
+sinnoh-sea-route-226-area
+union-cave-b2f
+burned-tower-1f
+johto-route-38-area
+johto-route-39-area
+johto-route-42-area
+mt-mortar-1f
+mt-mortar-lower-cave
+mt-mortar-upper-cave
+mt-mortar-b1f
+johto-route-43-area
+johto-route-47-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-1-area
+kanto-route-3-area
+kanto-route-4-area
+kanto-route-6-area
+kanto-route-7-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-11-area
+kanto-route-16-area
+kanto-route-17-area
+kanto-route-18-area
+kanto-sea-route-21-area
+tohjo-falls-area
+pokemon-mansion-1f
+pokemon-mansion-2f
+pokemon-mansion-3f
+pokemon-mansion-b1f
+dreamyard-area
+dreamyard-b1f
+strange-house-1f
+strange-house-b1f
+relic-passage-relic-castle-entrance
+johto-safari-zone-zone-plains
+johto-safari-zone-zone-mountain

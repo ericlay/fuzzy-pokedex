@@ -1,15 +1,50 @@
+quagsire	A water type Pokémon
 
-Name:  Quagsire
-Pokedex Number:  195
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Damp - Water Absorb - Unaware (Hidden Ability)
+This carefree POKéMON has an easygoing
+nature. While swimming, it always bumps
+into boat hulls.
 
-Base Stats
-----------------------
-Total: 430
-Hp:  95
-Attack:  85
-Defence:  85
-Special Attack:  65
-Special Defence:  65
-Speed:  35
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:         85
+        defense:         85
+ special-attack:         65
+special-defense:         65
+          speed:         35
+
+Pokedex ID: 195	Capture Rate: 90
+Base Exp: 151	Happiness: 50
+Height: 14	Weight: 750
+
+Genus: Water Fish Pokémon
+Location Areas:
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+sinnoh-route-212-east-towards-pastoria-city
+johto-route-32-area
+ruins-of-alph-outside
+union-cave-1f
+union-cave-b1f
+union-cave-b2f
+mt-silver-2f
+mt-silver-1f-top
+mt-silver-4f
+johto-route-47-cave-gate
+johto-route-47-inside-cave
+mt-silver-3f
+mt-silver-top
+kanto-route-12-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-10-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+hoenn-safari-zone-expansion-south
+kalos-route-14-area
+kalos-route-19-area
+johto-safari-zone-zone-wetland

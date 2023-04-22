@@ -1,15 +1,155 @@
+golbat	A poison type Pokémon
 
-Name:  Golbat
-Pokedex Number:  042
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Inner Focus - Infiltrator (Hidden Ability)
+GOLBAT bites down on prey with its four
+fangs and drinks the victim’s blood.
+It becomes active on inky darkmoonless nights, flying around to
+attack people and POKéMON.
 
-Base Stats
-----------------------
-Total: 455
-Hp:  75
-Attack:  80
-Defence:  70
-Special Attack:  65
-Special Defence:  75
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         80
+        defense:         70
+ special-attack:         65
+special-defense:         75
+          speed:         90
+
+Pokedex ID: 42	Capture Rate: 90
+Base Exp: 159	Happiness: 50
+Height: 16	Weight: 550
+
+Genus: Bat Pokémon
+Location Areas:
+mt-coronet-1f-route-207
+mt-coronet-2f
+mt-coronet-3f
+mt-coronet-exterior-snowfall
+mt-coronet-exterior-blizzard
+mt-coronet-4f
+mt-coronet-4f-small-room
+mt-coronet-5f
+mt-coronet-6f
+mt-coronet-1f-from-exterior
+mt-coronet-1f-route-216
+mt-coronet-b1f
+sinnoh-victory-road-1f
+sinnoh-victory-road-2f
+sinnoh-victory-road-b1f
+sinnoh-victory-road-inside-b1f
+sinnoh-victory-road-inside
+sinnoh-victory-road-inside-exit
+ravaged-path-area
+oreburgh-gate-b1f
+stark-mountain-area
+stark-mountain-entrance
+stark-mountain-inside
+sendoff-spring-area
+turnback-cave-pillar-1
+turnback-cave-pillar-2
+turnback-cave-pillar-3
+turnback-cave-before-pillar-1
+turnback-cave-between-pillars-1-and-2
+turnback-cave-between-pillars-2-and-3
+turnback-cave-after-pillar-3
+snowpoint-temple-1f
+snowpoint-temple-b1f
+snowpoint-temple-b2f
+snowpoint-temple-b3f
+snowpoint-temple-b4f
+snowpoint-temple-b5f
+iron-island-1f
+iron-island-b1f-left
+iron-island-b1f-right
+iron-island-b2f-right
+iron-island-b2f-left
+iron-island-b3f
+lost-tower-3f
+lost-tower-4f
+lost-tower-5f
+sinnoh-route-227-area
+union-cave-b2f
+slowpoke-well-b1f
+whirl-islands-1f
+whirl-islands-b1f
+whirl-islands-b2f
+whirl-islands-b3f
+johto-route-42-area
+mt-mortar-1f
+mt-mortar-lower-cave
+mt-mortar-upper-cave
+mt-mortar-b1f
+ice-path-1f
+ice-path-b1f
+ice-path-b2f
+ice-path-b3f
+dark-cave-blackthorn-city-entrance
+seafoam-islands-1f
+seafoam-islands-b1f
+seafoam-islands-b2f
+seafoam-islands-b3f
+seafoam-islands-b4f
+mt-silver-2f
+mt-silver-1f-top
+mt-silver-4f
+johto-route-47-inside-cave
+mt-silver-outside
+mt-silver-1f
+mt-silver-mountainside
+mt-silver-3f
+mt-silver-top
+kanto-route-28-area
+rock-tunnel-b1f
+kanto-victory-road-1-1f
+tohjo-falls-area
+kanto-victory-road-1-2f
+kanto-victory-road-1-3f
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+kanto-victory-road-2-1f
+kanto-victory-road-2-2f
+kanto-victory-road-2-3f
+meteor-falls-back
+meteor-falls-b1f
+meteor-falls-backsmall-room
+seafloor-cavern-area
+cave-of-origin-entrance
+cave-of-origin-1f
+cave-of-origin-b1f
+cave-of-origin-b2f
+cave-of-origin-b3f
+hoenn-victory-road-1f
+hoenn-victory-road-b1f
+hoenn-victory-road-b2f
+shoal-cave-area
+shoal-cave-b1f
+sky-pillar-1f
+sky-pillar-3f
+sky-pillar-5f
+icefall-cave-entrance
+icefall-cave-1f
+icefall-cave-b1f
+icefall-cave-waterfall
+lost-cave-room-1
+lost-cave-room-2
+lost-cave-room-3
+lost-cave-room-4
+lost-cave-room-5
+lost-cave-room-6
+lost-cave-room-7
+lost-cave-room-8
+lost-cave-room-9
+lost-cave-room-10
+lost-cave-item-rooms
+dreamyard-area
+dreamyard-b1f
+giant-chasm-outside
+giant-chasm-area
+giant-chasm-forest-cave
+celestial-tower-3f
+celestial-tower-4f
+celestial-tower-5f
+unova-route-13-area
+strange-house-1f
+strange-house-b1f
+johto-safari-zone-zone-mountain
+johto-safari-zone-zone-savannah

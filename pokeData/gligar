@@ -1,15 +1,31 @@
+gligar	A ground type Pokémon
 
-Name:  Gligar
-Pokedex Number:  207
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Hyper Cutter - Sand Veil - Immunity (Hidden Ability)
+It flies straight at its target’s face,
+then clamps down on the startled
+victim to inject poison.
 
-Base Stats
-----------------------
-Total: 430
-Hp:  65
-Attack:  75
-Defence:  105
-Special Attack:  35
-Special Defence:  65
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         75
+        defense:        105
+ special-attack:         35
+special-defense:         65
+          speed:         85
+
+Pokedex ID: 207	Capture Rate: 60
+Base Exp: 86	Happiness: 70
+Height: 11	Weight: 648
+
+Genus: Fly Scorpion Pokémon
+Location Areas:
+stark-mountain-area
+sinnoh-route-206-area
+sinnoh-route-207-area
+sinnoh-route-214-area
+sinnoh-route-215-area
+sinnoh-route-227-area
+johto-route-45-area
+hoenn-safari-zone-expansion-south
+unova-route-11-area
+unova-route-15-area
+unova-route-23-area

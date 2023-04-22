@@ -1,15 +1,23 @@
+kingdra	A water type Pokémon
 
-Name:  Kingdra
-Pokedex Number:  230
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swift Swim - Sniper - Damp (Hidden Ability)
+It is said that it usually hides in
+underwater caves. It can create
+whirlpools by yawning.
 
-Base Stats
-----------------------
-Total: 540
-Hp:  75
-Attack:  95
-Defence:  95
-Special Attack:  95
-Special Defence:  95
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         95
+        defense:         95
+ special-attack:         95
+special-defense:         95
+          speed:         85
+
+Pokedex ID: 230	Capture Rate: 45
+Base Exp: 270	Happiness: 50
+Height: 18	Weight: 1520
+
+Genus: Dragon Pokémon
+Location Areas:
+p2-laboratory-area
+unova-route-18-area
+unova-route-17-area

@@ -1,15 +1,21 @@
+gallade	A psychic type Pokémon
 
-Name:  Gallade
-Pokedex Number:  475
-Gender Ratio:   ♂:100% ♀:0% 
-Abilities: Steadfast - Justified (Hidden Ability)
+Toujours prêt à protéger son prochain,
+il se bat férocement avec ses coudes
+en forme d’épées.
 
-Base Stats
-----------------------
-Total: 518
-Hp:  68
-Attack:  165
-Defence:  95
-Special Attack:  65
-Special Defence:  115
-Speed:  110
+   ↞--------| STATS |--------↠ 
+             hp:         68
+         attack:        125
+        defense:         65
+ special-attack:         65
+special-defense:        115
+          speed:         80
+
+Pokedex ID: 475	Capture Rate: 45
+Base Exp: 259	Happiness: 35
+Height: 16	Weight: 520
+
+Genus: Blade Pokémon
+Location Areas:
+

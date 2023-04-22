@@ -1,15 +1,27 @@
+swablu	A normal type Pokémon
 
-Name:  Swablu
-Pokedex Number:  333
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Natural Cure - Cloud Nine (Hidden Ability)
+It can’t relax if it or its
+surroundings are not clean.
+It wipes off dirt with its wings.
 
-Base Stats
-----------------------
-Total: 310
-Hp:  45
-Attack:  40
-Defence:  60
-Special Attack:  40
-Special Defence:  75
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         40
+        defense:         60
+ special-attack:         40
+special-defense:         75
+          speed:         50
+
+Pokedex ID: 333	Capture Rate: 255
+Base Exp: 62	Happiness: 50
+Height: 4	Weight: 12
+
+Genus: Cotton Bird Pokémon
+Location Areas:
+sinnoh-route-210-west-towards-celestic-town
+sinnoh-route-211-east-towards-celestic-town
+johto-route-45-area
+hoenn-route-114-area
+hoenn-route-115-area
+unova-route-14-area
+abundant-shrine-area

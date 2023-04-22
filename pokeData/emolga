@@ -1,15 +1,41 @@
+emolga	A electric type Pokémon
 
-Name:  Emolga
-Pokedex Number:  587
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Static - Motor Drive (Hidden Ability)
+숲의 나무 위에 산다.
+망토 같은 막의 안쪽을
+방전시키며 활공한다.
 
-Base Stats
-----------------------
-Total: 428
-Hp:  55
-Attack:  75
-Defence:  60
-Special Attack:  75
-Special Defence:  60
-Speed:  103
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         75
+        defense:         60
+ special-attack:         75
+special-defense:         60
+          speed:        103
+
+Pokedex ID: 587	Capture Rate: 200
+Base Exp: 150	Happiness: 50
+Height: 4	Weight: 50
+
+Genus: Sky Squirrel Pokémon
+Location Areas:
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+giant-chasm-outside
+village-bridge-area
+unova-route-5-area
+unova-route-6-area
+unova-route-7-area
+unova-route-9-area
+unova-route-10-area
+unova-route-10-victory-road-gate
+unova-route-11-area
+unova-route-12-area
+unova-route-13-area
+unova-route-14-area
+abundant-shrine-area
+unova-route-15-area
+unova-route-16-area
+lostlorn-forest-area
+unova-route-22-area
+unova-route-23-area
+kalos-route-10-area

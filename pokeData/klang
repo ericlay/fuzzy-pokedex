@@ -1,15 +1,21 @@
+klang	A steel type Pokémon
 
-Name:  Klang
-Pokedex Number:  600
-Gender Ratio:  Genderless
-Abilities: Plus - Minus - Clear Body (Hidden Ability)
+회전 방향을 바꿔서
+동료에게 감정을 전한다.
+화가 나면 회전이 빨라진다.
 
-Base Stats
-----------------------
-Total: 440
-Hp:  60
-Attack:  80
-Defence:  95
-Special Attack:  70
-Special Defence:  85
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         80
+        defense:         95
+ special-attack:         70
+special-defense:         85
+          speed:         50
+
+Pokedex ID: 600	Capture Rate: 60
+Base Exp: 154	Happiness: 50
+Height: 6	Weight: 510
+
+Genus: Gear Pokémon
+Location Areas:
+p2-laboratory-area

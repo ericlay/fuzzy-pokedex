@@ -1,15 +1,35 @@
+aipom	A normal type Pokémon
 
-Name:  Aipom
-Pokedex Number:  190
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Run Away - Pickup - Skill Link (Hidden Ability)
+It lives atop tall trees. When leaping
+from branch to branch, it deftly uses its
+tail for balance.
 
-Base Stats
-----------------------
-Total: 360
-Hp:  55
-Attack:  70
-Defence:  55
-Special Attack:  40
-Special Defence:  55
-Speed:  85
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         70
+        defense:         55
+ special-attack:         40
+special-defense:         55
+          speed:         85
+
+Pokedex ID: 190	Capture Rate: 45
+Base Exp: 72	Happiness: 70
+Height: 8	Weight: 115
+
+Genus: Long Tail Pokémon
+Location Areas:
+johto-route-29-area
+johto-route-30-area
+johto-route-31-area
+johto-route-32-area
+johto-route-33-area
+johto-route-42-area
+johto-route-43-area
+johto-route-44-area
+johto-route-45-area
+johto-route-46-area
+hoenn-safari-zone-expansion-south
+hoenn-safari-zone-expansion-north
+hoenn-altering-cave-f
+kanto-altering-cave-f
+azalea-town-area

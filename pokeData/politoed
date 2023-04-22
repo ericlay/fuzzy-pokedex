@@ -1,15 +1,29 @@
+politoed	A water type Pokémon
 
-Name:  Politoed
-Pokedex Number:  186
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Water Absorb - Damp - Drizzle (Hidden Ability)
+If POLIWAG and POLIWHIRL hear its
+echoing cry, they respond by gathering
+from far and wide.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  90
-Attack:  75
-Defence:  75
-Special Attack:  90
-Special Defence:  100
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         75
+        defense:         75
+ special-attack:         90
+special-defense:        100
+          speed:         70
+
+Pokedex ID: 186	Capture Rate: 45
+Base Exp: 250	Happiness: 50
+Height: 11	Weight: 339
+
+Genus: Frog Pokémon
+Location Areas:
+unova-route-6-area
+lostlorn-forest-area
+unova-victory-road-2-unknown-area-73
+unova-victory-road-2-unknown-area-79
+floccesy-ranch-outer
+floccesy-ranch-inner
+unova-route-19-area
+unova-route-20-area
+kalos-route-19-area

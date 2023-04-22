@@ -1,15 +1,26 @@
+foongus	A grass type Pokémon
 
-Name:  Foongus
-Pokedex Number:  590
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Effect Spore - Regenerator (Hidden Ability)
+몬스터볼을 닮은 무늬로
+유인한 후 독 포자를 뿌려댄다.
+왜 닮았는지는 불가사의다.
 
-Base Stats
-----------------------
-Total: 294
-Hp:  69
-Attack:  55
-Defence:  45
-Special Attack:  55
-Special Defence:  55
-Speed:  15
+   ↞--------| STATS |--------↠ 
+             hp:         69
+         attack:         55
+        defense:         45
+ special-attack:         55
+special-defense:         55
+          speed:         15
+
+Pokedex ID: 590	Capture Rate: 190
+Base Exp: 59	Happiness: 50
+Height: 2	Weight: 10
+
+Genus: Mushroom Pokémon
+Location Areas:
+unova-route-6-area
+unova-route-7-area
+unova-route-10-area
+unova-route-10-victory-road-gate
+kalos-route-15-area
+kalos-route-16-area

@@ -1,15 +1,21 @@
+volcarona	A bug type Pokémon
 
-Name:  Volcarona
-Pokedex Number:  637
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Flame Body - Swarm (Hidden Ability)
+싸울 때는 6개의 날개에서
+불꽃 가루를 흩뿌려서
+주변 일대를 불바다로 만든다.
 
-Base Stats
-----------------------
-Total: 550
-Hp:  85
-Attack:  60
-Defence:  65
-Special Attack:  135
-Special Defence:  105
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:         60
+        defense:         65
+ special-attack:        135
+special-defense:        105
+          speed:        100
+
+Pokedex ID: 637	Capture Rate: 15
+Base Exp: 275	Happiness: 50
+Height: 16	Weight: 460
+
+Genus: Sun Pokémon
+Location Areas:
+

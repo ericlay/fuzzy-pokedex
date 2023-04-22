@@ -1,15 +1,35 @@
+ledyba	A bug type Pokémon
 
-Name:  Ledyba
-Pokedex Number:  165
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swarm - Early Bird - Rattled (Hidden Ability)
+It is very timid. It will be afraid to
+move if it is alone. But it will be active
+if it is in a group.
 
-Base Stats
-----------------------
-Total: 265
-Hp:  40
-Attack:  20
-Defence:  30
-Special Attack:  40
-Special Defence:  80
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         20
+        defense:         30
+ special-attack:         40
+special-defense:         80
+          speed:         55
+
+Pokedex ID: 165	Capture Rate: 255
+Base Exp: 53	Happiness: 70
+Height: 10	Weight: 108
+
+Genus: Five Star Pokémon
+Location Areas:
+johto-route-29-area
+johto-route-30-area
+johto-route-31-area
+johto-route-34-area
+johto-route-35-area
+national-park-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-2-north-towards-pewter-city
+hoenn-safari-zone-expansion-north
+pattern-bush-area
+kalos-route-4-area

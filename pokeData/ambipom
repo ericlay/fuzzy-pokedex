@@ -1,15 +1,21 @@
+ambipom	A normal type Pokémon
 
-Name:  Ambipom
-Pokedex Number:  424
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Technician - Pickup - Skill Link (Hidden Ability)
+Ses queues jumelles sont si agiles
+et efficaces qu’il ne se sert que
+très rarement de ses bras.
 
-Base Stats
-----------------------
-Total: 482
-Hp:  75
-Attack:  100
-Defence:  66
-Special Attack:  60
-Special Defence:  66
-Speed:  115
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:        100
+        defense:         66
+ special-attack:         60
+special-defense:         66
+          speed:        115
+
+Pokedex ID: 424	Capture Rate: 45
+Base Exp: 169	Happiness: 100
+Height: 12	Weight: 203
+
+Genus: Long Tail Pokémon
+Location Areas:
+

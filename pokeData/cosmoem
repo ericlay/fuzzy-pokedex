@@ -1,15 +1,21 @@
+cosmoem	A psychic type Pokémon
 
-Name:  Cosmoem
-Pokedex Number:  790
-Gender Ratio:  Genderless
-Abilities: Sturdy
+Motionless as if dead, its body is faintly warm to
+the touch. In the distant past, it was called the
+cocoon of the stars.
 
-Base Stats
-----------------------
-Total: 400
-Hp:  43
-Attack:  29
-Defence:  131
-Special Attack:  29
-Special Defence:  131
-Speed:  37
+   ↞--------| STATS |--------↠ 
+             hp:         43
+         attack:         29
+        defense:        131
+ special-attack:         29
+special-defense:        131
+          speed:         37
+
+Pokedex ID: 790	Capture Rate: 45
+Base Exp: 140	Happiness: 0
+Height: 1	Weight: 9999
+
+Genus: Protostar Pokémon
+Location Areas:
+

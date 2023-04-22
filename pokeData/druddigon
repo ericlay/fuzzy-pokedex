@@ -1,15 +1,29 @@
+druddigon	A dragon type Pokémon
 
-Name:  Druddigon
-Pokedex Number:  621
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Rough Skin - Sheer Force - Mold Breaker (Hidden Ability)
+좁은 동굴을 뛰어다니며
+날카로운 손톱으로 먹이를 잡는다.
+얼굴 피부는 바위보다 단단하다.
 
-Base Stats
-----------------------
-Total: 485
-Hp:  77
-Attack:  120
-Defence:  90
-Special Attack:  60
-Special Defence:  90
-Speed:  48
+   ↞--------| STATS |--------↠ 
+             hp:         77
+         attack:        120
+        defense:         90
+ special-attack:         60
+special-defense:         90
+          speed:         48
+
+Pokedex ID: 621	Capture Rate: 45
+Base Exp: 170	Happiness: 50
+Height: 16	Weight: 1390
+
+Genus: Cave Pokémon
+Location Areas:
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+dragonspiral-tower-1f
+unova-victory-road-2-unknown-area-77
+unova-victory-road-2-unknown-area-80
+kalos-victory-road-unknown-area-322
+kalos-victory-road-unknown-area-324
+kalos-victory-road-unknown-area-326
+kalos-victory-road-unknown-area-328

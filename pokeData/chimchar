@@ -1,15 +1,23 @@
+chimchar	A fire type Pokémon
 
-Name:  Chimchar
-Pokedex Number:  390
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Blaze - Iron Fist (Hidden Ability)
+Il est très agile. Il fait toujours
+attention d’éteindre la flamme de
+sa queue avant de se coucher.
 
-Base Stats
-----------------------
-Total: 309
-Hp:  44
-Attack:  58
-Defence:  44
-Special Attack:  58
-Special Defence:  44
-Speed:  61
+   ↞--------| STATS |--------↠ 
+             hp:         44
+         attack:         58
+        defense:         44
+ special-attack:         58
+special-defense:         44
+          speed:         61
+
+Pokedex ID: 390	Capture Rate: 45
+Base Exp: 62	Happiness: 70
+Height: 5	Weight: 62
+
+Genus: Chimp Pokémon
+Location Areas:
+lake-verity-before-galactic-intervention
+sinnoh-route-201-area
+hoenn-route-101-area

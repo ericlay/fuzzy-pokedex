@@ -1,15 +1,22 @@
+porygon	A normal type Pokémon
 
-Name:  Porygon
-Pokedex Number:  137
-Gender Ratio:  Genderless
-Abilities: Trace - Download - Analytic (Hidden Ability)
+PORYGON is capable of reverting itself
+entirely back to program data and
+entering cyberspace.This POKéMON is copy-protected so it
+cannot be duplicated by copying.
 
-Base Stats
-----------------------
-Total: 395
-Hp:  65
-Attack:  60
-Defence:  70
-Special Attack:  85
-Special Defence:  75
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         60
+        defense:         70
+ special-attack:         85
+special-defense:         75
+          speed:         40
+
+Pokedex ID: 137	Capture Rate: 45
+Base Exp: 79	Happiness: 50
+Height: 8	Weight: 365
+
+Genus: Virtual Pokémon
+Location Areas:
+veilstone-city-area

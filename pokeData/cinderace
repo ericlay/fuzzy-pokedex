@@ -1,15 +1,21 @@
+cinderace	A fire type Pokémon
 
-Name:  Cinderace
-Pokedex Number:  815
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Blaze - Libero (Hidden Ability)
+It juggles a pebble with its feet, turning it into a
+burning soccer ball. Its shots strike opponents
+hard and leave them scorched.
 
-Base Stats
-----------------------
-Total: 530
-Hp:  80
-Attack:  116
-Defence:  75
-Special Attack:  65
-Special Defence:  75
-Speed:  119
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        116
+        defense:         75
+ special-attack:         65
+special-defense:         75
+          speed:        119
+
+Pokedex ID: 815	Capture Rate: 45
+Base Exp: 265	Happiness: 50
+Height: 14	Weight: 330
+
+Genus: Striker Pokémon
+Location Areas:
+

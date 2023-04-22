@@ -1,15 +1,24 @@
+scrafty	A dark type Pokémon
 
-Name:  Scrafty
-Pokedex Number:  560
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shed Skin - Moxie - Intimidate (Hidden Ability)
+탈피한 가죽을 끌어 올려
+데미지를 줄이면서 킥!
+볏이 클수록 거만하다.
 
-Base Stats
-----------------------
-Total: 488
-Hp:  65
-Attack:  90
-Defence:  115
-Special Attack:  45
-Special Defence:  115
-Speed:  58
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         90
+        defense:        115
+ special-attack:         45
+special-defense:        115
+          speed:         58
+
+Pokedex ID: 560	Capture Rate: 90
+Base Exp: 171	Happiness: 50
+Height: 11	Weight: 300
+
+Genus: Hoodlum Pokémon
+Location Areas:
+p2-laboratory-area
+unova-route-1-area
+unova-route-15-area
+unova-route-18-area

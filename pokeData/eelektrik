@@ -1,15 +1,21 @@
+eelektrik	A electric type Pokémon
 
-Name:  Eelektrik
-Pokedex Number:  603
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Levitate
+상대를 휘감고 동그란
+반점에서 전기를 흘려보내
+마비시킨 뒤 통째로 문다.
 
-Base Stats
-----------------------
-Total: 405
-Hp:  65
-Attack:  85
-Defence:  70
-Special Attack:  75
-Special Defence:  70
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         85
+        defense:         70
+ special-attack:         75
+special-defense:         70
+          speed:         40
+
+Pokedex ID: 603	Capture Rate: 60
+Base Exp: 142	Happiness: 70
+Height: 12	Weight: 220
+
+Genus: EleFish Pokémon
+Location Areas:
+seaside-cave-b1f

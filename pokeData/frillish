@@ -1,15 +1,33 @@
+frillish	A water type Pokémon
 
-Name:  Frillish
-Pokedex Number:  592
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Water Absorb - Cursed Body - Damp (Hidden Ability)
+먹이를 독으로 마비시켜
+8000m 심해에
+있다는 거처로 데려간다.
 
-Base Stats
-----------------------
-Total: 335
-Hp:  55
-Attack:  40
-Defence:  50
-Special Attack:  65
-Special Defence:  85
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         40
+        defense:         50
+ special-attack:         65
+special-defense:         85
+          speed:         40
+
+Pokedex ID: 592	Capture Rate: 190
+Base Exp: 67	Happiness: 50
+Height: 12	Weight: 330
+
+Genus: Floating Pokémon
+Location Areas:
+driftveil-city-area
+p2-laboratory-area
+undella-bay-area
+unova-route-4-area
+unova-route-13-area
+unova-route-18-area
+undella-town-area
+unova-route-17-area
+virbank-city-area
+humilau-city-area
+virbank-complex-outer
+seaside-cave-1f
+unova-route-21-area

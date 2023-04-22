@@ -1,15 +1,22 @@
+venusaur	A grass type Pokémon
 
-Name:  Venusaur
-Pokedex Number:  003
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Overgrow - Chlorophyll (Hidden Ability)
+There is a large flower on VENUSAUR’s
+back. The flower is said to take on vivid
+colors if it gets plenty of nutritionand sunlight. The flower’s aroma
+soothes the emotions of people.
 
-Base Stats
-----------------------
-Total: 525
-Hp:  80
-Attack:  100
-Defence:  123
-Special Attack:  122
-Special Defence:  120
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:         82
+        defense:         83
+ special-attack:        100
+special-defense:        100
+          speed:         80
+
+Pokedex ID: 3	Capture Rate: 45
+Base Exp: 263	Happiness: 50
+Height: 20	Weight: 1000
+
+Genus: Seed Pokémon
+Location Areas:
+

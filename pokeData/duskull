@@ -1,15 +1,40 @@
+duskull	A ghost type Pokémon
 
-Name:  Duskull
-Pokedex Number:  355
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Levitate - Frisk (Hidden Ability)
+It loves the crying of children. It
+startles bad kids by passing
+through walls and making them cry.
 
-Base Stats
-----------------------
-Total: 295
-Hp:  20
-Attack:  40
-Defence:  90
-Special Attack:  30
-Special Defence:  90
-Speed:  25
+   ↞--------| STATS |--------↠ 
+             hp:         20
+         attack:         40
+        defense:         90
+ special-attack:         30
+special-defense:         90
+          speed:         25
+
+Pokedex ID: 355	Capture Rate: 190
+Base Exp: 59	Happiness: 35
+Height: 8	Weight: 150
+
+Genus: Requiem Pokémon
+Location Areas:
+turnback-cave-pillar-1
+turnback-cave-before-pillar-1
+turnback-cave-between-pillars-1-and-2
+sinnoh-route-209-area
+lost-tower-1f
+lost-tower-2f
+lost-tower-3f
+lost-tower-4f
+lost-tower-5f
+sinnoh-route-224-area
+mt-pyre-1f
+mt-pyre-2f
+mt-pyre-3f
+mt-pyre-4f
+mt-pyre-5f
+mt-pyre-6f
+mt-pyre-outside
+mt-pyre-summit
+hoenn-route-121-area
+hoenn-route-123-area

@@ -1,15 +1,56 @@
+shellder	A water type Pokémon
 
-Name:  Shellder
-Pokedex Number:  090
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shell Armor - Skill Link - Overcoat (Hidden Ability)
+At night, this POKéMON uses its broad
+tongue to burrow a hole in the seafloor
+sand and then sleep in it.While it is sleeping, SHELLDER closes its
+shell, but leaves its tongue hanging
+out.
 
-Base Stats
-----------------------
-Total: 305
-Hp:  30
-Attack:  65
-Defence:  100
-Special Attack:  45
-Special Defence:  25
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         30
+         attack:         65
+        defense:        100
+ special-attack:         45
+special-defense:         25
+          speed:         40
+
+Pokedex ID: 90	Capture Rate: 190
+Base Exp: 61	Happiness: 50
+Height: 3	Weight: 40
+
+Genus: Bivalve Pokémon
+Location Areas:
+valley-windworks-area
+fuego-ironworks-area
+sinnoh-route-205-south-towards-floaroma-town
+new-bark-town-area
+johto-sea-route-41-area
+johto-route-47-area
+seafoam-islands-1f
+seafoam-islands-b1f
+seafoam-islands-b2f
+seafoam-islands-b3f
+seafoam-islands-b4f
+kanto-sea-route-19-area
+kanto-sea-route-20-area
+cinnabar-island-area
+vermilion-city-area
+pallet-town-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-6-area
+kanto-route-11-area
+kanto-route-17-area
+kanto-route-18-area
+kanto-sea-route-21-area
+vermilion-city-ss-anne-dock
+ss-anne-area
+icefall-cave-waterfall
+one-island-area
+five-island-area
+undella-bay-area
+unova-route-13-area
+undella-town-area
+humilau-city-area
+seaside-cave-1f
+kalos-route-8-area

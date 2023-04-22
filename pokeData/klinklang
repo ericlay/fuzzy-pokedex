@@ -1,15 +1,21 @@
+klinklang	A steel type Pokémon
 
-Name:  Klinklang
-Pokedex Number:  601
-Gender Ratio:  Genderless
-Abilities: Plus - Minus - Clear Body (Hidden Ability)
+빨간 코어가 달린 기어를
+고속 회전시켜서 에너지를
+급속 충전한다.
 
-Base Stats
-----------------------
-Total: 520
-Hp:  60
-Attack:  100
-Defence:  115
-Special Attack:  70
-Special Defence:  85
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:        100
+        defense:        115
+ special-attack:         70
+special-defense:         85
+          speed:         90
+
+Pokedex ID: 601	Capture Rate: 30
+Base Exp: 260	Happiness: 50
+Height: 6	Weight: 810
+
+Genus: Gear Pokémon
+Location Areas:
+p2-laboratory-area

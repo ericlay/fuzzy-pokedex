@@ -1,15 +1,27 @@
+parasect	A bug type Pokémon
 
-Name:  Parasect
-Pokedex Number:  047
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Effect Spore - Dry Skin - Damp (Hidden Ability)
+PARASECT is known to infest large trees
+en masse and drain nutrients from the
+lower trunk and roots.When an infested tree dies, they move
+onto another tree all at once.
 
-Base Stats
-----------------------
-Total: 405
-Hp:  60
-Attack:  95
-Defence:  80
-Special Attack:  60
-Special Defence:  80
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         95
+        defense:         80
+ special-attack:         60
+special-defense:         80
+          speed:         30
+
+Pokedex ID: 47	Capture Rate: 75
+Base Exp: 142	Happiness: 70
+Height: 10	Weight: 295
+
+Genus: Mushroom Pokémon
+Location Areas:
+mt-silver-2f
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east

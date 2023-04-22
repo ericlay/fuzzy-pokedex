@@ -1,15 +1,45 @@
+gloom	A grass type Pokémon
 
-Name:  Gloom
-Pokedex Number:  044
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Stench (Hidden Ability)
+From its mouth GLOOM drips honey that
+smells absolutely horrible.
+Apparently, it loves the horrid stench.It sniffs the noxious fumes and then 
+drools even more of its honey.
 
-Base Stats
-----------------------
-Total: 395
-Hp:  60
-Attack:  65
-Defence:  70
-Special Attack:  85
-Special Defence:  75
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         65
+        defense:         70
+ special-attack:         85
+special-defense:         75
+          speed:         40
+
+Pokedex ID: 44	Capture Rate: 120
+Base Exp: 138	Happiness: 50
+Height: 8	Weight: 86
+
+Genus: Weed Pokémon
+Location Areas:
+sinnoh-route-224-area
+sinnoh-route-229-area
+sinnoh-sea-route-230-area
+johto-route-47-area
+kanto-route-12-area
+johto-route-48-area
+kanto-route-5-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+kanto-route-24-area
+cerulean-cave-1f
+cerulean-cave-2f
+hoenn-route-121-area
+hoenn-route-123-area
+hoenn-safari-zone-nwmach-bike-area
+hoenn-safari-zone-neacro-bike-area
+hoenn-safari-zone-sw
+hoenn-safari-zone-se
+berry-forest-area
+cape-brink-area
+bond-bridge-area
+water-path-area
+johto-safari-zone-zone-marshland

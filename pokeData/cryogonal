@@ -1,15 +1,25 @@
+cryogonal	A ice type Pokémon
 
-Name:  Cryogonal
-Pokedex Number:  615
-Gender Ratio:  Genderless
-Abilities: Levitate
+ゆきぐもの　なかで　うまれた。
+こおりの　けっしょうで　できた
+くさりで　えものを　つかまえる。
 
-Base Stats
-----------------------
-Total: 485
-Hp:  70
-Attack:  50
-Defence:  30
-Special Attack:  95
-Special Defence:  135
-Speed:  105
+   ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:         50
+        defense:         50
+ special-attack:         95
+special-defense:        135
+          speed:        105
+
+Pokedex ID: 615	Capture Rate: 25
+Base Exp: 180	Happiness: 50
+Height: 11	Weight: 1480
+
+Genus: Crystallizing Pokémon
+Location Areas:
+twist-mountain-area
+frost-cavern-unknown-area-314
+frost-cavern-unknown-area-315
+frost-cavern-unknown-area-316
+frost-cavern-unknown-area-317

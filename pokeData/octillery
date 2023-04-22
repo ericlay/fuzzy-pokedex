@@ -1,15 +1,36 @@
+octillery	A water type Pokémon
 
-Name:  Octillery
-Pokedex Number:  224
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Suction Cups - Sniper - Moody (Hidden Ability)
+It traps enemies with its suction-cupped
+tentacles, then smashes them with its
+rock-hard head.
 
-Base Stats
-----------------------
-Total: 480
-Hp:  75
-Attack:  105
-Defence:  75
-Special Attack:  105
-Special Defence:  75
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:        105
+        defense:         75
+ special-attack:        105
+special-defense:         75
+          speed:         45
+
+Pokedex ID: 224	Capture Rate: 75
+Base Exp: 168	Happiness: 50
+Height: 9	Weight: 285
+
+Genus: Jet Pokémon
+Location Areas:
+pastoria-city-area
+sunyshore-city-area
+sinnoh-pokemon-league-area
+sinnoh-route-212-east-towards-pastoria-city
+sinnoh-route-213-area
+sinnoh-route-222-area
+sinnoh-route-224-area
+sinnoh-sea-route-223-area
+sinnoh-sea-route-230-area
+hoenn-safari-zone-expansion-south
+undella-bay-area
+undella-town-area
+unova-route-21-area
+shalour-city-area
+kalos-route-12-area
+azure-bay-area

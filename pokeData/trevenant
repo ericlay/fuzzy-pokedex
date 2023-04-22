@@ -1,15 +1,21 @@
+trevenant	A ghost type Pokémon
 
-Name:  Trevenant
-Pokedex Number:  709
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Natural Cure - Frisk - Harvest (Hidden Ability)
+ほかの　木々を　自在に　操る。
+森を　荒らす　人間は　死ぬまで
+森から　出られないようにするのだ。
 
-Base Stats
-----------------------
-Total: 474
-Hp:  85
-Attack:  110
-Defence:  76
-Special Attack:  65
-Special Defence:  82
-Speed:  56
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:        110
+        defense:         76
+ special-attack:         65
+special-defense:         82
+          speed:         56
+
+Pokedex ID: 709	Capture Rate: 60
+Base Exp: 166	Happiness: 50
+Height: 15	Weight: 710
+
+Genus: Elder Tree Pokémon
+Location Areas:
+kalos-route-20-area

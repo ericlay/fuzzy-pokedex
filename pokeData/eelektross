@@ -1,15 +1,21 @@
+eelektross	A electric type Pokémon
 
-Name:  Eelektross
-Pokedex Number:  604
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Levitate
+흡반 같은 입으로 먹이에
+달라붙은 후 박아 넣은 이빨을
+통해 전기를 흘려 감전시킨다.
 
-Base Stats
-----------------------
-Total: 515
-Hp:  85
-Attack:  115
-Defence:  80
-Special Attack:  105
-Special Defence:  80
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:        115
+        defense:         80
+ special-attack:        105
+special-defense:         80
+          speed:         50
+
+Pokedex ID: 604	Capture Rate: 30
+Base Exp: 232	Happiness: 70
+Height: 21	Weight: 805
+
+Genus: EleFish Pokémon
+Location Areas:
+

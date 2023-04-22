@@ -1,15 +1,21 @@
+drednaw	A water type Pokémon
 
-Name:  Drednaw
-Pokedex Number:  834
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Strong Jaw - Shell Armor - Swift Swim (Hidden Ability)
+With jaws that can shear through steel rods,
+this highly aggressive Pokémon chomps down
+on its unfortunate prey.
 
-Base Stats
-----------------------
-Total: 485
-Hp:  90
-Attack:  115
-Defence:  90
-Special Attack:  48
-Special Defence:  68
-Speed:  74
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:        115
+        defense:         90
+ special-attack:         48
+special-defense:         68
+          speed:         74
+
+Pokedex ID: 834	Capture Rate: 75
+Base Exp: 170	Happiness: 50
+Height: 10	Weight: 1155
+
+Genus: Bite Pokémon
+Location Areas:
+

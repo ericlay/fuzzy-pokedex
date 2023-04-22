@@ -1,15 +1,33 @@
+muk	A poison type Pokémon
 
-Name:  Muk
-Pokedex Number:  089
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Stench - Sticky Hold - Poison Touch (Hidden Ability)
+This POKéMON’s favorite food is
+anything that is repugnantly filthy.
+In dirty towns where people thinknothing of throwing away litter on the
+streets, MUK are certain to gather.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  105
-Attack:  105
-Defence:  75
-Special Attack:  65
-Special Defence:  100
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:        105
+         attack:        105
+        defense:         75
+ special-attack:         65
+special-defense:        100
+          speed:         50
+
+Pokedex ID: 89	Capture Rate: 75
+Base Exp: 175	Happiness: 70
+Height: 12	Weight: 300
+
+Genus: Sludge Pokémon
+Location Areas:
+celadon-city-area
+kanto-route-16-area
+kanto-route-17-area
+kanto-route-18-area
+power-plant-area
+pokemon-mansion-1f
+pokemon-mansion-2f
+pokemon-mansion-3f
+pokemon-mansion-b1f
+unova-route-9-area
+castelia-sewers-area
+castelia-sewers-unknown-area-38

@@ -1,15 +1,34 @@
+lairon	A steel type Pokémon
 
-Name:  Lairon
-Pokedex Number:  305
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Sturdy - Rock Head - Heavy Metal (Hidden Ability)
+For food, it digs up iron ore. It
+smashes its steely body against
+others to fight over territory.
 
-Base Stats
-----------------------
-Total: 430
-Hp:  60
-Attack:  90
-Defence:  140
-Special Attack:  50
-Special Defence:  50
-Speed:  40
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         90
+        defense:        140
+ special-attack:         50
+special-defense:         50
+          speed:         40
+
+Pokedex ID: 305	Capture Rate: 90
+Base Exp: 151	Happiness: 35
+Height: 9	Weight: 1200
+
+Genus: Iron Armor Pokémon
+Location Areas:
+hoenn-victory-road-1f
+hoenn-victory-road-b1f
+hoenn-victory-road-b2f
+clay-tunnel-area
+underground-ruins-area
+rocky-mountain-room-area
+glacier-room-area
+iron-room-area
+kalos-route-18-area
+terminus-cave-unknown-area-343
+terminus-cave-unknown-area-344
+terminus-cave-unknown-area-345
+terminus-cave-unknown-area-347
+terminus-cave-unknown-area-348

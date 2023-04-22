@@ -1,15 +1,72 @@
+absol	A dark type Pokémon
 
-Name:  Absol
-Pokedex Number:  359
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Pressure - Super Luck - Justified (Hidden Ability)
+Rumored to sense disasters with its
+horn, it became a target. It fled
+deep into the mountains.
 
-Base Stats
-----------------------
-Total: 465
-Hp:  65
-Attack:  150
-Defence:  60
-Special Attack:  115
-Special Defence:  60
-Speed:  115
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:        130
+        defense:         60
+ special-attack:         75
+special-defense:         60
+          speed:         75
+
+Pokedex ID: 359	Capture Rate: 30
+Base Exp: 163	Happiness: 35
+Height: 12	Weight: 470
+
+Genus: Disaster Pokémon
+Location Areas:
+mt-coronet-exterior-snowfall
+mt-coronet-exterior-blizzard
+sinnoh-route-213-area
+union-cave-1f
+union-cave-b1f
+union-cave-b2f
+slowpoke-well-1f
+slowpoke-well-b1f
+whirl-islands-1f
+whirl-islands-b1f
+whirl-islands-b2f
+whirl-islands-b3f
+mt-mortar-1f
+mt-mortar-lower-cave
+mt-mortar-upper-cave
+mt-mortar-b1f
+ice-path-1f
+ice-path-b1f
+ice-path-b2f
+ice-path-b3f
+dark-cave-violet-city-entrance
+dark-cave-blackthorn-city-entrance
+seafoam-islands-1f
+seafoam-islands-b1f
+seafoam-islands-b2f
+seafoam-islands-b3f
+seafoam-islands-b4f
+mt-silver-2f
+mt-silver-1f-top
+mt-silver-4f
+johto-route-47-inside-cave
+mt-silver-1f
+mt-silver-mountainside
+mt-silver-3f
+mt-silver-top
+mt-moon-1f
+mt-moon-2f
+rock-tunnel-1f
+rock-tunnel-b1f
+kanto-victory-road-1-1f
+tohjo-falls-area
+digletts-cave-area
+kanto-victory-road-1-2f
+kanto-victory-road-1-3f
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+hoenn-route-120-area
+giant-chasm-outside
+unova-route-13-area
+unova-route-14-area
+kalos-route-8-area

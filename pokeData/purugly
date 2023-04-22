@@ -1,15 +1,22 @@
+purugly	A normal type Pokémon
 
-Name:  Purugly
-Pokedex Number:  432
-Gender Ratio:   ♂:25% ♀:75%
-Abilities: Thick Fat - Own Tempo - Defiant (Hidden Ability)
+Il plaque ses queues contre son
+dos pour paraître plus grand.
+Il soutient un regard des heures.
 
-Base Stats
-----------------------
-Total: 452
-Hp:  71
-Attack:  82
-Defence:  64
-Special Attack:  64
-Special Defence:  59
-Speed:  112
+   ↞--------| STATS |--------↠ 
+             hp:         71
+         attack:         82
+        defense:         64
+ special-attack:         64
+special-defense:         59
+          speed:        112
+
+Pokedex ID: 432	Capture Rate: 75
+Base Exp: 158	Happiness: 70
+Height: 10	Weight: 438
+
+Genus: Tiger Cat Pokémon
+Location Areas:
+sinnoh-route-222-area
+sinnoh-route-229-area

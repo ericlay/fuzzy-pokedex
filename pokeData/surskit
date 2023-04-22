@@ -1,15 +1,28 @@
+surskit	A bug type Pokémon
 
-Name:  Surskit
-Pokedex Number:  283
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swift Swim - Rain Dish (Hidden Ability)
+It appears as if it is skating on
+water. It draws prey with a sweet
+scent from the tip of its head.
 
-Base Stats
-----------------------
-Total: 269
-Hp:  40
-Attack:  30
-Defence:  32
-Special Attack:  50
-Special Defence:  52
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         30
+        defense:         32
+ special-attack:         50
+special-defense:         52
+          speed:         65
+
+Pokedex ID: 283	Capture Rate: 200
+Base Exp: 54	Happiness: 70
+Height: 5	Weight: 17
+
+Genus: Pond Skater Pokémon
+Location Areas:
+lake-verity-before-galactic-intervention
+lake-verity-after-galactic-intervention
+sinnoh-route-229-area
+hoenn-route-102-area
+hoenn-route-111-area
+hoenn-route-114-area
+hoenn-route-117-area
+hoenn-route-120-area

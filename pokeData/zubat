@@ -1,15 +1,136 @@
+zubat	A poison type Pokémon
 
-Name:  Zubat
-Pokedex Number:  041
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Inner Focus - Infiltrator (Hidden Ability)
+During the day, it
+gathers with
+others and hangsfrom the ceilings
+of old buildings
+and caves.
 
-Base Stats
-----------------------
-Total: 245
-Hp:  40
-Attack:  45
-Defence:  35
-Special Attack:  30
-Special Defence:  40
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         45
+        defense:         35
+ special-attack:         30
+special-defense:         40
+          speed:         55
+
+Pokedex ID: 41	Capture Rate: 255
+Base Exp: 49	Happiness: 50
+Height: 8	Weight: 75
+
+Genus: Bat Pokémon
+Location Areas:
+oreburgh-mine-1f
+oreburgh-mine-b1f
+mt-coronet-1f-route-207
+mt-coronet-4f
+mt-coronet-1f-route-211
+mt-coronet-b1f
+ravaged-path-area
+oreburgh-gate-1f
+oreburgh-gate-b1f
+wayward-cave-1f
+wayward-cave-b1f
+iron-island-1f
+acuity-lakefront-area
+sinnoh-route-203-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+sinnoh-route-206-area
+sinnoh-route-207-area
+sinnoh-route-208-area
+sinnoh-route-209-area
+lost-tower-1f
+lost-tower-2f
+lost-tower-3f
+lost-tower-4f
+lost-tower-5f
+sinnoh-route-211-west-towards-eterna-city
+sinnoh-route-211-east-towards-celestic-town
+sinnoh-route-214-area
+sinnoh-route-216-area
+sinnoh-route-217-area
+johto-route-30-area
+johto-route-31-area
+johto-route-32-area
+union-cave-1f
+union-cave-b1f
+union-cave-b2f
+johto-route-33-area
+slowpoke-well-1f
+slowpoke-well-b1f
+ilex-forest-area
+burned-tower-1f
+burned-tower-b1f
+whirl-islands-1f
+whirl-islands-b1f
+whirl-islands-b2f
+whirl-islands-b3f
+johto-route-42-area
+mt-mortar-1f
+mt-mortar-lower-cave
+mt-mortar-b1f
+ice-path-1f
+ice-path-b1f
+ice-path-b2f
+ice-path-b3f
+dark-cave-violet-city-entrance
+dark-cave-blackthorn-city-entrance
+seafoam-islands-1f
+seafoam-islands-b1f
+seafoam-islands-b2f
+seafoam-islands-b3f
+seafoam-islands-b4f
+johto-route-47-inside-cave
+mt-moon-1f
+mt-moon-2f
+rock-tunnel-1f
+rock-tunnel-b1f
+kanto-route-3-area
+kanto-route-4-area
+kanto-route-9-area
+kanto-route-10-area
+tohjo-falls-area
+mt-moon-b1f
+mt-moon-b2f
+rock-tunnel-b2f
+kanto-victory-road-2-1f
+kanto-victory-road-2-2f
+kanto-victory-road-2-3f
+meteor-falls-area
+granite-cave-1f
+granite-cave-b1f
+granite-cave-b2f
+granite-cave-1fsmall-room
+seafloor-cavern-area
+cave-of-origin-entrance
+cave-of-origin-1f
+cave-of-origin-b1f
+cave-of-origin-b2f
+cave-of-origin-b3f
+hoenn-victory-road-1f
+shoal-cave-area
+shoal-cave-b1f
+hoenn-altering-cave-a
+icefall-cave-entrance
+icefall-cave-1f
+icefall-cave-b1f
+icefall-cave-waterfall
+lost-cave-room-1
+lost-cave-room-2
+lost-cave-room-3
+lost-cave-room-4
+lost-cave-room-5
+lost-cave-room-6
+lost-cave-room-7
+lost-cave-room-8
+lost-cave-room-9
+lost-cave-room-10
+lost-cave-item-rooms
+kanto-altering-cave-a
+castelia-sewers-area
+castelia-sewers-unknown-area-38
+connecting-cave-area
+johto-safari-zone-zone-mountain
+johto-safari-zone-zone-rocky-beach
+johto-safari-zone-zone-savannah

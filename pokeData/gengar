@@ -1,15 +1,22 @@
+gengar	A ghost type Pokémon
 
-Name:  Gengar
-Pokedex Number:  094
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Levitate
+Sometimes, on a dark night, your shadow
+thrown by a streetlight will suddenly
+and startlingly overtake you.It is actually a GENGAR running past
+you, pretending to be your shadow.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  60
-Attack:  65
-Defence:  80
-Special Attack:  170
-Special Defence:  95
-Speed:  130
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         65
+        defense:         60
+ special-attack:        130
+special-defense:         75
+          speed:        110
+
+Pokedex ID: 94	Capture Rate: 45
+Base Exp: 250	Happiness: 50
+Height: 15	Weight: 405
+
+Genus: Shadow Pokémon
+Location Areas:
+old-chateau-2f-right-room

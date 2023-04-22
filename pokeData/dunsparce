@@ -1,15 +1,38 @@
+dunsparce	A normal type Pokémon
 
-Name:  Dunsparce
-Pokedex Number:  206
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Serene Grace - Run Away - Rattled (Hidden Ability)
+When spotted, this POKéMON escapes
+backward by furiously boring into the
+ground with its tail.
 
-Base Stats
-----------------------
-Total: 415
-Hp:  100
-Attack:  70
-Defence:  70
-Special Attack:  65
-Special Defence:  65
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:         70
+        defense:         70
+ special-attack:         65
+special-defense:         65
+          speed:         45
+
+Pokedex ID: 206	Capture Rate: 190
+Base Exp: 145	Happiness: 50
+Height: 15	Weight: 140
+
+Genus: Land Snake Pokémon
+Location Areas:
+sinnoh-route-208-area
+dark-cave-violet-city-entrance
+three-isle-port-area
+dreamyard-area
+village-bridge-area
+unova-route-1-area
+unova-route-2-area
+unova-route-6-area
+unova-route-12-area
+unova-route-18-area
+unova-victory-road-2-unknown-area-72
+unova-victory-road-2-unknown-area-73
+unova-victory-road-2-unknown-area-79
+floccesy-ranch-inner
+nature-sanctuary-area
+unova-route-20-area
+kalos-route-3-area
+kalos-route-22-area

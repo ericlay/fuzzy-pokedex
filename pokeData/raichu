@@ -1,15 +1,24 @@
+raichu	A electric type Pokémon
 
-Name:  Raichu
-Pokedex Number:  026
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Static - Lightningrod (Hidden Ability)
+If the electrical sacks become
+excessively charged, RAICHU plants its
+tail in the ground and discharges.Scorched patches of ground will be
+found near this POKéMON’s nest.
 
-Base Stats
-----------------------
-Total: 485
-Hp:  60
-Attack:  90
-Defence:  55
-Special Attack:  90
-Special Defence:  80
-Speed:  110
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         90
+        defense:         55
+ special-attack:         90
+special-defense:         80
+          speed:        110
+
+Pokedex ID: 26	Capture Rate: 75
+Base Exp: 243	Happiness: 50
+Height: 8	Weight: 300
+
+Genus: Mouse Pokémon
+Location Areas:
+cerulean-cave-1f
+cerulean-cave-b1f
+power-plant-area

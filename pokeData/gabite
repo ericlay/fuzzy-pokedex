@@ -1,15 +1,26 @@
+gabite	A dragon type Pokémon
 
-Name:  Gabite
-Pokedex Number:  444
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Sand Veil - Rough Skin (Hidden Ability)
+Toujours à la recherche d’objets
+brillants, il arpente les grottes
+pour constituer son butin.
 
-Base Stats
-----------------------
-Total: 410
-Hp:  68
-Attack:  90
-Defence:  65
-Special Attack:  50
-Special Defence:  55
-Speed:  82
+   ↞--------| STATS |--------↠ 
+             hp:         68
+         attack:         90
+        defense:         65
+ special-attack:         50
+special-defense:         55
+          speed:         82
+
+Pokedex ID: 444	Capture Rate: 45
+Base Exp: 144	Happiness: 50
+Height: 14	Weight: 560
+
+Genus: Cave Pokémon
+Location Areas:
+sinnoh-victory-road-1f
+sinnoh-victory-road-2f
+sinnoh-victory-road-b1f
+sinnoh-victory-road-inside-b1f
+sinnoh-victory-road-inside
+sinnoh-victory-road-inside-exit

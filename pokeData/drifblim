@@ -1,15 +1,24 @@
+drifblim	A ghost type Pokémon
 
-Name:  Drifblim
-Pokedex Number:  426
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Aftermath - Unburden - Flare Boost (Hidden Ability)
+Des nuées de Grodrive dérivent
+dans le ciel au crépuscule. Ils
+disparaissent dès qu’on les voit.
 
-Base Stats
-----------------------
-Total: 498
-Hp:  150
-Attack:  80
-Defence:  44
-Special Attack:  90
-Special Defence:  54
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:        150
+         attack:         80
+        defense:         44
+ special-attack:         90
+special-defense:         54
+          speed:         80
+
+Pokedex ID: 426	Capture Rate: 60
+Base Exp: 174	Happiness: 50
+Height: 12	Weight: 150
+
+Genus: Blimp Pokémon
+Location Areas:
+giant-chasm-outside
+unova-route-13-area
+unova-route-14-area
+reversal-mountain-unknown-area-48

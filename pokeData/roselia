@@ -1,15 +1,36 @@
+roselia	A grass type Pokémon
 
-Name:  Roselia
-Pokedex Number:  315
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Natural Cure - Poison Point - Leaf Guard (Hidden Ability)
+The more healthy the ROSELIA, the
+more pleasant its flowers’ aroma.
+Its scent deeply relaxes people.
 
-Base Stats
-----------------------
-Total: 400
-Hp:  50
-Attack:  60
-Defence:  45
-Special Attack:  100
-Special Defence:  80
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         60
+        defense:         45
+ special-attack:        100
+special-defense:         80
+          speed:         65
+
+Pokedex ID: 315	Capture Rate: 150
+Base Exp: 140	Happiness: 50
+Height: 3	Weight: 20
+
+Genus: Thorn Pokémon
+Location Areas:
+trophy-garden-area
+sinnoh-route-208-area
+sinnoh-route-209-area
+sinnoh-route-210-south-towards-solaceon-town
+sinnoh-route-212-north-towards-hearthome-city
+sinnoh-route-212-east-towards-pastoria-city
+sinnoh-route-221-area
+sinnoh-route-224-area
+sinnoh-route-225-area
+sinnoh-route-229-area
+sinnoh-sea-route-230-area
+hoenn-route-117-area
+unova-route-12-area
+lostlorn-forest-area
+unova-victory-road-2-unknown-area-72
+kalos-route-7-area

@@ -1,15 +1,27 @@
+liepard	A dark type Pokémon
 
-Name:  Liepard
-Pokedex Number:  510
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Limber - Unburden - Prankster (Hidden Ability)
+아름다운 스타일은 전신의
+발달한 근육 덕분이다.
+소리도 내지 않고 밤을 달린다.
 
-Base Stats
-----------------------
-Total: 446
-Hp:  64
-Attack:  88
-Defence:  50
-Special Attack:  88
-Special Defence:  50
-Speed:  106
+   ↞--------| STATS |--------↠ 
+             hp:         64
+         attack:         88
+        defense:         50
+ special-attack:         88
+special-defense:         50
+          speed:        106
+
+Pokedex ID: 510	Capture Rate: 90
+Base Exp: 156	Happiness: 50
+Height: 11	Weight: 375
+
+Genus: Cruel Pokémon
+Location Areas:
+dreamyard-area
+dreamyard-b1f
+unova-route-2-area
+unova-route-5-area
+unova-route-9-area
+unova-route-16-area
+kalos-route-15-area

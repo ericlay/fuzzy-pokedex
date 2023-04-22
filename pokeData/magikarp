@@ -1,15 +1,241 @@
+magikarp	A water type Pokémon
 
-Name:  Magikarp
-Pokedex Number:  129
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swift Swim - Rattled (Hidden Ability)
+MAGIKARP is virtually useless in battle
+as it can only splash around.
+As a result, it is considered to be weak.However, it is actually a very hardy
+POKéMON that can survive in any body of
+water no matter how polluted it is.
 
-Base Stats
-----------------------
-Total: 200
-Hp:  20
-Attack:  10
-Defence:  55
-Special Attack:  15
-Special Defence:  20
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         20
+         attack:         10
+        defense:         55
+ special-attack:         15
+special-defense:         20
+          speed:         80
+
+Pokedex ID: 129	Capture Rate: 255
+Base Exp: 40	Happiness: 50
+Height: 9	Weight: 100
+
+Genus: Fish Pokémon
+Location Areas:
+canalave-city-area
+eterna-city-area
+pastoria-city-area
+sunyshore-city-area
+sinnoh-pokemon-league-area
+valley-windworks-area
+fuego-ironworks-area
+mt-coronet-1f-route-207
+mt-coronet-4f
+mt-coronet-b1f
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+sinnoh-victory-road-b1f
+sinnoh-victory-road-inside-b1f
+ravaged-path-area
+oreburgh-gate-b1f
+sendoff-spring-area
+iron-island-area
+lake-verity-before-galactic-intervention
+lake-verity-after-galactic-intervention
+lake-valor-area
+lake-acuity-area
+sinnoh-route-203-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+sinnoh-route-205-south-towards-floaroma-town
+sinnoh-route-205-east-towards-eterna-city
+sinnoh-route-208-area
+sinnoh-route-209-area
+sinnoh-route-210-west-towards-celestic-town
+sinnoh-route-212-north-towards-hearthome-city
+sinnoh-route-212-east-towards-pastoria-city
+sinnoh-route-213-area
+sinnoh-route-214-area
+sinnoh-route-218-area
+sinnoh-route-219-area
+sinnoh-route-221-area
+sinnoh-route-222-area
+sinnoh-route-224-area
+sinnoh-route-225-area
+sinnoh-route-227-area
+sinnoh-route-228-area
+sinnoh-route-229-area
+twinleaf-town-area
+celestic-town-area
+resort-area-area
+sinnoh-sea-route-220-area
+sinnoh-sea-route-223-area
+sinnoh-sea-route-226-area
+sinnoh-sea-route-230-area
+new-bark-town-area
+cherrygrove-city-area
+johto-route-30-area
+johto-route-31-area
+violet-city-area
+johto-route-32-area
+ruins-of-alph-outside
+union-cave-1f
+union-cave-b1f
+union-cave-b2f
+slowpoke-well-1f
+slowpoke-well-b1f
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+ecruteak-city-area
+olivine-city-area
+johto-sea-route-40-area
+johto-sea-route-41-area
+whirl-islands-1f
+whirl-islands-b2f
+whirl-islands-b3f
+cianwood-city-area
+johto-route-42-area
+mt-mortar-1f
+mt-mortar-upper-cave
+mt-mortar-b1f
+johto-route-43-area
+lake-of-rage-area
+johto-route-44-area
+blackthorn-city-area
+dragons-den-area
+johto-route-45-area
+dark-cave-violet-city-entrance
+dark-cave-blackthorn-city-entrance
+johto-route-47-area
+mt-moon-mt-moon-square
+unknown-all-poliwag-area
+seafoam-islands-b3f
+seafoam-islands-b4f
+mt-silver-2f
+mt-silver-1f-top
+mt-silver-4f
+johto-route-47-cave-gate
+mt-silver-outside
+mt-silver-1f
+mt-silver-top
+unknown-all-rattata-area
+kanto-route-12-area
+kanto-sea-route-19-area
+kanto-sea-route-20-area
+cinnabar-island-area
+viridian-city-area
+cerulean-city-area
+vermilion-city-area
+celadon-city-area
+fuchsia-city-area
+pallet-town-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-28-area
+kanto-route-4-area
+kanto-route-6-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-11-area
+kanto-route-13-area
+kanto-route-17-area
+kanto-route-18-area
+kanto-sea-route-21-area
+kanto-route-22-area
+kanto-route-24-area
+kanto-route-25-area
+tohjo-falls-area
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+kanto-route-23-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+vermilion-city-ss-anne-dock
+petalburg-city-area
+slateport-city-area
+lilycove-city-area
+mossdeep-city-area
+sootopolis-city-area
+ever-grande-city-area
+meteor-falls-area
+meteor-falls-back
+meteor-falls-b1f
+meteor-falls-backsmall-room
+seafloor-cavern-area
+hoenn-victory-road-b2f
+shoal-cave-area
+abandoned-ship-area
+hoenn-route-102-area
+hoenn-route-103-area
+hoenn-route-104-area
+hoenn-route-105-area
+hoenn-route-106-area
+hoenn-route-107-area
+hoenn-route-108-area
+hoenn-route-109-area
+hoenn-route-110-area
+hoenn-route-111-area
+hoenn-route-114-area
+hoenn-route-115-area
+hoenn-route-117-area
+hoenn-route-118-area
+hoenn-route-119-area
+hoenn-route-120-area
+hoenn-route-121-area
+hoenn-route-122-area
+hoenn-route-123-area
+hoenn-route-124-area
+hoenn-route-125-area
+hoenn-route-126-area
+hoenn-route-127-area
+hoenn-route-128-area
+hoenn-route-129-area
+hoenn-route-130-area
+hoenn-route-131-area
+hoenn-route-132-area
+hoenn-route-133-area
+hoenn-route-134-area
+hoenn-safari-zone-nwmach-bike-area
+hoenn-safari-zone-sw
+dewford-town-area
+pacifidlog-town-area
+hoenn-safari-zone-expansion-south
+ss-anne-area
+berry-forest-area
+icefall-cave-entrance
+icefall-cave-waterfall
+kindle-road-area
+treasure-beach-area
+cape-brink-area
+bond-bridge-area
+resort-gorgeous-area
+water-labyrinth-area
+five-isle-meadow-area
+memorial-pillar-area
+outcast-island-area
+green-path-area
+water-path-area
+ruin-valley-area
+trainer-tower-area
+tanoby-ruins-area
+one-island-area
+four-island-area
+five-island-area
+marvelous-bridge-area
+nature-sanctuary-area
+kalos-route-3-area
+kalos-route-22-area
+parfum-palace-area
+kanto-route-4-pokemon-center
+johto-safari-zone-zone-meadow
+johto-safari-zone-zone-swamp
+johto-safari-zone-zone-marshland
+johto-safari-zone-zone-rocky-beach
+johto-safari-zone-zone-wetland
+kanto-route-3-pokemon-center

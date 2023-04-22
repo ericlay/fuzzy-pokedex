@@ -1,15 +1,24 @@
+pansear	A fire type Pokémon
 
-Name:  Pansear
-Pokedex Number:  513
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Gluttony - Blaze (Hidden Ability)
+지능이 높고 나무열매는
+구운 뒤 먹는 습성이 있다.
+사람 도와주기를 좋아한다.
 
-Base Stats
-----------------------
-Total: 316
-Hp:  50
-Attack:  53
-Defence:  48
-Special Attack:  53
-Special Defence:  48
-Speed:  64
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         53
+        defense:         48
+ special-attack:         53
+special-defense:         48
+          speed:         64
+
+Pokedex ID: 513	Capture Rate: 190
+Base Exp: 63	Happiness: 70
+Height: 6	Weight: 110
+
+Genus: High Temp Pokémon
+Location Areas:
+dreamyard-area
+pinwheel-forest-inside
+lostlorn-forest-area
+santalune-forest-area

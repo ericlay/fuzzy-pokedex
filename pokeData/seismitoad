@@ -1,15 +1,24 @@
+seismitoad	A water type Pokémon
 
-Name:  Seismitoad
-Pokedex Number:  537
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swift Swim - Poison Touch - Water Absorb (Hidden Ability)
+주먹의 혹을 진동시켜
+펀치의 위력을 배가시킨다.
+일격에 큰 바위를 부스러뜨린다.
 
-Base Stats
-----------------------
-Total: 509
-Hp:  105
-Attack:  95
-Defence:  75
-Special Attack:  85
-Special Defence:  75
-Speed:  74
+   ↞--------| STATS |--------↠ 
+             hp:        105
+         attack:         95
+        defense:         75
+ special-attack:         85
+special-defense:         75
+          speed:         74
+
+Pokedex ID: 537	Capture Rate: 45
+Base Exp: 255	Happiness: 50
+Height: 15	Weight: 620
+
+Genus: Vibration Pokémon
+Location Areas:
+icirrus-city-area
+pinwheel-forest-outside
+unova-route-8-area
+moor-of-icirrus-area

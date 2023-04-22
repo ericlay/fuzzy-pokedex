@@ -1,15 +1,21 @@
+porygon-z	A normal type Pokémon
 
-Name:  Porygon-Z
-Pokedex Number:  474
-Gender Ratio:  Genderless
-Abilities: Adaptability - Download - Analytic (Hidden Ability)
+Il a été modifié pour être capable
+de travailler dans des dimensions
+parallèles, mais c’est un échec.
 
-Base Stats
-----------------------
-Total: 535
-Hp:  85
-Attack:  80
-Defence:  70
-Special Attack:  135
-Special Defence:  75
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:         80
+        defense:         70
+ special-attack:        135
+special-defense:         75
+          speed:         90
+
+Pokedex ID: 474	Capture Rate: 30
+Base Exp: 268	Happiness: 50
+Height: 9	Weight: 340
+
+Genus: Virtual Pokémon
+Location Areas:
+

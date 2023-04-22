@@ -1,15 +1,25 @@
+petilil	A grass type Pokémon
 
-Name:  Petilil
-Pokedex Number:  548
-Gender Ratio:   ♂:0% ♀:100%
-Abilities: Chlorophyll - Own Tempo - Leaf Guard (Hidden Ability)
+머리의 잎사귀를 갉아먹으면
+매우 쓰지만 지친 몸을
+회복시켜주는 효과가 있다.
 
-Base Stats
-----------------------
-Total: 280
-Hp:  45
-Attack:  35
-Defence:  50
-Special Attack:  70
-Special Defence:  50
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         35
+        defense:         50
+ special-attack:         70
+special-defense:         50
+          speed:         30
+
+Pokedex ID: 548	Capture Rate: 190
+Base Exp: 56	Happiness: 50
+Height: 5	Weight: 66
+
+Genus: Bulb Pokémon
+Location Areas:
+pinwheel-forest-inside
+abundant-shrine-area
+lostlorn-forest-area
+castelia-city-area
+unova-victory-road-2-unknown-area-72

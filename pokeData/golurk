@@ -1,15 +1,24 @@
+golurk	A ground type Pokémon
 
-Name:  Golurk
-Pokedex Number:  623
-Gender Ratio:  Genderless
-Abilities: Iron Fist - Klutz - No Guard (Hidden Ability)
+골루그를 만든 고대인에게
+사람과 포켓몬을 지키도록
+명령받았다고 전해진다.
 
-Base Stats
-----------------------
-Total: 483
-Hp:  89
-Attack:  124
-Defence:  80
-Special Attack:  55
-Special Defence:  80
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         89
+         attack:        124
+        defense:         80
+ special-attack:         55
+special-defense:         80
+          speed:         55
+
+Pokedex ID: 623	Capture Rate: 90
+Base Exp: 169	Happiness: 50
+Height: 28	Weight: 3300
+
+Genus: Automaton Pokémon
+Location Areas:
+dragonspiral-tower-1f
+dragonspiral-tower-2f
+unova-victory-road-2-unknown-area-71
+unova-victory-road-2-unknown-area-78

@@ -1,15 +1,21 @@
+spritzee	A fairy type Pokémon
 
-Name:  Spritzee
-Pokedex Number:  682
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Healer - Aroma Veil (Hidden Ability)
+かいだ　者を　うっとりさせる
+香りを　体から　漂わせる。
+食べた　もので　香りが　変わる。
 
-Base Stats
-----------------------
-Total: 341
-Hp:  78
-Attack:  52
-Defence:  60
-Special Attack:  63
-Special Defence:  65
-Speed:  23
+   ↞--------| STATS |--------↠ 
+             hp:         78
+         attack:         52
+        defense:         60
+ special-attack:         63
+special-defense:         65
+          speed:         23
+
+Pokedex ID: 682	Capture Rate: 200
+Base Exp: 68	Happiness: 50
+Height: 2	Weight: 5
+
+Genus: Perfume Pokémon
+Location Areas:
+kalos-route-7-area

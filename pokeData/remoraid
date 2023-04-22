@@ -1,15 +1,46 @@
+remoraid	A water type Pokémon
 
-Name:  Remoraid
-Pokedex Number:  223
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Hustle - Sniper - Moody (Hidden Ability)
+It has superb accuracy. The water it
+shoots out can strike even moving prey
+from more than 100 yards.
 
-Base Stats
-----------------------
-Total: 300
-Hp:  35
-Attack:  65
-Defence:  35
-Special Attack:  65
-Special Defence:  35
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:         65
+        defense:         35
+ special-attack:         65
+special-defense:         35
+          speed:         65
+
+Pokedex ID: 223	Capture Rate: 190
+Base Exp: 60	Happiness: 50
+Height: 6	Weight: 120
+
+Genus: Jet Pokémon
+Location Areas:
+pastoria-city-area
+sunyshore-city-area
+sinnoh-pokemon-league-area
+sinnoh-route-212-east-towards-pastoria-city
+sinnoh-route-213-area
+sinnoh-route-222-area
+sinnoh-route-224-area
+sinnoh-sea-route-223-area
+sinnoh-sea-route-230-area
+johto-route-44-area
+hoenn-safari-zone-expansion-south
+resort-gorgeous-area
+water-labyrinth-area
+five-isle-meadow-area
+memorial-pillar-area
+outcast-island-area
+green-path-area
+water-path-area
+trainer-tower-area
+tanoby-ruins-area
+undella-bay-area
+undella-town-area
+unova-route-21-area
+shalour-city-area
+kalos-route-12-area
+azure-bay-area

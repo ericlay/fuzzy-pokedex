@@ -1,15 +1,24 @@
+nuzleaf	A grass type Pokémon
 
-Name:  Nuzleaf
-Pokedex Number:  274
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Early Bird - Pickpocket (Hidden Ability)
+The sound of its grass flute makes
+its listeners uneasy. It lives deep
+in forests.
 
-Base Stats
-----------------------
-Total: 340
-Hp:  70
-Attack:  70
-Defence:  40
-Special Attack:  60
-Special Defence:  40
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         70
+        defense:         40
+ special-attack:         60
+special-defense:         40
+          speed:         60
+
+Pokedex ID: 274	Capture Rate: 120
+Base Exp: 119	Happiness: 50
+Height: 10	Weight: 280
+
+Genus: Wily Pokémon
+Location Areas:
+sinnoh-route-210-south-towards-solaceon-town
+sinnoh-route-229-area
+hoenn-route-114-area
+nature-sanctuary-area

@@ -1,15 +1,30 @@
+kricketune	A bug type Pokémon
 
-Name:  Kricketune
-Pokedex Number:  402
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swarm - Technician (Hidden Ability)
+Ses cris sont tellement variés qu’il
+existe un village où on organise
+des concours en leur honneur.
 
-Base Stats
-----------------------
-Total: 384
-Hp:  77
-Attack:  85
-Defence:  51
-Special Attack:  55
-Special Defence:  51
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         77
+         attack:         85
+        defense:         51
+ special-attack:         55
+special-defense:         51
+          speed:         65
+
+Pokedex ID: 402	Capture Rate: 45
+Base Exp: 134	Happiness: 70
+Height: 10	Weight: 255
+
+Genus: Cricket Pokémon
+Location Areas:
+trophy-garden-area
+valor-lakefront-area
+sinnoh-route-206-area
+sinnoh-route-210-south-towards-solaceon-town
+sinnoh-route-212-north-towards-hearthome-city
+sinnoh-route-212-east-towards-pastoria-city
+sinnoh-route-214-area
+sinnoh-route-215-area
+dreamyard-area
+dreamyard-b1f

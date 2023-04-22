@@ -1,15 +1,23 @@
+leavanny	A bug type Pokémon
 
-Name:  Leavanny
-Pokedex Number:  542
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swarm - Chlorophyll - Overcoat (Hidden Ability)
+어린 포켓몬을 보면
+입에서 내뿜는 점착실로
+잎사귀의 옷을 지어 준다.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  75
-Attack:  103
-Defence:  80
-Special Attack:  70
-Special Defence:  80
-Speed:  92
+   ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:        103
+        defense:         80
+ special-attack:         70
+special-defense:         80
+          speed:         92
+
+Pokedex ID: 542	Capture Rate: 45
+Base Exp: 225	Happiness: 70
+Height: 12	Weight: 205
+
+Genus: Nurturing Pokémon
+Location Areas:
+unova-route-6-area
+unova-route-12-area
+lostlorn-forest-area

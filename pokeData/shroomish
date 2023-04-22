@@ -1,15 +1,21 @@
+shroomish	A grass type Pokémon
 
-Name:  Shroomish
-Pokedex Number:  285
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Effect Spore - Poison Heal - Quick Feet (Hidden Ability)
+It spouts poison spores from the
+top of its head. These spores
+cause pain all over if inhaled.
 
-Base Stats
-----------------------
-Total: 295
-Hp:  60
-Attack:  40
-Defence:  60
-Special Attack:  40
-Special Defence:  60
-Speed:  35
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         40
+        defense:         60
+ special-attack:         40
+special-defense:         60
+          speed:         35
+
+Pokedex ID: 285	Capture Rate: 255
+Base Exp: 59	Happiness: 70
+Height: 4	Weight: 45
+
+Genus: Mushroom Pokémon
+Location Areas:
+petalburg-woods-area

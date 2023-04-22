@@ -1,15 +1,21 @@
+dewpider	A water type Pokémon
 
-Name:  Dewpider
-Pokedex Number:  751
-Gender Ratio:   ♂:50.2% ♀:49.8% 
-Abilities: Water Bubble - Water Absorb (Hidden Ability)
+It crawls onto the land in search of food.
+Its water bubble allows it to breathe and
+protects its soft head.
 
-Base Stats
-----------------------
-Total: 269
-Hp:  38
-Attack:  40
-Defence:  52
-Special Attack:  40
-Special Defence:  72
-Speed:  27
+   ↞--------| STATS |--------↠ 
+             hp:         38
+         attack:         40
+        defense:         52
+ special-attack:         40
+special-defense:         72
+          speed:         27
+
+Pokedex ID: 751	Capture Rate: 200
+Base Exp: 54	Happiness: 50
+Height: 3	Weight: 40
+
+Genus: Water Bubble Pokémon
+Location Areas:
+

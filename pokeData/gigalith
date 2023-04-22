@@ -1,15 +1,21 @@
+gigalith	A rock type Pokémon
 
-Name:  Gigalith
-Pokedex Number:  526
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sturdy - Sand Force (Hidden Ability)
+거두어들인 태양광선을
+에너지 코어로 반응시켜
+빛의 구슬로 쏘아낸다.
 
-Base Stats
-----------------------
-Total: 515
-Hp:  85
-Attack:  135
-Defence:  130
-Special Attack:  60
-Special Defence:  80
-Speed:  25
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:        135
+        defense:        130
+ special-attack:         60
+special-defense:         80
+          speed:         25
+
+Pokedex ID: 526	Capture Rate: 45
+Base Exp: 258	Happiness: 50
+Height: 17	Weight: 2600
+
+Genus: Compressed Pokémon
+Location Areas:
+

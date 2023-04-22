@@ -1,15 +1,35 @@
+marowak	A ground type Pokémon
 
-Name:  Marowak
-Pokedex Number:  105
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Rock Head - Lightningrod - Battle Armor (Hidden Ability)
+MAROWAK is the evolved form of a CUBONE
+that has overcome its sadness at the
+loss of its mother and grown tough.This POKéMON’s tempered and hardened
+spirit is not easily broken.
 
-Base Stats
-----------------------
-Total: 425
-Hp:  60
-Attack:  80
-Defence:  110
-Special Attack:  50
-Special Defence:  80
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         80
+        defense:        110
+ special-attack:         50
+special-defense:         80
+          speed:         45
+
+Pokedex ID: 105	Capture Rate: 75
+Base Exp: 149	Happiness: 50
+Height: 10	Weight: 450
+
+Genus: Bone Keeper Pokémon
+Location Areas:
+rock-tunnel-1f
+rock-tunnel-b1f
+kanto-route-9-area
+kanto-route-10-area
+cerulean-cave-2f
+cerulean-cave-b1f
+kanto-victory-road-2-1f
+kanto-victory-road-2-2f
+kanto-victory-road-2-3f
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-3-west
+sevault-canyon-area
+unova-route-15-area
+johto-safari-zone-zone-desert

@@ -1,15 +1,21 @@
+pyroar	A fire type Pokémon
 
-Name:  Pyroar
-Pokedex Number:  668
-Gender Ratio:   ♂:25% ♀:75% 
-Abilities: Rivalry - Unnerve - Moxie (Hidden Ability)
+群れの　中で　一番　大きな　炎の
+たてがみを　持つ　オスが
+リーダーとして　仲間を　率いる。
 
-Base Stats
-----------------------
-Total: 507
-Hp:  86
-Attack:  68
-Defence:  72
-Special Attack:  109
-Special Defence:  66
-Speed:  106
+   ↞--------| STATS |--------↠ 
+             hp:         86
+         attack:         68
+        defense:         72
+ special-attack:        109
+special-defense:         66
+          speed:        106
+
+Pokedex ID: 668	Capture Rate: 65
+Base Exp: 177	Happiness: 70
+Height: 15	Weight: 815
+
+Genus: Royal Pokémon
+Location Areas:
+

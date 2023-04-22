@@ -1,15 +1,38 @@
+venonat	A bug type Pokémon
 
-Name:  Venonat
-Pokedex Number:  048
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Compoundeyes - Tinted Lens - Run Away (Hidden Ability)
+VENONAT is said to have evolved with
+a coat of thin, stiff hair that covers
+its entire body for protection.It possesses large eyes that never fail
+to spot even miniscule prey.
 
-Base Stats
-----------------------
-Total: 305
-Hp:  60
-Attack:  55
-Defence:  50
-Special Attack:  40
-Special Defence:  55
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         55
+        defense:         50
+ special-attack:         40
+special-defense:         55
+          speed:         45
+
+Pokedex ID: 48	Capture Rate: 190
+Base Exp: 61	Happiness: 70
+Height: 10	Weight: 300
+
+Genus: Insect Pokémon
+Location Areas:
+sinnoh-route-229-area
+ilex-forest-area
+national-park-area
+johto-route-43-area
+lake-of-rage-area
+kanto-route-12-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+kanto-route-24-area
+kanto-route-25-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-3-west
+berry-forest-area
+bond-bridge-area

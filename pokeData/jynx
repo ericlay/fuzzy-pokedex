@@ -1,15 +1,38 @@
+jynx	A ice type Pokémon
 
-Name:  Jynx
-Pokedex Number:  124
-Gender Ratio:   ♂:0% ♀:100% 
-Abilities: Oblivious - Forewarn - Dry Skin (Hidden Ability)
+JYNX walks rhythmically, swaying and
+shaking its hips as if it were dancing.
+Its motions are so bouncingly alluring,people seeing it are compelled to shake
+their hips without giving any thought
+to what they are doing.
 
-Base Stats
-----------------------
-Total: 455
-Hp:  65
-Attack:  50
-Defence:  35
-Special Attack:  115
-Special Defence:  95
-Speed:  95
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         50
+        defense:         35
+ special-attack:        115
+special-defense:         95
+          speed:         95
+
+Pokedex ID: 124	Capture Rate: 45
+Base Exp: 159	Happiness: 50
+Height: 14	Weight: 406
+
+Genus: Human Shape Pokémon
+Location Areas:
+snowpoint-temple-b1f
+snowpoint-temple-b2f
+snowpoint-temple-b3f
+snowpoint-temple-b4f
+snowpoint-temple-b5f
+ice-path-1f
+ice-path-b1f
+ice-path-b2f
+ice-path-b3f
+seafoam-islands-b4f
+giant-chasm-area
+giant-chasm-forest-cave
+frost-cavern-unknown-area-314
+frost-cavern-unknown-area-315
+frost-cavern-unknown-area-316
+frost-cavern-unknown-area-317

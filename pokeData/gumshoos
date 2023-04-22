@@ -1,15 +1,21 @@
+gumshoos	A normal type Pokémon
 
-Name:  Gumshoos
-Pokedex Number:  735
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Stakeout - Strong Jaw - Adaptability (Hidden Ability)
+When it finds a trace of its prey, it patiently
+stakes out the location...but it’s always snoozing
+by nightfall.
 
-Base Stats
-----------------------
-Total: 418
-Hp:  88
-Attack:  110
-Defence:  60
-Special Attack:  55
-Special Defence:  60
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         88
+         attack:        110
+        defense:         60
+ special-attack:         55
+special-defense:         60
+          speed:         45
+
+Pokedex ID: 735	Capture Rate: 127
+Base Exp: 146	Happiness: 70
+Height: 7	Weight: 142
+
+Genus: Stakeout Pokémon
+Location Areas:
+

@@ -1,15 +1,21 @@
+archen	A rock type Pokémon
 
-Name:  Archen
-Pokedex Number:  566
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Defeatist
+화석에서 부활한 포켓몬이다.
+모든 새포켓몬의 조상이라
+여겨지고 있다.
 
-Base Stats
-----------------------
-Total: 401
-Hp:  55
-Attack:  112
-Defence:  45
-Special Attack:  74
-Special Defence:  45
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:        112
+        defense:         45
+ special-attack:         74
+special-defense:         45
+          speed:         70
+
+Pokedex ID: 566	Capture Rate: 45
+Base Exp: 71	Happiness: 50
+Height: 5	Weight: 95
+
+Genus: First Bird Pokémon
+Location Areas:
+

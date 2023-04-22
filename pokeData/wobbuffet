@@ -1,15 +1,36 @@
+wobbuffet	A psychic type Pokémon
 
-Name:  Wobbuffet
-Pokedex Number:  202
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shadow Tag - Telepathy (Hidden Ability)
+To keep its pitch-black tail hidden, it
+lives quietly in the darkness. It is never
+first to attack.
 
-Base Stats
-----------------------
-Total: 405
-Hp:  190
-Attack:  33
-Defence:  58
-Special Attack:  33
-Special Defence:  58
-Speed:  33
+   ↞--------| STATS |--------↠ 
+             hp:        190
+         attack:         33
+        defense:         58
+ special-attack:         33
+special-defense:         58
+          speed:         33
+
+Pokedex ID: 202	Capture Rate: 45
+Base Exp: 142	Happiness: 50
+Height: 13	Weight: 285
+
+Genus: Patient Pokémon
+Location Areas:
+lake-verity-before-galactic-intervention
+lake-verity-after-galactic-intervention
+lake-valor-area
+lake-acuity-area
+dark-cave-blackthorn-city-entrance
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+hoenn-safari-zone-sw
+hoenn-safari-zone-se
+ruin-valley-area
+reflection-cave-unknown-area-305
+reflection-cave-unknown-area-306
+reflection-cave-unknown-area-307
+reflection-cave-unknown-area-308
+johto-safari-zone-zone-peak

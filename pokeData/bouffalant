@@ -1,15 +1,23 @@
+bouffalant	A normal type Pokémon
 
-Name:  Bouffalant
-Pokedex Number:  626
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Reckless - Sap Sipper - Soundproof (Hidden Ability)
+무작정 돌진하여 박치기를
+한다. 달리고 있는 열차를
+탈선시킬 정도의 파괴력이다.
 
-Base Stats
-----------------------
-Total: 490
-Hp:  95
-Attack:  110
-Defence:  95
-Special Attack:  40
-Special Defence:  95
-Speed:  55
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:        110
+        defense:         95
+ special-attack:         40
+special-defense:         95
+          speed:         55
+
+Pokedex ID: 626	Capture Rate: 45
+Base Exp: 172	Happiness: 50
+Height: 16	Weight: 946
+
+Genus: Bash Buffalo Pokémon
+Location Areas:
+unova-route-10-area
+unova-route-10-victory-road-gate
+unova-route-23-area

@@ -1,15 +1,34 @@
+nidoran-m	A poison type Pokémon
 
-Name:  Nidoran-M
-Pokedex Number:  032
-Gender Ratio:   ♂:100% ♀:0%
-Abilities: Poison Point - Rivalry - Hustle (Hidden Ability)
+The male NIDORAN has developed
+muscles for moving its ears. Thanks to
+them, the ears can be freely moved inany direction. Even the slightest sound
+does not escape this POKéMON’s notice.
 
-Base Stats
-----------------------
-Total: 273
-Hp:  46
-Attack:  57
-Defence:  40
-Special Attack:  40
-Special Defence:  40
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         46
+         attack:         57
+        defense:         40
+ special-attack:         40
+special-defense:         40
+          speed:         50
+
+Pokedex ID: 32	Capture Rate: 235
+Base Exp: 55	Happiness: 50
+Height: 5	Weight: 90
+
+Genus: Poison Pin Pokémon
+Location Areas:
+sinnoh-route-201-area
+johto-route-35-area
+national-park-area
+johto-route-36-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-3-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-22-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west

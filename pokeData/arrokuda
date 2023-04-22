@@ -1,15 +1,21 @@
+arrokuda	A water type Pokémon
 
-Name:  Arrokuda
-Pokedex Number:  846
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swift Swim - Propeller Tail (Hidden Ability)
+If it sees any movement around it, this Pokémon
+charges for it straightaway, leading with its
+sharply pointed jaw. It’s very proud of that jaw.
 
-Base Stats
-----------------------
-Total: 280
-Hp:  41
-Attack:  63
-Defence:  40
-Special Attack:  40
-Special Defence:  30
-Speed:  66
+   ↞--------| STATS |--------↠ 
+             hp:         41
+         attack:         63
+        defense:         40
+ special-attack:         40
+special-defense:         30
+          speed:         66
+
+Pokedex ID: 846	Capture Rate: 255
+Base Exp: 56	Happiness: 50
+Height: 5	Weight: 10
+
+Genus: Rush Pokémon
+Location Areas:
+

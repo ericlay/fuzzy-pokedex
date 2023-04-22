@@ -1,15 +1,25 @@
+purrloin	A dark type Pokémon
 
-Name:  Purrloin
-Pokedex Number:  509
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Limber - Unburden - Prankster (Hidden Ability)
+귀여운 행동으로 방심하게 한 후
+그 틈에 지닌 물건을 빼앗아 간다.
+화가 나면 손톱을 세워서 반격한다.
 
-Base Stats
-----------------------
-Total: 281
-Hp:  41
-Attack:  50
-Defence:  37
-Special Attack:  50
-Special Defence:  37
-Speed:  66
+   ↞--------| STATS |--------↠ 
+             hp:         41
+         attack:         50
+        defense:         37
+ special-attack:         50
+special-defense:         37
+          speed:         66
+
+Pokedex ID: 509	Capture Rate: 255
+Base Exp: 56	Happiness: 50
+Height: 4	Weight: 101
+
+Genus: Devious Pokémon
+Location Areas:
+dreamyard-area
+unova-route-2-area
+unova-route-3-area
+unova-route-19-area
+unova-route-20-area

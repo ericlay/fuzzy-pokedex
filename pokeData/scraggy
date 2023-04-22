@@ -1,15 +1,25 @@
+scraggy	A dark type Pokémon
 
-Name:  Scraggy
-Pokedex Number:  559
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shed Skin - Moxie - Intimidate (Hidden Ability)
+가죽을 목까지 늘려서
+방어 자세를 취한다. 고무 같은
+탄력을 이용해 데미지를 줄인다.
 
-Base Stats
-----------------------
-Total: 348
-Hp:  50
-Attack:  75
-Defence:  70
-Special Attack:  35
-Special Defence:  70
-Speed:  48
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         75
+        defense:         70
+ special-attack:         35
+special-defense:         70
+          speed:         48
+
+Pokedex ID: 559	Capture Rate: 180
+Base Exp: 70	Happiness: 35
+Height: 6	Weight: 118
+
+Genus: Shedding Pokémon
+Location Areas:
+desert-resort-entrance
+p2-laboratory-area
+unova-route-1-area
+unova-route-4-area
+unova-route-18-area

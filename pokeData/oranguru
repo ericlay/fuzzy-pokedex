@@ -1,15 +1,21 @@
+oranguru	A normal type Pokémon
 
-Name:  Oranguru
-Pokedex Number:  765
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Inner Focus - Telepathy - Symbiosis (Hidden Ability)
+Known for its extreme intelligence, this Pokémon
+will look down on inexperienced Trainers, so it’s
+best suited to veteran Trainers.
 
-Base Stats
-----------------------
-Total: 490
-Hp:  90
-Attack:  60
-Defence:  80
-Special Attack:  90
-Special Defence:  110
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         60
+        defense:         80
+ special-attack:         90
+special-defense:        110
+          speed:         60
+
+Pokedex ID: 765	Capture Rate: 45
+Base Exp: 172	Happiness: 50
+Height: 15	Weight: 760
+
+Genus: Sage Pokémon
+Location Areas:
+

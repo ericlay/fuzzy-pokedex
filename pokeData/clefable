@@ -1,15 +1,24 @@
+clefable	A fairy type Pokémon
 
-Name:  Clefable
-Pokedex Number:  036
-Gender Ratio:   ♂:25% ♀:75%
-Abilities: Cute Charm - Magic Guard - Unaware (Hidden Ability)
+CLEFABLE moves by skipping lightly as if
+it were flying using its wings. Its
+bouncy step lets it even walk on water.It is known to take strolls on lakes on
+quiet, moonlit nights.
 
-Base Stats
-----------------------
-Total: 483
-Hp:  95
-Attack:  70
-Defence:  73
-Special Attack:  95
-Special Defence:  90
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:         70
+        defense:         73
+ special-attack:         95
+special-defense:         90
+          speed:         60
+
+Pokedex ID: 36	Capture Rate: 25
+Base Exp: 242	Happiness: 140
+Height: 13	Weight: 400
+
+Genus: Fairy Pokémon
+Location Areas:
+giant-chasm-outside
+giant-chasm-forest
+giant-chasm-forest-cave

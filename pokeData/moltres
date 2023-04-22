@@ -1,15 +1,25 @@
+moltres	A fire type Pokémon
 
-Name:  Moltres
-Pokedex Number:  146
-Gender Ratio:  Genderless
-Abilities: Pressure - Flame Body (Hidden Ability)
+MOLTRES is a legendary bird POKéMON
+that has the ability to control fire.
+If this POKéMON is injured, it is said todip its body in the molten magma of a
+volcano to burn and heal itself.
 
-Base Stats
-----------------------
-Total: 580
-Hp:  90
-Attack:  100
-Defence:  90
-Special Attack:  125
-Special Defence:  85
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:        100
+        defense:         90
+ special-attack:        125
+special-defense:         85
+          speed:         90
+
+Pokedex ID: 146	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 20	Weight: 600
+
+Genus: Flame Pokémon
+Location Areas:
+mt-silver-top
+kanto-victory-road-2-2f
+roaming-sinnoh-area
+mt-ember-summit

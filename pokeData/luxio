@@ -1,15 +1,22 @@
+luxio	A electric type Pokémon
 
-Name:  Luxio
-Pokedex Number:  404
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Rivalry - Intimidate - Guts (Hidden Ability)
+Strong electricity courses through
+the tips of its sharp claws. A light
+scratch causes fainting in foes.
 
-Base Stats
-----------------------
-Total: 363
-Hp:  60
-Attack:  85
-Defence:  49
-Special Attack:  60
-Special Defence:  49
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         85
+        defense:         49
+ special-attack:         60
+special-defense:         49
+          speed:         60
+
+Pokedex ID: 404	Capture Rate: 120
+Base Exp: 127	Happiness: 100
+Height: 9	Weight: 305
+
+Genus: Spark Pokémon
+Location Areas:
+fuego-ironworks-area
+sinnoh-route-222-area

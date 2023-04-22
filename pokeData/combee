@@ -1,15 +1,23 @@
+combee	A bug type Pokémon
 
-Name:  Combee
-Pokedex Number:  415
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Honey Gather - Hustle (Hidden Ability)
+Ce trio inséparable depuis la
+naissance récolte du miel
+pour satisfaire Apireine.
 
-Base Stats
-----------------------
-Total: 244
-Hp:  30
-Attack:  30
-Defence:  42
-Special Attack:  30
-Special Defence:  42
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         30
+         attack:         30
+        defense:         42
+ special-attack:         30
+special-defense:         42
+          speed:         70
+
+Pokedex ID: 415	Capture Rate: 120
+Base Exp: 49	Happiness: 50
+Height: 3	Weight: 55
+
+Genus: Tiny Bee Pokémon
+Location Areas:
+unova-route-12-area
+lostlorn-forest-area
+kalos-route-4-area

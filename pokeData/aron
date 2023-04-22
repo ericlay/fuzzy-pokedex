@@ -1,15 +1,27 @@
+aron	A steel type Pokémon
 
-Name:  Aron
-Pokedex Number:  304
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Sturdy - Rock Head - Heavy Metal (Hidden Ability)
+It usually lives deep in mountains.
+However, hunger may drive it to
+eat railroad tracks and cars.
 
-Base Stats
-----------------------
-Total: 330
-Hp:  50
-Attack:  70
-Defence:  100
-Special Attack:  40
-Special Defence:  40
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         70
+        defense:        100
+ special-attack:         40
+special-defense:         40
+          speed:         30
+
+Pokedex ID: 304	Capture Rate: 180
+Base Exp: 66	Happiness: 35
+Height: 4	Weight: 600
+
+Genus: Iron Armor Pokémon
+Location Areas:
+fuego-ironworks-area
+granite-cave-b1f
+granite-cave-b2f
+granite-cave-1fsmall-room
+hoenn-victory-road-1f
+mistralton-cave-area
+guidance-chamber-area

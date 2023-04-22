@@ -1,15 +1,23 @@
+ivysaur	A grass type Pokémon
 
-Name:  Ivysaur
-Pokedex Number:  002
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Overgrow - Chlorophyll (Hidden Ability)
+There is a bud on this POKéMON’s back.
+To support its weight, IVYSAUR’s legs
+and trunk grow thick and strong.If it starts spending more time lying
+in the sunlight, it’s a sign that the
+bud will bloom into a large flower soon.
 
-Base Stats
-----------------------
-Total: 405
-Hp:  60
-Attack:  62
-Defence:  63
-Special Attack:  80
-Special Defence:  80
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         62
+        defense:         63
+ special-attack:         80
+special-defense:         80
+          speed:         60
+
+Pokedex ID: 2	Capture Rate: 45
+Base Exp: 142	Happiness: 50
+Height: 10	Weight: 130
+
+Genus: Seed Pokémon
+Location Areas:
+

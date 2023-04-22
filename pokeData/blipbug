@@ -1,15 +1,20 @@
+blipbug	A bug type Pokémon
 
-Name:  Blipbug
-Pokedex Number:  824
-Gender Ratio:   ♂:50.2% ♀:49.8%
-Abilities: Swarm - Compoundeyes - Telepathy (Hidden Ability)
+A constant collector of information, this Pokémon
+is very smart. Very strong is what it isn’t.
 
-Base Stats
-----------------------
-Total: 180
-Hp:  25
-Attack:  20
-Defence:  20
-Special Attack:  25
-Special Defence:  45
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         25
+         attack:         20
+        defense:         20
+ special-attack:         25
+special-defense:         45
+          speed:         45
+
+Pokedex ID: 824	Capture Rate: 255
+Base Exp: 36	Happiness: 50
+Height: 4	Weight: 80
+
+Genus: Larva Pokémon
+Location Areas:
+

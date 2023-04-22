@@ -1,15 +1,21 @@
+drapion	A poison type Pokémon
 
-Name:  Drapion
-Pokedex Number:  452
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Battle Armor - Sniper - Keen Eye (Hidden Ability)
+Fier et robuste, il met un point
+d’honneur à battre ses adversaires
+sans utiliser de poison.
 
-Base Stats
-----------------------
-Total: 500
-Hp:  70
-Attack:  90
-Defence:  110
-Special Attack:  60
-Special Defence:  75
-Speed:  95
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         90
+        defense:        110
+ special-attack:         60
+special-defense:         75
+          speed:         95
+
+Pokedex ID: 452	Capture Rate: 45
+Base Exp: 175	Happiness: 50
+Height: 13	Weight: 615
+
+Genus: Ogre Scorpion Pokémon
+Location Areas:
+kalos-route-19-area

@@ -1,15 +1,21 @@
+frosmoth	A ice type Pokémon
 
-Name:  Frosmoth
-Pokedex Number:  873
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shield Dust - Ice Scales (Hidden Ability)
+Icy scales fall from its wings like snow as it flies
+over fields and mountains. The temperature of its
+wings is less than −290 degrees Fahrenheit.
 
-Base Stats
-----------------------
-Total: 475
-Hp:  70
-Attack:  65
-Defence:  60
-Special Attack:  125
-Special Defence:  90
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         65
+        defense:         60
+ special-attack:        125
+special-defense:         90
+          speed:         65
+
+Pokedex ID: 873	Capture Rate: 75
+Base Exp: 166	Happiness: 50
+Height: 13	Weight: 420
+
+Genus: Frost Moth Pokémon
+Location Areas:
+

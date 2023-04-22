@@ -1,15 +1,21 @@
+typhlosion	A fire type Pokémon
 
-Name:  Typhlosion
-Pokedex Number:  157
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Blaze - Flash Fire (Hidden Ability)
+If its rage peaks, it becomes so hot that
+anything that touches it will instantly go
+up in flames.
 
-Base Stats
-----------------------
-Total: 534
-Hp:  78
-Attack:  84
-Defence:  78
-Special Attack:  109
-Special Defence:  85
-Speed:  100
+   ↞--------| STATS |--------↠ 
+             hp:         78
+         attack:         84
+        defense:         78
+ special-attack:        109
+special-defense:         85
+          speed:        100
+
+Pokedex ID: 157	Capture Rate: 45
+Base Exp: 240	Happiness: 70
+Height: 17	Weight: 795
+
+Genus: Volcano Pokémon
+Location Areas:
+

@@ -1,15 +1,23 @@
+dragalge	A poison type Pokémon
 
-Name:  Dragalge
-Pokedex Number:  691
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Poison Point - Poison Touch - Adaptability (Hidden Ability)
+タンカーの　船体を　腐らせる　猛毒を
+縄張りに　入りこんだ　ものに
+見境なく　吐きかける。
 
-Base Stats
-----------------------
-Total: 494
-Hp:  65
-Attack:  75
-Defence:  90
-Special Attack:  97
-Special Defence:  123
-Speed:  44
+   ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         75
+        defense:         90
+ special-attack:         97
+special-defense:        123
+          speed:         44
+
+Pokedex ID: 691	Capture Rate: 55
+Base Exp: 173	Happiness: 50
+Height: 18	Weight: 815
+
+Genus: Mock Kelp Pokémon
+Location Areas:
+ambrette-town-area
+cyllage-city-area
+kalos-route-8-area

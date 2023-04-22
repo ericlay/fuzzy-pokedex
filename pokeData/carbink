@@ -1,15 +1,24 @@
+carbink	A rock type Pokémon
 
-Name:  Carbink
-Pokedex Number:  703
-Gender Ratio:  Genderless
-Abilities: Clear Body - Sturdy (Hidden Ability)
+地下深くの　高温　高圧な
+環境で　生まれた。
+頭の　石から　エネルギーを　放つ。
 
-Base Stats
-----------------------
-Total: 500
-Hp:  50
-Attack:  50
-Defence:  150
-Special Attack:  50
-Special Defence:  150
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         50
+        defense:        150
+ special-attack:         50
+special-defense:        150
+          speed:         50
+
+Pokedex ID: 703	Capture Rate: 60
+Base Exp: 100	Happiness: 50
+Height: 3	Weight: 57
+
+Genus: Jewel Pokémon
+Location Areas:
+reflection-cave-unknown-area-305
+reflection-cave-unknown-area-306
+reflection-cave-unknown-area-307
+reflection-cave-unknown-area-308

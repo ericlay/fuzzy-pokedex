@@ -1,15 +1,21 @@
+emboar	A fire type Pokémon
 
-Name:  Emboar
-Pokedex Number:  500
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Blaze - Reckless (Hidden Ability)
+턱의 화염으로 주먹을 불태워
+불꽃펀치를 날린다.
+동료애가 깊은 포켓몬이다.
 
-Base Stats
-----------------------
-Total: 528
-Hp:  110
-Attack:  123
-Defence:  65
-Special Attack:  100
-Special Defence:  65
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:        110
+         attack:        123
+        defense:         65
+ special-attack:        100
+special-defense:         65
+          speed:         65
+
+Pokedex ID: 500	Capture Rate: 45
+Base Exp: 238	Happiness: 70
+Height: 16	Weight: 1500
+
+Genus: Mega Fire Pig Pokémon
+Location Areas:
+

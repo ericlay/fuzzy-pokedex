@@ -1,15 +1,30 @@
+snubbull	A fairy type Pokémon
 
-Name:  Snubbull
-Pokedex Number:  209
-Gender Ratio:   ♂:25% ♀:75%
-Abilities: Intimidate - Run Away - Rattled (Hidden Ability)
+Although it looks frightening, it is
+actually kind and affectionate. It is very
+popular among women.
 
-Base Stats
-----------------------
-Total: 300
-Hp:  60
-Attack:  80
-Defence:  50
-Special Attack:  40
-Special Defence:  40
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         80
+        defense:         50
+ special-attack:         40
+special-defense:         40
+          speed:         30
+
+Pokedex ID: 209	Capture Rate: 190
+Base Exp: 60	Happiness: 70
+Height: 6	Weight: 78
+
+Genus: Fairy Pokémon
+Location Areas:
+sinnoh-route-209-area
+johto-route-34-area
+johto-route-35-area
+johto-route-38-area
+kanto-route-5-area
+kanto-route-6-area
+kanto-route-7-area
+kanto-route-8-area
+hoenn-safari-zone-expansion-south
+kalos-route-10-area

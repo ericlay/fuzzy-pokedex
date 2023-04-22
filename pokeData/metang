@@ -1,15 +1,22 @@
+metang	A steel type Pokémon
 
-Name:  Metang
-Pokedex Number:  375
-Gender Ratio:  Genderless
-Abilities: Clear Body - Light Metal (Hidden Ability)
+It is formed by two BELDUM joining
+together. Its steel body won’t be
+scratched if it collides with a jet.
 
-Base Stats
-----------------------
-Total: 420
-Hp:  60
-Attack:  75
-Defence:  100
-Special Attack:  55
-Special Defence:  80
-Speed:  50
+   ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         75
+        defense:        100
+ special-attack:         55
+special-defense:         80
+          speed:         50
+
+Pokedex ID: 375	Capture Rate: 3
+Base Exp: 147	Happiness: 35
+Height: 12	Weight: 2025
+
+Genus: Iron Claw Pokémon
+Location Areas:
+giant-chasm-forest
+giant-chasm-forest-cave

@@ -1,15 +1,26 @@
+natu	A psychic type Pokémon
 
-Name:  Natu
-Pokedex Number:  177
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Synchronize - Early Bird - Magic Bounce (Hidden Ability)
+Because its wings aren’t yet fully grown,
+it has to hop to get around. It is always
+staring at something.
 
-Base Stats
-----------------------
-Total: 320
-Hp:  40
-Attack:  50
-Defence:  45
-Special Attack:  70
-Special Defence:  45
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         50
+        defense:         45
+ special-attack:         70
+special-defense:         45
+          speed:         70
+
+Pokedex ID: 177	Capture Rate: 190
+Base Exp: 64	Happiness: 50
+Height: 2	Weight: 20
+
+Genus: Tiny Bird Pokémon
+Location Areas:
+sinnoh-route-224-area
+ruins-of-alph-outside
+hoenn-safari-zone-neacro-bike-area
+hoenn-safari-zone-sw
+hoenn-safari-zone-se
+ruin-valley-area

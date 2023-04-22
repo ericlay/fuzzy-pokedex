@@ -1,15 +1,22 @@
+furret	A normal type Pokémon
 
-Name:  Furret
-Pokedex Number:  162
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Run Away - Keen Eye - Frisk (Hidden Ability)
+It makes a nest to suit its long and skinny
+body. The nest is impossible for other
+POKéMON to enter.
 
-Base Stats
-----------------------
-Total: 415
-Hp:  85
-Attack:  76
-Defence:  64
-Special Attack:  45
-Special Defence:  55
-Speed:  90
+   ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:         76
+        defense:         64
+ special-attack:         45
+special-defense:         55
+          speed:         90
+
+Pokedex ID: 162	Capture Rate: 90
+Base Exp: 145	Happiness: 70
+Height: 18	Weight: 325
+
+Genus: Long Body Pokémon
+Location Areas:
+johto-route-43-area
+kanto-route-1-area

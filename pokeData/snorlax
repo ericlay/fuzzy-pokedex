@@ -1,15 +1,25 @@
+snorlax	A normal type Pokémon
 
-Name:  Snorlax
-Pokedex Number:  143
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Immunity - Thick Fat - Gluttony (Hidden Ability)
+SNORLAX’s typical day consists of
+nothing more than eating and sleeping.
+It is such a docile POKéMON that thereare children who use its expansive belly
+as a place to play.
 
-Base Stats
-----------------------
-Total: 540
-Hp:  160
-Attack:  110
-Defence:  65
-Special Attack:  65
-Special Defence:  110
-Speed:  30
+   ↞--------| STATS |--------↠ 
+             hp:        160
+         attack:        110
+        defense:         65
+ special-attack:         65
+special-defense:        110
+          speed:         30
+
+Pokedex ID: 143	Capture Rate: 25
+Base Exp: 189	Happiness: 50
+Height: 21	Weight: 4600
+
+Genus: Sleeping Pokémon
+Location Areas:
+kanto-route-12-area
+vermilion-city-area
+kanto-route-11-area
+kanto-route-16-area

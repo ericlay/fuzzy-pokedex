@@ -1,15 +1,52 @@
+solrock	A rock type Pokémon
 
-Name:  Solrock
-Pokedex Number:  338
-Gender Ratio:  Genderless
-Abilities: Levitate
+A new Pokémon species, rumored
+to be from the sun. It gives off
+light while spinning.
 
-Base Stats
-----------------------
-Total: 440
-Hp:  70
-Attack:  95
-Defence:  85
-Special Attack:  55
-Special Defence:  65
-Speed:  70
+   ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         95
+        defense:         85
+ special-attack:         55
+special-defense:         65
+          speed:         70
+
+Pokedex ID: 338	Capture Rate: 45
+Base Exp: 161	Happiness: 50
+Height: 12	Weight: 1540
+
+Genus: Meteorite Pokémon
+Location Areas:
+mt-coronet-2f
+mt-coronet-3f
+mt-coronet-exterior-snowfall
+mt-coronet-exterior-blizzard
+mt-coronet-4f
+mt-coronet-4f-small-room
+mt-coronet-5f
+mt-coronet-6f
+mt-coronet-1f-from-exterior
+sendoff-spring-area
+turnback-cave-pillar-1
+turnback-cave-pillar-2
+turnback-cave-pillar-3
+turnback-cave-before-pillar-1
+turnback-cave-between-pillars-1-and-2
+turnback-cave-between-pillars-2-and-3
+turnback-cave-after-pillar-3
+lake-verity-before-galactic-intervention
+lake-verity-after-galactic-intervention
+lake-valor-area
+lake-acuity-area
+meteor-falls-area
+meteor-falls-back
+meteor-falls-b1f
+meteor-falls-backsmall-room
+giant-chasm-outside
+giant-chasm-area
+giant-chasm-forest
+giant-chasm-forest-cave
+unova-route-13-area
+unova-route-22-area
+glittering-cave-unknown-area-303

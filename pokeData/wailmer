@@ -1,15 +1,57 @@
+wailmer	A water type Pokémon
 
-Name:  Wailmer
-Pokedex Number:  320
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Water Veil - Oblivious - Pressure (Hidden Ability)
+On sunny days, it lands on beaches
+to bounce like a ball and play.
+It spouts water from its nose.
 
-Base Stats
-----------------------
-Total: 400
-Hp:  130
-Attack:  70
-Defence:  35
-Special Attack:  70
-Special Defence:  35
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:        130
+         attack:         70
+        defense:         35
+ special-attack:         70
+special-defense:         35
+          speed:         60
+
+Pokedex ID: 320	Capture Rate: 125
+Base Exp: 80	Happiness: 50
+Height: 20	Weight: 1300
+
+Genus: Ball Whale Pokémon
+Location Areas:
+sinnoh-sea-route-223-area
+sinnoh-sea-route-230-area
+slateport-city-area
+lilycove-city-area
+mossdeep-city-area
+ever-grande-city-area
+seafloor-cavern-area
+shoal-cave-area
+hoenn-route-103-area
+hoenn-route-105-area
+hoenn-route-106-area
+hoenn-route-107-area
+hoenn-route-108-area
+hoenn-route-109-area
+hoenn-route-110-area
+hoenn-route-115-area
+hoenn-route-121-area
+hoenn-route-122-area
+hoenn-route-123-area
+hoenn-route-124-area
+hoenn-route-125-area
+hoenn-route-126-area
+hoenn-route-127-area
+hoenn-route-128-area
+hoenn-route-129-area
+hoenn-route-130-area
+hoenn-route-131-area
+hoenn-route-132-area
+hoenn-route-133-area
+hoenn-route-134-area
+dewford-town-area
+pacifidlog-town-area
+undella-bay-area
+undella-town-area
+ambrette-town-area
+cyllage-city-area
+kalos-route-8-area

@@ -1,15 +1,22 @@
+dragonite	A dragon type Pokémon
 
-Name:  Dragonite
-Pokedex Number:  149
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Inner Focus - Multiscale (Hidden Ability)
+DRAGONITE is capable of circling the
+globe in just sixteen hours.
+It is a kindhearted POKéMON that leadslost and foundering ships in a storm to
+the safety of land.
 
-Base Stats
-----------------------
-Total: 600
-Hp:  91
-Attack:  134
-Defence:  95
-Special Attack:  100
-Special Defence:  100
-Speed:  80
+   ↞--------| STATS |--------↠ 
+             hp:         91
+         attack:        134
+        defense:         95
+ special-attack:        100
+special-defense:        100
+          speed:         80
+
+Pokedex ID: 149	Capture Rate: 45
+Base Exp: 300	Happiness: 35
+Height: 22	Weight: 2100
+
+Genus: Dragon Pokémon
+Location Areas:
+dragonspiral-tower-outside

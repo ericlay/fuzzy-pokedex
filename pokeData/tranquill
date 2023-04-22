@@ -1,15 +1,30 @@
+tranquill	A normal type Pokémon
 
-Name:  Tranquill
-Pokedex Number:  520
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Big Pecks - Super Luck - Rivalry (Hidden Ability)
+유토브가 사는 숲 속에는
+싸움이 없는 평화로운 나라가
+있다고 믿어진다.
 
-Base Stats
-----------------------
-Total: 358
-Hp:  62
-Attack:  77
-Defence:  62
-Special Attack:  50
-Special Defence:  42
-Speed:  65
+   ↞--------| STATS |--------↠ 
+             hp:         62
+         attack:         77
+        defense:         62
+ special-attack:         50
+special-defense:         42
+          speed:         65
+
+Pokedex ID: 520	Capture Rate: 120
+Base Exp: 125	Happiness: 50
+Height: 6	Weight: 150
+
+Genus: Wild Pigeon Pokémon
+Location Areas:
+pinwheel-forest-inside
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+unova-route-3-area
+unova-route-6-area
+unova-route-7-area
+unova-route-12-area
+lostlorn-forest-area
+unova-victory-road-2-unknown-area-73
+unova-victory-road-2-unknown-area-79

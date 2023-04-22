@@ -1,15 +1,53 @@
+barboach	A water type Pokémon
 
-Name:  Barboach
-Pokedex Number:  339
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Oblivious - Anticipation - Hydration (Hidden Ability)
+Its slimy body is hard to grasp. In
+one region, it is said to have been
+born from hardened mud.
 
-Base Stats
-----------------------
-Total: 288
-Hp:  50
-Attack:  48
-Defence:  43
-Special Attack:  46
-Special Defence:  41
-Speed:  60
+   ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         48
+        defense:         43
+ special-attack:         46
+special-defense:         41
+          speed:         60
+
+Pokedex ID: 339	Capture Rate: 190
+Base Exp: 58	Happiness: 50
+Height: 4	Weight: 19
+
+Genus: Whiskers Pokémon
+Location Areas:
+eterna-city-area
+mt-coronet-1f-route-207
+mt-coronet-4f
+mt-coronet-b1f
+great-marsh-area-1
+great-marsh-area-2
+great-marsh-area-3
+great-marsh-area-4
+great-marsh-area-5
+great-marsh-area-6
+ravaged-path-area
+oreburgh-gate-b1f
+sinnoh-route-205-east-towards-eterna-city
+sinnoh-route-208-area
+sinnoh-route-210-west-towards-celestic-town
+sinnoh-route-212-east-towards-pastoria-city
+sinnoh-route-225-area
+sinnoh-route-227-area
+sinnoh-route-228-area
+celestic-town-area
+meteor-falls-area
+meteor-falls-back
+meteor-falls-b1f
+meteor-falls-backsmall-room
+hoenn-victory-road-b2f
+hoenn-route-111-area
+hoenn-route-114-area
+hoenn-route-120-area
+icirrus-city-area
+unova-route-8-area
+moor-of-icirrus-area
+kalos-route-14-area
+kalos-route-19-area

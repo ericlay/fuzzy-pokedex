@@ -1,15 +1,21 @@
+crustle	A bug type Pokémon
 
-Name:  Crustle
-Pokedex Number:  558
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Sturdy - Shell Armor - Weak Armor (Hidden Ability)
+무거운 바위를 등에 지고
+며칠이고 건조한 땅을
+이동할 수 있는 다릿심을 가지고 있다.
 
-Base Stats
-----------------------
-Total: 475
-Hp:  70
-Attack:  95
-Defence:  125
-Special Attack:  65
-Special Defence:  75
-Speed:  45
+   ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:        105
+        defense:        125
+ special-attack:         65
+special-defense:         75
+          speed:         45
+
+Pokedex ID: 558	Capture Rate: 75
+Base Exp: 170	Happiness: 50
+Height: 14	Weight: 2000
+
+Genus: Stone Home Pokémon
+Location Areas:
+unova-route-18-area

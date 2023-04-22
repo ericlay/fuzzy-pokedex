@@ -1,15 +1,30 @@
+kricketot	A bug type Pokémon
 
-Name:  Kricketot
-Pokedex Number:  401
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shed Skin - Run Away (Hidden Ability)
+Quand il tombe du haut de ses
+petites pattes, ses antennes
+font un bruit de xylophone.
 
-Base Stats
-----------------------
-Total: 194
-Hp:  37
-Attack:  25
-Defence:  41
-Special Attack:  25
-Special Defence:  41
-Speed:  25
+   ↞--------| STATS |--------↠ 
+             hp:         37
+         attack:         25
+        defense:         41
+ special-attack:         25
+special-defense:         41
+          speed:         25
+
+Pokedex ID: 401	Capture Rate: 255
+Base Exp: 39	Happiness: 70
+Height: 3	Weight: 22
+
+Genus: Cricket Pokémon
+Location Areas:
+eterna-forest-area
+sinnoh-route-201-area
+sinnoh-route-202-area
+sinnoh-route-203-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+sinnoh-route-205-east-towards-eterna-city
+sinnoh-route-206-area
+sinnoh-route-207-area
+viridian-forest-area
