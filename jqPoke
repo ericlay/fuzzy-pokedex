@@ -1,0 +1,55 @@
+#!/bin/bash
+
+### Assign first arg as pokemon
+POKEMON="$1"
+
+### Set temp files to hold raw data
+e_P="/tmp/poke.e_P"
+e_E="/tmp/poke.e_E"
+e_S="/tmp/poke.e_S"
+#e_C="/tmp/poke.e_C"
+
+### Set various pokeAPI endpoint URLs
+endpoint_POKEMON="https://pokeapi.co/api/v2/pokemon"
+endpoint_SPECIES="https://pokeapi.co/api/v2/pokemon-species"
+endpoint_ENCOUNTER="https://pokeapi.co/api/v2/pokemon/$POKEMON/encounters"
+#endpoint_CHAIN="https://pokeapi.co/api/v2/evolution-chain"
+
+### GET from pokeAPI endpoints
+curl -s "$endpoint_POKEMON/$POKEMON" -o "$e_P"
+curl -s "$endpoint_ENCOUNTER" -o "$e_E"
+curl -s "$endpoint_SPECIES/$POKEMON" -o "$e_S"
+#curl -s "$endpoint_CHAIN/$ID" -o "$e_C"
+
+### Parse JSON for attributes
+NAME=$(jq -r '. | .name' < "$e_P")
+HEIGHT=$(jq -r '.height' < "$e_P")
+WEIGHT=$(jq -r '.weight' < "$e_P")
+ID=$(jq -r '.id' < "$e_P")
+BASEX=$(jq -r '.base_experience' < "$e_P")
+BASEHAPPY=$(jq -r '.base_happiness' < "$e_S")
+CAPTURE=$(jq -r '.capture_rate' < "$e_S")
+LOCATE=$(jq -r '.[].location_area["name"]' < "$e_E")
+FLAVOR=$(tr -d '\f' < <(jq -r '.flavor_text_entries[7].flavor_text' < "$e_S"))
+GENUS=$(jq -r '.genera[7].genus' < "$e_S")
+#mapfile -t CHAIN < <(jq -r '. | .["chain"].evolves_to[].species["name"]' < "$e_C")
+mapfile -t TYPE < <(jq -r '. | .types[].type["name"]' < "$e_P")
+mapfile -t STAT < <(jq -r '. | .stats[].stat["name"]' < "$e_P")
+mapfile -t VAL < <(jq -r '. | .stats[].base_stat' < "$e_P")
+
+### Print formatted data
+printf "%s\tA %s type Pokémon\n" \
+	"$NAME" "${TYPE[0]}"
+printf "\n%20s\n\n" "$FLAVOR"
+#for ((i=0; i<${#CHAIN[@]}; i++)); do
+#	printf "%s\t" "${CHAIN[@]}"
+#done
+printf "   ↞--------| STATS |--------↠ \n"
+for ((i=0; i<${#STAT[@]}; i++)); do
+	printf "%15s: %10s\n" "${STAT[i]}" "${VAL[i]}" 
+done
+printf "\nPokedex ID: %s\tCapture Rate: %s\nBase Exp: %s\tHappiness: %s\nHeight: %s\tWeight: %s\n" \
+	"$ID" "$CAPTURE" "$BASEX" "$BASEHAPPY" "$HEIGHT" "$WEIGHT"
+printf "\nGenus: %s" "$GENUS"
+printf "\nLocation Areas:\n%s\n" "$LOCATE"
+

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+declare -i WC
+WC=$(pokemon-colorscripts -l | wc | awk '{print $1}' )
+
+declare -i COUNT
+COUNT="$WC"
+
+for POKEMON in $(pokemon-colorscripts -l); do
+	./jqPoke "$POKEMON" > "./pokeData/$POKEMON"
+	((COUNT++))
+	PCT="$((WC*100/COUNT))"
+	printf "%s \t%s%%\n" "$POKEMON" "$PCT"
+done
+
