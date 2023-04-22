@@ -34,7 +34,7 @@ pokedex() {
 	--border-label="╢ Fuzzy-Pokedex ╟" \
 	--margin=4% \
 	--padding=4% \
-	--header="$(echo -e 'Choose a Pokemon to view info \n  ctrl+h to for help')" \
+	--header="$(echo -e '  Choose a Pokemon to view info\n\t     ctrl+h to for help')" \
 	--info=inline:'  󰨉 ' \
   	--color='fg+:15,fg:42,preview-fg:15,label:9,preview-label:15,hl+:134,hl:123,query:134,gutter:0,border:9,prompt:15,pointer:15,marker:15' \
 	--tiebreak=begin,chunk,length \
