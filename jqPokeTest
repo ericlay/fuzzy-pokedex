@@ -8,8 +8,9 @@ COUNT="$WC"
 
 for POKEMON in $(pokemon-colorscripts -l); do
 	./jqPoke "$POKEMON" > "./pokeData/$POKEMON"
-	((COUNT++))
-	PCT="$((WC*100/COUNT))"
-	printf "%s \t%s%%\n" "$POKEMON" "$PCT"
+	((COUNT--))
+	PCTLEFT="$((COUNT*100/WC))"
+	PCTDONE="$((100-PCTLEFT))"
+	printf "\t%s - %s \t%s%%\n" "$COUNT" "$POKEMON" "$PCTDONE"
 done
 
