@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATADIR="/usr/share/fuzzy-pokedex-dev"
+DATADIR="/usr/share/fuzzy-pokedex-dev/pokeData"
 
 declare -i WC
 WC=$(pokemon-colorscripts -l | wc | awk '{print $1}' )
