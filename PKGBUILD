@@ -1,6 +1,6 @@
 # Maintainer: Eric Lay <ericlaytm@gmail.com>
 pkgname=fuzzy-pokedex-dev
-pkgver=r38.ba9e1a3
+pkgver=r48.8bc82b5
 pkgrel=1
 pkgdesc="A Pokedex for your terminal -DEV VERSION"
 arch=('any')
@@ -17,13 +17,13 @@ source=("git+https://github.com/ericlay/fuzzy-pokedex.git#branch=dev")
 md5sums=('SKIP')
 
 pkgver(){
-    cd "$pkgname"
+    cd "${pkgname:0:-4}"
     printf "r%s.%s" "$(git rev-list --count HEAD)" "$(git rev-parse --short HEAD)"
 }
 
 package() {
-	cd "$srcdir/$pkgname"
+	cd "$srcdir/${pkgname:0:-4}"
     install -Dm666 pokeData/* -t "$pkgdir/usr/share/$pkgname/pokeData"
     install -Dm666 keybindings-preview -t "$pkgdir/usr/share/$pkgname/"
-	install -Dm755 pokedex -t "$pkgdir/usr/bin/pokedex-dev"
+	install -Dm755 pokedex-dev -t "$pkgdir/usr/bin/$pkgname"
 }
