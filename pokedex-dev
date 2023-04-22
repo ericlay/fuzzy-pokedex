@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ### Overhad preparation
+shopt -s extglob
 KBINDS="/usr/share/fuzzy-pokedex-dev/keybindings-preview"
 POKEDATA="/usr/share/fuzzy-pokedex-dev/pokeData"
 
@@ -61,27 +62,33 @@ update_pokeData() {
 	pokemon-colorscripts -l | sort | parallel --progress --bar --color --retry-failed -j "${1:-200%}" pokeInfo {} ">" "$POKEDATA/{}" 2>&1
 }
 
-### Arg parsing loop
-if [[ ! "$1" =~ ^- ]]; then
-	pokedex "$1"
-else
-	while (( $# )); do
-    	arg=$1
-		shift
-    	case "$arg" in
-			-q|--quick)
-				quick_view "$1"
-				;;
-    		-u|--update)
-				update_pokeData "$1"
-				;;
-    		-h|--help)
-    			help
-   				;;       			
-    		-*) 
-    			echo "Invalid Usage"
-   				help
-   				;;
-    	esac
-	done
+if ! (( $# )); then
+	pokedex
 fi
+
+while (( $# )); do
+    arg=$1
+	shift
+    case "$arg" in
+		-q|--quick)
+			quick_view "$1"
+			shift
+			;;
+    	-u|--update)
+			update_pokeData "$1"
+			shift
+			;;
+    	-h|--help)
+    		help
+    		shift
+   			;;
+    	!(^-) )
+    		pokedex "$arg"
+    		shift
+    		;;			
+    	-* )
+    		echo "Invalid Usage"
+   			help
+   			;;
+    esac
+done
