@@ -22,7 +22,7 @@ mapfile -t STAT < <(jq -r '.stats[].stat["name"]' <<< "$endpoint_POKEMON")
 mapfile -t VAL < <(jq -r '.stats[].base_stat' <<< "$endpoint_POKEMON")
 mapfile -t FLAVOR_ARRAY < <( jq '.flavor_text_entries[] | select(.language["name"] == "en") | .flavor_text'  <<< "$endpoint_SPECIES")
 FLAVOR="$(tr -d '\"' < <(sed -e 's/\\./ /g' <<< ${FLAVOR_ARRAY[0]} | 
-	sed 's/\./& /g' | sed 's/.\{36\}\s/&\n/g' | sed "s/this POKéMON/${NAME^}/g"))"
+	sed 's/\./& /g' | sed 's/.\{36\}\s/&\n/g' | sed "s/this POKéMON/${NAME^}/g"| sed "s/This POKéMON/${NAME^}/g"| sed 's/POKéMON/Pokémon/g'))"
 CHAIN1=$(jq -r '.chain.species["name"]' <<< "$endpoint_CHAIN")
 CHAIN2=$(jq -r '.chain.evolves_to[].species["name"]' <<< "$endpoint_CHAIN")
 CHAIN3=$(jq -r '.chain.evolves_to[].evolves_to[].species["name"]' <<< "$endpoint_CHAIN")
