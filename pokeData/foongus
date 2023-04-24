@@ -1,10 +1,14 @@
-foongus	A grass type Pokémon
 
-몬스터볼을 닮은 무늬로
-유인한 후 독 포자를 뿌려댄다.
-왜 닮았는지는 불가사의다.
+Foongus	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It lures people in with its Poké Ball 
+pattern, then releases poison spores. 
+ Why it resembles a Poké Ball is unknown. 
+
+	Evolution Chain
+      Foongus ► Amoonguss
+
+  ↞--------| STATS |--------↠ 
              hp:         69
          attack:         55
         defense:         45

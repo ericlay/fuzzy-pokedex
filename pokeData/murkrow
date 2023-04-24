@@ -1,10 +1,14 @@
-murkrow	A dark type Pokémon
 
-Feared and loathed by many, it is
-believed to bring misfortune to all those
-who see it at night.
+Murkrow	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Feared and loathed by many, it is believed 
+to bring misfortune to all those who 
+see it at night. 
+
+	Evolution Chain
+      Murkrow ► Honchkrow
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         85
         defense:         42

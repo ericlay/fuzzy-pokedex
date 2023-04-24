@@ -1,10 +1,14 @@
-leavanny	A bug type Pokémon
 
-어린 포켓몬을 보면
-입에서 내뿜는 점착실로
-잎사귀의 옷을 지어 준다.
+Leavanny	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Upon finding a small Pokémon, it weaves 
+clothing for it from leaves, using the 
+cutters on its arms and sticky silk. 
+
+	Evolution Chain
+Sewaddle ► Swadloon ► Leavanny
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:        103
         defense:         80

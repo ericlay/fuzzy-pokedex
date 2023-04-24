@@ -1,10 +1,14 @@
-sentret	A normal type Pokémon
 
-A very cautious POKéMON, it raises itself
-up using its tail to get a better view of
-its surroundings.
+Sentret	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+A very cautious POKéMON, it raises itself 
+up using its tail to get a better view 
+of its surroundings. 
+
+	Evolution Chain
+      Sentret ► Furret
+
+  ↞--------| STATS |--------↠ 
              hp:         35
          attack:         46
         defense:         34

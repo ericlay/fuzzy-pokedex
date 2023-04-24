@@ -1,10 +1,11 @@
-ledyba	A bug type Pokémon
 
-It is very timid. It will be afraid to
-move if it is alone. But it will be active
-if it is in a group.
+Ledyba	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+                    
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         20
         defense:         30
@@ -12,11 +13,11 @@ if it is in a group.
 special-defense:         80
           speed:         55
 
-Pokedex ID: 165	Capture Rate: 255
-Base Exp: 53	Happiness: 70
+Pokedex ID: 165	Capture Rate: 
+Base Exp: 53	Happiness: 
 Height: 10	Weight: 108
 
-Genus: Five Star Pokémon
+Genus: 
 Location Areas:
 johto-route-29-area
 johto-route-30-area

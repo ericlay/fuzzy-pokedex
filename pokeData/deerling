@@ -1,10 +1,14 @@
-deerling	A normal type Pokémon
 
-계절이 바뀌었을 때뿐 아니라
-기온이나 습도에 따라서도
-몸의 색깔은 조금 변한다.
+Deerling	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The color and scent of their fur changes 
+to match the mountain grass.  When they 
+sense hostility, they hide in the grass. 
+
+	Evolution Chain
+      Deerling ► Sawsbuck
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         60
         defense:         50

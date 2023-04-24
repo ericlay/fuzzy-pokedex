@@ -1,10 +1,15 @@
-snom	A ice type Pokémon
 
-It spits out thread imbued with a frigid sort of
-energy and uses it to tie its body to branches,
-disguising itself as an icicle while it sleeps.
+Snom	 A ice type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It spits out thread imbued with a frigid 
+sort of energy and uses it to tie its 
+body to branches, disguising itself as 
+an icicle while it sleeps. 
+
+	Evolution Chain
+      Snom ► Frosmoth
+
+  ↞--------| STATS |--------↠ 
              hp:         30
          attack:         25
         defense:         35

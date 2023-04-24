@@ -1,10 +1,14 @@
-stoutland	A normal type Pokémon
 
-눈보라로 길이 막힌 산에 들어가
-조난된 사람을 구해준다.
-긴 털이 추위를 막는다.
+Stoutland	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It rescues people stranded by blizzards 
+in the mountains.  Its shaggy fur shields 
+it from the cold. 
+
+	Evolution Chain
+Lillipup ► Herdier ► Stoutland
+
+  ↞--------| STATS |--------↠ 
              hp:         85
          attack:        110
         defense:         90

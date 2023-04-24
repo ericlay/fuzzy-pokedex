@@ -1,10 +1,16 @@
-numel	A fire type Pokémon
 
-Its humped back stores intensely
-hot magma. In rain, the magma
-cools, slowing its movement.
+Numel	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+NUMEL is extremely dull witted - it 
+doesn’t notice being hit.  However, it 
+can’t stand hunger for even a second. 
+ This POKéMON’s body is a seething cauldron 
+of boiling magma. 
+
+	Evolution Chain
+      Numel ► Camerupt
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         60
         defense:         40

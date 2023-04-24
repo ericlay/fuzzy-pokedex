@@ -1,10 +1,15 @@
-dartrix	A grass type Pokémon
 
-A bit of a dandy, it spends its free time
-preening its wings. Its preoccupation with any
-dirt on its plumage can leave it unable to battle.
+Dartrix	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+A bit of a dandy, it spends its free 
+time preening its wings.  Its preoccupation 
+with any dirt on its plumage can leave 
+it unable to battle. 
+
+	Evolution Chain
+Rowlet ► Dartrix ► Decidueye
+
+  ↞--------| STATS |--------↠ 
              hp:         78
          attack:         75
         defense:         75

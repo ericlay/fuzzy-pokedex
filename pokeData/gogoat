@@ -1,10 +1,15 @@
-gogoat	A grass type Pokémon
 
-ツノを　握る　わずかな　違いから
-トレーナーの　気持ちを　読み取るので
-一体となって　走れるのだ。
+Gogoat	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It can tell how its Trainer is feeling 
+by subtle shifts in the grip on its horns. 
+ This empathic sense lets them run as 
+if one being. 
+
+	Evolution Chain
+      Skiddo ► Gogoat
+
+  ↞--------| STATS |--------↠ 
              hp:        123
          attack:        100
         defense:         62

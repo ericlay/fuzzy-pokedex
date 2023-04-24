@@ -1,10 +1,14 @@
-chingling	A psychic type Pokémon
 
-Quand il sautille, l’orbe qu’il a
-dans la bouche s’agite et tinte
-comme une cloche.
+Chingling	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It emits cries by agitating an orb at 
+the back of its throat.  It moves with 
+flouncing hops. 
+
+	Evolution Chain
+      Chingling ► Chimecho
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         30
         defense:         50

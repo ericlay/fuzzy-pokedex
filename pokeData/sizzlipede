@@ -1,10 +1,15 @@
-sizzlipede	A fire type Pokémon
 
-It stores flammable gas in its body and uses it to
-generate heat. The yellow sections on its belly
-get particularly hot.
+Sizzlipede	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It stores flammable gas in its body 
+and uses it to generate heat.  The yellow 
+sections on its belly get particularly 
+hot. 
+
+	Evolution Chain
+      Sizzlipede ► Centiskorch
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         65
         defense:         45

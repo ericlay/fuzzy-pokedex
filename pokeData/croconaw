@@ -1,10 +1,14 @@
-croconaw	A water type Pokémon
 
-If it loses a fang, a new one grows back
-in its place. There are always 48 fangs
-lining its mouth.
+Croconaw	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+If it loses a fang, a new one grows 
+back in its place.  There are always 
+48 fangs lining its mouth. 
+
+	Evolution Chain
+Totodile ► Croconaw ► Feraligatr
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         80
         defense:         80

@@ -1,10 +1,14 @@
-pansear	A fire type Pokémon
 
-지능이 높고 나무열매는
-구운 뒤 먹는 습성이 있다.
-사람 도와주기를 좋아한다.
+Pansear	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When it is angered, the temperature 
+of its head tuft reaches 600° F.  It 
+uses its tuft to roast berries. 
+
+	Evolution Chain
+      Pansear ► Simisear
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         53
         defense:         48

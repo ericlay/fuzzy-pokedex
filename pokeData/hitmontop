@@ -1,10 +1,16 @@
-hitmontop	A fighting type Pokémon
 
-If you become enchanted by its smooth,
-elegant, dance-like kicks, you may get
-drilled hard.
+Hitmontop	 A fighting type Pokémon
 
-   ↞--------| STATS |--------↠ 
+If you become enchanted by its smooth, 
+elegant, dance-like kicks, you may get 
+drilled hard. 
+
+	Evolution Chain
+      Tyrogue ► Hitmonlee
+hitmonchan
+hitmontop
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         95
         defense:         95

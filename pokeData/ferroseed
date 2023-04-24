@@ -1,10 +1,14 @@
-ferroseed	A grass type Pokémon
 
-위험을 감지하면 가시를
-일제히 발사하여 반격한다.
-그 틈에 몸을 굴려 도망간다.
+Ferroseed	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When threatened, it attacks by shooting 
+a barrage of spikes, which gives it a 
+chance to escape by rolling away. 
+
+	Evolution Chain
+      Ferroseed ► Ferrothorn
+
+  ↞--------| STATS |--------↠ 
              hp:         44
          attack:         50
         defense:         91

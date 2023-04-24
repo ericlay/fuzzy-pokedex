@@ -1,10 +1,14 @@
-gible	A dragon type Pokémon
 
-Malgré sa maladresse, son énorme
-gueule lui permet de lancer des
-attaques puissantes.
+Gible	 A dragon type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It nests in small, horizontal holes 
+in cave walls.  It pounces to catch prey 
+that stray too close. 
+
+	Evolution Chain
+Gible ► Gabite ► Garchomp
+
+  ↞--------| STATS |--------↠ 
              hp:         58
          attack:         70
         defense:         45

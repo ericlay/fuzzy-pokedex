@@ -1,10 +1,14 @@
-bastiodon	A rock type Pokémon
 
-En groupe, ils protègent leurs
-petits en formant autour d’eux
-une impénétrable muraille.
+Bastiodon	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Any frontal attack is repulsed.  It 
+is a docile Pokémon that feeds on grass 
+and berries. 
+
+	Evolution Chain
+      Shieldon ► Bastiodon
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         52
         defense:        168

@@ -1,9 +1,14 @@
-grubbin	A bug type Pokémon
 
-Its strong jaw enables it to scrape trees and
-slurp out the sap. It normally lives underground.
+Grubbin	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its strong jaw enables it to scrape 
+trees and slurp out the sap.  It normally 
+lives underground. 
+
+	Evolution Chain
+Grubbin ► Charjabug ► Vikavolt
+
+  ↞--------| STATS |--------↠ 
              hp:         47
          attack:         62
         defense:         45

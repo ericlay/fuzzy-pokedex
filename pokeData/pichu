@@ -1,10 +1,14 @@
-pichu	A electric type Pokémon
 
-It is not yet skilled at storing
-electricity. It may send out a jolt if
-amused or startled.
+Pichu	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It is not yet skilled at storing electricity. 
+ It may send out a jolt if amused or 
+startled. 
+
+	Evolution Chain
+Pichu ► Pikachu ► Raichu
+
+  ↞--------| STATS |--------↠ 
              hp:         20
          attack:         40
         defense:         15

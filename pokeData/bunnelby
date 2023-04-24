@@ -1,10 +1,13 @@
-bunnelby	A normal type Pokémon
 
-大きな　耳で　地面を　掘って
-巣穴を　作る。
-一晩中　休まずに　掘り続けられる。
+Bunnelby	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They use their large ears to dig burrows. 
+ They will dig the whole night through. 
+
+	Evolution Chain
+      Bunnelby ► Diggersby
+
+  ↞--------| STATS |--------↠ 
              hp:         38
          attack:         36
         defense:         38

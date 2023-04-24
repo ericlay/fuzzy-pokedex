@@ -1,10 +1,16 @@
-aron	A steel type Pokémon
 
-It usually lives deep in mountains.
-However, hunger may drive it to
-eat railroad tracks and cars.
+Aron	 A steel type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This POKéMON has a body of steel.  To 
+make its body, ARON feeds on iron ore 
+that it digs from mountains.  Occasionally, 
+it causes major trouble by eating bridges 
+and rails. 
+
+	Evolution Chain
+Aron ► Lairon ► Aggron
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         70
         defense:        100

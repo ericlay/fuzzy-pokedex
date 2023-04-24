@@ -1,10 +1,14 @@
-totodile	A water type Pokémon
 
-Its well-developed jaws are powerful and
-capable of crushing anything. Even its
-TRAINER must be careful.
+Totodile	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its well-developed jaws are powerful 
+and capable of crushing anything.  Even 
+its trainer must be careful. 
+
+	Evolution Chain
+Totodile ► Croconaw ► Feraligatr
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         65
         defense:         64

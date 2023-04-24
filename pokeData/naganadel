@@ -1,10 +1,14 @@
-naganadel	A poison type Pokémon
 
-It stores hundreds of liters of poisonous liquid
-inside its body. It is one of the organisms known
-as UBs.
+Naganadel	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It stores hundreds of liters of poisonous 
+liquid inside its body.  It is one of 
+the organisms known as UBs. 
+
+	Evolution Chain
+      Poipole ► Naganadel
+
+  ↞--------| STATS |--------↠ 
              hp:         73
          attack:         73
         defense:         73

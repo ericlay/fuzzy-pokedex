@@ -1,12 +1,14 @@
-kabuto	A rock type Pokémon
 
-KABUTO is a POKéMON that has been
-regenerated from a fossil. However, in
-extremely rare cases, living exampleshave been discovered.
-The POKéMON has not changed at all for
-300 million years.
+Kabuto	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+A POKéMON that was resurrected from 
+a fossil found in what was once the ocean 
+floor eons ago. 
+
+	Evolution Chain
+      Kabuto ► Kabutops
+
+  ↞--------| STATS |--------↠ 
              hp:         30
          attack:         80
         defense:         90
@@ -20,4 +22,4 @@ Height: 5	Weight: 115
 
 Genus: Shellfish Pokémon
 Location Areas:
-cinnabar-island-cinnabar-lab
+

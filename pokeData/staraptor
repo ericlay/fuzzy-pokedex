@@ -1,10 +1,13 @@
-staraptor	A normal type Pokémon
 
-Il combattra sans relâche, même
-blessé. Il prend grand soin de sa
-mèche.
+Staraptor	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It has a savage nature.  It will courageously 
+challenge foes that are much larger. 
+
+	Evolution Chain
+Starly ► Staravia ► Staraptor
+
+  ↞--------| STATS |--------↠ 
              hp:         85
          attack:        120
         defense:         70

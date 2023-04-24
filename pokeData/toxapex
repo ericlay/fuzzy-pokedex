@@ -1,10 +1,14 @@
-toxapex	A poison type Pokémon
 
-Toxapex crawls along the ocean floor on its
-12 legs. It leaves a trail of Corsola bits
-scattered in its wake.
+Toxapex	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Toxapex crawls along the ocean floor 
+on its 12 legs.  It leaves a trail of 
+Corsola bits scattered in its wake. 
+
+	Evolution Chain
+      Mareanie ► Toxapex
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         63
         defense:        152

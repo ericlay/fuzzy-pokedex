@@ -1,10 +1,14 @@
-frogadier	A water type Pokémon
 
-泡で　包んだ　小石を　投げる
-技を　使う。３０メートル　先の
-空き缶に　当てる　コントロール。
+Frogadier	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It can throw bubble-covered pebbles 
+with precise control, hitting empty cans 
+up to a hundred feet away. 
+
+	Evolution Chain
+Froakie ► Frogadier ► Greninja
+
+  ↞--------| STATS |--------↠ 
              hp:         54
          attack:         63
         defense:         52

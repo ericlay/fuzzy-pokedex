@@ -1,10 +1,14 @@
-magcargo	A fire type Pokémon
 
-The shell on its back is just skin that
-has cooled and hardened. It breaks easily
-with a slight touch.
+Magcargo	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The shell on its back is just skin that 
+has cooled and hardened.  It breaks easily 
+with a slight touch. 
+
+	Evolution Chain
+      Slugma ► Magcargo
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         50
         defense:        120

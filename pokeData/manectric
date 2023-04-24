@@ -1,10 +1,16 @@
-manectric	A electric type Pokémon
 
-It discharges electricity from its
-mane. It creates a thundercloud
-overhead to drop lightning bolts.
+Manectric	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+MANECTRIC is constantly discharging 
+electricity from its mane.  The sparks 
+sometimes ignite forest fires.  When 
+it enters a battle, this POKéMON creates 
+thunderclouds. 
+
+	Evolution Chain
+      Electrike ► Manectric
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:         75
         defense:         60

@@ -1,10 +1,15 @@
-hydreigon	A dark type Pokémon
 
-양팔에 있는 머리에는 뇌가
-없다. 3개의 머리로 모든 것을
-먹어치워 파괴해 버린다.
+Hydreigon	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This brutal Pokémon travels the skies 
+on its six wings.  Anything that moves 
+seems like a foe to it, triggering its 
+attack. 
+
+	Evolution Chain
+Deino ► Zweilous ► Hydreigon
+
+  ↞--------| STATS |--------↠ 
              hp:         92
          attack:        105
         defense:         90

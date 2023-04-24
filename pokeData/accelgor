@@ -1,10 +1,14 @@
-accelgor	A bug type Pokémon
 
-무거운 껍데기를 벗었기 때문에
-몸이 가벼워졌다. 마치 닌자 같은
-몸놀림으로 싸운다.
+Accelgor	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When its body dries out, it weakens. 
+ So, to prevent dehydration, it wraps 
+itself in many layers of thin membrane. 
+
+	Evolution Chain
+      Shelmet ► Accelgor
+
+  ↞--------| STATS |--------↠ 
              hp:         80
          attack:         70
         defense:         40

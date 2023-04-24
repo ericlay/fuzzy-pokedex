@@ -1,10 +1,14 @@
-helioptile	A electric type Pokémon
 
-砂漠で　生活する。
-太陽の　光を　浴びて　発電すれば
-エサを　食べなくても　平気なのだ。
+Helioptile	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They make their home in deserts.  They 
+can generate their energy from basking 
+in the sun, so eating food is not a requirement. 
+
+	Evolution Chain
+      Helioptile ► Heliolisk
+
+  ↞--------| STATS |--------↠ 
              hp:         44
          attack:         38
         defense:         33

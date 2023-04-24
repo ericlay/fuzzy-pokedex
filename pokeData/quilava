@@ -1,10 +1,14 @@
-quilava	A fire type Pokémon
 
-Be careful if it turns its back during
-battle. It means that it will attack with
-the fire on its back.
+Quilava	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Be careful if it turns its back during 
+battle.  It means that it will attack 
+with the fire on its back. 
+
+	Evolution Chain
+Cyndaquil ► Quilava ► Typhlosion
+
+  ↞--------| STATS |--------↠ 
              hp:         58
          attack:         64
         defense:         58

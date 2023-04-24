@@ -1,10 +1,14 @@
-deino	A dark type Pokémon
 
-눈이 보이지 않아서 몸통박치기나
-물기로 주변을 살핀다.
-몸에 상처가 끊이지 않는다.
+Deino	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It tends to bite everything, and it 
+is not a picky eater.  Approaching it 
+carelessly is dangerous. 
+
+	Evolution Chain
+Deino ► Zweilous ► Hydreigon
+
+  ↞--------| STATS |--------↠ 
              hp:         52
          attack:         65
         defense:         50
@@ -18,5 +22,4 @@ Height: 8	Weight: 173
 
 Genus: Irate Pokémon
 Location Areas:
-unova-victory-road-unknown-area-53
-unova-victory-road-unknown-area-58
+

@@ -1,10 +1,14 @@
-pignite	A fire type Pokémon
 
-먹을수록 태울 것이 많아져
-위 속의 불꽃이 강해지고
-파워도 점점 넘치게 된다.
+Pignite	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When its internal fire flares up, its 
+movements grow sharper and faster.  When 
+in trouble, it emits smoke. 
+
+	Evolution Chain
+Tepig ► Pignite ► Emboar
+
+  ↞--------| STATS |--------↠ 
              hp:         90
          attack:         93
         defense:         55

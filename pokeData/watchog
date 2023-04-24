@@ -1,10 +1,14 @@
-watchog	A normal type Pokémon
 
-체내의 발광물질로
-눈이나 몸을 빛나게 하여
-습격해 온 상대를 풀이 죽게 만든다.
+Watchog	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When they see an enemy, their tails 
+stand high, and they spit the seeds of 
+berries stored in their cheek pouches. 
+
+	Evolution Chain
+      Patrat ► Watchog
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         85
         defense:         69

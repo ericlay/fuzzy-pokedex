@@ -1,10 +1,15 @@
-greninja	A water type Pokémon
 
-水を　圧縮して　手裏剣を　作り出す。
-高速回転させて　飛ばすと
-金属も　真っ二つ。
+Greninja	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It creates throwing stars out of compressed 
+water.  When it spins them and throws 
+them at high speed, these stars can split 
+metal in two. 
+
+	Evolution Chain
+Froakie ► Frogadier ► Greninja
+
+  ↞--------| STATS |--------↠ 
              hp:         72
          attack:         95
         defense:         67

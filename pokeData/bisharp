@@ -1,10 +1,14 @@
-bisharp	A dark type Pokémon
 
-몇 마리의 자망칼과 싸우게 해서
-상처 입고 움직일 수 없게 된 먹이를
-두 동강 내버리는 무서운 포켓몬.
+Bisharp	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It leads a group of Pawniard.  It battles 
+to become the boss, but will be driven 
+from the group if it loses. 
+
+	Evolution Chain
+Pawniard ► Bisharp ► Kingambit
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:        125
         defense:        100

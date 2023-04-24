@@ -1,10 +1,14 @@
-scraggy	A dark type Pokémon
 
-가죽을 목까지 늘려서
-방어 자세를 취한다. 고무 같은
-탄력을 이용해 데미지를 줄인다.
+Scraggy	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its skin has a rubbery elasticity, so 
+it can reduce damage by defensively pulling 
+its skin up to its neck. 
+
+	Evolution Chain
+      Scraggy ► Scrafty
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         75
         defense:         70

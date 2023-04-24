@@ -1,12 +1,14 @@
-fearow	A normal type Pokémon
 
-FEAROW is recognized by its long neck
-and elongated beak.
-They are conveniently shaped forcatching prey in soil or water.
-It deftly moves its long and skinny
-beak to pluck prey.
+Fearow	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+With its huge and magnificent wings, 
+it can keep aloft without ever having 
+to land for rest. 
+
+	Evolution Chain
+      Spearow ► Fearow
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         90
         defense:         65

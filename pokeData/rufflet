@@ -1,10 +1,14 @@
-rufflet	A normal type Pokémon
 
-きゃくりょくで　きのみを　くだく。
-どんなに　つよい　あいてでも
-ゆうかんに　たちむかう　しゅうせい。
+Rufflet	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They crush berries with their talons. 
+ They bravely stand up to any opponent, 
+no matter how strong it is. 
+
+	Evolution Chain
+      Rufflet ► Braviary
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:         83
         defense:         50

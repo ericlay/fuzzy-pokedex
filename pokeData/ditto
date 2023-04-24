@@ -1,12 +1,13 @@
-ditto	A normal type Pokémon
 
-DITTO rearranges its cell structure to
-transform itself into other shapes.
-However, if it tries to transform itselfinto something by relying on its memory,
-this POKéMON manages to get details
-wrong.
+Ditto	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Capable of copying an enemy's genetic 
+code to instantly transform itself into 
+a duplicate of the enemy. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
              hp:         48
          attack:         48
         defense:         48

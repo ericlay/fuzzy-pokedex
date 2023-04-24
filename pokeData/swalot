@@ -1,10 +1,16 @@
-swalot	A poison type Pokémon
 
-It swallows anything whole.
-It sweats toxic fluids from its
-follicles to douse foes.
+Swalot	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When SWALOT spots prey, it spurts out 
+a hideously toxic fluid from its pores 
+and sprays the target.  Once the prey 
+has weakened, this POKéMON gulps it down 
+whole with its cavernous mouth. 
+
+	Evolution Chain
+      Gulpin ► Swalot
+
+  ↞--------| STATS |--------↠ 
              hp:        100
          attack:         73
         defense:         83

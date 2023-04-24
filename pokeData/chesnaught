@@ -1,10 +1,14 @@
-chesnaught	A grass type Pokémon
 
-体当たりで　５０トンの　戦車を
-ひっくり返す　パワー。
-自分が　盾となって　仲間を　守る。
+Chesnaught	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its Tackle is forceful enough to flip 
+a 50-ton tank.  It shields its allies 
+from danger with its own body. 
+
+	Evolution Chain
+Chespin ► Quilladin ► Chesnaught
+
+  ↞--------| STATS |--------↠ 
              hp:         88
          attack:        107
         defense:        122

@@ -1,10 +1,14 @@
-barbaracle	A rock type Pokémon
 
-進化のとき　２匹の　カメテテが
-７匹に　分裂した　ポケモン。
-７匹分の　パワーで　戦う。
+Barbaracle	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When they evolve, two Binacle multiply 
+into seven.  They fight with the power 
+of seven Binacle. 
+
+	Evolution Chain
+      Binacle ► Barbaracle
+
+  ↞--------| STATS |--------↠ 
              hp:         72
          attack:        105
         defense:        115

@@ -1,10 +1,14 @@
-karrablast	A bug type Pokémon
 
-쪼마리와 함께 있을 때
-전기적인 자극을 받으면
-진화하는 이상한 포켓몬이다.
+Karrablast	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+These mysterious Pokémon evolve when 
+they receive electrical stimulation while 
+they are in the same place as Shelmet. 
+
+	Evolution Chain
+      Karrablast ► Escavalier
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         75
         defense:         45

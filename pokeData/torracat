@@ -1,9 +1,14 @@
-torracat	A fire type Pokémon
 
-At its throat, it bears a bell of fire. The bell rings
-brightly whenever this Pokémon spits fire.
+Torracat	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+At its throat, it bears a bell of fire. 
+ The bell rings brightly whenever this 
+Pokémon spits fire. 
+
+	Evolution Chain
+Litten ► Torracat ► Incineroar
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         85
         defense:         50

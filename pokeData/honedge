@@ -1,10 +1,15 @@
-honedge	A steel type Pokémon
 
-死者の　魂が　古代の　剣に
-宿って　生まれたらしい。
-人に　とりつき　命を　吸う。
+Honedge	 A steel type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Apparently this Pokémon is born when 
+a departed spirit inhabits a sword.  
+It attaches itself to people and drinks 
+their life force. 
+
+	Evolution Chain
+Honedge ► Doublade ► Aegislash
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         80
         defense:        100

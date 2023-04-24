@@ -1,10 +1,14 @@
-venipede	A bug type Pokémon
 
-머리와 꼬리의 더듬이로
-주변 상황을 살핀다.
-성격이 매우 난폭하다.
+Venipede	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its bite injects a potent poison, enough 
+to paralyze large bird Pokémon that try 
+to prey on it. 
+
+	Evolution Chain
+Venipede ► Whirlipede ► Scolipede
+
+  ↞--------| STATS |--------↠ 
              hp:         30
          attack:         45
         defense:         59

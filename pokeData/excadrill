@@ -1,10 +1,14 @@
-excadrill	A ground type Pokémon
 
-강철로 진화한 드릴은
-철판을 뚫는 파괴력을 가졌다.
-터널 공사에서 크게 활약한다.
+Excadrill	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It can help in tunnel construction. 
+ Its drill has evolved into steel strong 
+enough to bore through iron plates. 
+
+	Evolution Chain
+      Drilbur ► Excadrill
+
+  ↞--------| STATS |--------↠ 
              hp:        110
          attack:        135
         defense:         60

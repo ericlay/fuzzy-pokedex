@@ -1,10 +1,14 @@
-simisear	A fire type Pokémon
 
-몸속에서 태운 불꽃을
-머리나 꼬리로 흩뿌려서
-상대를 태운다.
+Simisear	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It loves sweets because they become 
+energy for the fire burning inside its 
+body. 
+
+	Evolution Chain
+      Pansear ► Simisear
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         98
         defense:         63

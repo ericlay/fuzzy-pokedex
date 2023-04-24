@@ -1,10 +1,15 @@
-sandaconda	A ground type Pokémon
 
-When it contracts its body, over 220 pounds of
-sand sprays from its nose. If it ever runs out of
-sand, it becomes disheartened.
+Sandaconda	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When it contracts its body, over 220 
+pounds of sand sprays from its nose. 
+ If it ever runs out of sand, it becomes 
+disheartened. 
+
+	Evolution Chain
+      Silicobra ► Sandaconda
+
+  ↞--------| STATS |--------↠ 
              hp:         72
          attack:        107
         defense:        125

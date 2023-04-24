@@ -1,10 +1,15 @@
-chespin	A grass type Pokémon
 
-普段　やわらかい　頭の　トゲは
-力を　こめると　鋭く　とがり
-岩をも　つらぬくほど　硬くなる。
+Chespin	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The quills on its head are usually soft. 
+ When it flexes them, the points become 
+so hard and sharp that they can pierce 
+rock. 
+
+	Evolution Chain
+Chespin ► Quilladin ► Chesnaught
+
+  ↞--------| STATS |--------↠ 
              hp:         56
          attack:         61
         defense:         65

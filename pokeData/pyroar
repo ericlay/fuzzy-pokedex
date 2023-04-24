@@ -1,10 +1,13 @@
-pyroar	A fire type Pokémon
 
-群れの　中で　一番　大きな　炎の
-たてがみを　持つ　オスが
-リーダーとして　仲間を　率いる。
+Pyroar	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The male with the largest mane of fire 
+is the leader of the pride. 
+
+	Evolution Chain
+      Litleo ► Pyroar
+
+  ↞--------| STATS |--------↠ 
              hp:         86
          attack:         68
         defense:         72

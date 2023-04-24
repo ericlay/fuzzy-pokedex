@@ -1,10 +1,14 @@
-inkay	A dark type Pokémon
 
-発光体の　点滅を　見つめた　相手は
-目が　くらみ　戦う　気持ちが
-なくなってしまうのだ。
+Inkay	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Opponents who stare at the flashing 
+of the light-emitting spots on its body 
+become dazed and lose their will to fight. 
+
+	Evolution Chain
+      Inkay ► Malamar
+
+  ↞--------| STATS |--------↠ 
              hp:         53
          attack:         54
         defense:         53
@@ -18,5 +22,4 @@ Height: 4	Weight: 35
 
 Genus: Revolving Pokémon
 Location Areas:
-kalos-route-8-area
-azure-bay-area
+

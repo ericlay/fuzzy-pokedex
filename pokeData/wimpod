@@ -1,10 +1,15 @@
-wimpod	A bug type Pokémon
 
-This Pokémon is a coward. As it desperately
-dashes off, the flailing of its many legs leaves a
-sparkling clean path in its wake.
+Wimpod	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This Pokémon is a coward.  As it desperately 
+dashes off, the flailing of its many 
+legs leaves a sparkling clean path in 
+its wake. 
+
+	Evolution Chain
+      Wimpod ► Golisopod
+
+  ↞--------| STATS |--------↠ 
              hp:         25
          attack:         35
         defense:         40

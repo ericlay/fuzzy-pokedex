@@ -1,12 +1,15 @@
-scyther	A bug type Pokémon
 
-SCYTHER is blindingly fast. Its blazing
-speed enhances the effectiveness of
-the twin scythes on its forearms.This POKéMON’s scythes are so
-effective, they can slice through thick
-logs in one wicked stroke.
+Scyther	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+With ninja-like agility and speed, it 
+can create the illusion that there is 
+more than one. 
+
+	Evolution Chain
+      Scyther ► Scizor
+kleavor
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:        110
         defense:         80

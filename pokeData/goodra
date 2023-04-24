@@ -1,10 +1,14 @@
-goodra	A dragon type Pokémon
 
-人懐っこい　ドラゴンポケモン。
-大好きな　トレーナーに　抱き着いて
-粘液で　ヌルヌルにしてしまう。
+Goodra	 A dragon type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This very friendly Dragon-type Pokémon 
+will hug its beloved Trainer, leaving 
+that Trainer covered in sticky slime. 
+
+	Evolution Chain
+Goomy ► Sliggoo ► Goodra
+
+  ↞--------| STATS |--------↠ 
              hp:         90
          attack:        100
         defense:         70

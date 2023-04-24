@@ -1,10 +1,14 @@
-beartic	A ice type Pokémon
 
-북쪽의 차가운 바다를 좋아한다.
-입에서 내뿜는 숨을 얼려
-바다 위에 길을 만들어 걷는다.
+Beartic	 A ice type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It can make its breath freeze at will. 
+ Very able in the water, it swims around 
+in northern seas and catches prey. 
+
+	Evolution Chain
+      Cubchoo ► Beartic
+
+  ↞--------| STATS |--------↠ 
              hp:         95
          attack:        130
         defense:         80

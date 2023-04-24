@@ -1,10 +1,15 @@
-swadloon	A bug type Pokémon
 
-두르쿤이 사는 숲은 초목이
-잘 자란다. 두르쿤이 낙엽을
-영양분으로 바꾸기 때문이다.
+Swadloon	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Forests where Swadloon live have superb 
+foliage because the nutrients they make 
+from fallen leaves nourish the plant 
+life. 
+
+	Evolution Chain
+Sewaddle ► Swadloon ► Leavanny
+
+  ↞--------| STATS |--------↠ 
              hp:         55
          attack:         63
         defense:         90

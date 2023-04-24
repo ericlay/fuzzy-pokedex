@@ -1,10 +1,15 @@
-toxel	A electric type Pokémon
 
-It stores poison in an internal poison sac and
-secretes that poison through its skin. If you touch
-this Pokémon, a tingling sensation follows.
+Toxel	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It stores poison in an internal poison 
+sac and secretes that poison through 
+its skin.  If you touch this Pokémon, 
+a tingling sensation follows. 
+
+	Evolution Chain
+      Toxel ► Toxtricity
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         38
         defense:         35

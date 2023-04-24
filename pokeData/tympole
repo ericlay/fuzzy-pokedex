@@ -1,10 +1,14 @@
-tympole	A water type Pokémon
 
-볼의 진동막을 떨어
-사람에게는 들리지 않는 음파를 내어
-동료에게 위험을 전달한다.
+Tympole	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They warn others of danger by vibrating 
+their cheeks to create a high-pitched 
+sound. 
+
+	Evolution Chain
+Tympole ► Palpitoad ► Seismitoad
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         50
         defense:         40

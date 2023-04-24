@@ -1,10 +1,14 @@
-hatterene	A psychic type Pokémon
 
-It emits psychic power strong enough to cause
-headaches as a deterrent to the approach
-of others.
+Hatterene	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It emits psychic power strong enough 
+to cause headaches as a deterrent to 
+the approach of others. 
+
+	Evolution Chain
+Hatenna ► Hattrem ► Hatterene
+
+  ↞--------| STATS |--------↠ 
              hp:         57
          attack:         90
         defense:         95

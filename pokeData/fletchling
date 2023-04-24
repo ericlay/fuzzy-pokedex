@@ -1,10 +1,14 @@
-fletchling	A normal type Pokémon
 
-人懐っこい　性格。美しい　さえずりと
-尾羽を　振る　動きで
-仲間に　合図を　送る。
+Fletchling	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+These friendly Pokémon send signals 
+to one another with beautiful chirps 
+and tail-feather movements. 
+
+	Evolution Chain
+Fletchling ► Fletchinder ► Talonflame
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         50
         defense:         43

@@ -1,10 +1,14 @@
-swoobat	A psychic type Pokémon
 
-コンクリートも　こわせるほどの
-つよい　ちょうおんぱを　だすとき
-しっぽが　はげしく　ふるえる。
+Swoobat	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It emits sound waves of various frequencies 
+from its nose, including some powerful 
+enough to destroy rocks. 
+
+	Evolution Chain
+      Woobat ► Swoobat
+
+  ↞--------| STATS |--------↠ 
              hp:         67
          attack:         57
         defense:         55

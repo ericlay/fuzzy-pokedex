@@ -1,11 +1,14 @@
-graveler	A rock type Pokémon
 
-GRAVELER grows by feeding on rocks.
-Apparently, it prefers to eat rocks
-that are covered in moss.This POKéMON eats its way through
-a ton of rocks on a daily basis.
+Graveler	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Rolls down slopes to move.  It rolls 
+over any obstacle without slowing or 
+changing its direction. 
+
+	Evolution Chain
+Geodude ► Graveler ► Golem
+
+  ↞--------| STATS |--------↠ 
              hp:         55
          attack:         95
         defense:        115

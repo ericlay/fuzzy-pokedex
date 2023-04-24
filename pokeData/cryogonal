@@ -1,10 +1,14 @@
-cryogonal	A ice type Pokémon
 
-ゆきぐもの　なかで　うまれた。
-こおりの　けっしょうで　できた
-くさりで　えものを　つかまえる。
+Cryogonal	 A ice type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When its body temperature goes up, it 
+turns into steam and vanishes.  When 
+its temperature lowers, it returns to 
+ice. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
              hp:         80
          attack:         50
         defense:         50

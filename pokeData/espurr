@@ -1,10 +1,14 @@
-espurr	A psychic type Pokémon
 
-強力な　サイコパワーが
-漏れ出さないように　放出する　器官を
-耳で　ふさいでいるのだ。
+Espurr	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The organ that emits its intense psychic 
+power is sheltered by its ears to keep 
+power from leaking out. 
+
+	Evolution Chain
+      Espurr ► Meowstic
+
+  ↞--------| STATS |--------↠ 
              hp:         62
          attack:         48
         defense:         54

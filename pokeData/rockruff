@@ -1,10 +1,15 @@
-rockruff	A rock type Pokémon
 
-It’s considered to be a good Pokémon for
-beginners because of its friendliness, but its
-disposition grows rougher as it grows up.
+Rockruff	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It’s considered to be a good Pokémon 
+for beginners because of its friendliness, 
+but its disposition grows rougher as 
+it grows up. 
+
+	Evolution Chain
+      Rockruff ► Lycanroc
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         65
         defense:         40

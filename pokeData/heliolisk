@@ -1,10 +1,14 @@
-heliolisk	A electric type Pokémon
 
-エリマキを　広げて　発電する。
-エレザード　１匹で　高層ビルで
-必要な　電気を　作れるのだ。
+Heliolisk	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They flare their frills and generate 
+energy.  A single Heliolisk can generate 
+sufficient electricity to power a skyscraper. 
+
+	Evolution Chain
+      Helioptile ► Heliolisk
+
+  ↞--------| STATS |--------↠ 
              hp:         62
          attack:         55
         defense:         52

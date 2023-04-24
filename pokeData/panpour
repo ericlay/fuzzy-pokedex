@@ -1,10 +1,14 @@
-panpour	A water type Pokémon
 
-머리 송아리에 모은 물은
-영양 듬뿍. 꼬리를 사용해서
-그 물을 초목에 뿌린다.
+Panpour	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The water stored inside the tuft on 
+its head is full of nutrients.  Plants 
+that receive its water grow large. 
+
+	Evolution Chain
+      Panpour ► Simipour
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         53
         defense:         48

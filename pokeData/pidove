@@ -1,10 +1,14 @@
-pidove	A normal type Pokémon
 
-매우 건망증이 심한 포켓몬으로
-트레이너에게 명령을 받았어도
-새로운 명령을 기다리고 있다.
+Pidove	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Each follows its Trainer’s orders as 
+best it can, but they sometimes fail 
+to understand complicated commands. 
+
+	Evolution Chain
+Pidove ► Tranquill ► Unfezant
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         55
         defense:         50

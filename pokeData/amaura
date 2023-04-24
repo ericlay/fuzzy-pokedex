@@ -1,10 +1,14 @@
-amaura	A rock type Pokémon
 
-１億年前から　氷漬けに　なっていた
-体の　一部から　復活した
-古代の　ポケモン。
+Amaura	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This ancient Pokémon was restored from 
+part of its body that had been frozen 
+in ice for over 100 million years. 
+
+	Evolution Chain
+      Amaura ► Aurorus
+
+  ↞--------| STATS |--------↠ 
              hp:         77
          attack:         59
         defense:         50

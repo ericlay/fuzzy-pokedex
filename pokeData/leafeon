@@ -1,10 +1,21 @@
-leafeon	A grass type Pokémon
 
-Il utilise la photosynthèse comme
-une plante et a aussi tendance à
-éviter le combat à tout prix.
+Leafeon	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Just like a plant, it uses photosynthesis. 
+ As a result, it is always enveloped 
+in clear air. 
+
+	Evolution Chain
+      Eevee ► Vaporeon
+jolteon
+flareon
+espeon
+umbreon
+leafeon
+glaceon
+sylveon
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:        110
         defense:        130

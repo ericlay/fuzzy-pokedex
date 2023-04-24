@@ -1,10 +1,15 @@
-tyrantrum	A rock type Pokémon
 
-分厚い　鉄板を　紙のように
-かみちぎる　おおあごで　古代の
-世界では　無敵を　誇った。
+Tyrantrum	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Thanks to its gargantuan jaws, which 
+could shred thick metal plates as if 
+they were paper, it was invincible in 
+the ancient world it once inhabited. 
+
+	Evolution Chain
+      Tyrunt ► Tyrantrum
+
+  ↞--------| STATS |--------↠ 
              hp:         82
          attack:        121
         defense:        119

@@ -1,10 +1,14 @@
-klang	A steel type Pokémon
 
-회전 방향을 바꿔서
-동료에게 감정을 전한다.
-화가 나면 회전이 빨라진다.
+Klang	 A steel type Pokémon
 
-   ↞--------| STATS |--------↠ 
+By changing the direction in which it 
+rotates, it communicates its feelings 
+to others.  When angry, it rotates faster. 
+
+	Evolution Chain
+Klink ► Klang ► Klinklang
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         80
         defense:         95

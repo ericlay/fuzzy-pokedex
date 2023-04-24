@@ -1,10 +1,14 @@
-elgyem	A psychic type Pokémon
 
-강력한 사이코 파워를 다룬다.
-사이코 파워로 상대의 뇌를
-조여서 두통을 일으킨다.
+Elgyem	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It uses its strong psychic power to 
+squeeze its opponent’s brain, causing 
+unendurable headaches. 
+
+	Evolution Chain
+      Elgyem ► Beheeyem
+
+  ↞--------| STATS |--------↠ 
              hp:         55
          attack:         55
         defense:         55

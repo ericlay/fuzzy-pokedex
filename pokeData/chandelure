@@ -1,10 +1,14 @@
-chandelure	A ghost type Pokémon
 
-샹델라의 불꽃에 둘러싸이면
-영혼이 빨려가 불타버린다.
-빈 껍데기인 몸만 남는다.
+Chandelure	 A ghost type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It absorbs a spirit, which it then burns. 
+ By waving the flames on its arms, it 
+puts its foes into a hypnotic trance. 
+
+	Evolution Chain
+Litwick ► Lampent ► Chandelure
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         55
         defense:         90

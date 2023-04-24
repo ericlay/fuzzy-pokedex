@@ -1,10 +1,16 @@
-linoone	A normal type Pokémon
 
-It charges prey at speeds over
-60 mph. However, because it can
-only run straight, it often fails.
+Linoone	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+LINOONE always runs full speed and only 
+in straight lines.  If facing an obstacle, 
+it makes a right-angle turn to evade 
+it.  This POKéMON is very challenged 
+by gently curving roads. 
+
+	Evolution Chain
+Zigzagoon ► Linoone ► Obstagoon
+
+  ↞--------| STATS |--------↠ 
              hp:         78
          attack:         70
         defense:         61

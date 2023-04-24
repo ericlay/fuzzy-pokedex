@@ -1,10 +1,13 @@
-scolipede	A bug type Pokémon
 
-먹이를 목의 가시에 끼워 넣어
-움직이지 못하게 한 후
-맹독을 퍼뜨려 마무리한다.
+Scolipede	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+With quick movements, it chases down 
+its foes, attacking relentlessly with 
+its horns until it prevails. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:        100
         defense:         89

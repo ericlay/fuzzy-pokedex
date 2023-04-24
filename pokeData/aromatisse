@@ -1,10 +1,15 @@
-aromatisse	A fairy type Pokémon
 
-さまざまな　においを　作り出す。
-相手の　嫌がる　においを　出して
-戦いを　有利に　進めるのだ。
+Aromatisse	 A fairy type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It devises various scents, pleasant 
+and unpleasant, and emits scents that 
+its enemies dislike in order to gain 
+an edge in battle. 
+
+	Evolution Chain
+      Spritzee ► Aromatisse
+
+  ↞--------| STATS |--------↠ 
              hp:        101
          attack:         72
         defense:         72

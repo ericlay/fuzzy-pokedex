@@ -1,10 +1,14 @@
-ducklett	A water type Pokémon
 
-상대에게 공격당하면 전신의
-깃털에서 물보라를 내뿜는다.
-물안개에 숨어들어 도망친다.
+Ducklett	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+These bird Pokémon are excellent divers. 
+ They swim around in the water eating 
+their favorite food--peat moss. 
+
+	Evolution Chain
+      Ducklett ► Swanna
+
+  ↞--------| STATS |--------↠ 
              hp:         62
          attack:         44
         defense:         50

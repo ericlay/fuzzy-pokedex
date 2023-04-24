@@ -1,10 +1,14 @@
-darumaka	A fire type Pokémon
 
-달막화의 배설물은 뜨거워서
-옛날 사람은 품에 넣고
-몸을 따뜻하게 하는 데 사용했다.
+Darumaka	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When its internal fire is burning, it 
+cannot calm down and it runs around. 
+ When the fire diminishes, it falls asleep. 
+
+	Evolution Chain
+      Darumaka ► Darmanitan
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:         90
         defense:         45

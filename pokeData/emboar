@@ -1,10 +1,14 @@
-emboar	A fire type Pokémon
 
-턱의 화염으로 주먹을 불태워
-불꽃펀치를 날린다.
-동료애가 깊은 포켓몬이다.
+Emboar	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It can throw a fire punch by setting 
+its fists on fire with its fiery chin. 
+ It cares deeply about its friends. 
+
+	Evolution Chain
+Tepig ► Pignite ► Emboar
+
+  ↞--------| STATS |--------↠ 
              hp:        110
          attack:        123
         defense:         65

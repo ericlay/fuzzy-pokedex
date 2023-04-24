@@ -1,10 +1,15 @@
-vikavolt	A bug type Pokémon
 
-Sobrevuela un área en busca de presas. Puede
-concentrar una potente carga eléctrica entre
-sus mandíbulas para atacar a sus rivales.
+Vikavolt	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It zips around, on sharp lookout for 
+an opening.  It concentrates electrical 
+energy within its large jaws and uses 
+it to zap its enemies. 
+
+	Evolution Chain
+Grubbin ► Charjabug ► Vikavolt
+
+  ↞--------| STATS |--------↠ 
              hp:         77
          attack:         70
         defense:         90

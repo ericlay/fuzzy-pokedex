@@ -1,10 +1,15 @@
-incineroar	A fire type Pokémon
 
-Posee un carácter rudo y egoísta. Si un
-Entrenador no le cae en gracia, ignora sus
-órdenes con total impasibilidad.
+Incineroar	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This Pokémon has a violent, selfish 
+disposition.  If it’s not in the mood 
+to listen, it will ignore its Trainer’s 
+orders with complete nonchalance. 
+
+	Evolution Chain
+Litten ► Torracat ► Incineroar
+
+  ↞--------| STATS |--------↠ 
              hp:         95
          attack:        115
         defense:         90

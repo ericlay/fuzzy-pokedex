@@ -1,10 +1,14 @@
-dwebble	A bug type Pokémon
 
-적당한 돌을 찾아 구멍을 뚫어
-살 곳을 만든다. 부서지면 대신할
-돌을 찾을 때까지 불안해한다.
+Dwebble	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This Pokémon can easily melt holes in 
+hard rocks with a liquid secreted from 
+its mouth. 
+
+	Evolution Chain
+      Dwebble ► Crustle
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         65
         defense:         85

@@ -1,10 +1,14 @@
-lotad	A water type Pokémon
 
-It looks like an aquatic plant and
-serves as a ferry to Pokémon
-that can’t swim.
+Lotad	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It searches about for clean water.  
+If it does not drink water for too long, 
+the leaf on its head wilts. 
+
+	Evolution Chain
+Lotad ► Lombre ► Ludicolo
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         30
         defense:         30

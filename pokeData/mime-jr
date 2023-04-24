@@ -1,10 +1,14 @@
-mime-jr	A psychic type Pokémon
 
-Il imite les mouvements et les
-expressions des autres pour
-comprendre leurs sentiments.
+Mime-jr	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It habitually mimics foes.  Once mimicked, 
+the foe cannot take its eyes off this 
+Pokémon. 
+
+	Evolution Chain
+Mime-jr ► Mr-mime ► Mr-rime
+
+  ↞--------| STATS |--------↠ 
              hp:         20
          attack:         25
         defense:         45

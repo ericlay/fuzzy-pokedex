@@ -1,10 +1,15 @@
-fletchinder	A fire type Pokémon
 
-火の粉を　クチバシから　飛ばして
-草むらを　焦がし　驚いて
-飛び出した　獲物を　捕まえる。
+Fletchinder	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+From its beak, it expels embers that 
+set the tall grass on fire.  Then it 
+pounces on the bewildered prey that pop 
+out of the grass. 
+
+	Evolution Chain
+Fletchling ► Fletchinder ► Talonflame
+
+  ↞--------| STATS |--------↠ 
              hp:         62
          attack:         73
         defense:         55

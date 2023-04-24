@@ -1,10 +1,14 @@
-rowlet	A grass type Pokémon
 
-This wary Pokémon uses photosynthesis to
-store up energy during the day, while becoming
-active at night.
+Rowlet	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This wary Pokémon uses photosynthesis 
+to store up energy during the day, while 
+becoming active at night. 
+
+	Evolution Chain
+Rowlet ► Dartrix ► Decidueye
+
+  ↞--------| STATS |--------↠ 
              hp:         68
          attack:         55
         defense:         55

@@ -1,10 +1,14 @@
-snivy	A grass type Pokémon
 
-태양의 빛을 받으면
-평소보다 빨리 움직일 수 있다.
-손보다 덩굴을 잘 사용한다.
+Snivy	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It is very intelligent and calm.  Being 
+exposed to lots of sunlight makes its 
+movements swifter. 
+
+	Evolution Chain
+Snivy ► Servine ► Serperior
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         45
         defense:         55

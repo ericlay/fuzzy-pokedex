@@ -1,11 +1,14 @@
-parasect	A bug type Pokémon
 
-PARASECT is known to infest large trees
-en masse and drain nutrients from the
-lower trunk and roots.When an infested tree dies, they move
-onto another tree all at once.
+Parasect	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+A host-parasite pair in which the parasite 
+mushroom has taken over the host bug. 
+ Prefers damp places. 
+
+	Evolution Chain
+      Paras ► Parasect
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         95
         defense:         80

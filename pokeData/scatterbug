@@ -1,10 +1,14 @@
-scatterbug	A bug type Pokémon
 
-とりポケモンに　襲われると
-黒い　粉を　まき散らす。
-触れると　マヒする　毒の粉だ。
+Scatterbug	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When under attack from bird Pokémon, 
+it spews a poisonous black powder that 
+causes paralysis on contact. 
+
+	Evolution Chain
+Scatterbug ► Spewpa ► Vivillon
+
+  ↞--------| STATS |--------↠ 
              hp:         38
          attack:         35
         defense:         40

@@ -1,12 +1,14 @@
-magneton	A electric type Pokémon
 
-MAGNETON emits a powerful magnetic
-force that is fatal to electronics and
-precision instruments. Because ofthis, it is said that some towns warn
-people to keep this POKéMON inside
-a POKé BALL.
+Magneton	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Formed by several MAGNEMITEs linked 
+together.  They frequently appear when 
+sunspots flare up. 
+
+	Evolution Chain
+Magnemite ► Magneton ► Magnezone
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         60
         defense:         95

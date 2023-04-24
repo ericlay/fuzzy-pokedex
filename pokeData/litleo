@@ -1,10 +1,14 @@
-litleo	A fire type Pokémon
 
-強い　相手に　立ち向かうときほど
-たてがみが　高温になり
-全身に　力が　みなぎるのだ。
+Litleo	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The stronger the opponent it faces, 
+the more heat surges from its mane and 
+the more power flows through its body. 
+
+	Evolution Chain
+      Litleo ► Pyroar
+
+  ↞--------| STATS |--------↠ 
              hp:         62
          attack:         50
         defense:         58

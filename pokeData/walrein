@@ -1,10 +1,14 @@
-walrein	A ice type Pokémon
 
-It shatters ice with its big tusks.
-Its thick blubber repels not only
-the cold, but also enemy attacks.
+Walrein	 A ice type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It swims through icy seas while shattering 
+ice floes with its large tusks.  It is 
+protected by its thick blubber. 
+
+	Evolution Chain
+Spheal ► Sealeo ► Walrein
+
+  ↞--------| STATS |--------↠ 
              hp:        110
          attack:         80
         defense:         90
@@ -18,4 +22,4 @@ Height: 14	Weight: 1506
 
 Genus: Ice Break Pokémon
 Location Areas:
-undella-bay-area
+

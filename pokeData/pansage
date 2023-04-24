@@ -1,10 +1,14 @@
-pansage	A grass type Pokémon
 
-기운이 없는 포켓몬에게
-머리의 잎사귀를 나눠준다.
-피로를 풀어주는 효과가 있다.
+Pansage	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This Pokémon dwells deep in the forest. 
+ Eating a leaf from its head whisks weariness 
+away as if by magic. 
+
+	Evolution Chain
+      Pansage ► Simisage
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         53
         defense:         48

@@ -1,10 +1,14 @@
-unfezant	A normal type Pokémon
 
-수컷은 머리의 장식을 흔들어서
-상대를 위협한다. 암컷의 비행
-능력은 수컷을 뛰어넘는다.
+Unfezant	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Males swing their head plumage to threaten 
+opponents.  The females’ flying abilities 
+surpass those of the males. 
+
+	Evolution Chain
+Pidove ► Tranquill ► Unfezant
+
+  ↞--------| STATS |--------↠ 
              hp:         80
          attack:        115
         defense:         80

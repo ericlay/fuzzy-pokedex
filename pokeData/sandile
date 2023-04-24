@@ -1,10 +1,14 @@
-sandile	A ground type Pokémon
 
-모래 속에 파고들어 눈과 코를
-밖에 내놓고 이동한다.
-검은 막이 눈을 보호한다.
+Sandile	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They live buried in the sands of the 
+desert.  The sun-warmed sands prevent 
+their body temperature from dropping. 
+
+	Evolution Chain
+Sandile ► Krokorok ► Krookodile
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         72
         defense:         35

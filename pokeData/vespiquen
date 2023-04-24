@@ -1,10 +1,14 @@
-vespiquen	A bug type Pokémon
 
-Ce Pokémon utilise des phéromones
-pour donner des ordres de combat
-aux larves dans son abdomen.
+Vespiquen	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its abdomen is a honeycomb for grubs. 
+ It raises its grubs on honey collected 
+by COMBEE. 
+
+	Evolution Chain
+      Combee ► Vespiquen
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:         80
         defense:        102

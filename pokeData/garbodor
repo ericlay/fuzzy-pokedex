@@ -1,10 +1,14 @@
-garbodor	A poison type Pokémon
 
-왼팔로 상대를 꼭 붙들고
-입에서 악취가 나는 독가스를
-토해내서 마무리한다.
+Garbodor	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It clenches opponents with its left 
+arm and finishes them off with foul-smelling 
+poison gas belched from its mouth. 
+
+	Evolution Chain
+      Trubbish ► Garbodor
+
+  ↞--------| STATS |--------↠ 
              hp:         80
          attack:         95
         defense:         82

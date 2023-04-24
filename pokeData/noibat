@@ -1,10 +1,14 @@
-noibat	A flying type Pokémon
 
-真っ暗な　洞窟で　暮らす。
-２０万ヘルツの　超音波を
-大きな　耳から　発射する。
+Noibat	 A flying type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They live in pitch-black caves.  Their 
+enormous ears can emit ultrasonic waves 
+of 200,000 hertz. 
+
+	Evolution Chain
+      Noibat ► Noivern
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         30
         defense:         35

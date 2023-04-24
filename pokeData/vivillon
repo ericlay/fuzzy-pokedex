@@ -1,10 +1,15 @@
-vivillon	A bug type Pokémon
 
-世界には　さまざまな　羽模様の
-ビビヨンがいる。住んでいる　土地の
-気候が　影響しているようだ。
+Vivillon	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Vivillon with many different patterns 
+are found all over the world.  These 
+patterns are affected by the climate 
+of their habitat. 
+
+	Evolution Chain
+Scatterbug ► Spewpa ► Vivillon
+
+  ↞--------| STATS |--------↠ 
              hp:         80
          attack:         52
         defense:         50

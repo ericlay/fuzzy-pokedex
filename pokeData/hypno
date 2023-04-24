@@ -1,12 +1,14 @@
-hypno	A psychic type Pokémon
 
-HYPNO holds a pendulum in its hand.
-The arcing movement and glitter of the
-pendulum lull the foe into a deep stateof hypnosis.
-While this POKéMON searches for prey,
-it polishes the pendulum.
+Hypno	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When it locks eyes with an enemy, it 
+will use a mix of PSI moves such as HYPNOSIS 
+and CONFUSION. 
+
+	Evolution Chain
+      Drowzee ► Hypno
+
+  ↞--------| STATS |--------↠ 
              hp:         85
          attack:         73
         defense:         70

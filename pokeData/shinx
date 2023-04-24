@@ -1,10 +1,14 @@
-shinx	A electric type Pokémon
 
-Ses muscles génèrent un courant
-électrique lorsqu’ils travaillent.
-Il s’illumine en cas de danger.
+Shinx	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+All of its fur dazzles if danger is 
+sensed.  It flees while the foe is momentarily 
+blinded. 
+
+	Evolution Chain
+Shinx ► Luxio ► Luxray
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         65
         defense:         34

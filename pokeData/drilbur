@@ -1,10 +1,14 @@
-drilbur	A ground type Pokémon
 
-양손의 손톱을 서로 겹치고
-몸을 고속 회전시키면서
-맹렬한 속도로 땅속을 헤쳐나간다.
+Drilbur	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It can dig through the ground at a speed 
+of 30 mph.  It could give a car running 
+aboveground a good race. 
+
+	Evolution Chain
+      Drilbur ► Excadrill
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         85
         defense:         40

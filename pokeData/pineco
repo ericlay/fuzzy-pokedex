@@ -1,10 +1,14 @@
-pineco	A bug type Pokémon
 
-It likes to make its shell thicker by
-adding layers of tree bark. The extra
-weight doesn’t bother it.
+Pineco	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It likes to make its shell thicker by 
+adding layers of tree bark.  The additional 
+weight doesn't bother it. 
+
+	Evolution Chain
+      Pineco ► Forretress
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         65
         defense:         90

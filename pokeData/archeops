@@ -1,10 +1,14 @@
-archeops	A rock type Pokémon
 
-지상에서 도움닫기를 하여
-날아오른다. 동료와 협력하여
-먹이를 잡는 지능을 가졌다.
+Archeops	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They are intelligent and will cooperate 
+to catch prey.  From the ground, they 
+use a running start to take flight. 
+
+	Evolution Chain
+      Archen ► Archeops
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:        140
         defense:         65

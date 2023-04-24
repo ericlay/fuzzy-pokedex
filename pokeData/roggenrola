@@ -1,10 +1,13 @@
-roggenrola	A rock type Pokémon
 
-육각형 귀를 가지고 있다.
-땅속 깊은 곳에서 압축된 몸은
-철 못지않게 단단하다.
+Roggenrola	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its ear is hexagonal in shape.  Compressed 
+underground, its body is as hard as steel. 
+
+	Evolution Chain
+Roggenrola ► Boldore ► Gigalith
+
+  ↞--------| STATS |--------↠ 
              hp:         55
          attack:         75
         defense:         85

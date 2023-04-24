@@ -1,10 +1,15 @@
-cofagrigus	A ghost type Pokémon
 
-ちかづいた　にんげんを　のみこんで
-ミイラに　してしまうという　うわさ。
-きんかいを　このんで　たべる。
+Cofagrigus	 A ghost type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It has been said that they swallow those 
+who get too close and turn them into 
+mummies.  They like to eat gold nuggets. 
+
+	Evolution Chain
+      Yamask ► Cofagrigus
+runerigus
+
+  ↞--------| STATS |--------↠ 
              hp:         58
          attack:         50
         defense:        145

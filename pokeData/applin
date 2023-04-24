@@ -1,10 +1,16 @@
-applin	A grass type Pokémon
 
-It spends its entire life inside an apple. It hides
-from its natural enemies, bird Pokémon, by
-pretending it’s just an apple and nothing more.
+Applin	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It spends its entire life inside an 
+apple.  It hides from its natural enemies, 
+bird Pokémon, by pretending it’s just 
+an apple and nothing more. 
+
+	Evolution Chain
+      Applin ► Flapple
+appletun
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         40
         defense:         80

@@ -1,10 +1,14 @@
-fennekin	A fire type Pokémon
 
-小枝を　食べると　元気になって
-摂氏２００度を　超える　熱気を
-大きな　耳から　噴き出す。
+Fennekin	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Eating a twig fills it with energy, 
+and its roomy ears give vent to air hotter 
+than 390 degrees Fahrenheit. 
+
+	Evolution Chain
+Fennekin ► Braixen ► Delphox
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         45
         defense:         40

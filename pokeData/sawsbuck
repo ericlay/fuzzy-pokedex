@@ -1,10 +1,14 @@
-sawsbuck	A normal type Pokémon
 
-계절에 따라 거처를 바꾼다.
-사람들은 바라철록의 뿔에서
-계절의 변화를 느낀다.
+Sawsbuck	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They migrate according to the seasons. 
+ People can tell the season by looking 
+at Sawsbuck’s horns. 
+
+	Evolution Chain
+      Deerling ► Sawsbuck
+
+  ↞--------| STATS |--------↠ 
              hp:         80
          attack:        100
         defense:         70

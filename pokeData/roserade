@@ -1,10 +1,14 @@
-roserade	A grass type Pokémon
 
-Each of its hands contains
-different toxins, but both hands
-can jab with near-fatal power.
+Roserade	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It attracts prey with a sweet aroma, 
+then downs it with thorny whips hidden 
+in its arms. 
+
+	Evolution Chain
+Budew ► Roselia ► Roserade
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         70
         defense:         65

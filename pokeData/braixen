@@ -1,10 +1,14 @@
-braixen	A fire type Pokémon
 
-木の枝を　尻尾に　挿している。
-尻尾の　毛の　摩擦熱で
-枝に　火をつけて　戦う。
+Braixen	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It has a twig stuck in its tail.  With 
+friction from its tail fur, it sets the 
+twig on fire and launches into battle. 
+
+	Evolution Chain
+Fennekin ► Braixen ► Delphox
+
+  ↞--------| STATS |--------↠ 
              hp:         59
          attack:         59
         defense:         58

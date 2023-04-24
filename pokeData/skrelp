@@ -1,10 +1,14 @@
-skrelp	A poison type Pokémon
 
-腐った　海藻に　擬態する。
-気づかずに　近寄ってきた　獲物に
-毒液を　浴びせて　しとめる。
+Skrelp	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Camouflaged as rotten kelp, they spray 
+liquid poison on prey that approaches 
+unawares and then finish it off. 
+
+	Evolution Chain
+      Skrelp ► Dragalge
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         60
         defense:         60

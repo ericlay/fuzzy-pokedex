@@ -1,12 +1,14 @@
-charmeleon	A fire type Pokémon
 
-CHARMELEON mercilessly destroys its
-foes using its sharp claws.
-If it encounters a strong foe, it turnsaggressive. In this excited state, the
-flame at the tip of its tail flares with a
-bluish white color.
+Charmeleon	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When it swings its burning tail, it 
+elevates the temperature to unbearably 
+high levels. 
+
+	Evolution Chain
+Charmander ► Charmeleon ► Charizard
+
+  ↞--------| STATS |--------↠ 
              hp:         58
          attack:         64
         defense:         58

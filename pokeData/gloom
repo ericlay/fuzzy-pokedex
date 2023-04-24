@@ -1,11 +1,15 @@
-gloom	A grass type Pokémon
 
-From its mouth GLOOM drips honey that
-smells absolutely horrible.
-Apparently, it loves the horrid stench.It sniffs the noxious fumes and then 
-drools even more of its honey.
+Gloom	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The fluid that oozes from its mouth 
+isn't drool.  It is a nectar that is 
+used to attract prey. 
+
+	Evolution Chain
+Oddish ► Gloom ► Vileplume
+bellossom
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         65
         defense:         70

@@ -1,11 +1,14 @@
-venomoth	A bug type Pokémon
 
-VENOMOTH is nocturnal - it is a POKéMON
-that only becomes active at night.
-Its favorite prey are small insectsthat gather around streetlights,
-attracted by the light in the darkness.
+Venomoth	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The dustlike scales covering its wings 
+are color-coded to indicate the kinds 
+of poison it has. 
+
+	Evolution Chain
+      Venonat ► Venomoth
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:         65
         defense:         60

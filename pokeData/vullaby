@@ -1,10 +1,14 @@
-vullaby	A dark type Pokémon
 
-つばさが　ちいさいため　とべない。
-しんかの　ときが　ちかづくと
-じぶんから　ガイコツを　ぬぎすてる。
+Vullaby	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Their wings are too tiny to allow them 
+to fly.  They guard their posteriors 
+with bones that were gathered by Mandibuzz. 
+
+	Evolution Chain
+      Vullaby ► Mandibuzz
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:         55
         defense:         75

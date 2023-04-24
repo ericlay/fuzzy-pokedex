@@ -1,11 +1,14 @@
-seel	A water type Pokémon
 
-SEEL hunts for prey in the frigid sea
-underneath sheets of ice.
-When it needs to breathe, it punchesa hole through the ice with the
-sharply protruding section of its head.
+Seel	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The protruding horn on its head is very 
+hard.  It is used for bashing through 
+thick ice. 
+
+	Evolution Chain
+      Seel ► Dewgong
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         45
         defense:         55

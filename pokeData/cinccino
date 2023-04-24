@@ -1,10 +1,14 @@
-cinccino	A normal type Pokémon
 
-하얀 털은 감촉이 정말 좋다.
-먼지나 정전기가
-전혀 생기지 않는다.
+Cinccino	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Their white fur is coated in a special 
+oil that makes it easy for them to deflect 
+attacks. 
+
+	Evolution Chain
+      Minccino ► Cinccino
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         95
         defense:         60

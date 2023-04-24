@@ -1,10 +1,15 @@
-yamask	A ghost type Pokémon
 
-무덤에 매장된 사람의
-영혼이 포켓몬으로 변했다.
-죽기 전 기억이 남아 있다.
+Yamask	 A ghost type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Each of them carries a mask that used 
+to be its face when it was human.  Sometimes 
+they look at it and cry. 
+
+	Evolution Chain
+      Yamask ► Cofagrigus
+runerigus
+
+  ↞--------| STATS |--------↠ 
              hp:         38
          attack:         30
         defense:         85

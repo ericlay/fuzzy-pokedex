@@ -1,11 +1,14 @@
-muk	A poison type Pokémon
 
-This POKéMON’s favorite food is
-anything that is repugnantly filthy.
-In dirty towns where people thinknothing of throwing away litter on the
-streets, MUK are certain to gather.
+Muk	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Thickly covered with a filthy, vile 
+sludge.  It is so toxic, even its footprints 
+contain poison. 
+
+	Evolution Chain
+      Grimer ► Muk
+
+  ↞--------| STATS |--------↠ 
              hp:        105
          attack:        105
         defense:         75

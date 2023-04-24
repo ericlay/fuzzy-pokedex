@@ -1,10 +1,14 @@
-clawitzer	A water type Pokémon
 
-水の　砲弾を　発射する
-巨大な　腕を　持つ。
-タンカーの　船体を　撃ち抜くぞ。
+Clawitzer	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Their enormous claws launch cannonballs 
+of water powerful enough to pierce tanker 
+hulls. 
+
+	Evolution Chain
+      Clauncher ► Clawitzer
+
+  ↞--------| STATS |--------↠ 
              hp:         71
          attack:         73
         defense:         88

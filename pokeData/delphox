@@ -1,10 +1,14 @@
-delphox	A fire type Pokémon
 
-杖の　先端で　燃える　炎を　見つめて
-精神統一すると
-未来の　出来事を　見通せる。
+Delphox	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It gazes into the flame at the tip of 
+its branch to achieve a focused state, 
+which allows it to see into the future. 
+
+	Evolution Chain
+Fennekin ► Braixen ► Delphox
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         69
         defense:         72

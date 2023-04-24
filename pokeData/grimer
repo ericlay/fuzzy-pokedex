@@ -1,11 +1,14 @@
-grimer	A poison type Pokémon
 
-GRIMER emerged from the sludge that
-settled on a polluted seabed.
-This POKéMON loves anything filthy.It constantly leaks a horribly germ-
-infested fluid from all over its body.
+Grimer	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Appears in filthy areas.  Thrives by 
+sucking up polluted sludge that is pumped 
+out of factories. 
+
+	Evolution Chain
+      Grimer ► Muk
+
+  ↞--------| STATS |--------↠ 
              hp:         80
          attack:         80
         defense:         50

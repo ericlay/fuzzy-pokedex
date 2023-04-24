@@ -1,10 +1,15 @@
-doublade	A steel type Pokémon
 
-進化して　２本に　分裂した。
-テレパシーで　会話して
-連係攻撃で　敵を　切り刻む。
+Doublade	 A steel type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When Honedge evolves, it divides into 
+two swords, which cooperate via telepathy 
+to coordinate attacks and slash their 
+enemies to ribbons. 
+
+	Evolution Chain
+Honedge ► Doublade ► Aegislash
+
+  ↞--------| STATS |--------↠ 
              hp:         59
          attack:        110
         defense:        150

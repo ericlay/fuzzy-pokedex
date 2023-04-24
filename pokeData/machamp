@@ -1,12 +1,14 @@
-machamp	A fighting type Pokémon
 
-MACHAMP is known as the POKéMON that
-has mastered every kind of martial arts.
-If it grabs hold of the foe with its fourarms, the battle is all but over.
-The hapless foe is thrown far over the
-horizon.
+Machamp	 A fighting type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Using its heavy muscles, it throws powerful 
+punches that can send the victim clear 
+over the horizon. 
+
+	Evolution Chain
+Machop ► Machoke ► Machamp
+
+  ↞--------| STATS |--------↠ 
              hp:         90
          attack:        130
         defense:         80

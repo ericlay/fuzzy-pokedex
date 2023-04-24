@@ -1,10 +1,14 @@
-clauncher	A water type Pokémon
 
-大きな　ハサミから　圧縮した　水を
-ピストルのように　撃ち出し
-飛んでいる　獲物を　撃ち落とす。
+Clauncher	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They knock down flying prey by firing 
+compressed water from their massive claws 
+like shooting a pistol. 
+
+	Evolution Chain
+      Clauncher ► Clawitzer
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         53
         defense:         62

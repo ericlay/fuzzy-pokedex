@@ -1,12 +1,14 @@
-weedle	A bug type Pokémon
 
-WEEDLE has an extremely acute sense
-of smell.
-It is capable of distinguishing itsfavorite kinds of leaves from those it
-dislikes just by sniffing with its big
-red proboscis (nose).
+Weedle	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Often found in forests, eating leaves. 
+ It has a sharp venomous stinger on its 
+head. 
+
+	Evolution Chain
+Weedle ► Kakuna ► Beedrill
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         35
         defense:         30

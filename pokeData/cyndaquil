@@ -1,12 +1,13 @@
-cyndaquil	A fire type Pokémon
 
-CYNDAQUIL protects itself by flaring up
-the flames on its back.
-The flames are vigorous if the POKéMONis angry. However, if it is tired, the
-flames splutter fitfully with incomplete
-combustion.
+Cyndaquil	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It has a timid nature.  If it is startled, 
+the flames on its back burn more vigorously. 
+
+	Evolution Chain
+Cyndaquil ► Quilava ► Typhlosion
+
+  ↞--------| STATS |--------↠ 
              hp:         39
          attack:         52
         defense:         43

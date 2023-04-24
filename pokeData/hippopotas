@@ -1,10 +1,14 @@
-hippopotas	A ground type Pokémon
 
-Il peut obturer ses narines et
-traverser le sable comme un ver.
-Il vit en colonies de 10 individus.
+Hippopotas	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It lives in arid places.  Instead of 
+perspiration, it expels grainy sand from 
+its body. 
+
+	Evolution Chain
+      Hippopotas ► Hippowdon
+
+  ↞--------| STATS |--------↠ 
              hp:         68
          attack:         72
         defense:         78

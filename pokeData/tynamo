@@ -1,10 +1,14 @@
-tynamo	A electric type Pokémon
 
-한 마리의 전력은 적지만
-많은 저리어가 연결되면
-번개와 같은 위력이 된다.
+Tynamo	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+While one alone doesn’t have much power, 
+a chain of many Tynamo can be as powerful 
+as lightning. 
+
+	Evolution Chain
+Tynamo ► Eelektrik ► Eelektross
+
+  ↞--------| STATS |--------↠ 
              hp:         35
          attack:         55
         defense:         40

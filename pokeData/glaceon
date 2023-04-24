@@ -1,10 +1,21 @@
-glaceon	A ice type Pokémon
 
-Il ajuste la température de son
-corps pour créer un vent de glace
-en gelant l’air qui l’entoure.
+Glaceon	 A ice type Pokémon
 
-   ↞--------| STATS |--------↠ 
+As a protective technique, it can completely 
+freeze its fur to make its hairs stand 
+like needles. 
+
+	Evolution Chain
+      Eevee ► Vaporeon
+jolteon
+flareon
+espeon
+umbreon
+leafeon
+glaceon
+sylveon
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         60
         defense:        110

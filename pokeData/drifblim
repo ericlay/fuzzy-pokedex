@@ -1,10 +1,14 @@
-drifblim	A ghost type Pokémon
 
-Des nuées de Grodrive dérivent
-dans le ciel au crépuscule. Ils
-disparaissent dès qu’on les voit.
+Drifblim	 A ghost type Pokémon
 
-   ↞--------| STATS |--------↠ 
+At dusk, swarms of them are carried 
+aloft on winds.  When noticed, they suddenly 
+vanish. 
+
+	Evolution Chain
+      Drifloon ► Drifblim
+
+  ↞--------| STATS |--------↠ 
              hp:        150
          attack:         80
         defense:         44

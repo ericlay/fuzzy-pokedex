@@ -1,10 +1,14 @@
-cherubi	A grass type Pokémon
 
-The small ball is not only filled with
-nutrients, it is also tasty. Starly
-try to peck it off.
+Cherubi	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The small ball holds the nutrients needed 
+for evolution.  Apparently, it is very 
+sweet and tasty. 
+
+	Evolution Chain
+      Cherubi ► Cherrim
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         35
         defense:         45

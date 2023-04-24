@@ -1,10 +1,15 @@
-spewpa	A bug type Pokémon
 
-しげみの　陰に　隠れて　暮らす。
-敵に　襲われると　体の　毛を
-鋭く　逆立てて　威嚇する。
+Spewpa	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It lives hidden within thicket shadows. 
+ When predators attack, it quickly bristles 
+the fur covering its body in an effort 
+to threaten them. 
+
+	Evolution Chain
+Scatterbug ► Spewpa ► Vivillon
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         22
         defense:         60

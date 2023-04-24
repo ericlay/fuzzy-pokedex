@@ -1,10 +1,14 @@
-riolu	A fighting type Pokémon
 
-Il a la faculté unique de visualiser
-les émotions telles que la joie ou
-la colère sous forme d’ondes.
+Riolu	 A fighting type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The aura that emanates from its body 
+intensifies to alert others if it is 
+afraid or sad. 
+
+	Evolution Chain
+      Riolu ► Lucario
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         70
         defense:         40

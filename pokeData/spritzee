@@ -1,10 +1,14 @@
-spritzee	A fairy type Pokémon
 
-かいだ　者を　うっとりさせる
-香りを　体から　漂わせる。
-食べた　もので　香りが　変わる。
+Spritzee	 A fairy type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It emits a scent that enraptures those 
+who smell it.  This fragrance changes 
+depending on what it has eaten. 
+
+	Evolution Chain
+      Spritzee ► Aromatisse
+
+  ↞--------| STATS |--------↠ 
              hp:         78
          attack:         52
         defense:         60

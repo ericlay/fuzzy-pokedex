@@ -1,10 +1,14 @@
-magnezone	A electric type Pokémon
 
-Des scientifiques ont essayé de
-faire évoluer un Magnézone en
-laboratoire, mais ce fut un échec.
+Magnezone	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It evolved from exposure to a special 
+magnetic field.  Three units generate 
+magnetism. 
+
+	Evolution Chain
+Magnemite ► Magneton ► Magnezone
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:         70
         defense:        115

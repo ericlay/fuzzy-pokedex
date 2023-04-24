@@ -1,10 +1,15 @@
-pangoro	A fighting type Pokémon
 
-気性が　荒く　ケンカっ早いが
-弱いものいじめは　許さない。
-葉っぱで　敵の　動きを　読む。
+Pangoro	 A fighting type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Although it possesses a violent temperament, 
+it won’t put up with bullying.  It uses 
+the leaf in its mouth to sense the movements 
+of its enemies. 
+
+	Evolution Chain
+      Pancham ► Pangoro
+
+  ↞--------| STATS |--------↠ 
              hp:         95
          attack:        124
         defense:         78

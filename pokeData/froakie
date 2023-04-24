@@ -1,10 +1,14 @@
-froakie	A water type Pokémon
 
-胸と　背中から　泡を　出す。
-弾力のある　泡で　攻撃を　受け止めて
-ダメージを　減らす。
+Froakie	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It secretes flexible bubbles from its 
+chest and back.  The bubbles reduce the 
+damage it would otherwise take when attacked. 
+
+	Evolution Chain
+Froakie ► Frogadier ► Greninja
+
+  ↞--------| STATS |--------↠ 
              hp:         41
          attack:         56
         defense:         40

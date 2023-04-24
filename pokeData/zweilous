@@ -1,10 +1,14 @@
-zweilous	A dark type Pokémon
 
-２つの　あたまは　なかが　わるく
-あいてより　おおく　たべることで
-しゅどうけんを　にぎろうと　する。
+Zweilous	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+After it has eaten up all the food in 
+its territory, it moves to another area. 
+ Its two heads do not get along. 
+
+	Evolution Chain
+Deino ► Zweilous ► Hydreigon
+
+  ↞--------| STATS |--------↠ 
              hp:         72
          attack:         85
         defense:         70

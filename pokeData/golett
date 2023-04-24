@@ -1,10 +1,14 @@
-golett	A ground type Pokémon
 
-체내에서 불타는 에너지로
-인해 활동하고 있지만 어떤
-에너지인지는 불명이다.
+Golett	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The energy that burns inside it enables 
+it to move, but no one has yet been able 
+to identify this energy. 
+
+	Evolution Chain
+      Golett ► Golurk
+
+  ↞--------| STATS |--------↠ 
              hp:         59
          attack:         74
         defense:         50

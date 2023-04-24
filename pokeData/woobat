@@ -1,10 +1,14 @@
-woobat	A psychic type Pokémon
 
-어두운 숲이나 동굴에서 산다.
-콧구멍에서 초음파를 쏘아
-주변의 모습을 살핀다.
+Woobat	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its habitat is dark forests and caves. 
+ It emits ultrasonic waves from its nose 
+to learn about its surroundings. 
+
+	Evolution Chain
+      Woobat ► Swoobat
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         45
         defense:         43

@@ -1,10 +1,14 @@
-lickilicky	A normal type Pokémon
 
-The long tongue is always soggy
-with slobber. The saliva contains
-a solvent that causes numbness.
+Lickilicky	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It wraps things with its extensible 
+tongue.  Getting too close to it will 
+leave you soaked with drool. 
+
+	Evolution Chain
+      Lickitung ► Lickilicky
+
+  ↞--------| STATS |--------↠ 
              hp:        110
          attack:         85
         defense:         95

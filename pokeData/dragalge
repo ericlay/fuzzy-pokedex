@@ -1,10 +1,15 @@
-dragalge	A poison type Pokémon
 
-タンカーの　船体を　腐らせる　猛毒を
-縄張りに　入りこんだ　ものに
-見境なく　吐きかける。
+Dragalge	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Their poison is strong enough to eat 
+through the hull of a tanker, and they 
+spit it indiscriminately at anything 
+that enters their territory. 
+
+	Evolution Chain
+      Skrelp ► Dragalge
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         75
         defense:         90

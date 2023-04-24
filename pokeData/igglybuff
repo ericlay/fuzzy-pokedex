@@ -1,10 +1,14 @@
-igglybuff	A normal type Pokémon
 
-It has a very soft body. If it starts to
-roll, it will bounce all over and be
-impossible to stop.
+Igglybuff	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It has a very soft body.  If it starts 
+to roll, it will bounce all over and 
+be impossible to stop. 
+
+	Evolution Chain
+Igglybuff ► Jigglypuff ► Wigglytuff
+
+  ↞--------| STATS |--------↠ 
              hp:         90
          attack:         30
         defense:         15

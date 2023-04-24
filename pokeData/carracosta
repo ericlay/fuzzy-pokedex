@@ -1,10 +1,15 @@
-carracosta	A water type Pokémon
 
-바다와 육지에서 생활한다.
-손바닥으로 쳐서 배 밑바닥에
-구멍을 내는 파워의 소유자다.
+Carracosta	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They can live both in the ocean and 
+on land.  A slap from one of them is 
+enough to open a hole in the bottom of 
+a tanker. 
+
+	Evolution Chain
+      Tirtouga ► Carracosta
+
+  ↞--------| STATS |--------↠ 
              hp:         74
          attack:        108
         defense:        133

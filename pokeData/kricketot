@@ -1,10 +1,14 @@
-kricketot	A bug type Pokémon
 
-Quand il tombe du haut de ses
-petites pattes, ses antennes
-font un bruit de xylophone.
+Kricketot	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It shakes its head back to front, causing 
+its antennae to hit each other and sound 
+like a xylophone. 
+
+	Evolution Chain
+      Kricketot ► Kricketune
+
+  ↞--------| STATS |--------↠ 
              hp:         37
          attack:         25
         defense:         41

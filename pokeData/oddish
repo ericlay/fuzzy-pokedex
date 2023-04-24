@@ -1,12 +1,15 @@
-oddish	A grass type Pokémon
 
-ODDISH searches for fertile, nutrient-
-rich soil, then plants itself.
-During the daytime, while it is planted,this POKéMON’s feet are thought to
-change shape and become similar to
-the roots of trees.
+Oddish	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+During the day, it keeps its face buried 
+in the ground.  At night, it wanders 
+around sowing its seeds. 
+
+	Evolution Chain
+Oddish ► Gloom ► Vileplume
+bellossom
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         50
         defense:         55

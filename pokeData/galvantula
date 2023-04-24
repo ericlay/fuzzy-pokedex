@@ -1,10 +1,14 @@
-galvantula	A bug type Pokémon
 
-전기를 띤 실로 함정을 설치한다.
-감전돼서 움직이지 못하는
-먹이를 천천히 먹어치운다.
+Galvantula	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When attacked, they create an electric 
+barrier by spitting out many electrically 
+charged threads. 
+
+	Evolution Chain
+      Joltik ► Galvantula
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:         77
         defense:         60

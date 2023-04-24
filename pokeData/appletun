@@ -1,10 +1,15 @@
-appletun	A grass type Pokémon
 
-Eating a sweet apple caused its evolution.
-A nectarous scent wafts from its body, luring in
-the bug Pokémon it preys on.
+Appletun	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Eating a sweet apple caused its evolution. 
+ A nectarous scent wafts from its body, 
+luring in the bug Pokémon it preys on. 
+
+	Evolution Chain
+      Applin ► Flapple
+appletun
+
+  ↞--------| STATS |--------↠ 
              hp:        110
          attack:         85
         defense:         80

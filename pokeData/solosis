@@ -1,10 +1,14 @@
-solosis	A psychic type Pokémon
 
-몸이 특수한 액체로
-둘러싸여 있어 어떤 곤란한
-상황이라도 문제없다.
+Solosis	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They drive away attackers by unleashing 
+psychic power.  They can use telepathy 
+to talk with others. 
+
+	Evolution Chain
+Solosis ► Duosion ► Reuniclus
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         30
         defense:         40

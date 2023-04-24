@@ -1,10 +1,20 @@
-sylveon	A fairy type Pokémon
 
-リボンのような　触覚から
-気持ちを　和らげる　波動を　送りこみ
-戦いを　やめさせる。
+Sylveon	 A fairy type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It sends a soothing aura from its ribbonlike 
+feelers to calm fights. 
+
+	Evolution Chain
+      Eevee ► Vaporeon
+jolteon
+flareon
+espeon
+umbreon
+leafeon
+glaceon
+sylveon
+
+  ↞--------| STATS |--------↠ 
              hp:         95
          attack:         65
         defense:         65

@@ -1,10 +1,14 @@
-ariados	A bug type Pokémon
 
-A single strand of a special string is
-endlessly spun out of its rear. The string
-leads back to its nest.
+Ariados	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It spins string not only from its rear 
+but also from its mouth.  It is hard 
+to tell which end is which. 
+
+	Evolution Chain
+      Spinarak ► Ariados
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:         90
         defense:         70

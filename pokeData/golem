@@ -1,12 +1,14 @@
-golem	A rock type Pokémon
 
-GOLEM is known for rolling down from
-mountains. To prevent them from rolling
-into the homes of people downhill,grooves have been dug into the sides of
-mountains to serve as guideways for
-diverting this POKéMON’s course.
+Golem	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its boulder-like body is extremely hard. 
+ It can easily withstand dynamite blasts 
+without damage. 
+
+	Evolution Chain
+Geodude ► Graveler ► Golem
+
+  ↞--------| STATS |--------↠ 
              hp:         80
          attack:        120
         defense:        130

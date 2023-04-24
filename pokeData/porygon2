@@ -1,10 +1,14 @@
-porygon2	A normal type Pokémon
 
-This upgraded version of PORYGON is
-designed for space exploration. However,
-it can’t even fly.
+Porygon2	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This upgraded version of PORYGON is 
+designed for space exploration.  It can't 
+fly, though. 
+
+	Evolution Chain
+Porygon ► Porygon2 ► Porygon-z
+
+  ↞--------| STATS |--------↠ 
              hp:         85
          attack:         80
         defense:         90

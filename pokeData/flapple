@@ -1,10 +1,15 @@
-flapple	A grass type Pokémon
 
-It ate a sour apple, and that induced its
-evolution. In its cheeks, it stores an acid
-capable of causing chemical burns.
+Flapple	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It ate a sour apple, and that induced 
+its evolution.  In its cheeks, it stores 
+an acid capable of causing chemical burns. 
+
+	Evolution Chain
+      Applin ► Flapple
+appletun
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:        110
         defense:         80

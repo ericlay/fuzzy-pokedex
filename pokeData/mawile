@@ -1,10 +1,11 @@
-mawile	A steel type Pokémon
 
-Attached to its head is a huge
-set of jaws formed by horns.
-It can chew through iron beams.
+Mawile	 A steel type Pokémon
 
-   ↞--------| STATS |--------↠ 
+                    
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         85
         defense:         85
@@ -12,11 +13,11 @@ It can chew through iron beams.
 special-defense:         55
           speed:         50
 
-Pokedex ID: 303	Capture Rate: 45
-Base Exp: 133	Happiness: 50
+Pokedex ID: 303	Capture Rate: 
+Base Exp: 133	Happiness: 
 Height: 6	Weight: 115
 
-Genus: Deceiver Pokémon
+Genus: 
 Location Areas:
 iron-island-b1f-left
 iron-island-b1f-right

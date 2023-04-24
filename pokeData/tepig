@@ -1,10 +1,14 @@
-tepig	A fire type Pokémon
 
-적의 공격을 가볍게 피하고
-코로 불구슬을 쏘아댄다.
-불꽃으로 나무열매를 구워 먹는다.
+Tepig	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It can deftly dodge its foe’s attacks 
+while shooting fireballs from its nose. 
+ It roasts berries before it eats them. 
+
+	Evolution Chain
+Tepig ► Pignite ► Emboar
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         63
         defense:         45

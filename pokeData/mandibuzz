@@ -1,10 +1,14 @@
-mandibuzz	A dark type Pokémon
 
-넓은 하늘에서 원을 그리며 날고
-먹이를 발견하면 덮쳐서
-둥지까지 가뿐히 나른다.
+Mandibuzz	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It makes a nest out of bones it finds. 
+ It grabs weakened prey in its talons 
+and hauls it to its nest of bones. 
+
+	Evolution Chain
+      Vullaby ► Mandibuzz
+
+  ↞--------| STATS |--------↠ 
              hp:        110
          attack:         65
         defense:        105

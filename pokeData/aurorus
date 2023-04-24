@@ -1,10 +1,15 @@
-aurorus	A rock type Pokémon
 
-マイナス１５０度の　冷気を
-ひし形の　結晶から　出して
-敵を　包み　氷漬けにする。
+Aurorus	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The diamond-shaped crystals on its body 
+expel air as cold as -240 degrees Fahrenheit, 
+surrounding its enemies and encasing 
+them in ice. 
+
+	Evolution Chain
+      Amaura ► Aurorus
+
+  ↞--------| STATS |--------↠ 
              hp:        123
          attack:         77
         defense:         72

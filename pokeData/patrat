@@ -1,10 +1,14 @@
-patrat	A normal type Pokémon
 
-볼의 주머니에 먹이를 모아두고
-며칠이고 망보기를 계속한다.
-꼬리로 동료에게 신호한다.
+Patrat	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Using food stored in cheek pouches, 
+they can keep watch for days.  They use 
+their tails to communicate with others. 
+
+	Evolution Chain
+      Patrat ► Watchog
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         55
         defense:         39

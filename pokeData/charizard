@@ -1,12 +1,14 @@
-charizard	A fire type Pokémon
 
-CHARIZARD flies around the sky in
-search of powerful opponents.
-It breathes fire of such great heatthat it melts anything. However, it
-never turns its fiery breath on any
-opponent weaker than itself.
+Charizard	 A fire type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Spits fire that is hot enough to melt 
+boulders.  Known to cause forest fires 
+unintentionally. 
+
+	Evolution Chain
+Charmander ► Charmeleon ► Charizard
+
+  ↞--------| STATS |--------↠ 
              hp:         78
          attack:         84
         defense:         78

@@ -1,10 +1,14 @@
-krokorok	A ground type Pokémon
 
-여러 마리가 무리를 짓는다.
-안구를 감싼 막이
-모래 폭풍으로부터 눈을 지켜준다.
+Krokorok	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They live in groups of a few individuals. 
+ Protective membranes shield their eyes 
+from sandstorms. 
+
+	Evolution Chain
+Sandile ► Krokorok ► Krookodile
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         82
         defense:         45

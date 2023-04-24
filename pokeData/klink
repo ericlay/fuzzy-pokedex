@@ -1,10 +1,14 @@
-klink	A steel type Pokémon
 
-두 개의 몸을 맞물려
-회전시켜서 살아가기 위한
-에너지를 만들고 있다.
+Klink	 A steel type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The two minigears that mesh together 
+are predetermined.  Each will rebound 
+from other minigears without meshing. 
+
+	Evolution Chain
+Klink ► Klang ► Klinklang
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         55
         defense:         70

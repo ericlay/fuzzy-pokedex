@@ -1,10 +1,13 @@
-furfrou	A normal type Pokémon
 
-ボサボサの　体毛を　刈りこむと
-姿が　美しくなる　だけでなく
-身体の　キレが　良くなるのだ。
+Furfrou	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Trimming its fluffy fur not only makes 
+it more elegant but also increases the 
+swiftness of its movements. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         80
         defense:         60

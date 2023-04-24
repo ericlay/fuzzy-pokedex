@@ -1,10 +1,14 @@
-stunky	A poison type Pokémon
 
-Son derrière propulse un fluide
-nauséabond qui peut faire fuir les
-Pokémon dans un rayon de 2 km.
+Stunky	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It protects itself by spraying a noxious 
+fluid from its rear.  The stench lingers 
+for 24 hours. 
+
+	Evolution Chain
+      Stunky ► Skuntank
+
+  ↞--------| STATS |--------↠ 
              hp:         63
          attack:         63
         defense:         47

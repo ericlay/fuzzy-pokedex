@@ -1,10 +1,14 @@
-timburr	A fighting type Pokémon
 
-항상 각목을 끼고 있다.
-건설 현장에 나타나
-공사를 도와주는 포켓몬이다.
+Timburr	 A fighting type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It fights by swinging a piece of lumber 
+around.  It is close to evolving when 
+it can handle the lumber without difficulty. 
+
+	Evolution Chain
+Timburr ► Gurdurr ► Conkeldurr
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         80
         defense:         55

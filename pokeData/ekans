@@ -1,12 +1,11 @@
-ekans	A poison type Pokémon
 
-EKANS curls itself up in a spiral while
-it rests.
-Assuming this position allows it toquickly respond to a threat from any
-direction with a glare from its upraised
-head.
+Ekans	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+                    
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
              hp:         35
          attack:         60
         defense:         44
@@ -14,11 +13,11 @@ head.
 special-defense:         54
           speed:         55
 
-Pokedex ID: 23	Capture Rate: 255
-Base Exp: 58	Happiness: 70
+Pokedex ID: 23	Capture Rate: 
+Base Exp: 58	Happiness: 
 Height: 20	Weight: 69
 
-Genus: Snake Pokémon
+Genus: 
 Location Areas:
 sinnoh-route-212-east-towards-pastoria-city
 johto-route-32-area

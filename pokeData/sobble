@@ -1,10 +1,15 @@
-sobble	A water type Pokémon
 
-When scared, this Pokémon cries. Its tears pack
-the chemical punch of 100 onions, and attackers
-won’t be able to resist weeping.
+Sobble	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When scared, this Pokémon cries.  Its 
+tears pack the chemical punch of 100 
+onions, and attackers won’t be able to 
+resist weeping. 
+
+	Evolution Chain
+Sobble ► Drizzile ► Inteleon
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         40
         defense:         40

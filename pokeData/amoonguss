@@ -1,10 +1,14 @@
-amoonguss	A grass type Pokémon
 
-몬스터볼 무늬의 삿갓을 보여주며
-먹이를 유인하려 하지만
-속아 넘어가는 포켓몬은 드물다.
+Amoonguss	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It lures prey close by dancing and waving 
+its arm caps, which resemble Poké Balls, 
+in a swaying motion. 
+
+	Evolution Chain
+      Foongus ► Amoonguss
+
+  ↞--------| STATS |--------↠ 
              hp:        114
          attack:         85
         defense:         70

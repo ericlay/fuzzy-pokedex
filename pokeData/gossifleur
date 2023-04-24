@@ -1,10 +1,15 @@
-gossifleur	A grass type Pokémon
 
-It anchors itself in the ground with its single leg,
-then basks in the sun. After absorbing enough
-sunlight, its petals spread as it blooms brilliantly.
+Gossifleur	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It anchors itself in the ground with 
+its single leg, then basks in the sun. 
+ After absorbing enough sunlight, its 
+petals spread as it blooms brilliantly. 
+
+	Evolution Chain
+      Gossifleur ► Eldegoss
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         40
         defense:         60

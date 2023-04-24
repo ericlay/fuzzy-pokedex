@@ -1,10 +1,18 @@
-silcoon	A bug type Pokémon
 
-It wraps silk around the branches
-of a tree. It drinks rainwater on
-its silk while awaiting evolution.
+Silcoon	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+SILCOON tethers itself to a tree branch 
+using silk to keep from falling.  There, 
+ this POKéMON hangs quietly while it 
+awaits evolution.  It peers out of the 
+silk cocoon through a small hole. 
+
+	Evolution Chain
+Wurmple ► Silcoon
+cascoon ► Beautifly
+dustox
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         35
         defense:         55

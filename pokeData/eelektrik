@@ -1,10 +1,14 @@
-eelektrik	A electric type Pokémon
 
-상대를 휘감고 동그란
-반점에서 전기를 흘려보내
-마비시킨 뒤 통째로 문다.
+Eelektrik	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They coil around foes and shock them 
+with electricity-generating organs that 
+seem simply to be circular patterns. 
+
+	Evolution Chain
+Tynamo ► Eelektrik ► Eelektross
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         85
         defense:         70

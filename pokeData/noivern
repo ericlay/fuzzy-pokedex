@@ -1,10 +1,14 @@
-noivern	A flying type Pokémon
 
-月明かりすら　ない　闇夜を　飛び
-油断している　獲物を　襲う。
-暗闇の　戦いでは　無敵だ。
+Noivern	 A flying type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They fly around on moonless nights and 
+attack careless prey.  Nothing can beat 
+them in a battle in the dark. 
+
+	Evolution Chain
+      Noibat ► Noivern
+
+  ↞--------| STATS |--------↠ 
              hp:         85
          attack:         70
         defense:         80

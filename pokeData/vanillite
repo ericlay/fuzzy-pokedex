@@ -1,10 +1,14 @@
-vanillite	A ice type Pokémon
 
-마이너스 50도의 숨결을 내뱉는다.
-눈 결정을 만들어
-주변에 눈이 내리게 한다.
+Vanillite	 A ice type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The temperature of their breath is -58° 
+F.  They create snow crystals and make 
+snow fall in the areas around them. 
+
+	Evolution Chain
+Vanillite ► Vanillish ► Vanilluxe
+
+  ↞--------| STATS |--------↠ 
              hp:         36
          attack:         50
         defense:         50

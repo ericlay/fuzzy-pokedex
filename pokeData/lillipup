@@ -1,10 +1,15 @@
-lillipup	A normal type Pokémon
 
-얼굴을 둘러싼 긴 털은
-우수한 레이더다. 주위
-상황을 민감히 살핀다.
+Lillipup	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It faces strong opponents with great 
+courage.  But, when at a disadvantage 
+in a fight, this intelligent Pokémon 
+flees. 
+
+	Evolution Chain
+Lillipup ► Herdier ► Stoutland
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         60
         defense:         45

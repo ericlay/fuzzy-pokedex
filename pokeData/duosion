@@ -1,10 +1,14 @@
-duosion	A psychic type Pokémon
 
-２つに　ぶんれつした　のうみそを
-もっているため　いきなり　ちがう
-こうどうを　とることが　あるのだ。
+Duosion	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Since they have two divided brains, 
+at times they suddenly try to take two 
+different actions at once. 
+
+	Evolution Chain
+Solosis ► Duosion ► Reuniclus
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         40
         defense:         50

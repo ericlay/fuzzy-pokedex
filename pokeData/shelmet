@@ -1,10 +1,14 @@
-shelmet	A bug type Pokémon
 
-딱정곤과 함께 있을 때
-전기적인 자극을 받으면
-서로의 몸이 진화한다.
+Shelmet	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When attacked, it defends itself by 
+closing the lid of its shell.  It can 
+spit a sticky, poisonous liquid. 
+
+	Evolution Chain
+      Shelmet ► Accelgor
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         40
         defense:         85

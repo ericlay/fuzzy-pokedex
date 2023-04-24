@@ -1,10 +1,14 @@
-grotle	A grass type Pokémon
 
-Il sait d’instinct où trouver une
-source d’eau pure. Il y transporte
-d’autres Pokémon sur son dos.
+Grotle	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It knows where pure water wells up. 
+ It carries fellow Pokémon there on its 
+back. 
+
+	Evolution Chain
+Turtwig ► Grotle ► Torterra
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         89
         defense:         85

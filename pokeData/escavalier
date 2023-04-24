@@ -1,10 +1,14 @@
-escavalier	A bug type Pokémon
 
-チョボマキから　うばった　カラで
-からだを　おおい　ガードしながら
-２ほんの　ヤリで　つついてくる。
+Escavalier	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+They fly around at high speed, striking 
+with their pointed spears.  Even when 
+in trouble, they face opponents bravely. 
+
+	Evolution Chain
+      Karrablast ► Escavalier
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:        135
         defense:        105

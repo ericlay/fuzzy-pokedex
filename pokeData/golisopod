@@ -1,9 +1,14 @@
-golisopod	A bug type Pokémon
 
-With a flashing slash of its giant sharp claws,
-it cleaves seawater—or even air—right in two.
+Golisopod	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+With a flashing slash of its giant sharp 
+claws, it cleaves seawater—or even air—right 
+in two. 
+
+	Evolution Chain
+      Wimpod ► Golisopod
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:        125
         defense:        140

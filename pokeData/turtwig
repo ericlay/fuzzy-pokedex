@@ -1,10 +1,14 @@
-turtwig	A grass type Pokémon
 
-La coquille sur son dos est faite de
-terre. Plus il est en bonne santé,
-plus elle est humide.
+Turtwig	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Made from soil, the shell on its back 
+hardens when it drinks water.  It lives 
+along lakes. 
+
+	Evolution Chain
+Turtwig ► Grotle ► Torterra
+
+  ↞--------| STATS |--------↠ 
              hp:         55
          attack:         68
         defense:         64

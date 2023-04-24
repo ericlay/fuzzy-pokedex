@@ -1,10 +1,14 @@
-palpitoad	A water type Pokémon
 
-머리의 혹을 진동시키면
-물속에 파동이 일어나며
-땅마저 지진처럼 흔들린다.
+Palpitoad	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When they vibrate the bumps on their 
+heads, they can make waves in water or 
+earthquake-like vibrations on land. 
+
+	Evolution Chain
+Tympole ► Palpitoad ► Seismitoad
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         65
         defense:         55

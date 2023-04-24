@@ -1,10 +1,14 @@
-snover	A grass type Pokémon
 
-Curieux de rencontrer des gens, ils
-se rassemblent autour des traces
-de pas trouvées dans la montagne.
+Snover	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It lives on snowy mountains.  Having 
+had little contact with humans, it is 
+boldly inquisitive. 
+
+	Evolution Chain
+      Snover ► Abomasnow
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         62
         defense:         50

@@ -1,10 +1,14 @@
-simisage	A grass type Pokémon
 
-가시가 잔뜩 박힌 꼬리를
-상대에게 힘껏 쳐서 공격한다.
-기질이 격한 포켓몬이다.
+Simisage	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Ill tempered, it fights by swinging 
+its barbed tail around wildly.  The leaf 
+growing on its head is very bitter. 
+
+	Evolution Chain
+      Pansage ► Simisage
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         98
         defense:         63

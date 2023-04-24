@@ -1,12 +1,21 @@
-jolteon	A electric type Pokémon
 
-JOLTEON’s cells generate a low level of
-electricity. This power is amplified by
-the static electricity of its fur,enabling the POKéMON to drop
-thunderbolts. The bristling fur is made
-of electrically charged needles.
+Jolteon	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It accumulates negative ions in the 
+atmosphere to blast out 10000- volt lightning 
+bolts. 
+
+	Evolution Chain
+      Eevee ► Vaporeon
+jolteon
+flareon
+espeon
+umbreon
+leafeon
+glaceon
+sylveon
+
+  ↞--------| STATS |--------↠ 
              hp:         65
          attack:         65
         defense:         60

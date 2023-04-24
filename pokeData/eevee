@@ -1,11 +1,21 @@
-eevee	A normal type Pokémon
 
-EEVEE has an unstable genetic makeup
-that suddenly mutates due to the
-environment in which it lives.Radiation from various STONES causes
-this POKéMON to evolve.
+Eevee	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its genetic code is irregular.  It may 
+mutate if it is exposed to radiation 
+from element STONEs. 
+
+	Evolution Chain
+      Eevee ► Vaporeon
+jolteon
+flareon
+espeon
+umbreon
+leafeon
+glaceon
+sylveon
+
+  ↞--------| STATS |--------↠ 
              hp:         55
          attack:         55
         defense:         50

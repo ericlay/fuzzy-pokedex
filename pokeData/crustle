@@ -1,10 +1,14 @@
-crustle	A bug type Pokémon
 
-무거운 바위를 등에 지고
-며칠이고 건조한 땅을
-이동할 수 있는 다릿심을 가지고 있다.
+Crustle	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Competing for territory, Crustle fight 
+viciously.  The one whose boulder is 
+broken is the loser of the battle. 
+
+	Evolution Chain
+      Dwebble ► Crustle
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:        105
         defense:        125

@@ -1,10 +1,14 @@
-skiddo	A grass type Pokémon
 
-人と　暮らすようになった
-最初の　ポケモンと　言われる。
-穏やかな　性格の　ポケモン。
+Skiddo	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Thought to be one of the first Pokémon 
+to live in harmony with humans, it has 
+a placid disposition. 
+
+	Evolution Chain
+      Skiddo ► Gogoat
+
+  ↞--------| STATS |--------↠ 
              hp:         66
          attack:         65
         defense:         48

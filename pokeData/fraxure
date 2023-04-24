@@ -1,10 +1,14 @@
-fraxure	A dragon type Pokémon
 
-큰 바위를 부수는 이빨을 가지고 있다.
-액슨도들의 영역 싸움은
-매우 격렬하다.
+Fraxure	 A dragon type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Since a broken tusk will not grow back, 
+they diligently sharpen their tusks on 
+river rocks after they’ve been fighting. 
+
+	Evolution Chain
+Axew ► Fraxure ► Haxorus
+
+  ↞--------| STATS |--------↠ 
              hp:         66
          attack:        117
         defense:         70

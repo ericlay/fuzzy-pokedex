@@ -1,10 +1,13 @@
-mudbray	A ground type Pokémon
 
-Il fango attaccato alle zampe gli dà un’aderenza
-tale da permettergli di lanciarsi in una potente
-corsa senza rischio di scivolare.
+Mudbray	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The mud stuck to Mudbray’s hooves enhances 
+its grip and its powerful running gait. 
+
+	Evolution Chain
+      Mudbray ► Mudsdale
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:        100
         defense:         70

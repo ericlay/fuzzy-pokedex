@@ -1,10 +1,14 @@
-binacle	A rock type Pokémon
 
-２匹の　カメテテが　ひとつの　岩で
-暮らす。ケンカすると　どちらかが
-他の　岩に　移る。
+Binacle	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Two Binacle live together on one rock. 
+ When they fight, one of them will move 
+to a different rock. 
+
+	Evolution Chain
+      Binacle ► Barbaracle
+
+  ↞--------| STATS |--------↠ 
              hp:         42
          attack:         52
         defense:         67

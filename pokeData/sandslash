@@ -1,12 +1,14 @@
-sandslash	A ground type Pokémon
 
-SANDSLASH can roll up its body as if it
-were a ball covered with large spikes.
-In battle, this POKéMON will try to makethe foe flinch by jabbing it with its
-spines. It then leaps at the stunned
-foe to tear wildly with its sharp claws.
+Sandslash	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Curls up into a spiny ball when threatened. 
+ It can roll while curled up to attack 
+or escape. 
+
+	Evolution Chain
+      Sandshrew ► Sandslash
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:        100
         defense:        110

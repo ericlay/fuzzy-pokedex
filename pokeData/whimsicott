@@ -1,10 +1,14 @@
-whimsicott	A grass type Pokémon
 
-つむじかぜと　ともに　あらわれて
-いえのなかの　かぐを　うごかしたり
-わたを　のこす　いたずらをする。
+Whimsicott	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Like the wind, it can slip through any 
+gap, no matter how small.  It leaves 
+balls of white fluff behind. 
+
+	Evolution Chain
+      Cottonee ► Whimsicott
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         67
         defense:         85

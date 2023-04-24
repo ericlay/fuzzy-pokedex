@@ -1,10 +1,14 @@
-boldore	A rock type Pokémon
 
-체내에서 처리되지 못하고
-빠져나온 에너지가 덩어리져서
-주황색 결정이 되었다.
+Boldore	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+When it overflows with power, the orange 
+crystal on its body glows.  It looks 
+for underground water in caves. 
+
+	Evolution Chain
+Roggenrola ► Boldore ► Gigalith
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:        105
         defense:        105

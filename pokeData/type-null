@@ -1,10 +1,14 @@
-type-null	A normal type Pokémon
 
-The heavy control mask it wears suppresses its
-intrinsic capabilities. This Pokémon has some
-hidden special power.
+Type-null	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The heavy control mask it wears suppresses 
+its intrinsic capabilities.  This Pokémon 
+has some hidden special power. 
+
+	Evolution Chain
+      Type-null ► Silvally
+
+  ↞--------| STATS |--------↠ 
              hp:         95
          attack:         95
         defense:         95

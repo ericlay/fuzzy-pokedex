@@ -1,10 +1,14 @@
-sliggoo	A dragon type Pokémon
 
-なんでも　溶かしてしまう　粘液を
-分泌して　敵を　撃退する。
-目玉は　退化して　見えていない。
+Sliggoo	 A dragon type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It drives away opponents by excreting 
+a sticky liquid that can dissolve anything. 
+ Its eyes devolved, so it can’t see anything. 
+
+	Evolution Chain
+Goomy ► Sliggoo ► Goodra
+
+  ↞--------| STATS |--------↠ 
              hp:         68
          attack:         75
         defense:         53

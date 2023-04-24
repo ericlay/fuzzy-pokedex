@@ -1,10 +1,14 @@
-whirlipede	A bug type Pokémon
 
-단단한 껍질로 보호되고 있다.
-타이어처럼 회전하여 상대에게
-격렬히 몸통박치기를 날린다.
+Whirlipede	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Protected by a hard shell, it spins 
+its body like a wheel and crashes furiously 
+into its enemies. 
+
+	Evolution Chain
+Venipede ► Whirlipede ► Scolipede
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         55
         defense:         99

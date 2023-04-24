@@ -1,9 +1,14 @@
-blipbug	A bug type Pokémon
 
-A constant collector of information, this Pokémon
-is very smart. Very strong is what it isn’t.
+Blipbug	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+A constant collector of information, 
+this Pokémon is very smart.  Very strong 
+is what it isn’t. 
+
+	Evolution Chain
+Blipbug ► Dottler ► Orbeetle
+
+  ↞--------| STATS |--------↠ 
              hp:         25
          attack:         20
         defense:         20

@@ -1,12 +1,14 @@
-nidoran-f	A poison type Pokémon
 
-NIDORAN has barbs that secrete a
-powerful poison. They are thought to
-have developed as protection for thissmall-bodied POKéMON.
-When enraged, it releases a horrible
-toxin from its horn.
+Nidoran-f	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Although small, its venomous barbs render 
+this POKéMON dangerous.  The female has 
+smaller horns. 
+
+	Evolution Chain
+Nidoran-f ► Nidorina ► Nidoqueen
+
+  ↞--------| STATS |--------↠ 
              hp:         55
          attack:         47
         defense:         52

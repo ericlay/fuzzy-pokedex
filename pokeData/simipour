@@ -1,10 +1,14 @@
-simipour	A water type Pokémon
 
-꼬리에서 발사하는 고압의 물은
-콘크리트 벽도 파괴할 수 있는
-위력을 지녔다.
+Simipour	 A water type Pokémon
 
-   ↞--------| STATS |--------↠ 
+The tuft on its head holds water.  When 
+the level runs low, it replenishes the 
+tuft by siphoning up water with its tail. 
+
+	Evolution Chain
+      Panpour ► Simipour
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         98
         defense:         63

@@ -1,10 +1,14 @@
-tranquill	A normal type Pokémon
 
-유토브가 사는 숲 속에는
-싸움이 없는 평화로운 나라가
-있다고 믿어진다.
+Tranquill	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It can return to its Trainer’s location 
+regardless of the distance separating 
+them. 
+
+	Evolution Chain
+Pidove ► Tranquill ► Unfezant
+
+  ↞--------| STATS |--------↠ 
              hp:         62
          attack:         77
         defense:         62

@@ -1,8 +1,17 @@
-kleavor	A bug type Pokémon
 
-                null
+Kleavor	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+A violent creature that fells towering 
+trees with its crude axes and shields 
+itself with hard stone.  If one should 
+chance upon this Pokémon in the wilds, 
+one's only recourse is to flee. 
+
+	Evolution Chain
+      Scyther ► Scizor
+kleavor
+
+  ↞--------| STATS |--------↠ 
              hp:         70
          attack:        135
         defense:         95
@@ -10,10 +19,10 @@ kleavor	A bug type Pokémon
 special-defense:         70
           speed:         85
 
-Pokedex ID: 900	Capture Rate: 115
-Base Exp: null	Happiness: null
+Pokedex ID: 900	Capture Rate: 
+Base Exp: 	Happiness: 115
 Height: 18	Weight: 890
 
-Genus: null
+Genus: Null
 Location Areas:
 

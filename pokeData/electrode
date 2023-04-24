@@ -1,12 +1,14 @@
-electrode	A electric type Pokémon
 
-One of ELECTRODE’s characteristics is
-its attraction to electricity.
-It is a problematical POKéMON thatcongregates mostly at electrical
-power plants to feed on electricity
-that has just been generated.
+Electrode	 A electric type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It stores electric energy under very 
+high pressure.  It often explodes with 
+little or no provocation. 
+
+	Evolution Chain
+      Voltorb ► Electrode
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         50
         defense:         70

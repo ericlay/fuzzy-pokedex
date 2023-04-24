@@ -1,10 +1,15 @@
-crabrawler	A fighting type Pokémon
 
-While guarding its weak points with its pincers,
-it looks for an opening and unleashes punches.
-When it loses, it foams at the mouth and faints.
+Crabrawler	 A fighting type Pokémon
 
-   ↞--------| STATS |--------↠ 
+While guarding its weak points with 
+its pincers, it looks for an opening 
+and unleashes punches.  When it loses, 
+it foams at the mouth and faints. 
+
+	Evolution Chain
+      Crabrawler ► Crabominable
+
+  ↞--------| STATS |--------↠ 
              hp:         47
          attack:         82
         defense:         57

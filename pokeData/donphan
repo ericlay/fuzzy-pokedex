@@ -1,10 +1,14 @@
-donphan	A ground type Pokémon
 
-It has sharp, hard tusks and a rugged
-hide. Its TACKLE is strong enough to
-knock down a house.
+Donphan	 A ground type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It has sharp, hard tusks and a rugged 
+hide.  Its TACKLE is strong enough to 
+knock down a house. 
+
+	Evolution Chain
+      Phanpy ► Donphan
+
+  ↞--------| STATS |--------↠ 
              hp:         90
          attack:        120
         defense:        120

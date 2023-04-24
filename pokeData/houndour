@@ -1,10 +1,14 @@
-houndour	A dark type Pokémon
 
-It uses different kinds of cries for
-communicating with others of its kind and
-for pursuing prey.
+Houndour	 A dark type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It uses different kinds of cries for 
+communicating with others of its kind 
+and for pursuing its prey. 
+
+	Evolution Chain
+      Houndour ► Houndoom
+
+  ↞--------| STATS |--------↠ 
              hp:         45
          attack:         60
         defense:         30

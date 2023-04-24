@@ -1,10 +1,14 @@
-tyrunt	A rock type Pokémon
 
-化石から　復活した　ポケモン。
-気に入らない　ことが　あると
-かんしゃくを　起こして　大暴れ。
+Tyrunt	 A rock type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This Pokémon was restored from a fossil. 
+ If something happens that it doesn’t 
+like, it throws a tantrum and runs wild. 
+
+	Evolution Chain
+      Tyrunt ► Tyrantrum
+
+  ↞--------| STATS |--------↠ 
              hp:         58
          attack:         89
         defense:         77

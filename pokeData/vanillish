@@ -1,10 +1,14 @@
-vanillish	A ice type Pokémon
 
-주변 공기를 차갑게 해서
-얼음 알갱이를 발생시켜서
-상대의 몸을 얼려버린다.
+Vanillish	 A ice type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Snowy mountains are this Pokémon’s habitat. 
+ During an ancient ice age, they moved 
+to southern areas. 
+
+	Evolution Chain
+Vanillite ► Vanillish ► Vanilluxe
+
+  ↞--------| STATS |--------↠ 
              hp:         51
          attack:         65
         defense:         65

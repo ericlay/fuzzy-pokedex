@@ -1,10 +1,14 @@
-phantump	A ghost type Pokémon
 
-腐った　切り株に　魂が　宿り
-ポケモンに　なった。
-人の　寄りつかない　森に　住む。
+Phantump	 A ghost type Pokémon
 
-   ↞--------| STATS |--------↠ 
+These Pokémon are created when spirits 
+possess rotten tree stumps.  They prefer 
+to live in abandoned forests. 
+
+	Evolution Chain
+      Phantump ► Trevenant
+
+  ↞--------| STATS |--------↠ 
              hp:         43
          attack:         70
         defense:         48

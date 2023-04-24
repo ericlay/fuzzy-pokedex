@@ -1,10 +1,14 @@
-skorupi	A poison type Pokémon
 
-Il saisit sa proie avec les pinces de
-sa queue et lui injecte un poison.
-Il peut survivre un an sans manger.
+Skorupi	 A poison type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It grips prey with its tail claws and 
+injects poison.  It tenaciously hangs 
+on until the poison takes. 
+
+	Evolution Chain
+      Skorupi ► Drapion
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         50
         defense:         90

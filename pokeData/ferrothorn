@@ -1,10 +1,14 @@
-ferrothorn	A grass type Pokémon
 
-3개의 촉수를 세게 내리치고
-거기에 가시를 날려 상대를
-흔적도 없이 분쇄한다.
+Ferrothorn	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It fights by swinging around its three 
+spiky feelers.  A hit from these steel 
+spikes can reduce a boulder to rubble. 
+
+	Evolution Chain
+      Ferroseed ► Ferrothorn
+
+  ↞--------| STATS |--------↠ 
              hp:         74
          attack:         94
         defense:        131

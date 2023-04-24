@@ -1,10 +1,15 @@
-orbeetle	A bug type Pokémon
 
-It’s famous for its high level of intelligence, and
-the large size of its brain is proof that it also
-possesses immense psychic power.
+Orbeetle	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It’s famous for its high level of intelligence, 
+and the large size of its brain is proof 
+that it also possesses immense psychic 
+power. 
+
+	Evolution Chain
+Blipbug ► Dottler ► Orbeetle
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         45
         defense:        110

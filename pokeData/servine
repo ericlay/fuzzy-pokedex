@@ -1,10 +1,14 @@
-servine	A grass type Pokémon
 
-땅을 미끄러지듯 달린다.
-빠른 움직임으로 상대를 혼란시키고
-덩굴채찍으로 꼼짝 못하게 한다.
+Servine	 A grass type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It moves along the ground as if sliding. 
+ Its swift movements befuddle its foes, 
+and it then attacks with a vine whip. 
+
+	Evolution Chain
+Snivy ► Servine ► Serperior
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         60
         defense:         75

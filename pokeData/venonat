@@ -1,11 +1,14 @@
-venonat	A bug type Pokémon
 
-VENONAT is said to have evolved with
-a coat of thin, stiff hair that covers
-its entire body for protection.It possesses large eyes that never fail
-to spot even miniscule prey.
+Venonat	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Lives in the shadows of tall trees where 
+it eats insects.  It is attracted by 
+light at night. 
+
+	Evolution Chain
+      Venonat ► Venomoth
+
+  ↞--------| STATS |--------↠ 
              hp:         60
          attack:         55
         defense:         50

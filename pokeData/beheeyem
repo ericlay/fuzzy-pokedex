@@ -1,10 +1,11 @@
-beheeyem	A psychic type Pokémon
 
-ゆびさきを　てんめつ　させて
-かいわするらしいが　その　パターンは
-まだ　かいどく　できていない。
+Beheeyem	 A psychic type Pokémon
 
-   ↞--------| STATS |--------↠ 
+                    
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
              hp:         75
          attack:         75
         defense:         75
@@ -12,10 +13,10 @@ beheeyem	A psychic type Pokémon
 special-defense:         95
           speed:         40
 
-Pokedex ID: 606	Capture Rate: 90
-Base Exp: 170	Happiness: 50
+Pokedex ID: 606	Capture Rate: 
+Base Exp: 170	Happiness: 
 Height: 10	Weight: 345
 
-Genus: Cerebral Pokémon
+Genus: 
 Location Areas:
 unova-route-14-area

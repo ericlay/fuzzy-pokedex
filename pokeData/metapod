@@ -1,12 +1,14 @@
-metapod	A bug type Pokémon
 
-The shell covering this POKéMON’s body
-is as hard as an iron slab.
-METAPOD does not move very much.It stays still because it is preparing
-its soft innards for evolution inside
-the hard shell.
+Metapod	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+This POKéMON is vulnerable to attack 
+while its shell is soft, exposing its 
+weak and tender body. 
+
+	Evolution Chain
+Caterpie ► Metapod ► Butterfree
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         20
         defense:         55

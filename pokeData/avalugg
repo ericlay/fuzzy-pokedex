@@ -1,10 +1,14 @@
-avalugg	A ice type Pokémon
 
-凍りついた　体は　鋼鉄のように
-硬い。立ちふさがる　ものを
-巨体で　押しつぶし　移動する。
+Avalugg	 A ice type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its ice-covered body is as hard as steel. 
+ Its cumbersome frame crushes anything 
+that stands in its way. 
+
+	Evolution Chain
+      Bergmite ► Avalugg
+
+  ↞--------| STATS |--------↠ 
              hp:         95
          attack:        117
         defense:        184

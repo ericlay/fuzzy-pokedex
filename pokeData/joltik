@@ -1,10 +1,14 @@
-joltik	A bug type Pokémon
 
-스스로 전기를 만들 수 없어
-다른 큰 포켓몬에
-달라붙어 정전기를 흡수한다.
+Joltik	 A bug type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Joltik that live in cities have learned 
+a technique for sucking electricity from 
+the outlets in houses. 
+
+	Evolution Chain
+      Joltik ► Galvantula
+
+  ↞--------| STATS |--------↠ 
              hp:         50
          attack:         47
         defense:         50

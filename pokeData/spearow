@@ -1,11 +1,14 @@
-spearow	A normal type Pokémon
 
-SPEAROW has a very loud cry that can
-be heard over half a mile away.
-If its high, keening cry is heardechoing all around, it is a sign that
-they are warning each other of danger.
+Spearow	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It flaps its small wings busily to fly. 
+ Using its beak, it searches in grass 
+for prey. 
+
+	Evolution Chain
+      Spearow ► Fearow
+
+  ↞--------| STATS |--------↠ 
              hp:         40
          attack:         60
         defense:         30

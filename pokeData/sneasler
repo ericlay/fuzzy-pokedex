@@ -1,8 +1,17 @@
-sneasler	A fighting type Pokémon
 
-                null
+Sneasler	 A fighting type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Because of Sneasler's virulent poison 
+and daunting physical prowess, no other 
+species could hope to best it on the 
+frozen highlands.  Preferring solitude, 
+this species does not form packs. 
+
+	Evolution Chain
+      Sneasel ► Weavile
+sneasler
+
+  ↞--------| STATS |--------↠ 
              hp:         80
          attack:        130
         defense:         60
@@ -10,10 +19,10 @@ sneasler	A fighting type Pokémon
 special-defense:         80
           speed:        120
 
-Pokedex ID: 903	Capture Rate: 135
-Base Exp: null	Happiness: null
+Pokedex ID: 903	Capture Rate: 
+Base Exp: 	Happiness: 135
 Height: 13	Weight: 430
 
-Genus: null
+Genus: Null
 Location Areas:
 

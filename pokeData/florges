@@ -1,10 +1,15 @@
-florges	A fairy type Pokémon
 
-テリトリーは　見事な　花園。
-草花の　放つ　エネルギーを　浴びて
-自分の　パワーにするのだ。
+Florges	 A fairy type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It claims exquisite flower gardens as 
+its territory, and it obtains power from 
+basking in the energy emitted by flowering 
+plants. 
+
+	Evolution Chain
+Flabebe ► Floette ► Florges
+
+  ↞--------| STATS |--------↠ 
              hp:         78
          attack:         65
         defense:         68

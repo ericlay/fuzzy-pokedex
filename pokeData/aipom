@@ -1,10 +1,14 @@
-aipom	A normal type Pokémon
 
-It lives atop tall trees. When leaping
-from branch to branch, it deftly uses its
-tail for balance.
+Aipom	 A normal type Pokémon
 
-   ↞--------| STATS |--------↠ 
+Its tail is so powerful that it can 
+use it to grab a tree branch and hold 
+itself up in the air. 
+
+	Evolution Chain
+      Aipom ► Ambipom
+
+  ↞--------| STATS |--------↠ 
              hp:         55
          attack:         70
         defense:         55

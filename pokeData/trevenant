@@ -1,10 +1,14 @@
-trevenant	A ghost type Pokémon
 
-ほかの　木々を　自在に　操る。
-森を　荒らす　人間は　死ぬまで
-森から　出られないようにするのだ。
+Trevenant	 A ghost type Pokémon
 
-   ↞--------| STATS |--------↠ 
+It can control trees at will.  It will 
+trap people who harm the forest, so they 
+can never leave. 
+
+	Evolution Chain
+      Phantump ► Trevenant
+
+  ↞--------| STATS |--------↠ 
              hp:         85
          attack:        110
         defense:         76
