@@ -1,12 +1,9 @@
 
 Tangrowth	 A grass type Pokémon
 
-It ensnares prey by extending arms made 
-of vines.  Losing arms to predators does 
-not trouble it. 
+                    
 
-	Evolution Chain
-      Tangela ► Tangrowth
+    Single Stage Evolution Pokémon
 
   ↞--------| STATS |--------↠ 
              hp:        100
@@ -16,11 +13,11 @@ not trouble it.
 special-defense:         50
           speed:         50
 
-Pokedex ID: 465	Capture Rate: 30
-Base Exp: 187	Happiness: 50
+Pokedex ID: 465	Capture Rate: 
+Base Exp: 187	Happiness: 
 Height: 20	Weight: 1286
 
-Genus: Vine Pokémon
+Genus: 
 Location Areas:
 giant-chasm-outside
 unova-route-13-area

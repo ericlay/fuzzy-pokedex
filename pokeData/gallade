@@ -1,19 +1,25 @@
 
-	 A  type Pokémon
+Gallade	 A psychic type Pokémon
 
 A master of courtesy and swordsmanship, 
-it fights using extending swords on its 
-elbows. 
+it fights using extending swords 
+on its elbows. 
 
 	Evolution Chain
 Ralts ► Kirlia ► Gardevoir
 gallade
 
   ↞--------| STATS |--------↠ 
+             hp:         68
+         attack:        125
+        defense:         65
+ special-attack:         65
+special-defense:        115
+          speed:         80
 
-Pokedex ID: 	Capture Rate: 45
-Base Exp: 	Happiness: 35
-Height: 	Weight: 
+Pokedex ID: 475	Capture Rate: 45
+Base Exp: 259	Happiness: 35
+Height: 16	Weight: 520
 
 Genus: Blade Pokémon
 Location Areas:

@@ -1,9 +1,12 @@
 
 Ekans	 A poison type Pokémon
 
-                    
+Moves silently and stealthily. 
+ Eats the eggs of birds, such 
+as PIDGEY and SPEAROW, whole. 
 
-    Single Stage Evolution Pokémon
+	Evolution Chain
+      Ekans ► Arbok
 
   ↞--------| STATS |--------↠ 
              hp:         35
@@ -13,11 +16,11 @@ Ekans	 A poison type Pokémon
 special-defense:         54
           speed:         55
 
-Pokedex ID: 23	Capture Rate: 
-Base Exp: 58	Happiness: 
+Pokedex ID: 23	Capture Rate: 255
+Base Exp: 58	Happiness: 70
 Height: 20	Weight: 69
 
-Genus: 
+Genus: Snake Pokémon
 Location Areas:
 sinnoh-route-212-east-towards-pastoria-city
 johto-route-32-area

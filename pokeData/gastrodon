@@ -1,9 +1,13 @@
 
 Gastrodon	 A water type Pokémon
 
-                    
+It has a pliable body without 
+any bones.  If any part of its 
+body is torn off, it grows right 
+back. 
 
-    Single Stage Evolution Pokémon
+	Evolution Chain
+      Shellos ► Gastrodon
 
   ↞--------| STATS |--------↠ 
              hp:        111
@@ -13,11 +17,11 @@ Gastrodon	 A water type Pokémon
 special-defense:         82
           speed:         39
 
-Pokedex ID: 423	Capture Rate: 
-Base Exp: 166	Happiness: 
+Pokedex ID: 423	Capture Rate: 75
+Base Exp: 166	Happiness: 50
 Height: 9	Weight: 299
 
-Genus: 
+Genus: Sea Slug Pokémon
 Location Areas:
 canalave-city-area
 pastoria-city-area

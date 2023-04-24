@@ -1,9 +1,13 @@
 
 Beheeyem	 A psychic type Pokémon
 
-                    
+It can manipulate an opponent’s 
+memory.  Apparently, it communicates 
+by flashing its three different-colored 
+fingers. 
 
-    Single Stage Evolution Pokémon
+	Evolution Chain
+      Elgyem ► Beheeyem
 
   ↞--------| STATS |--------↠ 
              hp:         75
@@ -13,10 +17,10 @@ Beheeyem	 A psychic type Pokémon
 special-defense:         95
           speed:         40
 
-Pokedex ID: 606	Capture Rate: 
-Base Exp: 170	Happiness: 
+Pokedex ID: 606	Capture Rate: 90
+Base Exp: 170	Happiness: 50
 Height: 10	Weight: 345
 
-Genus: 
+Genus: Cerebral Pokémon
 Location Areas:
 unova-route-14-area
