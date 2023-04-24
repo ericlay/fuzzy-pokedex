@@ -62,7 +62,7 @@ quick_view() {
 ### Update Pokemon stats file set
 update_pokeData() {
 	printf "\n\t\t%s\n\t%s\n\n" "WARNING!!!" "This WILL take a long time"
-	pokemon-colorscripts -l | parallel --bar -j 200% pokeParse
+	pokemon-colorscripts -l | sort | parallel --bar --retry-failed -color -j "${1:-200%}" pokeParse
 }
 
 if ! (( $# )); then
@@ -78,7 +78,7 @@ while (( $# )); do
 			shift
 			;;
     	-u|--update)
-			update_pokeData
+			update_pokeData "$1"
 			shift
 			;;
     	-h|--help)
