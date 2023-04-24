@@ -1,0 +1,51 @@
+#!/bin/bash
+
+### Assign first arg as pokemon
+POKEMON="$1"
+
+### Set temp files to hold raw data
+DATADIR="/usr/share/fuzzy-pokedex-dev/pokeData"
+
+### GET various pokeAPI endpoint URLs
+endpoint_POKEMON="$(curl -s "https://pokeapi.co/api/v2/pokemon/$POKEMON")"
+endpoint_SPECIES="$(curl -s "https://pokeapi.co/api/v2/pokemon-species/$POKEMON")"
+endpoint_ENCOUNTER="$(curl -s "https://pokeapi.co/api/v2/pokemon/$POKEMON/encounters")"
+endpoint_CHAIN="$(curl -s "$(jq -r '.evolution_chain["url"]' <<< "$endpoint_SPECIES")")"
+
+### Parse JSON for attributes and assign to vars
+IFS=$'\t' read -r NAME HEIGHT WEIGHT ID BASEX < <( jq -r '[.name, .height, .weight, .id, .base_experience] | @tsv' <<< "$endpoint_POKEMON")
+IFS=$'\t' read -r BASEHAPPY CAPTURE < <( jq -r '[.base_happiness, .capture_rate] | @tsv' <<< "$endpoint_SPECIES")
+LOCATE=$(jq -r '.[].location_area["name"]' <<< "$endpoint_ENCOUNTER")
+GENUS=$(jq -r '.genera[7].genus' <<< "$endpoint_SPECIES")
+mapfile -t TYPE < <(jq -r '.types[].type["name"]' <<< "$endpoint_POKEMON")
+mapfile -t STAT < <(jq -r '.stats[].stat["name"]' <<< "$endpoint_POKEMON")
+mapfile -t VAL < <(jq -r '.stats[].base_stat' <<< "$endpoint_POKEMON")
+mapfile -t FLAVOR_ARRAY < <( jq '.flavor_text_entries[] | select(.language["name"] == "en") | .flavor_text'  <<< "$endpoint_SPECIES")
+FLAVOR="$(tr -d '\"' < <(sed -e 's/\\./ /g' <<< ${FLAVOR_ARRAY[0]} | sed 's/\./& /g' | sed 's/.\{36\}\s/&\n/g'))"
+CHAIN1=$(jq -r '.chain.species["name"]' <<< "$endpoint_CHAIN")
+CHAIN2=$(jq -r '.chain.evolves_to[].species["name"]' <<< "$endpoint_CHAIN")
+CHAIN3=$(jq -r '.chain.evolves_to[].evolves_to[].species["name"]' <<< "$endpoint_CHAIN")
+
+### Print formatted data
+{ printf "\n%s\t A %s type Pokémon\n" \
+	"${NAME^}" "${TYPE[0]}";
+printf "\n%20s\n\n" "$FLAVOR";
+if [[ -n "$CHAIN3" ]];
+	then
+		printf "\t%s\n%s %s %s %s %s\n\n" \
+		"Evolution Chain" "${CHAIN1^}" "►" "${CHAIN2^}" "►" "${CHAIN3^}";
+	elif [[ -z "$CHAIN2" ]];
+	then
+		printf "    %s\n\n" "Single Stage Evolution Pokémon";	
+	else
+		printf "\t%s\n      %s %s %s\n\n" \
+	"Evolution Chain" "${CHAIN1^}" "►" "${CHAIN2^}";
+fi;
+printf "  ↞--------| STATS |--------↠ \n";
+for ((i=0; i<${#STAT[@]}; i++)); do
+	printf "%15s: %10s\n" "${STAT[i]}" "${VAL[i]}";
+done;
+printf "\nPokedex ID: %s\tCapture Rate: %s\nBase Exp: %s\tHappiness: %s\nHeight: %s\tWeight: %s\n" \
+	"$ID" "$CAPTURE" "$BASEX" "$BASEHAPPY" "$HEIGHT" "$WEIGHT";
+printf "\nGenus: %s" "${GENUS^}";
+printf "\nLocation Areas:\n%s\n" "$LOCATE";} > "$DATADIR/$POKEMON"
