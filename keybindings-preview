@@ -1,8 +1,8 @@
 
-				KEYBINDS
+			    Pokédex KEYBINDS
 
-  	space        	Reads the Pokedex entry
-  	ctrl-space   	Stops reading the Pokedex entry
+  	space        	Reads the Pokédex entry
+  	ctrl-space   	Stops reading the Pokédex entry
   	ctrl-n       	Shows small sprite version
   	ctrl-b       	Shows large sprite version
   	ctrl-s       	Shows shiny sprite version
