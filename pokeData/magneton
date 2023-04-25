@@ -1,15 +1,35 @@
 
-Name:  Magneton
-Pokedex Number:  082
-Gender Ratio:  Genderless
-Abilities: Magnet Pull - Sturdy - Analytic (Hidden Ability)
+Magneton	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 465
-Hp:  50
-Attack:  60
-Defence:  95
-Special Attack:  120
-Special Defence:  70
-Speed:  70
+Formed by several MAGNEMITEs 
+linked together.  They frequently 
+appear when sunspots flare up. 
+
+	Evolution Chain
+Magnemite ► Magneton ► Magnezone
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         60
+        defense:         95
+ special-attack:        120
+special-defense:         70
+          speed:         70
+
+Pokedex ID: 82	Capture Rate: 60
+Base Exp: 163	Happiness: 50
+Height: 10	Weight: 600
+
+Genus: Magnet Pokémon
+Location Areas:
+sinnoh-victory-road-2f
+sinnoh-route-222-area
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+power-plant-area
+new-mauville-area
+p2-laboratory-area
+lost-hotel-area
+johto-safari-zone-zone-peak
+johto-safari-zone-zone-mountain

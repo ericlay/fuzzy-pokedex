@@ -1,15 +1,39 @@
 
-Name:  Magnemite
-Pokedex Number:  081
-Gender Ratio:  Genderless
-Abilities: Magnet Pull - Sturdy - Analytic (Hidden Ability)
+Magnemite	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 325
-Hp:  25
-Attack:  35
-Defence:  70
-Special Attack:  95
-Special Defence:  55
-Speed:  45
+Uses anti-gravity to stay suspended. 
+ Appears without warning and 
+uses THUNDER WAVE and similar 
+moves. 
+
+	Evolution Chain
+Magnemite ► Magneton ► Magnezone
+
+  ↞--------| STATS |--------↠ 
+             hp:         25
+         attack:         35
+        defense:         70
+ special-attack:         95
+special-defense:         55
+          speed:         45
+
+Pokedex ID: 81	Capture Rate: 190
+Base Exp: 65	Happiness: 50
+Height: 3	Weight: 60
+
+Genus: Magnet Pokémon
+Location Areas:
+fuego-ironworks-area
+sinnoh-route-222-area
+johto-route-38-area
+johto-route-39-area
+kanto-route-6-area
+kanto-route-10-area
+kanto-route-11-area
+power-plant-area
+new-mauville-entrance
+new-mauville-area
+virbank-complex-outer
+virbank-complex-inner
+johto-safari-zone-zone-peak
+johto-safari-zone-zone-wasteland

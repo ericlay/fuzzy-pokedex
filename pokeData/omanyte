@@ -1,15 +1,25 @@
 
-Name:  Omanyte
-Pokedex Number:  138
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Swift Swim - Shell Armor - Weak Armor (Hidden Ability)
+Omanyte	 A rock type Pokémon
 
-Base Stats
-----------------------
-Total: 355
-Hp:  35
-Attack:  40
-Defence:  100
-Special Attack:  90
-Special Defence:  55
-Speed:  35
+Although long extinct, in rare 
+cases, it can be genetically 
+resurrected from fossils. 
+
+	Evolution Chain
+      Omanyte ► Omastar
+
+  ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:         40
+        defense:        100
+ special-attack:         90
+special-defense:         55
+          speed:         35
+
+Pokedex ID: 138	Capture Rate: 45
+Base Exp: 71	Happiness: 50
+Height: 4	Weight: 75
+
+Genus: Spiral Pokémon
+Location Areas:
+cinnabar-island-cinnabar-lab

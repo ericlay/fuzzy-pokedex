@@ -1,15 +1,27 @@
 
-Name:  Lugia
-Pokedex Number:  249
-Gender Ratio:  Genderless
-Abilities: Pressure - Multiscale (Hidden Ability)
+Lugia	 A psychic type Pokémon
 
-Base Stats
-----------------------
-Total: 680
-Hp:  106
-Attack:  90
-Defence:  130
-Special Attack:  90
-Special Defence:  154
-Speed:  110
+It is said that it quietly spends 
+its time deep at the bottom of 
+the sea because its powers are 
+too strong. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:        106
+         attack:         90
+        defense:        130
+ special-attack:         90
+special-defense:        154
+          speed:        110
+
+Pokedex ID: 249	Capture Rate: 3
+Base Exp: 340	Happiness: 0
+Height: 52	Weight: 2160
+
+Genus: Diving Pokémon
+Location Areas:
+whirl-islands-b2f
+whirl-islands-b3f
+navel-rock-area

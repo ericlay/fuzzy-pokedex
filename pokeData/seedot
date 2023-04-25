@@ -1,15 +1,37 @@
 
-Name:  Seedot
-Pokedex Number:  273
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Chlorophyll - Early Bird - Pickpocket (Hidden Ability)
+Seedot	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 220
-Hp:  40
-Attack:  40
-Defence:  50
-Special Attack:  30
-Special Defence:  30
-Speed:  30
+SEEDOT attaches itself to a 
+tree branch using the top of 
+its head.  It sucks moisture 
+from the tree while hanging off 
+the branch.  The more water it 
+drinks, the glossier Seedot’s 
+body becomes. 
+
+	Evolution Chain
+Seedot ► Nuzleaf ► Shiftry
+
+  ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         40
+        defense:         50
+ special-attack:         30
+special-defense:         30
+          speed:         30
+
+Pokedex ID: 273	Capture Rate: 255
+Base Exp: 44	Happiness: 50
+Height: 5	Weight: 40
+
+Genus: Acorn Pokémon
+Location Areas:
+eterna-forest-area
+sinnoh-route-203-area
+sinnoh-route-204-south-towards-jubilife-city
+sinnoh-route-204-north-towards-floaroma-town
+sinnoh-route-210-south-towards-solaceon-town
+hoenn-route-102-area
+hoenn-route-114-area
+hoenn-route-117-area
+hoenn-route-120-area

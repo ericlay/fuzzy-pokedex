@@ -1,15 +1,31 @@
 
-Name:  Magmar
-Pokedex Number:  126
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Flame Body - Vital Spirit (Hidden Ability)
+Magmar	 A fire type Pokémon
 
-Base Stats
-----------------------
-Total: 495
-Hp:  65
-Attack:  95
-Defence:  57
-Special Attack:  100
-Special Defence:  85
-Speed:  93
+Its body always burns with an 
+orange glow that enables it to 
+hide perfectly among flames. 
+
+	Evolution Chain
+Magby ► Magmar ► Magmortar
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         95
+        defense:         57
+ special-attack:        100
+special-defense:         85
+          speed:         93
+
+Pokedex ID: 126	Capture Rate: 45
+Base Exp: 173	Happiness: 50
+Height: 13	Weight: 445
+
+Genus: Spitfire Pokémon
+Location Areas:
+fuego-ironworks-area
+burned-tower-b1f
+mt-silver-1f
+pokemon-mansion-3f
+pokemon-mansion-b1f
+mt-ember-area
+johto-safari-zone-zone-peak

@@ -1,15 +1,35 @@
 
-Name:  Rhydon
-Pokedex Number:  112
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Lightningrod - Rock Head - Reckless (Hidden Ability)
+Rhydon	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 485
-Hp:  105
-Attack:  130
-Defence:  120
-Special Attack:  45
-Special Defence:  45
-Speed:  40
+Protected by an armor-like hide, 
+it is capable of living in molten 
+lava of 3,600 degrees. 
+
+	Evolution Chain
+Rhyhorn ► Rhydon ► Rhyperior
+
+  ↞--------| STATS |--------↠ 
+             hp:        105
+         attack:        130
+        defense:        120
+ special-attack:         45
+special-defense:         45
+          speed:         40
+
+Pokedex ID: 112	Capture Rate: 60
+Base Exp: 170	Happiness: 50
+Height: 19	Weight: 1200
+
+Genus: Drill Pokémon
+Location Areas:
+sinnoh-victory-road-1f
+stark-mountain-area
+stark-mountain-entrance
+stark-mountain-inside
+sinnoh-route-227-area
+sinnoh-route-228-area
+kanto-victory-road-1-1f
+kanto-victory-road-1-2f
+kanto-victory-road-1-3f
+cerulean-cave-2f
+cerulean-cave-b1f

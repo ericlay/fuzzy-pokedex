@@ -1,15 +1,27 @@
 
-Name:  Turtwig
-Pokedex Number:  387
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Overgrow - Shell Armor (Hidden Ability)
+Turtwig	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 318
-Hp:  55
-Attack:  68
-Defence:  64
-Special Attack:  45
-Special Defence:  55
-Speed:  31
+Made from soil, the shell on 
+its back hardens when it drinks 
+water.  It lives along lakes. 
+
+	Evolution Chain
+Turtwig ► Grotle ► Torterra
+
+  ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         68
+        defense:         64
+ special-attack:         45
+special-defense:         55
+          speed:         31
+
+Pokedex ID: 387	Capture Rate: 45
+Base Exp: 64	Happiness: 70
+Height: 4	Weight: 102
+
+Genus: Tiny Leaf Pokémon
+Location Areas:
+lake-verity-before-galactic-intervention
+sinnoh-route-201-area
+hoenn-route-101-area

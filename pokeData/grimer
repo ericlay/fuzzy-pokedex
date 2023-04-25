@@ -1,15 +1,38 @@
 
-Name:  Grimer
-Pokedex Number:  088
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Stench - Sticky Hold - Poison Touch (Hidden Ability)
+Grimer	 A poison type Pokémon
 
-Base Stats
-----------------------
-Total: 325
-Hp:  80
-Attack:  80
-Defence:  50
-Special Attack:  40
-Special Defence:  50
-Speed:  25
+Appears in filthy areas.  Thrives 
+by sucking up polluted sludge 
+that is pumped out of factories. 
+
+	Evolution Chain
+      Grimer ► Muk
+
+  ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:         80
+        defense:         50
+ special-attack:         40
+special-defense:         50
+          speed:         25
+
+Pokedex ID: 88	Capture Rate: 190
+Base Exp: 65	Happiness: 70
+Height: 9	Weight: 300
+
+Genus: Sludge Pokémon
+Location Areas:
+sinnoh-route-212-east-towards-pastoria-city
+celadon-city-area
+kanto-route-16-area
+kanto-route-17-area
+kanto-route-18-area
+power-plant-area
+pokemon-mansion-1f
+pokemon-mansion-2f
+pokemon-mansion-3f
+pokemon-mansion-b1f
+fiery-path-area
+castelia-sewers-area
+castelia-sewers-unknown-area-38
+johto-safari-zone-zone-marshland

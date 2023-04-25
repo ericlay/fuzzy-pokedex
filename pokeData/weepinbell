@@ -1,15 +1,43 @@
 
-Name:  Weepinbell
-Pokedex Number:  070
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Gluttony (Hidden Ability)
+Weepinbell	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 390
-Hp:  65
-Attack:  90
-Defence:  50
-Special Attack:  85
-Special Defence:  45
-Speed:  55
+It spits out POISONPOWDER to 
+immobilize the enemy and then 
+finishes it with a spray of ACID. 
+
+	Evolution Chain
+Bellsprout ► Weepinbell ► Victreebel
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         90
+        defense:         50
+ special-attack:         85
+special-defense:         45
+          speed:         55
+
+Pokedex ID: 70	Capture Rate: 120
+Base Exp: 137	Happiness: 70
+Height: 10	Weight: 64
+
+Genus: Flycatcher Pokémon
+Location Areas:
+sinnoh-route-224-area
+sinnoh-route-229-area
+sinnoh-sea-route-230-area
+johto-route-44-area
+kanto-route-12-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+kanto-route-24-area
+kanto-route-25-area
+cerulean-cave-1f
+cerulean-cave-2f
+berry-forest-area
+cape-brink-area
+bond-bridge-area
+water-path-area
+kalos-route-14-area
+kalos-route-16-area
+kalos-route-19-area

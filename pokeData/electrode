@@ -1,15 +1,31 @@
 
-Name:  Electrode
-Pokedex Number:  101
-Gender Ratio:  Genderless
-Abilities: Soundproof - Static - Aftermath (Hidden Ability)
+Electrode	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 480
-Hp:  60
-Attack:  50
-Defence:  70
-Special Attack:  80
-Special Defence:  80
-Speed:  140
+It stores electric energy under 
+very high pressure.  It often 
+explodes with little or no provocation. 
+
+	Evolution Chain
+      Voltorb ► Electrode
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         50
+        defense:         70
+ special-attack:         80
+special-defense:         80
+          speed:        150
+
+Pokedex ID: 101	Capture Rate: 60
+Base Exp: 172	Happiness: 70
+Height: 12	Weight: 666
+
+Genus: Ball Pokémon
+Location Areas:
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+power-plant-area
+new-mauville-area
+lost-hotel-area
+team-rocket-hq-area

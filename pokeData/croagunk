@@ -1,15 +1,29 @@
 
-Name:  Croagunk
-Pokedex Number:  453
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Anticipation - Dry Skin - Poison Touch (Hidden Ability)
+Croagunk	 A poison type Pokémon
 
-Base Stats
-----------------------
-Total: 300
-Hp:  48
-Attack:  61
-Defence:  40
-Special Attack:  61
-Special Defence:  40
-Speed:  50
+Its cheeks hold poison sacs. 
+ It tries to catch foes off guard 
+to jab them with toxic fingers. 
+
+	Evolution Chain
+      Croagunk ► Toxicroak
+
+  ↞--------| STATS |--------↠ 
+             hp:         48
+         attack:         61
+        defense:         40
+ special-attack:         61
+special-defense:         40
+          speed:         50
+
+Pokedex ID: 453	Capture Rate: 140
+Base Exp: 60	Happiness: 100
+Height: 7	Weight: 230
+
+Genus: Toxic Mouth Pokémon
+Location Areas:
+sinnoh-route-212-east-towards-pastoria-city
+icirrus-city-area
+unova-route-8-area
+moor-of-icirrus-area
+kalos-route-7-area

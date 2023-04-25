@@ -1,15 +1,27 @@
 
-Name:  Zapdos
-Pokedex Number:  145
-Gender Ratio:  Genderless
-Abilities: Pressure - Static (Hidden Ability)
+Zapdos	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 580
-Hp:  90
-Attack:  90
-Defence:  85
-Special Attack:  125
-Special Defence:  90
-Speed:  100
+A legendary bird Pokémon that 
+is said to appear from clouds 
+while dropping enormous lightning 
+bolts. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         90
+        defense:         85
+ special-attack:        125
+special-defense:         90
+          speed:        100
+
+Pokedex ID: 145	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 16	Weight: 526
+
+Genus: Electric Pokémon
+Location Areas:
+kanto-route-10-area
+power-plant-area
+roaming-sinnoh-area

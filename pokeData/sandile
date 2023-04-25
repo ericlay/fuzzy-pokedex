@@ -1,15 +1,31 @@
 
-Name:  Sandile
-Pokedex Number:  551
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Intimidate - Moxie - Anger Point (Hidden Ability)
+Sandile	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 292
-Hp:  50
-Attack:  72
-Defence:  35
-Special Attack:  35
-Special Defence:  35
-Speed:  65
+They live buried in the sands 
+of the desert.  The sun-warmed 
+sands prevent their body temperature 
+from dropping. 
+
+	Evolution Chain
+Sandile ► Krokorok ► Krookodile
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         72
+        defense:         35
+ special-attack:         35
+special-defense:         35
+          speed:         65
+
+Pokedex ID: 551	Capture Rate: 180
+Base Exp: 58	Happiness: 50
+Height: 7	Weight: 152
+
+Genus: Desert Croc Pokémon
+Location Areas:
+desert-resort-entrance
+desert-resort-area
+relic-castle-a
+relic-castle-c
+unova-route-4-area
+kalos-route-9-area

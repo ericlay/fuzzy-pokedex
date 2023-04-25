@@ -1,15 +1,33 @@
 
-Name:  Corphish
-Pokedex Number:  341
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Hyper Cutter - Shell Armor - Adaptability (Hidden Ability)
+Corphish	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 308
-Hp:  43
-Attack:  80
-Defence:  65
-Special Attack:  50
-Special Defence:  35
-Speed:  35
+Its hardy vitality enables it 
+to adapt to any environment. 
+ Its pincers will never release 
+prey. 
+
+	Evolution Chain
+      Corphish ► Crawdaunt
+
+  ↞--------| STATS |--------↠ 
+             hp:         43
+         attack:         80
+        defense:         65
+ special-attack:         50
+special-defense:         35
+          speed:         35
+
+Pokedex ID: 341	Capture Rate: 205
+Base Exp: 62	Happiness: 50
+Height: 6	Weight: 115
+
+Genus: Ruffian Pokémon
+Location Areas:
+celestic-town-area
+petalburg-city-area
+hoenn-route-102-area
+hoenn-route-117-area
+striaton-city-area
+unova-route-3-area
+kalos-route-3-area
+parfum-palace-area

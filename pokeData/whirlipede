@@ -1,15 +1,26 @@
 
-Name:  Whirlipede
-Pokedex Number:  544
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Poison Point - Swarm - Speed Boost (Hidden Ability)
+Whirlipede	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 360
-Hp:  40
-Attack:  55
-Defence:  99
-Special Attack:  40
-Special Defence:  79
-Speed:  47
+Protected by a hard shell, it 
+spins its body like a wheel and 
+crashes furiously into its enemies. 
+
+	Evolution Chain
+Venipede ► Whirlipede ► Scolipede
+
+  ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         55
+        defense:         99
+ special-attack:         40
+special-defense:         79
+          speed:         47
+
+Pokedex ID: 544	Capture Rate: 120
+Base Exp: 126	Happiness: 50
+Height: 12	Weight: 585
+
+Genus: Curlipede Pokémon
+Location Areas:
+pinwheel-forest-inside
+lostlorn-forest-area

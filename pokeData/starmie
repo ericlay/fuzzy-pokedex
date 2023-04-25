@@ -1,15 +1,29 @@
 
-Name:  Starmie
-Pokedex Number:  121
-Gender Ratio:  Genderless
-Abilities: Illuminate - Natural Cure - Analytic (Hidden Ability)
+Starmie	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 520
-Hp:  60
-Attack:  75
-Defence:  85
-Special Attack:  100
-Special Defence:  85
-Speed:  115
+Its central core glows with 
+the seven colors of the rainbow. 
+ Some people value the core as 
+a gem. 
+
+	Evolution Chain
+      Staryu ► Starmie
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         75
+        defense:         85
+ special-attack:        100
+special-defense:         85
+          speed:        115
+
+Pokedex ID: 121	Capture Rate: 60
+Base Exp: 182	Happiness: 50
+Height: 11	Weight: 800
+
+Genus: Mysterious Pokémon
+Location Areas:
+unova-route-13-area
+undella-town-area
+humilau-city-area
+kalos-route-8-area

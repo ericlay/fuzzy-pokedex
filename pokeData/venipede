@@ -1,15 +1,27 @@
 
-Name:  Venipede
-Pokedex Number:  543
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Poison Point - Swarm - Speed Boost (Hidden Ability)
+Venipede	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 260
-Hp:  30
-Attack:  45
-Defence:  59
-Special Attack:  30
-Special Defence:  39
-Speed:  57
+Its bite injects a potent poison, 
+enough to paralyze large bird 
+Pokémon that try to prey on it. 
+
+	Evolution Chain
+Venipede ► Whirlipede ► Scolipede
+
+  ↞--------| STATS |--------↠ 
+             hp:         30
+         attack:         45
+        defense:         59
+ special-attack:         30
+special-defense:         39
+          speed:         57
+
+Pokedex ID: 543	Capture Rate: 255
+Base Exp: 52	Happiness: 50
+Height: 4	Weight: 53
+
+Genus: Centipede Pokémon
+Location Areas:
+pinwheel-forest-inside
+lostlorn-forest-area
+unova-route-20-area

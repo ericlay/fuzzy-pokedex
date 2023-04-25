@@ -1,15 +1,28 @@
 
-Name:  Joltik
-Pokedex Number:  595
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Compoundeyes - Unnerve - Swarm (Hidden Ability)
+Joltik	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 319
-Hp:  50
-Attack:  47
-Defence:  50
-Special Attack:  57
-Special Defence:  50
-Speed:  65
+Joltik that live in cities have 
+learned a technique for sucking 
+electricity from the outlets 
+in houses. 
+
+	Evolution Chain
+      Joltik ► Galvantula
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         47
+        defense:         50
+ special-attack:         57
+special-defense:         50
+          speed:         65
+
+Pokedex ID: 595	Capture Rate: 190
+Base Exp: 64	Happiness: 50
+Height: 1	Weight: 6
+
+Genus: Attaching Pokémon
+Location Areas:
+chargestone-cave-1f
+chargestone-cave-b1f
+chargestone-cave-b2f

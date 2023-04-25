@@ -1,15 +1,27 @@
 
-Name:  Clawitzer
-Pokedex Number:  693
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Mega Launcher
+Clawitzer	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 500
-Hp:  71
-Attack:  73
-Defence:  88
-Special Attack:  120
-Special Defence:  89
-Speed:  59
+Their enormous claws launch 
+cannonballs of water powerful 
+enough to pierce tanker hulls. 
+
+	Evolution Chain
+      Clauncher ► Clawitzer
+
+  ↞--------| STATS |--------↠ 
+             hp:         71
+         attack:         73
+        defense:         88
+ special-attack:        120
+special-defense:         89
+          speed:         59
+
+Pokedex ID: 693	Capture Rate: 55
+Base Exp: 100	Happiness: 50
+Height: 13	Weight: 353
+
+Genus: Howitzer Pokémon
+Location Areas:
+ambrette-town-area
+cyllage-city-area
+kalos-route-8-area

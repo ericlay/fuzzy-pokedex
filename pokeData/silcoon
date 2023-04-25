@@ -1,15 +1,32 @@
 
-Name:  Silcoon
-Pokedex Number:  266
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shed Skin
+Silcoon	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 205
-Hp:  50
-Attack:  35
-Defence:  55
-Special Attack:  25
-Special Defence:  25
-Speed:  15
+SILCOON tethers itself to a 
+tree branch using silk to keep 
+from falling.  There,  Silcoon 
+hangs quietly while it awaits 
+evolution.  It peers out of the 
+silk cocoon through a small hole. 
+
+	Evolution Chain
+Wurmple ► Silcoon
+cascoon ► Beautifly
+dustox
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         35
+        defense:         55
+ special-attack:         25
+special-defense:         25
+          speed:         15
+
+Pokedex ID: 266	Capture Rate: 120
+Base Exp: 72	Happiness: 70
+Height: 6	Weight: 100
+
+Genus: Cocoon Pokémon
+Location Areas:
+eterna-forest-area
+sinnoh-route-205-east-towards-eterna-city
+petalburg-woods-area

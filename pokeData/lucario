@@ -1,15 +1,25 @@
 
-Name:  Lucario
-Pokedex Number:  448
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Steadfast - Inner Focus - Justified (Hidden Ability)
+Lucario	 A fighting type Pokémon
 
-Base Stats
-----------------------
-Total: 525
-Hp:  70
-Attack:  145
-Defence:  88
-Special Attack:  140
-Special Defence:  70
-Speed:  112
+It has the ability to sense 
+the auras of all things.  It 
+understands human speech. 
+
+	Evolution Chain
+      Riolu ► Lucario
+
+  ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:        110
+        defense:         70
+ special-attack:        115
+special-defense:         70
+          speed:         90
+
+Pokedex ID: 448	Capture Rate: 45
+Base Exp: 184	Happiness: 50
+Height: 12	Weight: 540
+
+Genus: Aura Pokémon
+Location Areas:
+tower-of-mastery-area

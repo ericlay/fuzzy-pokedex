@@ -1,15 +1,47 @@
 
-Name:  Steelix
-Pokedex Number:  208
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Rock Head - Sturdy - Sheer Force (Hidden Ability)
+Steelix	 A steel type Pokémon
 
-Base Stats
-----------------------
-Total: 510
-Hp:  75
-Attack:  125
-Defence:  230
-Special Attack:  55
-Special Defence:  95
-Speed:  30
+It is thought its body transformed 
+as a result of iron accumulating 
+internally from swallowing soil. 
+
+	Evolution Chain
+      Onix ► Steelix
+
+  ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         85
+        defense:        200
+ special-attack:         55
+special-defense:         65
+          speed:         30
+
+Pokedex ID: 208	Capture Rate: 25
+Base Exp: 179	Happiness: 50
+Height: 92	Weight: 4000
+
+Genus: Iron Snake Pokémon
+Location Areas:
+sinnoh-victory-road-1f
+sinnoh-victory-road-2f
+sinnoh-victory-road-b1f
+sinnoh-victory-road-inside-b1f
+sinnoh-victory-road-inside
+sinnoh-victory-road-inside-exit
+snowpoint-temple-1f
+snowpoint-temple-b1f
+snowpoint-temple-b2f
+snowpoint-temple-b3f
+snowpoint-temple-b4f
+snowpoint-temple-b5f
+iron-island-b2f-right
+iron-island-b2f-left
+iron-island-b3f
+mt-silver-2f
+johto-route-47-inside-cave
+twist-mountain-area
+clay-tunnel-area
+underground-ruins-area
+rocky-mountain-room-area
+glacier-room-area
+iron-room-area

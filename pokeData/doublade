@@ -1,15 +1,26 @@
 
-Name:  Doublade
-Pokedex Number:  680
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: No Guard
+Doublade	 A steel type Pokémon
 
-Base Stats
-----------------------
-Total: 448
-Hp:  59
-Attack:  110
-Defence:  150
-Special Attack:  45
-Special Defence:  49
-Speed:  35
+When Honedge evolves, it divides 
+into two swords, which cooperate 
+via telepathy to coordinate attacks 
+and slash their enemies to ribbons. 
+
+	Evolution Chain
+Honedge ► Doublade ► Aegislash
+
+  ↞--------| STATS |--------↠ 
+             hp:         59
+         attack:        110
+        defense:        150
+ special-attack:         45
+special-defense:         49
+          speed:         35
+
+Pokedex ID: 680	Capture Rate: 90
+Base Exp: 157	Happiness: 50
+Height: 8	Weight: 45
+
+Genus: Sword Pokémon
+Location Areas:
+

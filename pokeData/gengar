@@ -1,15 +1,25 @@
 
-Name:  Gengar
-Pokedex Number:  094
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Levitate
+Gengar	 A ghost type Pokémon
 
-Base Stats
-----------------------
-Total: 500
-Hp:  60
-Attack:  65
-Defence:  80
-Special Attack:  170
-Special Defence:  95
-Speed:  130
+Under a full moon, Gengar 
+likes to mimic the shadows of 
+people and laugh at their fright. 
+
+	Evolution Chain
+Gastly ► Haunter ► Gengar
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         65
+        defense:         60
+ special-attack:        130
+special-defense:         75
+          speed:        110
+
+Pokedex ID: 94	Capture Rate: 45
+Base Exp: 250	Happiness: 50
+Height: 15	Weight: 405
+
+Genus: Shadow Pokémon
+Location Areas:
+old-chateau-2f-right-room

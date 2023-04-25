@@ -1,15 +1,30 @@
 
-Name:  Voltorb
-Pokedex Number:  100
-Gender Ratio:  Genderless
-Abilities: Soundproof - Static - Aftermath (Hidden Ability)
+Voltorb	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 330
-Hp:  40
-Attack:  30
-Defence:  50
-Special Attack:  55
-Special Defence:  55
-Speed:  100
+Usually found in power plants. 
+ Easily mistaken for a POKé BALL, 
+they have zapped many people. 
+
+	Evolution Chain
+      Voltorb ► Electrode
+
+  ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         30
+        defense:         50
+ special-attack:         55
+special-defense:         55
+          speed:        100
+
+Pokedex ID: 100	Capture Rate: 190
+Base Exp: 66	Happiness: 70
+Height: 5	Weight: 104
+
+Genus: Ball Pokémon
+Location Areas:
+sinnoh-route-218-area
+kanto-route-10-area
+power-plant-area
+new-mauville-entrance
+new-mauville-area
+team-rocket-hq-area

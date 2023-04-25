@@ -1,15 +1,29 @@
 
-Name:  Sudowoodo
-Pokedex Number:  185
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sturdy - Rock Head - Rattled (Hidden Ability)
+Sudowoodo	 A rock type Pokémon
 
-Base Stats
-----------------------
-Total: 410
-Hp:  70
-Attack:  100
-Defence:  115
-Special Attack:  30
-Special Defence:  65
-Speed:  30
+Although it always pretends 
+to be a tree, its composi­ tion 
+appears to be closer to a rock 
+than a plant. 
+
+	Evolution Chain
+      Bonsly ► Sudowoodo
+
+  ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:        100
+        defense:        115
+ special-attack:         30
+special-defense:         65
+          speed:         30
+
+Pokedex ID: 185	Capture Rate: 65
+Base Exp: 144	Happiness: 50
+Height: 12	Weight: 380
+
+Genus: Imitation Pokémon
+Location Areas:
+sinnoh-route-214-area
+sinnoh-route-221-area
+johto-route-36-area
+hoenn-battle-frontier-area

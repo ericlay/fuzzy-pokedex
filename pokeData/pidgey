@@ -1,15 +1,59 @@
 
-Name:  Pidgey
-Pokedex Number:  016
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Keen Eye - Tangled Feet - Big Pecks (Hidden Ability)
+Pidgey	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 251
-Hp:  40
-Attack:  45
-Defence:  40
-Special Attack:  35
-Special Defence:  35
-Speed:  56
+A common sight in forests and 
+woods.  It flaps its wings at 
+ground level to kick up blinding 
+sand. 
+
+	Evolution Chain
+Pidgey ► Pidgeotto ► Pidgeot
+
+  ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         45
+        defense:         40
+ special-attack:         35
+special-defense:         35
+          speed:         56
+
+Pokedex ID: 16	Capture Rate: 255
+Base Exp: 50	Happiness: 70
+Height: 3	Weight: 18
+
+Genus: Tiny Bird Pokémon
+Location Areas:
+sinnoh-route-229-area
+johto-route-29-area
+johto-route-30-area
+johto-route-31-area
+johto-route-32-area
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+national-park-area
+johto-route-36-area
+johto-route-37-area
+kanto-route-12-area
+kanto-route-1-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-3-area
+kanto-route-5-area
+kanto-route-6-area
+kanto-route-7-area
+kanto-route-8-area
+kanto-route-11-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+kanto-sea-route-21-area
+kanto-route-24-area
+kanto-route-25-area
+kanto-route-2-north-towards-pewter-city
+viridian-forest-area
+berry-forest-area
+bond-bridge-area
+five-isle-meadow-area
+kalos-route-2-area
+kalos-route-3-area
+johto-safari-zone-zone-forest

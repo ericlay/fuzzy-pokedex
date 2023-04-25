@@ -1,15 +1,33 @@
 
-Name:  Dwebble
-Pokedex Number:  557
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Sturdy - Shell Armor - Weak Armor (Hidden Ability)
+Dwebble	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 325
-Hp:  50
-Attack:  65
-Defence:  85
-Special Attack:  35
-Special Defence:  35
-Speed:  55
+This Pokémon can easily melt 
+holes in hard rocks with a liquid 
+secreted from its mouth. 
+
+	Evolution Chain
+      Dwebble ► Crustle
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         65
+        defense:         85
+ special-attack:         35
+special-defense:         35
+          speed:         55
+
+Pokedex ID: 557	Capture Rate: 190
+Base Exp: 65	Happiness: 50
+Height: 3	Weight: 145
+
+Genus: Rock Inn Pokémon
+Location Areas:
+desert-resort-entrance
+desert-resort-area
+unova-route-18-area
+ambrette-town-area
+cyllage-city-area
+kalos-route-8-area
+kalos-route-12-area
+glittering-cave-unknown-area-304
+azure-bay-area

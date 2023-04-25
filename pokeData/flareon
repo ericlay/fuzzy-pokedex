@@ -1,15 +1,32 @@
 
-Name:  Flareon
-Pokedex Number:  136
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Flash Fire - Guts (Hidden Ability)
+Flareon	 A fire type Pokémon
 
-Base Stats
-----------------------
-Total: 525
-Hp:  65
-Attack:  130
-Defence:  60
-Special Attack:  95
-Special Defence:  110
-Speed:  65
+When storing thermal energy 
+in its body, its temperature 
+could soar to over 1600 degrees. 
+
+	Evolution Chain
+      Eevee ► Vaporeon
+jolteon
+flareon
+espeon
+umbreon
+leafeon
+glaceon
+sylveon
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:        130
+        defense:         60
+ special-attack:         95
+special-defense:        110
+          speed:         65
+
+Pokedex ID: 136	Capture Rate: 45
+Base Exp: 184	Happiness: 50
+Height: 9	Weight: 250
+
+Genus: Flame Pokémon
+Location Areas:
+

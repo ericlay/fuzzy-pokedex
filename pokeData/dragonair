@@ -1,15 +1,33 @@
 
-Name:  Dragonair
-Pokedex Number:  148
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shed Skin - Marvel Scale (Hidden Ability)
+Dragonair	 A dragon type Pokémon
 
-Base Stats
-----------------------
-Total: 420
-Hp:  61
-Attack:  84
-Defence:  65
-Special Attack:  70
-Special Defence:  70
-Speed:  70
+A mystical Pokémon that exudes 
+a gentle aura.  Has the ability 
+to change climate conditions. 
+
+	Evolution Chain
+Dratini ► Dragonair ► Dragonite
+
+  ↞--------| STATS |--------↠ 
+             hp:         61
+         attack:         84
+        defense:         65
+ special-attack:         70
+special-defense:         70
+          speed:         70
+
+Pokedex ID: 148	Capture Rate: 45
+Base Exp: 147	Happiness: 35
+Height: 40	Weight: 165
+
+Genus: Dragon Pokémon
+Location Areas:
+mt-coronet-4f
+dragons-den-area
+johto-route-45-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+dragonspiral-tower-outside
+kalos-route-21-area

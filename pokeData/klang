@@ -1,15 +1,26 @@
 
-Name:  Klang
-Pokedex Number:  600
-Gender Ratio:  Genderless
-Abilities: Plus - Minus - Clear Body (Hidden Ability)
+Klang	 A steel type Pokémon
 
-Base Stats
-----------------------
-Total: 440
-Hp:  60
-Attack:  80
-Defence:  95
-Special Attack:  70
-Special Defence:  85
-Speed:  50
+By changing the direction in 
+which it rotates, it communicates 
+its feelings to others.  When 
+angry, it rotates faster. 
+
+	Evolution Chain
+Klink ► Klang ► Klinklang
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         80
+        defense:         95
+ special-attack:         70
+special-defense:         85
+          speed:         50
+
+Pokedex ID: 600	Capture Rate: 60
+Base Exp: 154	Happiness: 50
+Height: 6	Weight: 510
+
+Genus: Gear Pokémon
+Location Areas:
+p2-laboratory-area

@@ -1,15 +1,32 @@
 
-Name:  Smeargle
-Pokedex Number:  235
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Own Tempo - Technician - Moody (Hidden Ability)
+Smeargle	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 250
-Hp:  55
-Attack:  20
-Defence:  35
-Special Attack:  20
-Special Defence:  45
-Speed:  75
+A special fluid oozes from the 
+tip of its tail.  It paints the 
+fluid everywhere to mark its 
+territory. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         20
+        defense:         35
+ special-attack:         20
+special-defense:         45
+          speed:         75
+
+Pokedex ID: 235	Capture Rate: 45
+Base Exp: 88	Happiness: 70
+Height: 12	Weight: 580
+
+Genus: Painter Pokémon
+Location Areas:
+sinnoh-route-208-area
+sinnoh-route-212-north-towards-hearthome-city
+ruins-of-alph-outside
+artisan-cave-area
+hoenn-altering-cave-i
+kanto-altering-cave-i
+kalos-route-7-area
+johto-safari-zone-zone-plains

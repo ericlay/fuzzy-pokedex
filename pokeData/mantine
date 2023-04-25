@@ -1,15 +1,30 @@
 
-Name:  Mantine
-Pokedex Number:  226
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swift Swim - Water Absorb - Water Veil (Hidden Ability)
+Mantine	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 465
-Hp:  65
-Attack:  40
-Defence:  70
-Special Attack:  80
-Special Defence:  140
-Speed:  70
+As it majestically swims, it 
+doesn't care if REMORAID attach 
+to it for scavenging its leftovers. 
+
+	Evolution Chain
+      Mantyke ► Mantine
+
+  ↞--------| STATS |--------↠ 
+             hp:         85
+         attack:         40
+        defense:         70
+ special-attack:         80
+special-defense:        140
+          speed:         70
+
+Pokedex ID: 226	Capture Rate: 25
+Base Exp: 170	Happiness: 50
+Height: 21	Weight: 2200
+
+Genus: Kite Pokémon
+Location Areas:
+johto-sea-route-41-area
+trainer-tower-area
+tanoby-ruins-area
+undella-bay-area
+undella-town-area
+unova-route-21-area

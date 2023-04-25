@@ -1,15 +1,55 @@
 
-Name:  Oddish
-Pokedex Number:  043
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Run Away (Hidden Ability)
+Oddish	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 320
-Hp:  45
-Attack:  50
-Defence:  55
-Special Attack:  75
-Special Defence:  65
-Speed:  30
+During the day, it keeps its 
+face buried in the ground.  At 
+night, it wanders around sowing 
+its seeds. 
+
+	Evolution Chain
+Oddish ► Gloom ► Vileplume
+bellossom
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         50
+        defense:         55
+ special-attack:         75
+special-defense:         65
+          speed:         30
+
+Pokedex ID: 43	Capture Rate: 255
+Base Exp: 64	Happiness: 50
+Height: 5	Weight: 54
+
+Genus: Weed Pokémon
+Location Areas:
+sinnoh-route-224-area
+sinnoh-route-229-area
+sinnoh-sea-route-230-area
+ilex-forest-area
+kanto-route-12-area
+kanto-route-5-area
+kanto-route-6-area
+kanto-route-7-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+kanto-route-24-area
+kanto-route-25-area
+hoenn-route-110-area
+hoenn-route-117-area
+hoenn-route-119-area
+hoenn-route-120-area
+hoenn-route-121-area
+hoenn-route-123-area
+hoenn-safari-zone-nwmach-bike-area
+hoenn-safari-zone-neacro-bike-area
+hoenn-safari-zone-sw
+hoenn-safari-zone-se
+berry-forest-area
+cape-brink-area
+bond-bridge-area
+water-path-area
+kalos-route-6-area
+johto-safari-zone-zone-marshland

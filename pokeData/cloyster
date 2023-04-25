@@ -1,15 +1,30 @@
 
-Name:  Cloyster
-Pokedex Number:  091
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shell Armor - Skill Link - Overcoat (Hidden Ability)
+Cloyster	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 525
-Hp:  50
-Attack:  95
-Defence:  180
-Special Attack:  85
-Special Defence:  45
-Speed:  70
+When attacked, it launches its 
+horns in quick volleys.  Its 
+innards have never been seen. 
+
+	Evolution Chain
+      Shellder ► Cloyster
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         95
+        defense:        180
+ special-attack:         85
+special-defense:         45
+          speed:         70
+
+Pokedex ID: 91	Capture Rate: 60
+Base Exp: 184	Happiness: 50
+Height: 15	Weight: 1325
+
+Genus: Bivalve Pokémon
+Location Areas:
+undella-bay-area
+unova-route-13-area
+undella-town-area
+humilau-city-area
+seaside-cave-1f
+kalos-route-8-area

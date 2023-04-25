@@ -3,7 +3,7 @@ Very simple fzf based pokedex I built for my son to enjoy
 
 ![Screenshot](https://github.com/ericlay/fuzzy-pokedex/blob/main/screenshot.png?raw=true)
 
-Requires BeautifulSoup4, fzf, parallel, espeak-ng, pokemon-colorscipts and, any nerd font; all else should be there
+Requires fzf, parallel, jq, espeak-ng, pokemon-colorscipts and, any nerd font; all else should be there
 
 ```
 Use fzf to search Pokemon stats 
@@ -38,8 +38,8 @@ https://github.com/rmccorm4/Pokefetch
  
 ## To-do
 * [ ] Better arg parsing
-* [ ] Rewrite to use `PokeAPI` as data source
+* [ ] Rewrite to use `PokeAPI` as data source {Dev Branch 60%}
 * [ ] Refactor to allow user to choose local data source or from web
-* [ ] Get sprites from `PokeAPI` if possible
+* [ ] Get sprites from `PokeAPI` if possible {PR WELCOME!}
 * [ ] Work on TTS to read entries
 * [ ] Add ability to filter on various attributes

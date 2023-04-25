@@ -1,15 +1,28 @@
 
-Name:  Cubchoo
-Pokedex Number:  613
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Snow Cloak - Rattled (Hidden Ability)
+Cubchoo	 A ice type Pokémon
 
-Base Stats
-----------------------
-Total: 305
-Hp:  55
-Attack:  70
-Defence:  40
-Special Attack:  60
-Special Defence:  40
-Speed:  40
+When it is not feeling well, 
+its mucus gets watery and the 
+power of its Ice-type moves decreases. 
+
+	Evolution Chain
+      Cubchoo ► Beartic
+
+  ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         70
+        defense:         40
+ special-attack:         60
+special-defense:         40
+          speed:         40
+
+Pokedex ID: 613	Capture Rate: 120
+Base Exp: 61	Happiness: 50
+Height: 5	Weight: 85
+
+Genus: Chill Pokémon
+Location Areas:
+twist-mountain-area
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+unova-route-7-area

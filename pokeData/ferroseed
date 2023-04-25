@@ -1,15 +1,28 @@
 
-Name:  Ferroseed
-Pokedex Number:  597
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Iron Barbs
+Ferroseed	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 305
-Hp:  44
-Attack:  50
-Defence:  91
-Special Attack:  24
-Special Defence:  86
-Speed:  10
+When threatened, it attacks 
+by shooting a barrage of spikes, 
+which gives it a chance to escape 
+by rolling away. 
+
+	Evolution Chain
+      Ferroseed ► Ferrothorn
+
+  ↞--------| STATS |--------↠ 
+             hp:         44
+         attack:         50
+        defense:         91
+ special-attack:         24
+special-defense:         86
+          speed:         10
+
+Pokedex ID: 597	Capture Rate: 255
+Base Exp: 61	Happiness: 50
+Height: 6	Weight: 188
+
+Genus: Thorn Seed Pokémon
+Location Areas:
+chargestone-cave-1f
+chargestone-cave-b1f
+chargestone-cave-b2f

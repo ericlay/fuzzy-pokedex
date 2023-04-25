@@ -1,15 +1,35 @@
 
-Name:  Dewgong
-Pokedex Number:  087
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Thick Fat - Hydration - Ice Body (Hidden Ability)
+Dewgong	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 475
-Hp:  90
-Attack:  70
-Defence:  80
-Special Attack:  70
-Special Defence:  95
-Speed:  70
+Stores thermal energy in its 
+body.  Swims at a steady 8 knots 
+even in intensely cold waters. 
+
+	Evolution Chain
+      Seel ► Dewgong
+
+  ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         70
+        defense:         80
+ special-attack:         70
+special-defense:         95
+          speed:         70
+
+Pokedex ID: 87	Capture Rate: 75
+Base Exp: 166	Happiness: 70
+Height: 17	Weight: 1200
+
+Genus: Sea Lion Pokémon
+Location Areas:
+sinnoh-victory-road-inside-b1f
+sinnoh-sea-route-226-area
+sinnoh-sea-route-230-area
+seafoam-islands-b1f
+seafoam-islands-b3f
+seafoam-islands-b4f
+icefall-cave-entrance
+icefall-cave-waterfall
+giant-chasm-area
+giant-chasm-forest-cave
+seaside-cave-1f

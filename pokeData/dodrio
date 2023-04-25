@@ -1,15 +1,32 @@
 
-Name:  Dodrio
-Pokedex Number:  085
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Run Away - Early Bird - Tangled Feet (Hidden Ability)
+Dodrio	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 460
-Hp:  60
-Attack:  110
-Defence:  70
-Special Attack:  60
-Special Defence:  60
-Speed:  100
+Uses its three brains to execute 
+complex plans.  While two heads 
+sleep, one head stays awake. 
+
+	Evolution Chain
+      Doduo ► Dodrio
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:        110
+        defense:         70
+ special-attack:         60
+special-defense:         60
+          speed:        110
+
+Pokedex ID: 85	Capture Rate: 45
+Base Exp: 165	Happiness: 70
+Height: 18	Weight: 852
+
+Genus: Triple Bird Pokémon
+Location Areas:
+mt-silver-outside
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-28-area
+kanto-route-17-area
+cerulean-cave-1f
+cerulean-cave-2f
+hoenn-safari-zone-nwmach-bike-area

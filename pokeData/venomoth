@@ -1,15 +1,41 @@
 
-Name:  Venomoth
-Pokedex Number:  049
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shield Dust - Tinted Lens - Wonder Skin  (Hidden Ability)
+Venomoth	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 450
-Hp:  70
-Attack:  65
-Defence:  60
-Special Attack:  90
-Special Defence:  75
-Speed:  90
+The dustlike scales covering 
+its wings are color-coded to 
+indicate the kinds of poison 
+it has. 
+
+	Evolution Chain
+      Venonat ► Venomoth
+
+  ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         65
+        defense:         60
+ special-attack:         90
+special-defense:         75
+          speed:         90
+
+Pokedex ID: 49	Capture Rate: 75
+Base Exp: 158	Happiness: 70
+Height: 15	Weight: 125
+
+Genus: Poison Moth Pokémon
+Location Areas:
+sinnoh-route-229-area
+johto-route-43-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+kanto-route-24-area
+kanto-route-25-area
+cerulean-cave-1f
+cerulean-cave-2f
+kanto-victory-road-2-3f
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+berry-forest-area
+dreamyard-area

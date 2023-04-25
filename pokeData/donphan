@@ -1,15 +1,38 @@
 
-Name:  Donphan
-Pokedex Number:  232
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sturdy - Sand Veil (Hidden Ability)
+Donphan	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 500
-Hp:  90
-Attack:  120
-Defence:  120
-Special Attack:  60
-Special Defence:  60
-Speed:  50
+It has sharp, hard tusks and 
+a rugged hide.  Its TACKLE is 
+strong enough to knock down a 
+house. 
+
+	Evolution Chain
+      Phanpy ► Donphan
+
+  ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:        120
+        defense:        120
+ special-attack:         60
+special-defense:         60
+          speed:         50
+
+Pokedex ID: 232	Capture Rate: 60
+Base Exp: 175	Happiness: 70
+Height: 11	Weight: 1200
+
+Genus: Armor Pokémon
+Location Areas:
+johto-route-45-area
+mt-silver-2f
+mt-silver-1f-top
+mt-silver-4f
+mt-silver-outside
+mt-silver-1f
+mt-silver-mountainside
+mt-silver-3f
+mt-silver-top
+kanto-route-28-area
+kanto-victory-road-1-1f
+kanto-victory-road-1-2f
+kanto-victory-road-1-3f

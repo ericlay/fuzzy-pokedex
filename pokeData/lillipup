@@ -1,15 +1,29 @@
 
-Name:  Lillipup
-Pokedex Number:  506
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Vital Spirit - Pickup - Run Away (Hidden Ability)
+Lillipup	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 275
-Hp:  45
-Attack:  60
-Defence:  45
-Special Attack:  25
-Special Defence:  45
-Speed:  55
+It faces strong opponents with 
+great courage.  But, when at 
+a disadvantage in a fight, this 
+intelligent Pokémon flees. 
+
+	Evolution Chain
+Lillipup ► Herdier ► Stoutland
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         60
+        defense:         45
+ special-attack:         25
+special-defense:         45
+          speed:         55
+
+Pokedex ID: 506	Capture Rate: 255
+Base Exp: 55	Happiness: 50
+Height: 4	Weight: 41
+
+Genus: Puppy Pokémon
+Location Areas:
+unova-route-1-area
+unova-route-2-area
+unova-route-3-area
+floccesy-ranch-inner

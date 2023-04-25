@@ -1,15 +1,30 @@
 
-Name:  Elekid
-Pokedex Number:  239
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Static - Vital Spirit (Hidden Ability)
+Elekid	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 360
-Hp:  45
-Attack:  63
-Defence:  37
-Special Attack:  65
-Special Defence:  55
-Speed:  95
+It rotates its arms to generate 
+electricity, but it tires easily, 
+so it charges up only a little 
+bit. 
+
+	Evolution Chain
+Elekid ► Electabuzz ► Electivire
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         63
+        defense:         37
+ special-attack:         65
+special-defense:         55
+          speed:         95
+
+Pokedex ID: 239	Capture Rate: 45
+Base Exp: 72	Happiness: 50
+Height: 6	Weight: 235
+
+Genus: Electric Pokémon
+Location Areas:
+valley-windworks-area
+sinnoh-route-205-south-towards-floaroma-town
+johto-route-34-area
+virbank-complex-outer
+virbank-complex-inner

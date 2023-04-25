@@ -1,15 +1,32 @@
 
-Name:  Kecleon
-Pokedex Number:  352
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Color Change - Protean (Hidden Ability)
+Kecleon	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 440
-Hp:  60
-Attack:  90
-Defence:  70
-Special Attack:  60
-Special Defence:  120
-Speed:  40
+It changes body color to blend 
+in with its surroundings.  It 
+also changes color if it is happy 
+or sad. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         90
+        defense:         70
+ special-attack:         60
+special-defense:        120
+          speed:         40
+
+Pokedex ID: 352	Capture Rate: 200
+Base Exp: 154	Happiness: 70
+Height: 10	Weight: 220
+
+Genus: Color Swap Pokémon
+Location Areas:
+sinnoh-route-210-west-towards-celestic-town
+hoenn-route-118-area
+hoenn-route-119-area
+hoenn-route-120-area
+hoenn-route-121-area
+hoenn-route-123-area
+nature-sanctuary-area
+kalos-route-6-area

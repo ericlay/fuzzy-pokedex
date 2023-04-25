@@ -1,15 +1,30 @@
 
-Name:  Kangaskhan
-Pokedex Number:  115
-Gender Ratio:   ♂:0% ♀:100%
-Abilities: Early Bird - Scrappy - Inner Focus (Hidden Ability)
+Kangaskhan	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 490
-Hp:  105
-Attack:  125
-Defence:  100
-Special Attack:  60
-Special Defence:  100
-Speed:  100
+The infant rarely ventures out 
+of its mother's protective pouch 
+until it is 3 years old. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:        105
+         attack:         95
+        defense:         80
+ special-attack:         40
+special-defense:         80
+          speed:         90
+
+Pokedex ID: 115	Capture Rate: 45
+Base Exp: 172	Happiness: 50
+Height: 22	Weight: 800
+
+Genus: Parent Pokémon
+Location Areas:
+rock-tunnel-b1f
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kanto-safari-zone-area-3-west
+unova-route-15-area
+glittering-cave-unknown-area-303
+johto-safari-zone-zone-wasteland

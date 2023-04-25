@@ -1,15 +1,28 @@
 
-Name:  Stunky
-Pokedex Number:  434
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Stench - Aftermath - Keen Eye (Hidden Ability)
+Stunky	 A poison type Pokémon
 
-Base Stats
-----------------------
-Total: 329
-Hp:  63
-Attack:  63
-Defence:  47
-Special Attack:  41
-Special Defence:  41
-Speed:  74
+It protects itself by spraying 
+a noxious fluid from its rear. 
+ The stench lingers for 24 hours. 
+
+	Evolution Chain
+      Stunky ► Skuntank
+
+  ↞--------| STATS |--------↠ 
+             hp:         63
+         attack:         63
+        defense:         47
+ special-attack:         41
+special-defense:         41
+          speed:         74
+
+Pokedex ID: 434	Capture Rate: 225
+Base Exp: 66	Happiness: 50
+Height: 4	Weight: 192
+
+Genus: Skunk Pokémon
+Location Areas:
+sinnoh-route-206-area
+sinnoh-route-214-area
+sinnoh-route-221-area
+kalos-route-11-area

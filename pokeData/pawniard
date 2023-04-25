@@ -1,15 +1,29 @@
 
-Name:  Pawniard
-Pokedex Number:  624
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Defiant - Inner Focus - Pressure (Hidden Ability)
+Pawniard	 A dark type Pokémon
 
-Base Stats
-----------------------
-Total: 340
-Hp:  45
-Attack:  85
-Defence:  70
-Special Attack:  40
-Special Defence:  40
-Speed:  60
+Blades comprise this Pokémon’s 
+entire body.  If battling dulls 
+the blades, it sharpens them 
+on stones by the river. 
+
+	Evolution Chain
+Pawniard ► Bisharp ► Kingambit
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         85
+        defense:         70
+ special-attack:         40
+special-defense:         40
+          speed:         60
+
+Pokedex ID: 624	Capture Rate: 120
+Base Exp: 68	Happiness: 35
+Height: 5	Weight: 102
+
+Genus: Sharp Blade Pokémon
+Location Areas:
+unova-route-9-area
+unova-route-11-area
+kalos-route-15-area
+lost-hotel-area

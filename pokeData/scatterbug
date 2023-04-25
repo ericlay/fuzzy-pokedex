@@ -1,15 +1,27 @@
 
-Name:  Scatterbug
-Pokedex Number:  664
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Shield Dust - Compoundeyes - Friend Guard (Hidden Ability)
+Scatterbug	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 200
-Hp:  38
-Attack:  35
-Defence:  40
-Special Attack:  27
-Special Defence:  25
-Speed:  35
+When under attack from bird 
+Pokémon, it spews a poisonous 
+black powder that causes paralysis 
+on contact. 
+
+	Evolution Chain
+Scatterbug ► Spewpa ► Vivillon
+
+  ↞--------| STATS |--------↠ 
+             hp:         38
+         attack:         35
+        defense:         40
+ special-attack:         27
+special-defense:         25
+          speed:         35
+
+Pokedex ID: 664	Capture Rate: 255
+Base Exp: 40	Happiness: 70
+Height: 3	Weight: 25
+
+Genus: Scatterdust Pokémon
+Location Areas:
+kalos-route-2-area
+santalune-forest-area

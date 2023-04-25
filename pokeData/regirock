@@ -1,15 +1,24 @@
 
-Name:  Regirock
-Pokedex Number:  377
-Gender Ratio:  Genderless
-Abilities: Clear Body - Sturdy (Hidden Ability)
+Regirock	 A rock type Pokémon
 
-Base Stats
-----------------------
-Total: 580
-Hp:  80
-Attack:  100
-Defence:  200
-Special Attack:  50
-Special Defence:  100
-Speed:  50
+Its entire body is made of rock. 
+ If any part chips off in battle, 
+it attaches rocks to repair itself. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        100
+        defense:        200
+ special-attack:         50
+special-defense:        100
+          speed:         50
+
+Pokedex ID: 377	Capture Rate: 3
+Base Exp: 290	Happiness: 35
+Height: 17	Weight: 2300
+
+Genus: Rock Peak Pokémon
+Location Areas:
+desert-ruins-area

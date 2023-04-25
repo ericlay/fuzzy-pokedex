@@ -1,15 +1,27 @@
 
-Name:  Bulbasaur
-Pokedex Number:  001
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Overgrow - Chlorophyll (Hidden Ability)
+Bulbasaur	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 318
-Hp:  45
-Attack:  49
-Defence:  49
-Special Attack:  65
-Special Defence:  65
-Speed:  45
+A strange seed was planted on 
+its back at birth.  The plant 
+sprouts and grows with Bulbasaur. 
+
+	Evolution Chain
+Bulbasaur ► Ivysaur ► Venusaur
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         49
+        defense:         49
+ special-attack:         65
+special-defense:         65
+          speed:         45
+
+Pokedex ID: 1	Capture Rate: 45
+Base Exp: 64	Happiness: 50
+Height: 7	Weight: 69
+
+Genus: Seed Pokémon
+Location Areas:
+cerulean-city-area
+pallet-town-area
+lumiose-city-area

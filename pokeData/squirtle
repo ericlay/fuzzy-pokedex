@@ -1,15 +1,27 @@
 
-Name:  Squirtle
-Pokedex Number:  007
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Torrent - Rain Dish (Hidden Ability)
+Squirtle	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 314
-Hp:  44
-Attack:  48
-Defence:  65
-Special Attack:  50
-Special Defence:  64
-Speed:  43
+After birth, its back swells 
+and hardens into a shell.  Powerfully 
+sprays foam from its mouth. 
+
+	Evolution Chain
+Squirtle ► Wartortle ► Blastoise
+
+  ↞--------| STATS |--------↠ 
+             hp:         44
+         attack:         48
+        defense:         65
+ special-attack:         50
+special-defense:         64
+          speed:         43
+
+Pokedex ID: 7	Capture Rate: 45
+Base Exp: 63	Happiness: 50
+Height: 5	Weight: 90
+
+Genus: Tiny Turtle Pokémon
+Location Areas:
+vermilion-city-area
+pallet-town-area
+lumiose-city-area

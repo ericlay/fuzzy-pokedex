@@ -1,15 +1,27 @@
 
-Name:  Abomasnow
-Pokedex Number:  460
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Snow Warning - Soundproof (Hidden Ability)
+Abomasnow	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 494
-Hp:  90
-Attack:  132
-Defence:  105
-Special Attack:  132
-Special Defence:  105
-Speed:  30
+It whips up blizzards in mountains 
+that are always buried in snow. 
+ It is the abominable snowman. 
+
+	Evolution Chain
+      Snover ► Abomasnow
+
+  ↞--------| STATS |--------↠ 
+             hp:         90
+         attack:         92
+        defense:         75
+ special-attack:         92
+special-defense:         85
+          speed:         60
+
+Pokedex ID: 460	Capture Rate: 60
+Base Exp: 173	Happiness: 50
+Height: 22	Weight: 1355
+
+Genus: Frost Tree Pokémon
+Location Areas:
+mt-coronet-exterior-snowfall
+mt-coronet-exterior-blizzard
+kalos-route-17-area

@@ -1,15 +1,35 @@
 
-Name:  Watchog
-Pokedex Number:  505
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Illuminate - Keen Eye - Analytic (Hidden Ability)
+Watchog	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 420
-Hp:  60
-Attack:  85
-Defence:  69
-Special Attack:  60
-Special Defence:  69
-Speed:  77
+When they see an enemy, their 
+tails stand high, and they spit 
+the seeds of berries stored in 
+their cheek pouches. 
+
+	Evolution Chain
+      Patrat ► Watchog
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         85
+        defense:         69
+ special-attack:         60
+special-defense:         69
+          speed:         77
+
+Pokedex ID: 505	Capture Rate: 255
+Base Exp: 147	Happiness: 70
+Height: 11	Weight: 270
+
+Genus: Lookout Pokémon
+Location Areas:
+dreamyard-area
+dreamyard-b1f
+p2-laboratory-area
+unova-route-1-area
+unova-route-2-area
+unova-route-3-area
+unova-route-7-area
+unova-route-15-area
+unova-route-18-area
+kalos-route-15-area

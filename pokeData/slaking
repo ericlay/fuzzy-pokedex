@@ -1,15 +1,28 @@
 
-Name:  Slaking
-Pokedex Number:  289
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Truant
+Slaking	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 670
-Hp:  150
-Attack:  160
-Defence:  100
-Special Attack:  95
-Special Defence:  65
-Speed:  100
+SLAKING spends all day lying 
+down and lolling about.  It eats 
+grass growing within its reach. 
+ If it eats all the grass it 
+can reach, Slaking reluctantly 
+moves to another spot. 
+
+	Evolution Chain
+Slakoth ► Vigoroth ► Slaking
+
+  ↞--------| STATS |--------↠ 
+             hp:        150
+         attack:        160
+        defense:        100
+ special-attack:         95
+special-defense:         65
+          speed:        100
+
+Pokedex ID: 289	Capture Rate: 45
+Base Exp: 252	Happiness: 70
+Height: 20	Weight: 1305
+
+Genus: Lazy Pokémon
+Location Areas:
+pinwheel-forest-inside

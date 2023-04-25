@@ -1,15 +1,28 @@
 
-Name:  Golett
-Pokedex Number:  622
-Gender Ratio:  Genderless
-Abilities: Iron Fist - Klutz - No Guard (Hidden Ability)
+Golett	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 303
-Hp:  59
-Attack:  74
-Defence:  50
-Special Attack:  35
-Special Defence:  50
-Speed:  35
+The energy that burns inside 
+it enables it to move, but no 
+one has yet been able to identify 
+this energy. 
+
+	Evolution Chain
+      Golett ► Golurk
+
+  ↞--------| STATS |--------↠ 
+             hp:         59
+         attack:         74
+        defense:         50
+ special-attack:         35
+special-defense:         50
+          speed:         35
+
+Pokedex ID: 622	Capture Rate: 190
+Base Exp: 61	Happiness: 50
+Height: 10	Weight: 920
+
+Genus: Automaton Pokémon
+Location Areas:
+dragonspiral-tower-1f
+dragonspiral-tower-2f
+kalos-route-10-area

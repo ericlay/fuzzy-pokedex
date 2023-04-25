@@ -1,15 +1,28 @@
 
-Name:  Gliscor
-Pokedex Number:  472
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Hyper Cutter - Sand Veil - Poison Heal (Hidden Ability)
+Gliscor	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 510
-Hp:  75
-Attack:  95
-Defence:  125
-Special Attack:  45
-Special Defence:  75
-Speed:  95
+It observes prey while hanging 
+inverted from branches.  When 
+the chance presents itself, it 
+swoops!
+
+	Evolution Chain
+      Gligar ► Gliscor
+
+  ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         95
+        defense:        125
+ special-attack:         45
+special-defense:         75
+          speed:         95
+
+Pokedex ID: 472	Capture Rate: 30
+Base Exp: 179	Happiness: 70
+Height: 20	Weight: 425
+
+Genus: Fang Scorpion Pokémon
+Location Areas:
+unova-route-11-area
+unova-route-15-area
+unova-route-23-area

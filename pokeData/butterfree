@@ -1,15 +1,41 @@
 
-Name:  Butterfree
-Pokedex Number:  012
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Compoundeyes - Tinted Lens (Hidden Ability)
+Butterfree	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 395
-Hp:  60
-Attack:  45
-Defence:  50
-Special Attack:  90
-Special Defence:  80
-Speed:  70
+In battle, it flaps its wings 
+at high speed to release highly 
+toxic dust into the air. 
+
+	Evolution Chain
+Caterpie ► Metapod ► Butterfree
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         45
+        defense:         50
+ special-attack:         90
+special-defense:         80
+          speed:         70
+
+Pokedex ID: 12	Capture Rate: 45
+Base Exp: 198	Happiness: 50
+Height: 11	Weight: 320
+
+Genus: Butterfly Pokémon
+Location Areas:
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+lake-of-rage-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-24-area
+kanto-route-25-area
+kanto-route-2-north-towards-pewter-city
+viridian-forest-area
+unova-route-12-area
+azalea-town-area

@@ -1,15 +1,30 @@
 
-Name:  Nuzleaf
-Pokedex Number:  274
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Early Bird - Pickpocket (Hidden Ability)
+Nuzleaf	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 340
-Hp:  70
-Attack:  70
-Defence:  40
-Special Attack:  60
-Special Defence:  40
-Speed:  60
+NUZLEAF live in densely overgrown 
+forests.  They occasionally venture 
+out of the forest to startle 
+people.  Nuzleaf dislikes 
+having its long nose pinched. 
+
+	Evolution Chain
+Seedot ► Nuzleaf ► Shiftry
+
+  ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         70
+        defense:         40
+ special-attack:         60
+special-defense:         40
+          speed:         60
+
+Pokedex ID: 274	Capture Rate: 120
+Base Exp: 119	Happiness: 50
+Height: 10	Weight: 280
+
+Genus: Wily Pokémon
+Location Areas:
+sinnoh-route-210-south-towards-solaceon-town
+sinnoh-route-229-area
+hoenn-route-114-area
+nature-sanctuary-area

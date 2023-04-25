@@ -1,15 +1,32 @@
 
-Name:  Shelmet
-Pokedex Number:  616
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Hydration - Shell Armor - Overcoat (Hidden Ability)
+Shelmet	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 305
-Hp:  50
-Attack:  40
-Defence:  85
-Special Attack:  40
-Special Defence:  65
-Speed:  25
+When attacked, it defends itself 
+by closing the lid of its shell. 
+ It can spit a sticky, poisonous 
+liquid. 
+
+	Evolution Chain
+      Shelmet ► Accelgor
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         40
+        defense:         85
+ special-attack:         40
+special-defense:         65
+          speed:         25
+
+Pokedex ID: 616	Capture Rate: 200
+Base Exp: 61	Happiness: 50
+Height: 4	Weight: 77
+
+Genus: Snail Pokémon
+Location Areas:
+icirrus-city-area
+unova-route-6-area
+unova-route-8-area
+moor-of-icirrus-area
+unova-route-11-area
+kalos-route-14-area
+kalos-route-19-area

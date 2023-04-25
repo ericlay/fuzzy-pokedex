@@ -1,15 +1,29 @@
 
-Name:  Bergmite
-Pokedex Number:  712
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Own Tempo - Ice Body - Sturdy (Hidden Ability)
+Bergmite	 A ice type Pokémon
 
-Base Stats
-----------------------
-Total: 304
-Hp:  55
-Attack:  69
-Defence:  85
-Special Attack:  32
-Special Defence:  35
-Speed:  28
+It blocks opponents’ attacks 
+with the ice that shields its 
+body.  It uses cold air to repair 
+any cracks with new ice. 
+
+	Evolution Chain
+      Bergmite ► Avalugg
+
+  ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         69
+        defense:         85
+ special-attack:         32
+special-defense:         35
+          speed:         28
+
+Pokedex ID: 712	Capture Rate: 190
+Base Exp: 61	Happiness: 50
+Height: 10	Weight: 995
+
+Genus: Ice Chunk Pokémon
+Location Areas:
+frost-cavern-unknown-area-314
+frost-cavern-unknown-area-315
+frost-cavern-unknown-area-316
+frost-cavern-unknown-area-317

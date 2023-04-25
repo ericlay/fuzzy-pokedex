@@ -1,15 +1,27 @@
 
-Name:  Dugtrio
-Pokedex Number:  051
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sand Veil - Arena Trap - Sand Force (Hidden Ability)
+Dugtrio	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 405
-Hp:  35
-Attack:  80
-Defence:  50
-Special Attack:  50
-Special Defence:  70
-Speed:  120
+A team of DIGLETT triplets. 
+ It triggers huge earthquakes 
+by burrowing 60 miles underground. 
+
+	Evolution Chain
+      Diglett ► Dugtrio
+
+  ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:        100
+        defense:         50
+ special-attack:         50
+special-defense:         70
+          speed:        120
+
+Pokedex ID: 51	Capture Rate: 50
+Base Exp: 149	Happiness: 50
+Height: 7	Weight: 333
+
+Genus: Mole Pokémon
+Location Areas:
+sinnoh-route-228-area
+digletts-cave-area
+kalos-route-13-area

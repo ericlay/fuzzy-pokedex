@@ -1,15 +1,33 @@
 
-Name:  Scyther
-Pokedex Number:  123
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swarm - Technician - Steadfast (Hidden Ability)
+Scyther	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 500
-Hp:  70
-Attack:  110
-Defence:  80
-Special Attack:  55
-Special Defence:  80
-Speed:  105
+With ninja-like agility and 
+speed, it can create the illusion 
+that there is more than one. 
+
+	Evolution Chain
+      Scyther ► Scizor
+kleavor
+
+  ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:        110
+        defense:         80
+ special-attack:         55
+special-defense:         80
+          speed:        105
+
+Pokedex ID: 123	Capture Rate: 45
+Base Exp: 100	Happiness: 50
+Height: 15	Weight: 560
+
+Genus: Mantis Pokémon
+Location Areas:
+sinnoh-route-210-south-towards-solaceon-town
+sinnoh-route-210-west-towards-celestic-town
+sinnoh-route-215-area
+sinnoh-route-229-area
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north
+kalos-route-21-area

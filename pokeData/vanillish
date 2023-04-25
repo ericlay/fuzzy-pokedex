@@ -1,15 +1,28 @@
 
-Name:  Vanillish
-Pokedex Number:  583
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Ice Body - Weak Armor (Hidden Ability)
+Vanillish	 A ice type Pokémon
 
-Base Stats
-----------------------
-Total: 395
-Hp:  51
-Attack:  65
-Defence:  65
-Special Attack:  80
-Special Defence:  75
-Speed:  59
+Snowy mountains are this Pokémon’s 
+habitat.  During an ancient ice 
+age, they moved to southern areas. 
+
+	Evolution Chain
+Vanillite ► Vanillish ► Vanilluxe
+
+  ↞--------| STATS |--------↠ 
+             hp:         51
+         attack:         65
+        defense:         65
+ special-attack:         80
+special-defense:         75
+          speed:         59
+
+Pokedex ID: 583	Capture Rate: 120
+Base Exp: 138	Happiness: 50
+Height: 11	Weight: 410
+
+Genus: Icy Snow Pokémon
+Location Areas:
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+giant-chasm-outside
+giant-chasm-area

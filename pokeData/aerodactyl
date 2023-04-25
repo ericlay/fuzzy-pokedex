@@ -1,15 +1,24 @@
 
-Name:  Aerodactyl
-Pokedex Number:  142
-Gender Ratio:   ♂:87.5% ♀:12.5% 
-Abilities: Rock Head - Pressure - Unnerve (Hidden Ability)
+Aerodactyl	 A rock type Pokémon
 
-Base Stats
-----------------------
-Total: 515
-Hp:  80
-Attack:  135
-Defence:  85
-Special Attack:  70
-Special Defence:  95
-Speed:  150
+A Pokémon that roamed the skies 
+in the dinosaur era.  Its teeth 
+are like saw blades. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        105
+        defense:         65
+ special-attack:         60
+special-defense:         75
+          speed:        130
+
+Pokedex ID: 142	Capture Rate: 45
+Base Exp: 180	Happiness: 50
+Height: 18	Weight: 590
+
+Genus: Fossil Pokémon
+Location Areas:
+cinnabar-island-cinnabar-lab

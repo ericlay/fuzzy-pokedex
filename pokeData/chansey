@@ -1,15 +1,34 @@
 
-Name:  Chansey
-Pokedex Number:  113
-Gender Ratio:   ♂:0% ♀:100%
-Abilities: Natural Cure - Serene Grace - Healer (Hidden Ability)
+Chansey	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 450
-Hp:  250
-Attack:  5
-Defence:  5
-Special Attack:  35
-Special Defence:  105
-Speed:  50
+A rare and elusive Pokémon that 
+is said to bring happiness to 
+those who manage to get it. 
+
+	Evolution Chain
+Happiny ► Chansey ► Blissey
+
+  ↞--------| STATS |--------↠ 
+             hp:        250
+         attack:          5
+        defense:          5
+ special-attack:         35
+special-defense:        105
+          speed:         50
+
+Pokedex ID: 113	Capture Rate: 30
+Base Exp: 395	Happiness: 140
+Height: 11	Weight: 346
+
+Genus: Egg Pokémon
+Location Areas:
+sinnoh-route-209-area
+sinnoh-route-210-south-towards-solaceon-town
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+cerulean-cave-2f
+cerulean-cave-b1f
+kanto-safari-zone-middle
+kanto-safari-zone-area-1-east
+kanto-safari-zone-area-2-north

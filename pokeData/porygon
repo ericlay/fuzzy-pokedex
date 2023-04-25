@@ -1,15 +1,25 @@
 
-Name:  Porygon
-Pokedex Number:  137
-Gender Ratio:  Genderless
-Abilities: Trace - Download - Analytic (Hidden Ability)
+Porygon	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 395
-Hp:  65
-Attack:  60
-Defence:  70
-Special Attack:  85
-Special Defence:  75
-Speed:  40
+A Pokémon that consists entirely 
+of programming code.  Capable 
+of moving freely in cyberspace. 
+
+	Evolution Chain
+Porygon ► Porygon2 ► Porygon-z
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         60
+        defense:         70
+ special-attack:         85
+special-defense:         75
+          speed:         40
+
+Pokedex ID: 137	Capture Rate: 45
+Base Exp: 79	Happiness: 50
+Height: 8	Weight: 365
+
+Genus: Virtual Pokémon
+Location Areas:
+veilstone-city-area

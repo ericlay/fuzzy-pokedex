@@ -1,15 +1,30 @@
 
-Name:  Mienshao
-Pokedex Number:  620
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Inner Focus - Regenerator - Reckless (Hidden Ability)
+Mienshao	 A fighting type Pokémon
 
-Base Stats
-----------------------
-Total: 510
-Hp:  65
-Attack:  125
-Defence:  60
-Special Attack:  95
-Special Defence:  60
-Speed:  105
+It wields the fur on its arms 
+like a whip.  Its arm attacks 
+come with such rapidity that 
+they cannot even be seen. 
+
+	Evolution Chain
+      Mienfoo ► Mienshao
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:        125
+        defense:         60
+ special-attack:         95
+special-defense:         60
+          speed:        105
+
+Pokedex ID: 620	Capture Rate: 45
+Base Exp: 179	Happiness: 50
+Height: 14	Weight: 355
+
+Genus: Martial Arts Pokémon
+Location Areas:
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+dragonspiral-tower-1f
+unova-route-14-area
+unova-route-23-area

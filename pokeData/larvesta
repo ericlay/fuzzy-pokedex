@@ -1,15 +1,26 @@
 
-Name:  Larvesta
-Pokedex Number:  636
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Flame Body - Swarm (Hidden Ability)
+Larvesta	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 360
-Hp:  55
-Attack:  85
-Defence:  55
-Special Attack:  50
-Special Defence:  55
-Speed:  60
+This Pokémon was believed to 
+have been born from the sun. 
+ When it evolves, its entire 
+body is engulfed in flames. 
+
+	Evolution Chain
+      Larvesta ► Volcarona
+
+  ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         85
+        defense:         55
+ special-attack:         50
+special-defense:         55
+          speed:         60
+
+Pokedex ID: 636	Capture Rate: 45
+Base Exp: 72	Happiness: 50
+Height: 11	Weight: 288
+
+Genus: Torch Pokémon
+Location Areas:
+unova-route-18-area

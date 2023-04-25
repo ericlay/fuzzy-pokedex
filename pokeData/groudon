@@ -1,15 +1,29 @@
 
-Name:  Groudon
-Pokedex Number:  383
-Gender Ratio:  Genderless
-Abilities: Drought
+Groudon	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 670
-Hp:  100
-Attack:  180
-Defence:  160
-Special Attack:  150
-Special Defence:  90
-Speed:  90
+GROUDON has long been described 
+in  mythology as the Pokémon 
+that raised lands and expanded 
+continents.  Groudon took 
+to sleep after a cataclysmic 
+battle with KYOGRE. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:        100
+         attack:        150
+        defense:        140
+ special-attack:        100
+special-defense:         90
+          speed:         90
+
+Pokedex ID: 383	Capture Rate: 3
+Base Exp: 335	Happiness: 0
+Height: 35	Weight: 9500
+
+Genus: Continent Pokémon
+Location Areas:
+cave-of-origin-b4f
+terra-cave-area
+embedded-tower-groundon-room

@@ -1,15 +1,39 @@
 
-Name:  Ekans
-Pokedex Number:  023
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Intimidate - Shed Skin - Unnerve (Hidden Ability)
+Ekans	 A poison type Pokémon
 
-Base Stats
-----------------------
-Total: 288
-Hp:  35
-Attack:  60
-Defence:  44
-Special Attack:  40
-Special Defence:  54
-Speed:  55
+Moves silently and stealthily. 
+ Eats the eggs of birds, such 
+as PIDGEY and SPEAROW, whole. 
+
+	Evolution Chain
+      Ekans ► Arbok
+
+  ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:         60
+        defense:         44
+ special-attack:         40
+special-defense:         54
+          speed:         55
+
+Pokedex ID: 23	Capture Rate: 255
+Base Exp: 58	Happiness: 70
+Height: 20	Weight: 69
+
+Genus: Snake Pokémon
+Location Areas:
+sinnoh-route-212-east-towards-pastoria-city
+johto-route-32-area
+johto-route-33-area
+johto-route-42-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-3-area
+kanto-route-4-area
+kanto-route-8-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-11-area
+kanto-route-23-area
+azalea-town-area
+johto-safari-zone-zone-marshland

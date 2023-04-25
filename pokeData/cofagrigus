@@ -1,15 +1,28 @@
 
-Name:  Cofagrigus
-Pokedex Number:  563
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Mummy
+Cofagrigus	 A ghost type Pokémon
 
-Base Stats
-----------------------
-Total: 483
-Hp:  58
-Attack:  50
-Defence:  145
-Special Attack:  95
-Special Defence:  105
-Speed:  30
+It has been said that they swallow 
+those who get too close and turn 
+them into mummies.  They like 
+to eat gold nuggets. 
+
+	Evolution Chain
+      Yamask ► Cofagrigus
+runerigus
+
+  ↞--------| STATS |--------↠ 
+             hp:         58
+         attack:         50
+        defense:        145
+ special-attack:         95
+special-defense:        105
+          speed:         30
+
+Pokedex ID: 563	Capture Rate: 90
+Base Exp: 169	Happiness: 50
+Height: 17	Weight: 765
+
+Genus: Coffin Pokémon
+Location Areas:
+relic-castle-b
+relic-castle-c

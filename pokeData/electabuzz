@@ -1,15 +1,27 @@
 
-Name:  Electabuzz
-Pokedex Number:  125
-Gender Ratio:   ♂:75% ♀:25%
-Abilities: Static - Vital Spirit (Hidden Ability)
+Electabuzz	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 490
-Hp:  65
-Attack:  83
-Defence:  57
-Special Attack:  95
-Special Defence:  85
-Speed:  105
+Normally found near power plants, 
+they can wander away and cause 
+major blackouts in cities. 
+
+	Evolution Chain
+Elekid ► Electabuzz ► Electivire
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         83
+        defense:         57
+ special-attack:         95
+special-defense:         85
+          speed:        105
+
+Pokedex ID: 125	Capture Rate: 45
+Base Exp: 172	Happiness: 50
+Height: 11	Weight: 300
+
+Genus: Electric Pokémon
+Location Areas:
+sinnoh-route-222-area
+kanto-route-10-area
+power-plant-area

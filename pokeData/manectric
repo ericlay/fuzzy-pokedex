@@ -1,15 +1,27 @@
 
-Name:  Manectric
-Pokedex Number:  310
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Static - Lightningrod - Minus (Hidden Ability)
+Manectric	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 475
-Hp:  70
-Attack:  75
-Defence:  80
-Special Attack:  135
-Special Defence:  80
-Speed:  135
+MANECTRIC is constantly discharging 
+electricity from its mane.  The 
+sparks sometimes ignite forest 
+fires.  When it enters a battle, 
+Manectric creates thunderclouds. 
+
+	Evolution Chain
+      Electrike ► Manectric
+
+  ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         75
+        defense:         60
+ special-attack:        105
+special-defense:         60
+          speed:        105
+
+Pokedex ID: 310	Capture Rate: 45
+Base Exp: 166	Happiness: 50
+Height: 15	Weight: 402
+
+Genus: Discharge Pokémon
+Location Areas:
+hoenn-route-118-area

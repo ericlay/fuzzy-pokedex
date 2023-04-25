@@ -1,15 +1,29 @@
 
-Name:  Klink
-Pokedex Number:  599
-Gender Ratio:  Genderless
-Abilities: Plus - Minus - Clear Body (Hidden Ability)
+Klink	 A steel type Pokémon
 
-Base Stats
-----------------------
-Total: 300
-Hp:  40
-Attack:  55
-Defence:  70
-Special Attack:  45
-Special Defence:  60
-Speed:  30
+The two minigears that mesh 
+together are predetermined.  
+Each will rebound from other 
+minigears without meshing. 
+
+	Evolution Chain
+Klink ► Klang ► Klinklang
+
+  ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         55
+        defense:         70
+ special-attack:         45
+special-defense:         60
+          speed:         30
+
+Pokedex ID: 599	Capture Rate: 130
+Base Exp: 60	Happiness: 50
+Height: 3	Weight: 210
+
+Genus: Gear Pokémon
+Location Areas:
+chargestone-cave-1f
+chargestone-cave-b1f
+chargestone-cave-b2f
+p2-laboratory-area

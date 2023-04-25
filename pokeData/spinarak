@@ -1,15 +1,39 @@
 
-Name:  Spinarak
-Pokedex Number:  167
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swarm - Insomnia - Sniper (Hidden Ability)
+Spinarak	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 250
-Hp:  40
-Attack:  60
-Defence:  40
-Special Attack:  40
-Special Defence:  40
-Speed:  30
+It lies still in the same pose 
+for days in its web, waiting 
+for its unsuspecting prey to 
+wander close. 
+
+	Evolution Chain
+      Spinarak ► Ariados
+
+  ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         60
+        defense:         40
+ special-attack:         40
+special-defense:         40
+          speed:         30
+
+Pokedex ID: 167	Capture Rate: 255
+Base Exp: 50	Happiness: 70
+Height: 5	Weight: 85
+
+Genus: String Spit Pokémon
+Location Areas:
+johto-route-29-area
+johto-route-30-area
+johto-route-31-area
+johto-route-34-area
+johto-route-35-area
+national-park-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-2-north-towards-pewter-city
+hoenn-safari-zone-expansion-south
+pattern-bush-area

@@ -1,15 +1,30 @@
 
-Name:  Deerling
-Pokedex Number:  585
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Chlorophyll - Sap Sipper - Serene Grace (Hidden Ability)
+Deerling	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 335
-Hp:  60
-Attack:  60
-Defence:  50
-Special Attack:  40
-Special Defence:  50
-Speed:  75
+The color and scent of their 
+fur changes to match the mountain 
+grass.  When they sense hostility, 
+they hide in the grass. 
+
+	Evolution Chain
+      Deerling ► Sawsbuck
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         60
+        defense:         50
+ special-attack:         40
+special-defense:         50
+          speed:         75
+
+Pokedex ID: 585	Capture Rate: 190
+Base Exp: 67	Happiness: 70
+Height: 6	Weight: 195
+
+Genus: Season Pokémon
+Location Areas:
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+unova-route-6-area
+unova-route-7-area
+unova-route-6-weather-institute

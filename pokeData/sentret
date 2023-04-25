@@ -1,15 +1,34 @@
 
-Name:  Sentret
-Pokedex Number:  161
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Run Away - Keen Eye - Frisk (Hidden Ability)
+Sentret	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 215
-Hp:  35
-Attack:  46
-Defence:  34
-Special Attack:  35
-Special Defence:  45
-Speed:  20
+A very cautious Pokémon, it 
+raises itself up using its tail 
+to get a better view of its surroundings. 
+
+	Evolution Chain
+      Sentret ► Furret
+
+  ↞--------| STATS |--------↠ 
+             hp:         35
+         attack:         46
+        defense:         34
+ special-attack:         35
+special-defense:         45
+          speed:         20
+
+Pokedex ID: 161	Capture Rate: 255
+Base Exp: 43	Happiness: 70
+Height: 8	Weight: 60
+
+Genus: Scout Pokémon
+Location Areas:
+sinnoh-route-202-area
+johto-route-29-area
+johto-route-43-area
+kanto-route-1-area
+five-isle-meadow-area
+water-path-area
+canyon-entrance-area
+kalos-route-6-area
+johto-safari-zone-zone-swamp
+johto-safari-zone-zone-wetland

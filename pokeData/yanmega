@@ -1,15 +1,26 @@
 
-Name:  Yanmega
-Pokedex Number:  469
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Speed Boost - Tinted Lens - Frisk (Hidden Ability)
+Yanmega	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 515
-Hp:  86
-Attack:  76
-Defence:  86
-Special Attack:  116
-Special Defence:  56
-Speed:  95
+By churning its wings, it creates 
+shock waves that inflict critical 
+internal injuries to foes. 
+
+	Evolution Chain
+      Yanma ► Yanmega
+
+  ↞--------| STATS |--------↠ 
+             hp:         86
+         attack:         76
+        defense:         86
+ special-attack:        116
+special-defense:         56
+          speed:         95
+
+Pokedex ID: 469	Capture Rate: 30
+Base Exp: 180	Happiness: 70
+Height: 19	Weight: 515
+
+Genus: Ogre Darner Pokémon
+Location Areas:
+pinwheel-forest-outside
+unova-route-3-area

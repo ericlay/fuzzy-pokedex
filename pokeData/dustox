@@ -1,15 +1,34 @@
 
-Name:  Dustox
-Pokedex Number:  269
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shield Dust - Compoundeyes (Hidden Ability)
+Dustox	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 385
-Hp:  60
-Attack:  50
-Defence:  70
-Special Attack:  50
-Special Defence:  90
-Speed:  65
+DUSTOX is instinctively drawn 
+to light.  Swarms of Dustox 
+are attracted by the bright lights 
+of cities, where they wreak havoc 
+by stripping the leaves off roadside 
+trees for food. 
+
+	Evolution Chain
+Wurmple ► Silcoon
+cascoon ► Beautifly
+dustox
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         50
+        defense:         70
+ special-attack:         50
+special-defense:         90
+          speed:         65
+
+Pokedex ID: 269	Capture Rate: 45
+Base Exp: 173	Happiness: 70
+Height: 12	Weight: 316
+
+Genus: Poison Moth Pokémon
+Location Areas:
+eterna-forest-area
+sinnoh-route-205-east-towards-eterna-city
+sinnoh-route-224-area
+sinnoh-route-229-area
+sinnoh-sea-route-230-area

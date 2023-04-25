@@ -1,15 +1,35 @@
 
-Name:  Larvitar
-Pokedex Number:  246
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Guts - Sand Veil (Hidden Ability)
+Larvitar	 A rock type Pokémon
 
-Base Stats
-----------------------
-Total: 300
-Hp:  50
-Attack:  64
-Defence:  50
-Special Attack:  45
-Special Defence:  50
-Speed:  41
+It feeds on soil.  After it 
+has eaten a large mountain, it 
+will fall asleep so it can grow. 
+
+	Evolution Chain
+Larvitar ► Pupitar ► Tyranitar
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         64
+        defense:         50
+ special-attack:         45
+special-defense:         50
+          speed:         41
+
+Pokedex ID: 246	Capture Rate: 45
+Base Exp: 60	Happiness: 35
+Height: 6	Weight: 720
+
+Genus: Rock Skin Pokémon
+Location Areas:
+sinnoh-route-206-area
+sinnoh-route-207-area
+mt-silver-2f
+mt-silver-1f-top
+mt-silver-4f
+mt-silver-1f
+mt-silver-mountainside
+mt-silver-3f
+mt-silver-top
+sevault-canyon-area
+johto-safari-zone-zone-mountain

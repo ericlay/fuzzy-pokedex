@@ -1,15 +1,29 @@
 
-Name:  Torchic
-Pokedex Number:  255
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Blaze - Speed Boost (Hidden Ability)
+Torchic	 A fire type Pokémon
 
-Base Stats
-----------------------
-Total: 310
-Hp:  45
-Attack:  60
-Defence:  40
-Special Attack:  70
-Special Defence:  50
-Speed:  45
+TORCHIC sticks with its TRAINER, 
+following behind with unsteady 
+steps.  Torchic breathes 
+fire of over 1,800 degrees F, 
+including fireballs that leave 
+the foe scorched black. 
+
+	Evolution Chain
+Torchic ► Combusken ► Blaziken
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         60
+        defense:         40
+ special-attack:         70
+special-defense:         50
+          speed:         45
+
+Pokedex ID: 255	Capture Rate: 45
+Base Exp: 62	Happiness: 50
+Height: 4	Weight: 25
+
+Genus: Chick Pokémon
+Location Areas:
+hoenn-route-101-area
+saffron-city-silph-co

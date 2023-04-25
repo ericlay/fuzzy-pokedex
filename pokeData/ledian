@@ -1,15 +1,29 @@
 
-Name:  Ledian
-Pokedex Number:  166
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swarm - Early Bird - Iron Fist (Hidden Ability)
+Ledian	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 390
-Hp:  55
-Attack:  35
-Defence:  50
-Special Attack:  55
-Special Defence:  110
-Speed:  85
+When the stars flicker in the 
+night sky, it flutters about, 
+scattering a glowing powder. 
+
+	Evolution Chain
+      Ledyba ► Ledian
+
+  ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         35
+        defense:         50
+ special-attack:         55
+special-defense:        110
+          speed:         85
+
+Pokedex ID: 166	Capture Rate: 90
+Base Exp: 137	Happiness: 70
+Height: 14	Weight: 356
+
+Genus: Five Star Pokémon
+Location Areas:
+sinnoh-route-229-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-2-north-towards-pewter-city
+dreamyard-area
+dreamyard-b1f

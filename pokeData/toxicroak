@@ -1,15 +1,25 @@
 
-Name:  Toxicroak
-Pokedex Number:  454
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Anticipation - Dry Skin - Poison Touch (Hidden Ability)
+Toxicroak	 A poison type Pokémon
 
-Base Stats
-----------------------
-Total: 490
-Hp:  83
-Attack:  106
-Defence:  65
-Special Attack:  86
-Special Defence:  65
-Speed:  85
+Its knuckle claws secrete a 
+toxin so vile that even a scratch 
+could prove fatal. 
+
+	Evolution Chain
+      Croagunk ► Toxicroak
+
+  ↞--------| STATS |--------↠ 
+             hp:         83
+         attack:        106
+        defense:         65
+ special-attack:         86
+special-defense:         65
+          speed:         85
+
+Pokedex ID: 454	Capture Rate: 75
+Base Exp: 172	Happiness: 50
+Height: 13	Weight: 444
+
+Genus: Toxic Mouth Pokémon
+Location Areas:
+pinwheel-forest-outside

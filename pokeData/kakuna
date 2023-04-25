@@ -1,15 +1,48 @@
 
-Name:  Kakuna
-Pokedex Number:  014
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Shed Skin
+Kakuna	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 205
-Hp:  45
-Attack:  25
-Defence:  50
-Special Attack:  25
-Special Defence:  25
-Speed:  35
+Almost incapable of moving, 
+Kakuna can only harden 
+its shell to protect itself from 
+predators. 
+
+	Evolution Chain
+Weedle ► Kakuna ► Beedrill
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         25
+        defense:         50
+ special-attack:         25
+special-defense:         25
+          speed:         35
+
+Pokedex ID: 14	Capture Rate: 120
+Base Exp: 72	Happiness: 70
+Height: 6	Weight: 100
+
+Genus: Cocoon Pokémon
+Location Areas:
+eterna-forest-area
+johto-route-30-area
+johto-route-31-area
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+national-park-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+lake-of-rage-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-24-area
+kanto-route-25-area
+kanto-route-2-north-towards-pewter-city
+viridian-forest-area
+pattern-bush-area
+unova-route-12-area
+santalune-forest-area
+azalea-town-area

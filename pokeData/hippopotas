@@ -1,15 +1,28 @@
 
-Name:  Hippopotas
-Pokedex Number:  449
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sand Stream - Sand Force (Hidden Ability)
+Hippopotas	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 330
-Hp:  68
-Attack:  72
-Defence:  78
-Special Attack:  38
-Special Defence:  42
-Speed:  32
+It lives in arid places.  Instead 
+of perspiration, it expels grainy 
+sand from its body. 
+
+	Evolution Chain
+      Hippopotas ► Hippowdon
+
+  ↞--------| STATS |--------↠ 
+             hp:         68
+         attack:         72
+        defense:         78
+ special-attack:         38
+special-defense:         42
+          speed:         32
+
+Pokedex ID: 449	Capture Rate: 140
+Base Exp: 66	Happiness: 50
+Height: 8	Weight: 495
+
+Genus: Hippo Pokémon
+Location Areas:
+ruin-maniac-cave-0-9-different-unown-caught
+ruin-maniac-cave-10-25-different-unown-caught
+maniac-tunnel-26-plus-different-unown-caught
+kalos-route-9-area

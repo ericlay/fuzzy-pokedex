@@ -1,15 +1,28 @@
 
-Name:  Oshawott
-Pokedex Number:  501
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Torrent - Shell Armor (Hidden Ability)
+Oshawott	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 308
-Hp:  55
-Attack:  55
-Defence:  45
-Special Attack:  63
-Special Defence:  45
-Speed:  45
+It fights using the scalchop 
+on its stomach.  In response 
+to an attack, it retaliates immediately 
+by slashing. 
+
+	Evolution Chain
+Oshawott ► Dewott ► Samurott
+
+  ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         55
+        defense:         45
+ special-attack:         63
+special-defense:         45
+          speed:         45
+
+Pokedex ID: 501	Capture Rate: 45
+Base Exp: 62	Happiness: 70
+Height: 5	Weight: 59
+
+Genus: Sea Otter Pokémon
+Location Areas:
+hoenn-route-101-area
+aspertia-city-area
+nuvema-town-area

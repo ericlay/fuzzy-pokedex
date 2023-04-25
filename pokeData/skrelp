@@ -1,15 +1,28 @@
 
-Name:  Skrelp
-Pokedex Number:  690
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Poison Point - Poison Touch - Adaptability (Hidden Ability)
+Skrelp	 A poison type Pokémon
 
-Base Stats
-----------------------
-Total: 320
-Hp:  50
-Attack:  60
-Defence:  60
-Special Attack:  60
-Special Defence:  60
-Speed:  30
+Camouflaged as rotten kelp, 
+they spray liquid poison on prey 
+that approaches unawares and 
+then finish it off. 
+
+	Evolution Chain
+      Skrelp ► Dragalge
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         60
+        defense:         60
+ special-attack:         60
+special-defense:         60
+          speed:         30
+
+Pokedex ID: 690	Capture Rate: 225
+Base Exp: 64	Happiness: 50
+Height: 5	Weight: 73
+
+Genus: Mock Kelp Pokémon
+Location Areas:
+ambrette-town-area
+cyllage-city-area
+kalos-route-8-area

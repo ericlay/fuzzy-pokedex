@@ -1,15 +1,31 @@
 
-Name:  Wailord
-Pokedex Number:  321
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Water Veil - Oblivious - Pressure (Hidden Ability)
+Wailord	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 500
-Hp:  170
-Attack:  90
-Defence:  45
-Special Attack:  90
-Special Defence:  45
-Speed:  60
+WAILORD is the largest of all 
+identified Pokémon up to now. 
+ This giant Pokémon swims languorously 
+in the vast open sea, eating 
+massive amounts of food at once 
+with its enormous mouth. 
+
+	Evolution Chain
+      Wailmer ► Wailord
+
+  ↞--------| STATS |--------↠ 
+             hp:        170
+         attack:         90
+        defense:         45
+ special-attack:         90
+special-defense:         45
+          speed:         60
+
+Pokedex ID: 321	Capture Rate: 60
+Base Exp: 175	Happiness: 50
+Height: 145	Weight: 3980
+
+Genus: Float Whale Pokémon
+Location Areas:
+sinnoh-sea-route-223-area
+sinnoh-sea-route-230-area
+hoenn-route-129-area
+undella-bay-area

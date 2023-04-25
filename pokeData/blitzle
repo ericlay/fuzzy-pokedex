@@ -1,15 +1,26 @@
 
-Name:  Blitzle
-Pokedex Number:  522
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Lightningrod - Motor Drive - Sap Sipper (Hidden Ability)
+Blitzle	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 295
-Hp:  45
-Attack:  60
-Defence:  32
-Special Attack:  50
-Special Defence:  32
-Speed:  76
+When thunderclouds cover the 
+sky, it will appear.  It can 
+catch lightning with its mane 
+and store the electricity. 
+
+	Evolution Chain
+      Blitzle ► Zebstrika
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         60
+        defense:         32
+ special-attack:         50
+special-defense:         32
+          speed:         76
+
+Pokedex ID: 522	Capture Rate: 190
+Base Exp: 59	Happiness: 70
+Height: 8	Weight: 298
+
+Genus: Electrified Pokémon
+Location Areas:
+unova-route-3-area

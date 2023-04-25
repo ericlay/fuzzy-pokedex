@@ -1,15 +1,31 @@
 
-Name:  Drowzee
-Pokedex Number:  096
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Insomnia - Forewarn - Inner Focus (Hidden Ability)
+Drowzee	 A psychic type Pokémon
 
-Base Stats
-----------------------
-Total: 328
-Hp:  60
-Attack:  48
-Defence:  45
-Special Attack:  43
-Special Defence:  90
-Speed:  42
+Puts enemies to sleep then eats 
+their dreams.  Occasionally gets 
+sick from eating bad dreams. 
+
+	Evolution Chain
+      Drowzee ► Hypno
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         48
+        defense:         45
+ special-attack:         43
+special-defense:         90
+          speed:         42
+
+Pokedex ID: 96	Capture Rate: 190
+Base Exp: 66	Happiness: 70
+Height: 10	Weight: 324
+
+Genus: Hypnosis Pokémon
+Location Areas:
+sinnoh-route-215-area
+johto-route-34-area
+johto-route-35-area
+kanto-route-6-area
+kanto-route-11-area
+berry-forest-area
+johto-safari-zone-zone-swamp

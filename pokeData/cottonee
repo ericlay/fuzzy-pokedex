@@ -1,15 +1,30 @@
 
-Name:  Cottonee
-Pokedex Number:  546
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Prankster - Infiltrator - Chlorophyll (Hidden Ability)
+Cottonee	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 280
-Hp:  40
-Attack:  27
-Defence:  60
-Special Attack:  37
-Special Defence:  50
-Speed:  66
+When attacked, it escapes by 
+shooting cotton from its body. 
+ The cotton serves as a decoy 
+to distract the attacker. 
+
+	Evolution Chain
+      Cottonee ► Whimsicott
+
+  ↞--------| STATS |--------↠ 
+             hp:         40
+         attack:         27
+        defense:         60
+ special-attack:         37
+special-defense:         50
+          speed:         66
+
+Pokedex ID: 546	Capture Rate: 190
+Base Exp: 56	Happiness: 50
+Height: 3	Weight: 6
+
+Genus: Cotton Puff Pokémon
+Location Areas:
+pinwheel-forest-inside
+abundant-shrine-area
+lostlorn-forest-area
+castelia-city-area
+unova-victory-road-2-unknown-area-72

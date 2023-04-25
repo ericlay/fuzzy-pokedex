@@ -1,15 +1,29 @@
 
-Name:  Palpitoad
-Pokedex Number:  536
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swift Swim - Hydration - Water Absorb (Hidden Ability)
+Palpitoad	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 384
-Hp:  75
-Attack:  65
-Defence:  55
-Special Attack:  65
-Special Defence:  55
-Speed:  69
+When they vibrate the bumps 
+on their heads, they can make 
+waves in water or earthquake-like 
+vibrations on land. 
+
+	Evolution Chain
+Tympole ► Palpitoad ► Seismitoad
+
+  ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         65
+        defense:         55
+ special-attack:         65
+special-defense:         55
+          speed:         69
+
+Pokedex ID: 536	Capture Rate: 120
+Base Exp: 134	Happiness: 50
+Height: 8	Weight: 170
+
+Genus: Vibration Pokémon
+Location Areas:
+icirrus-city-area
+pinwheel-forest-outside
+unova-route-8-area
+moor-of-icirrus-area

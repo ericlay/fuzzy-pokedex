@@ -1,15 +1,26 @@
 
-Name:  Sunflora
-Pokedex Number:  192
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Chlorophyll - Solar Power - Early Bird (Hidden Ability)
+Sunflora	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 425
-Hp:  75
-Attack:  75
-Defence:  55
-Special Attack:  105
-Special Defence:  85
-Speed:  30
+It converts sun­ light into 
+energy.  In the darkness after 
+sunset, it closes its petals 
+and becomes still. 
+
+	Evolution Chain
+      Sunkern ► Sunflora
+
+  ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:         75
+        defense:         55
+ special-attack:        105
+special-defense:         85
+          speed:         30
+
+Pokedex ID: 192	Capture Rate: 120
+Base Exp: 149	Happiness: 70
+Height: 8	Weight: 85
+
+Genus: Sun Pokémon
+Location Areas:
+unova-route-12-area

@@ -1,15 +1,28 @@
 
-Name:  Gible
-Pokedex Number:  443
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Sand Veil - Rough Skin (Hidden Ability)
+Gible	 A dragon type Pokémon
 
-Base Stats
-----------------------
-Total: 300
-Hp:  58
-Attack:  70
-Defence:  45
-Special Attack:  40
-Special Defence:  45
-Speed:  42
+It nests in small, horizontal 
+holes in cave walls.  It pounces 
+to catch prey that stray too 
+close. 
+
+	Evolution Chain
+Gible ► Gabite ► Garchomp
+
+  ↞--------| STATS |--------↠ 
+             hp:         58
+         attack:         70
+        defense:         45
+ special-attack:         40
+special-defense:         45
+          speed:         42
+
+Pokedex ID: 443	Capture Rate: 45
+Base Exp: 60	Happiness: 50
+Height: 7	Weight: 205
+
+Genus: Land Shark Pokémon
+Location Areas:
+wayward-cave-b1f
+kalos-route-13-area
+floccesy-town-area

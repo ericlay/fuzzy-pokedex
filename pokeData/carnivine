@@ -1,15 +1,29 @@
 
-Name:  Carnivine
-Pokedex Number:  455
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Levitate
+Carnivine	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 454
-Hp:  74
-Attack:  100
-Defence:  72
-Special Attack:  90
-Special Defence:  72
-Speed:  46
+It attracts prey with its sweet- 
+smelling saliva, then chomps 
+down.  It takes a whole day to 
+eat prey. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:         74
+         attack:        100
+        defense:         72
+ special-attack:         90
+special-defense:         72
+          speed:         46
+
+Pokedex ID: 455	Capture Rate: 200
+Base Exp: 159	Happiness: 70
+Height: 14	Weight: 270
+
+Genus: Bug Catcher Pokémon
+Location Areas:
+ilex-forest-area
+viridian-forest-area
+unova-route-18-area
+kalos-route-14-area
+kalos-route-19-area

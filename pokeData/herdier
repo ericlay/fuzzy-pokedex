@@ -1,15 +1,31 @@
 
-Name:  Herdier
-Pokedex Number:  507
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Intimidate - Sand Rush - Scrappy (Hidden Ability)
+Herdier	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 370
-Hp:  65
-Attack:  80
-Defence:  65
-Special Attack:  35
-Special Defence:  65
-Speed:  60
+It has black, cape-like fur 
+that is very hard and decreases 
+the amount of damage it receives. 
+
+	Evolution Chain
+Lillipup ► Herdier ► Stoutland
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         80
+        defense:         65
+ special-attack:         35
+special-defense:         65
+          speed:         60
+
+Pokedex ID: 507	Capture Rate: 120
+Base Exp: 130	Happiness: 50
+Height: 9	Weight: 147
+
+Genus: Loyal Dog Pokémon
+Location Areas:
+cold-storage-area
+p2-laboratory-area
+unova-route-1-area
+unova-route-2-area
+unova-route-3-area
+unova-route-10-area
+unova-route-10-victory-road-gate

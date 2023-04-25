@@ -1,15 +1,28 @@
 
-Name:  Diglett
-Pokedex Number:  050
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sand Veil - Arena Trap - Sand Force (Hidden Ability)
+Diglett	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 265
-Hp:  10
-Attack:  55
-Defence:  25
-Special Attack:  35
-Special Defence:  45
-Speed:  95
+Lives about one yard underground 
+where it feeds on plant roots. 
+ It sometimes appears above ground. 
+
+	Evolution Chain
+      Diglett ► Dugtrio
+
+  ↞--------| STATS |--------↠ 
+             hp:         10
+         attack:         55
+        defense:         25
+ special-attack:         35
+special-defense:         45
+          speed:         95
+
+Pokedex ID: 50	Capture Rate: 255
+Base Exp: 53	Happiness: 50
+Height: 2	Weight: 8
+
+Genus: Mole Pokémon
+Location Areas:
+sinnoh-route-228-area
+vermilion-city-area
+johto-route-48-area
+digletts-cave-area

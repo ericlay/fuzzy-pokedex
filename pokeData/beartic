@@ -1,15 +1,32 @@
 
-Name:  Beartic
-Pokedex Number:  614
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Snow Cloak - Swift Swim (Hidden Ability)
+Beartic	 A ice type Pokémon
 
-Base Stats
-----------------------
-Total: 485
-Hp:  95
-Attack:  110
-Defence:  80
-Special Attack:  70
-Special Defence:  80
-Speed:  50
+It can make its breath freeze 
+at will.  Very able in the water, 
+it swims around in northern seas 
+and catches prey. 
+
+	Evolution Chain
+      Cubchoo ► Beartic
+
+  ↞--------| STATS |--------↠ 
+             hp:         95
+         attack:        130
+        defense:         80
+ special-attack:         70
+special-defense:         80
+          speed:         50
+
+Pokedex ID: 614	Capture Rate: 60
+Base Exp: 177	Happiness: 50
+Height: 26	Weight: 2600
+
+Genus: Freezing Pokémon
+Location Areas:
+twist-mountain-area
+dragonspiral-tower-entrance
+dragonspiral-tower-outside
+frost-cavern-unknown-area-314
+frost-cavern-unknown-area-315
+frost-cavern-unknown-area-316
+frost-cavern-unknown-area-317

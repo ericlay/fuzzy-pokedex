@@ -1,15 +1,40 @@
 
-Name:  Beedrill
-Pokedex Number:  015
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swarm - Sniper (Hidden Ability)
+Beedrill	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 395
-Hp:  65
-Attack:  150
-Defence:  40
-Special Attack:  15
-Special Defence:  80
-Speed:  145
+It has three poisonous stingers 
+on its forelegs and its tail. 
+ They are used to jab its enemy 
+repeatedly. 
+
+	Evolution Chain
+Weedle ► Kakuna ► Beedrill
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         90
+        defense:         40
+ special-attack:         45
+special-defense:         80
+          speed:         75
+
+Pokedex ID: 15	Capture Rate: 45
+Base Exp: 178	Happiness: 70
+Height: 10	Weight: 295
+
+Genus: Poison Bee Pokémon
+Location Areas:
+ilex-forest-area
+johto-route-34-area
+johto-route-35-area
+johto-route-36-area
+johto-route-37-area
+johto-route-38-area
+johto-route-39-area
+lake-of-rage-area
+kanto-route-26-area
+kanto-route-27-area
+kanto-route-2-south-towards-viridian-city
+kanto-route-2-north-towards-pewter-city
+viridian-forest-area
+unova-route-12-area
+azalea-town-area

@@ -1,15 +1,25 @@
 
-Name:  Golem
-Pokedex Number:  076
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Rock Head - Sturdy - Sand Veil (Hidden Ability)
+Golem	 A rock type Pokémon
 
-Base Stats
-----------------------
-Total: 495
-Hp:  80
-Attack:  120
-Defence:  130
-Special Attack:  55
-Special Defence:  65
-Speed:  45
+Its boulder-like body is extremely 
+hard.  It can easily withstand 
+dynamite blasts without damage. 
+
+	Evolution Chain
+Geodude ► Graveler ► Golem
+
+  ↞--------| STATS |--------↠ 
+             hp:         80
+         attack:        120
+        defense:        130
+ special-attack:         55
+special-defense:         65
+          speed:         45
+
+Pokedex ID: 76	Capture Rate: 45
+Base Exp: 223	Happiness: 70
+Height: 14	Weight: 3000
+
+Genus: Megaton Pokémon
+Location Areas:
+johto-safari-zone-zone-peak

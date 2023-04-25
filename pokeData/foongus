@@ -1,15 +1,31 @@
 
-Name:  Foongus
-Pokedex Number:  590
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Effect Spore - Regenerator (Hidden Ability)
+Foongus	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 294
-Hp:  69
-Attack:  55
-Defence:  45
-Special Attack:  55
-Special Defence:  55
-Speed:  15
+It lures people in with its 
+Poké Ball pattern, then releases 
+poison spores.  Why it resembles 
+a Poké Ball is unknown. 
+
+	Evolution Chain
+      Foongus ► Amoonguss
+
+  ↞--------| STATS |--------↠ 
+             hp:         69
+         attack:         55
+        defense:         45
+ special-attack:         55
+special-defense:         55
+          speed:         15
+
+Pokedex ID: 590	Capture Rate: 190
+Base Exp: 59	Happiness: 50
+Height: 2	Weight: 10
+
+Genus: Mushroom Pokémon
+Location Areas:
+unova-route-6-area
+unova-route-7-area
+unova-route-10-area
+unova-route-10-victory-road-gate
+kalos-route-15-area
+kalos-route-16-area

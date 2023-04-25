@@ -1,15 +1,45 @@
 
-Name:  Qwilfish
-Pokedex Number:  211
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Poison Point - Swift Swim - Intimidate (Hidden Ability)
+Qwilfish	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 430
-Hp:  65
-Attack:  95
-Defence:  75
-Special Attack:  55
-Special Defence:  55
-Speed:  85
+To fire its poison spikes, it 
+must inflate its body by drinking 
+over 2. 6 gallons of water all 
+at once. 
+
+	Evolution Chain
+      Qwilfish ► Overqwil
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         95
+        defense:         85
+ special-attack:         55
+special-defense:         55
+          speed:         85
+
+Pokedex ID: 211	Capture Rate: 45
+Base Exp: 88	Happiness: 50
+Height: 5	Weight: 39
+
+Genus: Balloon Pokémon
+Location Areas:
+iron-island-area
+johto-route-32-area
+kanto-route-12-area
+kanto-route-13-area
+resort-gorgeous-area
+water-labyrinth-area
+five-isle-meadow-area
+memorial-pillar-area
+outcast-island-area
+green-path-area
+water-path-area
+trainer-tower-area
+tanoby-ruins-area
+p2-laboratory-area
+unova-route-4-area
+unova-route-18-area
+unova-route-17-area
+virbank-city-area
+virbank-complex-outer
+kalos-route-8-area

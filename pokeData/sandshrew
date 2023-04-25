@@ -1,15 +1,45 @@
 
-Name:  Sandshrew
-Pokedex Number:  027
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sand Veil - Sand Rush (Hidden Ability)
+Sandshrew	 A ground type Pokémon
 
-Base Stats
-----------------------
-Total: 300
-Hp:  50
-Attack:  75
-Defence:  85
-Special Attack:  20
-Special Defence:  30
-Speed:  40
+Burrows deep underground in 
+arid locations far from water. 
+ It only emerges to hunt for 
+food. 
+
+	Evolution Chain
+      Sandshrew ► Sandslash
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         75
+        defense:         85
+ special-attack:         20
+special-defense:         30
+          speed:         40
+
+Pokedex ID: 27	Capture Rate: 255
+Base Exp: 60	Happiness: 50
+Height: 6	Weight: 120
+
+Genus: Mouse Pokémon
+Location Areas:
+wayward-cave-1f
+wayward-cave-b1f
+union-cave-1f
+union-cave-b1f
+mt-moon-1f
+mt-moon-2f
+kanto-route-3-area
+kanto-route-4-area
+kanto-route-8-area
+kanto-route-9-area
+kanto-route-10-area
+kanto-route-11-area
+kanto-route-23-area
+hoenn-route-111-area
+hoenn-route-113-area
+mirage-tower-area
+desert-resort-entrance
+desert-resort-area
+relic-castle-a
+johto-safari-zone-zone-desert

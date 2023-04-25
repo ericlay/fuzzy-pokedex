@@ -1,15 +1,28 @@
 
-Name:  Tepig
-Pokedex Number:  498
-Gender Ratio:   ♂:87.5% ♀:12.5%
-Abilities: Blaze - Thick Fat (Hidden Ability)
+Tepig	 A fire type Pokémon
 
-Base Stats
-----------------------
-Total: 308
-Hp:  65
-Attack:  63
-Defence:  45
-Special Attack:  45
-Special Defence:  45
-Speed:  45
+It can deftly dodge its foe’s 
+attacks while shooting fireballs 
+from its nose.  It roasts berries 
+before it eats them. 
+
+	Evolution Chain
+Tepig ► Pignite ► Emboar
+
+  ↞--------| STATS |--------↠ 
+             hp:         65
+         attack:         63
+        defense:         45
+ special-attack:         45
+special-defense:         45
+          speed:         45
+
+Pokedex ID: 498	Capture Rate: 45
+Base Exp: 62	Happiness: 70
+Height: 5	Weight: 99
+
+Genus: Fire Pig Pokémon
+Location Areas:
+hoenn-route-101-area
+aspertia-city-area
+nuvema-town-area

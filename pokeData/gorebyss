@@ -1,15 +1,31 @@
 
-Name:  Gorebyss
-Pokedex Number:  368
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Swift Swim - Hydration (Hidden Ability)
+Gorebyss	 A water type Pokémon
 
-Base Stats
-----------------------
-Total: 485
-Hp:  55
-Attack:  84
-Defence:  105
-Special Attack:  114
-Special Defence:  75
-Speed:  52
+GOREBYSS lives in the southern 
+seas at extreme depths.  Its 
+body is built to withstand the 
+enormous pressure of water at 
+incredible depths.  Because of 
+this, Gorebyss’s body is 
+unharmed by ordinary attacks. 
+
+	Evolution Chain
+      Clamperl ► Huntail
+gorebyss
+
+  ↞--------| STATS |--------↠ 
+             hp:         55
+         attack:         84
+        defense:        105
+ special-attack:        114
+special-defense:         75
+          speed:         52
+
+Pokedex ID: 368	Capture Rate: 60
+Base Exp: 170	Happiness: 70
+Height: 18	Weight: 226
+
+Genus: South Sea Pokémon
+Location Areas:
+unova-route-4-area
+kalos-route-12-area

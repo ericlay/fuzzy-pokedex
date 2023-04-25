@@ -1,15 +1,24 @@
 
-Name:  Rotom
-Pokedex Number:  479
-Gender Ratio:  
-Abilities: Levitate
+Rotom	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 440
-Hp:  50
-Attack:  65
-Defence:  107
-Special Attack:  105
-Special Defence:  107
-Speed:  86
+Its body is composed of plasma. 
+ It is known to infiltrate electronic 
+devices and wreak havoc. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:         50
+         attack:         50
+        defense:         77
+ special-attack:         95
+special-defense:         77
+          speed:         91
+
+Pokedex ID: 479	Capture Rate: 45
+Base Exp: 154	Happiness: 50
+Height: 3	Weight: 3
+
+Genus: Plasma Pokémon
+Location Areas:
+old-chateau-2f-left-room

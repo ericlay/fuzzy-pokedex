@@ -1,15 +1,25 @@
 
-Name:  Magnezone
-Pokedex Number:  462
-Gender Ratio:  Genderless
-Abilities: Magnet Pull - Sturdy - Analytic (Hidden Ability)
+Magnezone	 A electric type Pokémon
 
-Base Stats
-----------------------
-Total: 535
-Hp:  70
-Attack:  70
-Defence:  115
-Special Attack:  130
-Special Defence:  90
-Speed:  60
+It evolved from exposure to 
+a special magnetic field.  Three 
+units generate magnetism. 
+
+	Evolution Chain
+Magnemite ► Magneton ► Magnezone
+
+  ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         70
+        defense:        115
+ special-attack:        130
+special-defense:         90
+          speed:         60
+
+Pokedex ID: 462	Capture Rate: 30
+Base Exp: 268	Happiness: 50
+Height: 12	Weight: 1800
+
+Genus: Magnet Area Pokémon
+Location Areas:
+p2-laboratory-area

@@ -1,15 +1,28 @@
 
-Name:  Leavanny
-Pokedex Number:  542
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Swarm - Chlorophyll - Overcoat (Hidden Ability)
+Leavanny	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 500
-Hp:  75
-Attack:  103
-Defence:  80
-Special Attack:  70
-Special Defence:  80
-Speed:  92
+Upon finding a small Pokémon, 
+it weaves clothing for it from 
+leaves, using the cutters on 
+its arms and sticky silk. 
+
+	Evolution Chain
+Sewaddle ► Swadloon ► Leavanny
+
+  ↞--------| STATS |--------↠ 
+             hp:         75
+         attack:        103
+        defense:         80
+ special-attack:         70
+special-defense:         80
+          speed:         92
+
+Pokedex ID: 542	Capture Rate: 45
+Base Exp: 225	Happiness: 70
+Height: 12	Weight: 205
+
+Genus: Nurturing Pokémon
+Location Areas:
+unova-route-6-area
+unova-route-12-area
+lostlorn-forest-area

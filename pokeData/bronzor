@@ -1,15 +1,87 @@
 
-Name:  Bronzor
-Pokedex Number:  436
-Gender Ratio:  Genderless
-Abilities: Levitate - Heatproof - Heavy Metal (Hidden Ability)
+Bronzor	 A steel type Pokémon
 
-Base Stats
-----------------------
-Total: 300
-Hp:  57
-Attack:  24
-Defence:  86
-Special Attack:  24
-Special Defence:  86
-Speed:  23
+Implements shaped like it were 
+discovered in ancient tombs. 
+ It is unknown if they are related. 
+
+	Evolution Chain
+      Bronzor ► Bronzong
+
+  ↞--------| STATS |--------↠ 
+             hp:         57
+         attack:         24
+        defense:         86
+ special-attack:         24
+special-defense:         86
+          speed:         23
+
+Pokedex ID: 436	Capture Rate: 255
+Base Exp: 60	Happiness: 50
+Height: 5	Weight: 605
+
+Genus: Bronze Pokémon
+Location Areas:
+mt-coronet-1f-route-207
+mt-coronet-2f
+mt-coronet-3f
+mt-coronet-1f-route-216
+mt-coronet-1f-route-211
+mt-coronet-b1f
+turnback-cave-pillar-1
+turnback-cave-pillar-2
+turnback-cave-pillar-3
+turnback-cave-before-pillar-1
+turnback-cave-between-pillars-1-and-2
+turnback-cave-between-pillars-2-and-3
+turnback-cave-after-pillar-3
+wayward-cave-1f
+wayward-cave-b1f
+sinnoh-route-206-area
+sinnoh-route-211-west-towards-eterna-city
+sinnoh-route-211-east-towards-celestic-town
+union-cave-1f
+union-cave-b1f
+union-cave-b2f
+slowpoke-well-1f
+slowpoke-well-b1f
+whirl-islands-1f
+whirl-islands-b1f
+whirl-islands-b2f
+whirl-islands-b3f
+mt-mortar-1f
+mt-mortar-lower-cave
+mt-mortar-upper-cave
+mt-mortar-b1f
+ice-path-1f
+ice-path-b1f
+ice-path-b2f
+ice-path-b3f
+dark-cave-violet-city-entrance
+dark-cave-blackthorn-city-entrance
+seafoam-islands-1f
+seafoam-islands-b1f
+seafoam-islands-b2f
+seafoam-islands-b3f
+seafoam-islands-b4f
+mt-silver-2f
+mt-silver-1f-top
+mt-silver-4f
+johto-route-47-inside-cave
+mt-silver-1f
+mt-silver-mountainside
+mt-silver-3f
+mt-silver-top
+mt-moon-1f
+mt-moon-2f
+rock-tunnel-1f
+rock-tunnel-b1f
+kanto-victory-road-1-1f
+tohjo-falls-area
+digletts-cave-area
+kanto-victory-road-1-2f
+kanto-victory-road-1-3f
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+abundant-shrine-area

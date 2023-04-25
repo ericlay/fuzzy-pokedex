@@ -1,15 +1,41 @@
 
-Name:  Ditto
-Pokedex Number:  132
-Gender Ratio:  Genderless
-Abilities: Limber - Imposter (Hidden Ability)
+Ditto	 A normal type Pokémon
 
-Base Stats
-----------------------
-Total: 288
-Hp:  48
-Attack:  48
-Defence:  48
-Special Attack:  48
-Special Defence:  48
-Speed:  48
+Capable of copying an enemy's 
+genetic code to instantly transform 
+itself into a duplicate of the 
+enemy. 
+
+    Single Stage Evolution Pokémon
+
+  ↞--------| STATS |--------↠ 
+             hp:         48
+         attack:         48
+        defense:         48
+ special-attack:         48
+special-defense:         48
+          speed:         48
+
+Pokedex ID: 132	Capture Rate: 35
+Base Exp: 101	Happiness: 50
+Height: 3	Weight: 40
+
+Genus: Transform Pokémon
+Location Areas:
+sinnoh-route-218-area
+johto-route-34-area
+johto-route-35-area
+johto-route-47-area
+kanto-route-13-area
+kanto-route-14-area
+kanto-route-15-area
+cerulean-cave-1f
+cerulean-cave-2f
+cerulean-cave-b1f
+kanto-route-23-area
+pokemon-mansion-b1f
+desert-underpass-area
+giant-chasm-forest
+giant-chasm-forest-cave
+pokemon-village-area
+johto-safari-zone-zone-wetland

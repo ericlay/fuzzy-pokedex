@@ -1,15 +1,30 @@
 
-Name:  Masquerain
-Pokedex Number:  284
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Intimidate - Unnerve (Hidden Ability)
+Masquerain	 A bug type Pokémon
 
-Base Stats
-----------------------
-Total: 414
-Hp:  70
-Attack:  60
-Defence:  62
-Special Attack:  80
-Special Defence:  82
-Speed:  60
+MASQUERAIN intimidates enemies 
+with the eyelike patterns on 
+its antennas.  Masquerain flaps 
+its four wings to freely fly 
+in any direction - even sideways 
+and backwards - as if it were 
+a helicopter. 
+
+	Evolution Chain
+      Surskit ► Masquerain
+
+  ↞--------| STATS |--------↠ 
+             hp:         70
+         attack:         60
+        defense:         62
+ special-attack:        100
+special-defense:         82
+          speed:         80
+
+Pokedex ID: 284	Capture Rate: 75
+Base Exp: 159	Happiness: 70
+Height: 8	Weight: 36
+
+Genus: Eyeball Pokémon
+Location Areas:
+sinnoh-route-229-area
+kalos-route-3-area

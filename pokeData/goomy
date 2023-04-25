@@ -1,15 +1,25 @@
 
-Name:  Goomy
-Pokedex Number:  704
-Gender Ratio:   ♂:50% ♀:50%
-Abilities: Sap Sipper - Hydration - Gooey (Hidden Ability)
+Goomy	 A dragon type Pokémon
 
-Base Stats
-----------------------
-Total: 300
-Hp:  45
-Attack:  50
-Defence:  35
-Special Attack:  55
-Special Defence:  75
-Speed:  40
+The weakest Dragon-type Pokémon, 
+it lives in damp, shady places, 
+so its body doesn’t dry out. 
+
+	Evolution Chain
+Goomy ► Sliggoo ► Goodra
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         50
+        defense:         35
+ special-attack:         55
+special-defense:         75
+          speed:         40
+
+Pokedex ID: 704	Capture Rate: 45
+Base Exp: 60	Happiness: 35
+Height: 3	Weight: 28
+
+Genus: Soft Tissue Pokémon
+Location Areas:
+kalos-route-14-area

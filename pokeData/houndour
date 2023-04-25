@@ -1,15 +1,32 @@
 
-Name:  Houndour
-Pokedex Number:  228
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Early Bird - Flash Fire - Unnerve (Hidden Ability)
+Houndour	 A dark type Pokémon
 
-Base Stats
-----------------------
-Total: 330
-Hp:  45
-Attack:  60
-Defence:  30
-Special Attack:  80
-Special Defence:  50
-Speed:  65
+It uses different kinds of cries 
+for communicating with others 
+of its kind and for pursuing 
+its prey. 
+
+	Evolution Chain
+      Houndour ► Houndoom
+
+  ↞--------| STATS |--------↠ 
+             hp:         45
+         attack:         60
+        defense:         30
+ special-attack:         80
+special-defense:         50
+          speed:         65
+
+Pokedex ID: 228	Capture Rate: 120
+Base Exp: 66	Happiness: 35
+Height: 6	Weight: 108
+
+Genus: Dark Pokémon
+Location Areas:
+valor-lakefront-area
+sinnoh-route-214-area
+kanto-route-7-area
+hoenn-safari-zone-expansion-north
+hoenn-altering-cave-d
+kanto-altering-cave-d
+kalos-route-10-area

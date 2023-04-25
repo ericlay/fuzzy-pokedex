@@ -1,15 +1,31 @@
 
-Name:  Snover
-Pokedex Number:  459
-Gender Ratio:   ♂:50% ♀:50% 
-Abilities: Snow Warning - Soundproof (Hidden Ability)
+Snover	 A grass type Pokémon
 
-Base Stats
-----------------------
-Total: 334
-Hp:  60
-Attack:  62
-Defence:  50
-Special Attack:  62
-Special Defence:  60
-Speed:  40
+It lives on snowy mountains. 
+ Having had little contact with 
+humans, it is boldly inquisitive. 
+
+	Evolution Chain
+      Snover ► Abomasnow
+
+  ↞--------| STATS |--------↠ 
+             hp:         60
+         attack:         62
+        defense:         50
+ special-attack:         62
+special-defense:         60
+          speed:         40
+
+Pokedex ID: 459	Capture Rate: 120
+Base Exp: 67	Happiness: 50
+Height: 10	Weight: 505
+
+Genus: Frost Tree Pokémon
+Location Areas:
+mt-coronet-exterior-snowfall
+mt-coronet-exterior-blizzard
+lake-acuity-area
+acuity-lakefront-area
+sinnoh-route-216-area
+sinnoh-route-217-area
+kalos-route-17-area
