@@ -1,0 +1,97 @@
+#!/bin/bash
+
+### Overhad preparation
+shopt -s extglob
+KBINDS="/usr/share/fuzzy-pokedex-dev/keybindings-preview"
+POKEDATA="/usr/share/fuzzy-pokedex-dev/pokeData"
+indent="\n\t\t\t\t\t"
+
+### Help 
+help() {
+    printf "\n%s\n%s\n\n" "Use fzf to search Pokémon stats" "Can optionally search by name"
+	printf "%s\n\t%s\n\n" "EXAMPLE" "pokedex [pokémon name]"
+	printf "%s\n" "OPTIONS"
+	printf "%-25s\t%s\n" "  -q, --quick [pokémon]" "Prints single Pokédex entry to terminal" \
+		"  -u, --update [N/+N/-N/N%]" "Scrape web for updated Pokémon stats" "" \
+		"  WARNING: update function is resource heavy" "" "  See Parallel job control (-j) for options" "" \
+		"  Default is 200%" \
+		"  -h, --help" "Print this help screen"
+	printf "\n%s\n" "KEYBINDS"
+	printf "%-15s\t%s\n" "  space" "Reads the Pokédex entry" \
+		"  ctrl-space" "Stops reading the Pokédex entry" \
+		"  ctrl-n" "Shows small sprite version" \
+		"  ctrl-b" "Shows large sprite version" \
+		"  ctrl-s" "Shows shiny sprite version" \
+		"  ctrl-h" "Shows this help screen in preview window"
+	printf "\n"
+}
+
+### Pokedex viewer using pokemon-colorscripts and fzf
+pokedex_View() {
+	pokemon-colorscripts -l |
+	fzf -q "$1" +m -s -i \
+	--cycle \
+	--reverse \
+	--prompt=' ' \
+	--pointer='󰐝 ' \
+	--border=rounded \
+	--border-label="╢ Fuzzy-Pokedex ╟" \
+	--margin=4% \
+	--padding=4% \
+	--header="$(echo -e '  Choose a Pokémon to view info\n\t     ctrl+h to for help')" \
+	--info=inline:'  󰨉 ' \
+  	--color='fg+:15,fg:42,preview-fg:15,label:9,preview-label:15,hl+:134,hl:123,query:134,gutter:0,border:9,prompt:15,pointer:15,marker:15' \
+	--tiebreak=begin,chunk,length \
+	--preview="printf '${indent}%s${indent}    %s\n' 'Press space to hear entry' 'ctrl+space to stop'; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}" \
+	--preview-window=68%:wrap:border-rounded \
+	--bind=focus:transform-preview-label:'echo [ {1} ] ' \
+	--bind=ctrl-h:preview:"cat $KBINDS" \
+	--bind=space:preview:"printf '${indent::-2} %s${indent}   %s\n' 'Select another Pokémon to stop audio' 'Or press ctrl+space'; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1}; espeak-ng -f $POKEDATA/{1} -g 4 -p 50 -s 145 -l 250 -ven+m3 &" \
+	--bind=ctrl-space:preview:"printf '${indent}%s${indent}   %s\n' 'Press space to hear entry' 'ctrl+space to stop'; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1};" \
+	--bind=ctrl-b:preview:"echo; pokemon-colorscripts -b -n {1} --no-title; cat $POKEDATA/{1};" \
+	--bind=ctrl-s:preview:"echo; pokemon-colorscripts -s -n {1} --no-title; cat $POKEDATA/{1};" \
+	--bind=ctrl-n:preview:"printf '${indent}%s${indent}   %s\n' 'Press space to hear entry' 'ctrl+space to stop'; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1};" |
+	parallel pokemon-colorscripts --no-title -n {} "&&" cat "$POKEDATA/{}" 
+}
+
+### Quick view returns single Pokemon stat instead of opening pokedex 
+quick_view() {
+	parallel pokemon-colorscripts --no-title -n {} "&&" cat "$POKEDATA/{}" <<<"$1"
+}
+
+### Update Pokemon stats file set
+update_pokeData() {
+	printf "\n\t\t%s\n\t%s\n\n" "WARNING!!!" "This WILL take a long time"
+	pokemon-colorscripts -l | sort | parallel --bar --retry-failed --color -j "${1:-200%}" pokeParse
+}
+
+if ! (( $# )); then
+	pokedex_View
+fi
+
+while (( $# )); do
+    arg=$1
+	shift
+    case "$arg" in
+		-q|--quick)
+			quick_view "$1"
+			shift
+			;;
+    	-u|--update)
+			update_pokeData "$1"
+			shift
+			;;
+    	-h|--help)
+    		help
+    		shift
+   			;;
+    	!(^-) )
+    		pokedex_View "$arg"
+    		shift
+    		;;			
+    	-* )
+    		echo "Invalid Usage"
+   			help
+   			;;
+    esac
+done
