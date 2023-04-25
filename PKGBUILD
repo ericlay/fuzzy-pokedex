@@ -17,12 +17,12 @@ source=("git+https://github.com/ericlay/fuzzy-pokedex.git")
 md5sums=('SKIP')
 
 pkgver(){
-    cd "${pkgname}"
+    cd "$pkgname"
     printf "r%s.%s" "$(git rev-list --count HEAD)" "$(git rev-parse --short HEAD)"
 }
 
 package() {
-	cd "$srcdir/${pkgname}"
+	cd "$srcdir/$pkgname"
     install -Dm666 pokeData/* -t "$pkgdir/usr/share/$pkgname/pokeData"
     install -Dm666 keybindings-preview -t "$pkgdir/usr/share/$pkgname"
     install -Dm755 pokeParse -t "$pkgdir/usr/bin"
