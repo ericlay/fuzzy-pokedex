@@ -1,5 +1,6 @@
-# Fuzzy-Pokedex
-Very simple fzf based pokedex I built for my son to enjoy
+# Fuzzy-Pokédex 
+## The Pokédex for your terminal!
+Very simple fzf based Pokédex  I built for my son to enjoy
 
 ![Screenshot](https://github.com/ericlay/fuzzy-pokedex/blob/main/screenshot.png?raw=true)
 
@@ -14,9 +15,9 @@ EXAMPLE
 
 OPTIONS
 	-q, --quick [pokemon]
-		Prints single pokedex entry to terminal
+		Prints single Pokédex entry to terminal
 	-u, --update [N/+N/-N/N%]
-		Scrape web for updated Pokemon stats
+		Scrape web for updated Pokémon stats
 		WARNING: update function is resource heavy
 		See Parallel job control (-j) for options
 		Default is 200%
@@ -25,20 +26,19 @@ OPTIONS
 
 KEYBINDS
 	space	Reads the Pokedex entry
-	ctrl-space	Stops reading the Pokedex entry
+	ctrl-space	Stops reading the Pokédex entry
 	ctrl-n	Shows small sprite version
 	ctrl-b	Shows large sprite version
 	ctrl-s	Shows shiny sprite version
 	ctrl-h	Shows this help screen in preview window
 ```
 
-Credits to the great projects below in which do most the heavy lifting: \
+Credits to the great projects below: \
 https://gitlab.com/phoneybadger/pokemon-colorscripts \
 https://github.com/rmccorm4/Pokefetch 
  
 ## To-do
 * [ ] Better arg parsing
-* [ ] Rewrite to use `PokeAPI` as data source {Dev Branch 60%}
 * [ ] Refactor to allow user to choose local data source or from web
 * [ ] Get sprites from `PokeAPI` if possible {PR WELCOME!}
 * [ ] Work on TTS to read entries
