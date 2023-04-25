@@ -51,7 +51,7 @@ pokedex_View() {
 	--bind=ctrl-b:preview:"echo; pokemon-colorscripts -b -n {1} --no-title; cat $POKEDATA/{1};" \
 	--bind=ctrl-s:preview:"echo; pokemon-colorscripts -s -n {1} --no-title; cat $POKEDATA/{1};" \
 	--bind=ctrl-n:preview:"printf '${indent}%s${indent}   %s\n' 'Press space to hear entry' 'ctrl+space to stop'; pokemon-colorscripts -n {1} --no-title; cat $POKEDATA/{1};" |
-	parallel pokemon-colorscripts --no-title -n {} "&&" "$POKEDATA/{}" 
+	parallel pokemon-colorscripts --no-title -n {} "&&" cat "$POKEDATA/{}" 
 }
 
 ### Quick view returns single Pokemon stat instead of opening pokedex 
