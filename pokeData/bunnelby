@@ -1,28 +1,27 @@
 
-Bunnelby	 A normal type Pokémon
+  Bunnelby    Normal Type Pokémon
 
-They use their large ears to 
-dig burrows.  They will dig the 
-whole night through. 
-
+  They use their large ears to 
+  dig burrows.  They will dig the 
+  whole night through. 
 	Evolution Chain
       Bunnelby ► Diggersby
 
-  ↞--------| STATS |--------↠ 
-             hp:         38
-         attack:         36
-        defense:         38
- special-attack:         32
-special-defense:         36
-          speed:         57
+   ↞--------| STATS |--------↠ 
+              hp:         38
+          attack:         36
+         defense:         38
+  special-attack:         32
+ special-defense:         36
+           speed:         57
 
-Pokedex ID: 659	Capture Rate: 255
-Base Exp: 47	Happiness: 50
-Height: 4	Weight: 50
+ Genus: Digging Pokémon
+ Happiness: 50	Pokedex ID: 659
+ Base Exp: 47	Capture Rate: 255
+ Height:    4	Weight: 50
 
-Genus: Digging Pokémon
-Location Areas:
-kalos-route-2-area
-kalos-route-3-area
-kalos-route-5-area
-kalos-route-22-area
+ Location Areas:
+   Kalos route 2 area
+   Kalos route 3 area
+   Kalos route 5 area
+   Kalos route 22 area

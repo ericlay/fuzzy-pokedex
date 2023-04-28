@@ -1,32 +1,31 @@
 
-Pinsir	 A bug type Pokémon
+  Pinsir    Bug Type Pokémon
 
-If it fails to crush the victim 
-in its pincers, it will swing 
-it around and toss it hard. 
+  If it fails to crush the victim 
+  in its pincers, it will swing 
+  it around and toss it hard. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:        125
+         defense:        100
+  special-attack:         55
+ special-defense:         70
+           speed:         85
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:        125
-        defense:        100
- special-attack:         55
-special-defense:         70
-          speed:         85
+ Genus: Stag Beetle Pokémon
+ Happiness: 50	Pokedex ID: 127
+ Base Exp: 175	Capture Rate: 45
+ Height:    15	Weight: 550
 
-Pokedex ID: 127	Capture Rate: 45
-Base Exp: 175	Happiness: 50
-Height: 15	Weight: 550
-
-Genus: Stag Beetle Pokémon
-Location Areas:
-sinnoh-route-229-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-hoenn-safari-zone-nwmach-bike-area
-unova-route-12-area
-lostlorn-forest-area
-kalos-route-12-area
+ Location Areas:
+   Sinnoh route 229 area
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Hoenn safari zone nwmach bike area
+   Unova route 12 area
+   Lostlorn forest area
+   Kalos route 12 area

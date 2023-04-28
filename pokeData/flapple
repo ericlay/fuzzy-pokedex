@@ -1,27 +1,28 @@
 
-Flapple	 A grass type Pokémon
+  Flapple    Grass Type Pokémon
 
-It ate a sour apple, and that 
-induced its evolution.  In its 
-cheeks, it stores an acid capable 
-of causing chemical burns. 
-
+  It ate a sour apple, and that 
+  induced its evolution.  In its 
+  cheeks, it stores an acid capable 
+  of causing chemical burns. 
 	Evolution Chain
       Applin ► Flapple
-appletun
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:        110
-        defense:         80
- special-attack:         95
-special-defense:         60
-          speed:         70
+Stage 2 Forms:
+  flapple
+  appletun
 
-Pokedex ID: 841	Capture Rate: 45
-Base Exp: 170	Happiness: 50
-Height: 3	Weight: 10
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:        110
+         defense:         80
+  special-attack:         95
+ special-defense:         60
+           speed:         70
 
-Genus: Apple Wing Pokémon
-Location Areas:
+ Genus: Apple Wing Pokémon
+ Happiness: 50	Pokedex ID: 841
+ Base Exp: 170	Capture Rate: 45
+ Height:    3	Weight: 10
 
+ Location Areas:

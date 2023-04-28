@@ -1,30 +1,29 @@
 
-Miltank	 A normal type Pokémon
+  Miltank    Normal Type Pokémon
 
-Its milk is packed with nutrition, 
-making it the ultimate beverage 
-for the sick or weary. 
+  Its milk is packed with nutrition, 
+  making it the ultimate beverage 
+  for the sick or weary. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         95
+          attack:         80
+         defense:        105
+  special-attack:         40
+ special-defense:         70
+           speed:        100
 
-  ↞--------| STATS |--------↠ 
-             hp:         95
-         attack:         80
-        defense:        105
- special-attack:         40
-special-defense:         70
-          speed:        100
+ Genus: Milk Cow Pokémon
+ Happiness: 50	Pokedex ID: 241
+ Base Exp: 172	Capture Rate: 45
+ Height:    12	Weight: 755
 
-Pokedex ID: 241	Capture Rate: 45
-Base Exp: 172	Happiness: 50
-Height: 12	Weight: 755
-
-Genus: Milk Cow Pokémon
-Location Areas:
-sinnoh-route-209-area
-sinnoh-route-210-south-towards-solaceon-town
-johto-route-38-area
-johto-route-39-area
-johto-route-47-area
-hoenn-safari-zone-expansion-north
-kalos-route-12-area
+ Location Areas:
+   Sinnoh route 209 area
+   Sinnoh route 210 south towards solaceon town
+   Johto route 38 area
+   Johto route 39 area
+   Johto route 47 area
+   Hoenn safari zone expansion north
+   Kalos route 12 area

@@ -1,30 +1,29 @@
 
-Elekid	 A electric type Pokémon
+  Elekid    Electric Type Pokémon
 
-It rotates its arms to generate 
-electricity, but it tires easily, 
-so it charges up only a little 
-bit. 
+  It rotates its arms to generate 
+  electricity, but it tires easily, 
+  so it charges up only a little 
+  bit. 
+	   Evolution Chain
+  Elekid ► Electabuzz ► Electivire
 
-	Evolution Chain
-Elekid ► Electabuzz ► Electivire
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         63
+         defense:         37
+  special-attack:         65
+ special-defense:         55
+           speed:         95
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         63
-        defense:         37
- special-attack:         65
-special-defense:         55
-          speed:         95
+ Genus: Electric Pokémon
+ Happiness: 50	Pokedex ID: 239
+ Base Exp: 72	Capture Rate: 45
+ Height:    6	Weight: 235
 
-Pokedex ID: 239	Capture Rate: 45
-Base Exp: 72	Happiness: 50
-Height: 6	Weight: 235
-
-Genus: Electric Pokémon
-Location Areas:
-valley-windworks-area
-sinnoh-route-205-south-towards-floaroma-town
-johto-route-34-area
-virbank-complex-outer
-virbank-complex-inner
+ Location Areas:
+   Valley windworks area
+   Sinnoh route 205 south towards floaroma town
+   Johto route 34 area
+   Virbank complex outer
+   Virbank complex inner

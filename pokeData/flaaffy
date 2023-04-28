@@ -1,27 +1,27 @@
 
-Flaaffy	 A electric type Pokémon
+  Flaaffy    Electric Type Pokémon
 
-As a result of storing too much 
-electricity, it developed patches 
-where even downy wool won't grow. 
+  As a result of storing too much 
+  electricity, it developed patches 
+  where even downy wool won't grow. 
+  
+	   Evolution Chain
+  Mareep ► Flaaffy ► Ampharos
 
-	Evolution Chain
-Mareep ► Flaaffy ► Ampharos
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         55
+         defense:         55
+  special-attack:         80
+ special-defense:         60
+           speed:         45
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         55
-        defense:         55
- special-attack:         80
-special-defense:         60
-          speed:         45
+ Genus: Wool Pokémon
+ Happiness: 70	Pokedex ID: 180
+ Base Exp: 128	Capture Rate: 120
+ Height:    8	Weight: 133
 
-Pokedex ID: 180	Capture Rate: 120
-Base Exp: 128	Happiness: 70
-Height: 8	Weight: 133
-
-Genus: Wool Pokémon
-Location Areas:
-sinnoh-route-222-area
-johto-route-42-area
-johto-route-43-area
+ Location Areas:
+   Sinnoh route 222 area
+   Johto route 42 area
+   Johto route 43 area

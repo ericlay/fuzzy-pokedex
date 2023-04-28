@@ -1,33 +1,36 @@
 
-Scyther	 A bug type Pokémon
+  Scyther    Bug Type Pokémon
 
-With ninja-like agility and 
-speed, it can create the illusion 
-that there is more than one. 
-
+  With ninja-like agility and 
+  speed, it can create the illusion 
+  that there is more than one. 
+  
 	Evolution Chain
       Scyther ► Scizor
-kleavor
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:        110
-        defense:         80
- special-attack:         55
-special-defense:         80
-          speed:        105
+Stage 2 Forms:
+  scizor
+  kleavor
 
-Pokedex ID: 123	Capture Rate: 45
-Base Exp: 100	Happiness: 50
-Height: 15	Weight: 560
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:        110
+         defense:         80
+  special-attack:         55
+ special-defense:         80
+           speed:        105
 
-Genus: Mantis Pokémon
-Location Areas:
-sinnoh-route-210-south-towards-solaceon-town
-sinnoh-route-210-west-towards-celestic-town
-sinnoh-route-215-area
-sinnoh-route-229-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kalos-route-21-area
+ Genus: Mantis Pokémon
+ Happiness: 50	Pokedex ID: 123
+ Base Exp: 100	Capture Rate: 45
+ Height:    15	Weight: 560
+
+ Location Areas:
+   Sinnoh route 210 south towards solaceon town
+   Sinnoh route 210 west towards celestic town
+   Sinnoh route 215 area
+   Sinnoh route 229 area
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kalos route 21 area

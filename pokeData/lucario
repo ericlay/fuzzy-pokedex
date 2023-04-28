@@ -1,25 +1,24 @@
 
-Lucario	 A fighting type Pokémon
+  Lucario    Fighting Type Pokémon
 
-It has the ability to sense 
-the auras of all things.  It 
-understands human speech. 
-
+  It has the ability to sense 
+  the auras of all things.  It 
+  understands human speech. 
 	Evolution Chain
       Riolu ► Lucario
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:        110
-        defense:         70
- special-attack:        115
-special-defense:         70
-          speed:         90
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:        110
+         defense:         70
+  special-attack:        115
+ special-defense:         70
+           speed:         90
 
-Pokedex ID: 448	Capture Rate: 45
-Base Exp: 184	Happiness: 50
-Height: 12	Weight: 540
+ Genus: Aura Pokémon
+ Happiness: 50	Pokedex ID: 448
+ Base Exp: 184	Capture Rate: 45
+ Height:    12	Weight: 540
 
-Genus: Aura Pokémon
-Location Areas:
-tower-of-mastery-area
+ Location Areas:
+   Tower of mastery area

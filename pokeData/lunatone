@@ -1,58 +1,58 @@
 
-Lunatone	 A rock type Pokémon
+  Lunatone    Rock Type Pokémon
 
-LUNATONE was discovered at a 
-location where a meteorite fell. 
- As a result, some people theorize 
-that Lunatone came from space. 
- However, no one has been able 
-to prove this theory so far. 
+  LUNATONE was discovered at a 
+  location where a meteorite fell. 
+   As a result, some people theorize 
+  that Lunatone came from space. 
+   However, no one has been able 
+  to prove this theory so far. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:         55
+         defense:         65
+  special-attack:         95
+ special-defense:         85
+           speed:         70
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:         55
-        defense:         65
- special-attack:         95
-special-defense:         85
-          speed:         70
+ Genus: Meteorite Pokémon
+ Happiness: 50	Pokedex ID: 337
+ Base Exp: 161	Capture Rate: 45
+ Height:    10	Weight: 1680
 
-Pokedex ID: 337	Capture Rate: 45
-Base Exp: 161	Happiness: 50
-Height: 10	Weight: 1680
-
-Genus: Meteorite Pokémon
-Location Areas:
-mt-coronet-2f
-mt-coronet-3f
-mt-coronet-exterior-snowfall
-mt-coronet-exterior-blizzard
-mt-coronet-4f
-mt-coronet-4f-small-room
-mt-coronet-5f
-mt-coronet-6f
-mt-coronet-1f-from-exterior
-sendoff-spring-area
-turnback-cave-pillar-1
-turnback-cave-pillar-2
-turnback-cave-pillar-3
-turnback-cave-before-pillar-1
-turnback-cave-between-pillars-1-and-2
-turnback-cave-between-pillars-2-and-3
-turnback-cave-after-pillar-3
-lake-verity-before-galactic-intervention
-lake-verity-after-galactic-intervention
-lake-valor-area
-lake-acuity-area
-meteor-falls-area
-meteor-falls-back
-meteor-falls-b1f
-meteor-falls-backsmall-room
-giant-chasm-outside
-giant-chasm-area
-giant-chasm-forest
-giant-chasm-forest-cave
-unova-route-13-area
-unova-route-22-area
-glittering-cave-unknown-area-303
+ Location Areas:
+   Mt coronet 2f
+   Mt coronet 3f
+   Mt coronet exterior snowfall
+   Mt coronet exterior blizzard
+   Mt coronet 4f
+   Mt coronet 4f small room
+   Mt coronet 5f
+   Mt coronet 6f
+   Mt coronet 1f from exterior
+   Sendoff spring area
+   Turnback cave pillar 1
+   Turnback cave pillar 2
+   Turnback cave pillar 3
+   Turnback cave before pillar 1
+   Turnback cave between pillars 1 and 2
+   Turnback cave between pillars 2 and 3
+   Turnback cave after pillar 3
+   Lake verity before galactic intervention
+   Lake verity after galactic intervention
+   Lake valor area
+   Lake acuity area
+   Meteor falls area
+   Meteor falls back
+   Meteor falls b1f
+   Meteor falls backsmall room
+   Giant chasm outside
+   Giant chasm area
+   Giant chasm forest
+   Giant chasm forest cave
+   Unova route 13 area
+   Unova route 22 area
+   Glittering cave unknown area 303

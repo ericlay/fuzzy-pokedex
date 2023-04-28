@@ -1,26 +1,24 @@
 
-Hakamo-o	 A dragon type Pokémon
+  Hakamo-o    Dragon Type Pokémon
 
-It leaps at its prey with a 
-courageous shout.  Its scaly 
-punches tear its opponents to 
-shreds. 
+  It leaps at its prey with a 
+  courageous shout.  Its scaly 
+  punches tear its opponents to 
+  shreds. 
+	   Evolution Chain
+  Jangmo-o ► Hakamo-o ► Kommo-o
 
-	Evolution Chain
-Jangmo-o ► Hakamo-o ► Kommo-o
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         75
+         defense:         90
+  special-attack:         65
+ special-defense:         70
+           speed:         65
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         75
-        defense:         90
- special-attack:         65
-special-defense:         70
-          speed:         65
+ Genus: Scaly Pokémon
+ Happiness: 50	Pokedex ID: 783
+ Base Exp: 147	Capture Rate: 45
+ Height:    12	Weight: 470
 
-Pokedex ID: 783	Capture Rate: 45
-Base Exp: 147	Happiness: 50
-Height: 12	Weight: 470
-
-Genus: Scaly Pokémon
-Location Areas:
-
+ Location Areas:

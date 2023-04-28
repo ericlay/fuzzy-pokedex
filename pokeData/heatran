@@ -1,25 +1,24 @@
 
-Heatran	 A fire type Pokémon
+  Heatran    Fire Type Pokémon
 
-It dwells in volcanic caves. 
- It digs in with its cross-shaped 
-feet to crawl on ceilings and 
-walls. 
+  It dwells in volcanic caves. 
+   It digs in with its cross-shaped 
+  feet to crawl on ceilings and 
+  walls. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         91
+          attack:         90
+         defense:        106
+  special-attack:        130
+ special-defense:        106
+           speed:         77
 
-  ↞--------| STATS |--------↠ 
-             hp:         91
-         attack:         90
-        defense:        106
- special-attack:        130
-special-defense:        106
-          speed:         77
+ Genus: Lava Dome Pokémon
+ Happiness: 100	Pokedex ID: 485
+ Base Exp: 300	Capture Rate: 3
+ Height:    17	Weight: 4300
 
-Pokedex ID: 485	Capture Rate: 3
-Base Exp: 300	Happiness: 100
-Height: 17	Weight: 4300
-
-Genus: Lava Dome Pokémon
-Location Areas:
-stark-mountain-heatran-chamber
+ Location Areas:
+   Stark mountain heatran chamber

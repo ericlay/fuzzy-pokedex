@@ -1,30 +1,29 @@
 
-Wigglytuff	 A normal type Pokémon
+  Wigglytuff    Normal Type Pokémon
 
-The body is soft and rubbery. 
- When angered, it will suck in 
-air and inflate itself to an 
-enormous size. 
+  The body is soft and rubbery. 
+   When angered, it will suck in 
+  air and inflate itself to an 
+  enormous size. 
+	   Evolution Chain
+  Igglybuff ► Jigglypuff ► Wigglytuff
 
-	Evolution Chain
-Igglybuff ► Jigglypuff ► Wigglytuff
+   ↞--------| STATS |--------↠ 
+              hp:        140
+          attack:         70
+         defense:         45
+  special-attack:         85
+ special-defense:         50
+           speed:         45
 
-  ↞--------| STATS |--------↠ 
-             hp:        140
-         attack:         70
-        defense:         45
- special-attack:         85
-special-defense:         50
-          speed:         45
+ Genus: Balloon Pokémon
+ Happiness: 50	Pokedex ID: 40
+ Base Exp: 218	Capture Rate: 50
+ Height:    10	Weight: 120
 
-Pokedex ID: 40	Capture Rate: 50
-Base Exp: 218	Happiness: 50
-Height: 10	Weight: 120
-
-Genus: Balloon Pokémon
-Location Areas:
-cerulean-cave-2f
-dreamyard-area
-unova-route-1-area
-unova-route-2-area
-unova-route-14-area
+ Location Areas:
+   Cerulean cave 2f
+   Dreamyard area
+   Unova route 1 area
+   Unova route 2 area
+   Unova route 14 area

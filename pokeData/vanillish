@@ -1,28 +1,28 @@
 
-Vanillish	 A ice type Pokémon
+  Vanillish    Ice Type Pokémon
 
-Snowy mountains are this Pokémon’s 
-habitat.  During an ancient ice 
-age, they moved to southern areas. 
+  Snowy mountains are this Pokémon’s 
+  habitat.  During an ancient ice 
+  age, they moved to southern areas. 
+  
+	   Evolution Chain
+  Vanillite ► Vanillish ► Vanilluxe
 
-	Evolution Chain
-Vanillite ► Vanillish ► Vanilluxe
+   ↞--------| STATS |--------↠ 
+              hp:         51
+          attack:         65
+         defense:         65
+  special-attack:         80
+ special-defense:         75
+           speed:         59
 
-  ↞--------| STATS |--------↠ 
-             hp:         51
-         attack:         65
-        defense:         65
- special-attack:         80
-special-defense:         75
-          speed:         59
+ Genus: Icy Snow Pokémon
+ Happiness: 50	Pokedex ID: 583
+ Base Exp: 138	Capture Rate: 120
+ Height:    11	Weight: 410
 
-Pokedex ID: 583	Capture Rate: 120
-Base Exp: 138	Happiness: 50
-Height: 11	Weight: 410
-
-Genus: Icy Snow Pokémon
-Location Areas:
-dragonspiral-tower-entrance
-dragonspiral-tower-outside
-giant-chasm-outside
-giant-chasm-area
+ Location Areas:
+   Dragonspiral tower entrance
+   Dragonspiral tower outside
+   Giant chasm outside
+   Giant chasm area

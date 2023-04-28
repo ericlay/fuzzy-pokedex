@@ -1,56 +1,55 @@
 
-Linoone	 A normal type Pokémon
+  Linoone    Normal Type Pokémon
 
-LINOONE always runs full speed 
-and only in straight lines.  
-If facing an obstacle, it makes 
-a right-angle turn to evade it. 
- Linoone is very challenged 
-by gently curving roads. 
+  LINOONE always runs full speed 
+  and only in straight lines.  
+  If facing an obstacle, it makes 
+  a right-angle turn to evade it. 
+   Linoone is very challenged 
+  by gently curving roads. 
+	   Evolution Chain
+  Zigzagoon ► Linoone ► Obstagoon
 
-	Evolution Chain
-Zigzagoon ► Linoone ► Obstagoon
+   ↞--------| STATS |--------↠ 
+              hp:         78
+          attack:         70
+         defense:         61
+  special-attack:         50
+ special-defense:         61
+           speed:        100
 
-  ↞--------| STATS |--------↠ 
-             hp:         78
-         attack:         70
-        defense:         61
- special-attack:         50
-special-defense:         61
-          speed:        100
+ Genus: Rushing Pokémon
+ Happiness: 50	Pokedex ID: 264
+ Base Exp: 147	Capture Rate: 90
+ Height:    5	Weight: 325
 
-Pokedex ID: 264	Capture Rate: 90
-Base Exp: 147	Happiness: 50
-Height: 5	Weight: 325
-
-Genus: Rushing Pokémon
-Location Areas:
-johto-route-30-area
-johto-route-31-area
-johto-route-32-area
-ruins-of-alph-outside
-johto-route-34-area
-johto-route-35-area
-johto-route-42-area
-johto-route-43-area
-johto-route-44-area
-johto-route-45-area
-johto-route-47-area
-mt-silver-outside
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-28-area
-kanto-route-4-area
-kanto-route-6-area
-kanto-route-9-area
-kanto-route-10-area
-kanto-route-13-area
-kanto-sea-route-21-area
-kanto-route-22-area
-kanto-route-24-area
-kanto-route-25-area
-hoenn-route-118-area
-hoenn-route-119-area
-hoenn-route-120-area
-hoenn-route-121-area
-hoenn-route-123-area
+ Location Areas:
+   Johto route 30 area
+   Johto route 31 area
+   Johto route 32 area
+   Ruins of alph outside
+   Johto route 34 area
+   Johto route 35 area
+   Johto route 42 area
+   Johto route 43 area
+   Johto route 44 area
+   Johto route 45 area
+   Johto route 47 area
+   Mt silver outside
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto route 28 area
+   Kanto route 4 area
+   Kanto route 6 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Kanto route 13 area
+   Kanto sea route 21 area
+   Kanto route 22 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Hoenn route 118 area
+   Hoenn route 119 area
+   Hoenn route 120 area
+   Hoenn route 121 area
+   Hoenn route 123 area

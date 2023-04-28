@@ -1,33 +1,34 @@
 
-Glaceon	 A ice type Pokémon
+  Glaceon    Ice Type Pokémon
 
-As a protective technique, it 
-can completely freeze its fur 
-to make its hairs stand like 
-needles. 
-
+  As a protective technique, it 
+  can completely freeze its fur 
+  to make its hairs stand like 
+  needles. 
 	Evolution Chain
       Eevee ► Vaporeon
-jolteon
-flareon
-espeon
-umbreon
-leafeon
-glaceon
-sylveon
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         60
-        defense:        110
- special-attack:        130
-special-defense:         95
-          speed:         65
+Stage 2 Forms:
+  vaporeon
+  jolteon
+  flareon
+  espeon
+  umbreon
+  leafeon
+  glaceon
+  sylveon
 
-Pokedex ID: 471	Capture Rate: 45
-Base Exp: 184	Happiness: 35
-Height: 8	Weight: 259
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         60
+         defense:        110
+  special-attack:        130
+ special-defense:         95
+           speed:         65
 
-Genus: Fresh Snow Pokémon
-Location Areas:
+ Genus: Fresh Snow Pokémon
+ Happiness: 35	Pokedex ID: 471
+ Base Exp: 184	Capture Rate: 45
+ Height:    8	Weight: 259
 
+ Location Areas:

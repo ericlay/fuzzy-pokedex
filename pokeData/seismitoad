@@ -1,28 +1,28 @@
 
-Seismitoad	 A water type Pokémon
+  Seismitoad    Water Type Pokémon
 
-They shoot paralyzing liquid 
-from their head bumps.  They 
-use vibration to hurt their opponents. 
+  They shoot paralyzing liquid 
+  from their head bumps.  They 
+  use vibration to hurt their opponents. 
+  
+	   Evolution Chain
+  Tympole ► Palpitoad ► Seismitoad
 
-	Evolution Chain
-Tympole ► Palpitoad ► Seismitoad
+   ↞--------| STATS |--------↠ 
+              hp:        105
+          attack:         95
+         defense:         75
+  special-attack:         85
+ special-defense:         75
+           speed:         74
 
-  ↞--------| STATS |--------↠ 
-             hp:        105
-         attack:         95
-        defense:         75
- special-attack:         85
-special-defense:         75
-          speed:         74
+ Genus: Vibration Pokémon
+ Happiness: 50	Pokedex ID: 537
+ Base Exp: 255	Capture Rate: 45
+ Height:    15	Weight: 620
 
-Pokedex ID: 537	Capture Rate: 45
-Base Exp: 255	Happiness: 50
-Height: 15	Weight: 620
-
-Genus: Vibration Pokémon
-Location Areas:
-icirrus-city-area
-pinwheel-forest-outside
-unova-route-8-area
-moor-of-icirrus-area
+ Location Areas:
+   Icirrus city area
+   Pinwheel forest outside
+   Unova route 8 area
+   Moor of icirrus area

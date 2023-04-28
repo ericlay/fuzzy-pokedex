@@ -1,81 +1,80 @@
 
-Onix	 A rock type Pokémon
+  Onix    Rock Type Pokémon
 
-As it grows, the stone portions 
-of its body harden to become 
-similar to a diamond, but colored 
-black. 
-
+  As it grows, the stone portions 
+  of its body harden to become 
+  similar to a diamond, but colored 
+  black. 
 	Evolution Chain
       Onix ► Steelix
 
-  ↞--------| STATS |--------↠ 
-             hp:         35
-         attack:         45
-        defense:        160
- special-attack:         30
-special-defense:         45
-          speed:         70
+   ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:         45
+         defense:        160
+  special-attack:         30
+ special-defense:         45
+           speed:         70
 
-Pokedex ID: 95	Capture Rate: 45
-Base Exp: 77	Happiness: 50
-Height: 88	Weight: 2100
+ Genus: Rock Snake Pokémon
+ Happiness: 50	Pokedex ID: 95
+ Base Exp: 77	Capture Rate: 45
+ Height:    88	Weight: 2100
 
-Genus: Rock Snake Pokémon
-Location Areas:
-oreburgh-mine-1f
-oreburgh-mine-b1f
-sinnoh-victory-road-1f
-sinnoh-victory-road-2f
-sinnoh-victory-road-b1f
-sinnoh-victory-road-inside
-sinnoh-victory-road-inside-exit
-stark-mountain-entrance
-stark-mountain-inside
-snowpoint-temple-1f
-snowpoint-temple-b1f
-snowpoint-temple-b2f
-snowpoint-temple-b3f
-wayward-cave-1f
-wayward-cave-b1f
-iron-island-1f
-iron-island-b1f-left
-iron-island-b1f-right
-iron-island-b2f-right
-iron-island-b2f-left
-iron-island-b3f
-union-cave-1f
-union-cave-b1f
-union-cave-b2f
-johto-route-47-inside-cave
-mt-silver-1f
-mt-silver-mountainside
-mt-silver-top
-rock-tunnel-1f
-rock-tunnel-b1f
-kanto-victory-road-1-1f
-kanto-victory-road-1-2f
-kanto-victory-road-1-3f
-rock-tunnel-b2f
-kanto-victory-road-2-1f
-kanto-victory-road-2-2f
-kanto-victory-road-2-3f
-sevault-canyon-area
-relic-castle-c
-twist-mountain-area
-unova-victory-road-2-unknown-area-74
-unova-victory-road-2-unknown-area-75
-unova-victory-road-2-unknown-area-77
-unova-victory-road-2-unknown-area-80
-relic-passage-castelia-sewers-entrance
-relic-passage-relic-castle-entrance
-relic-passage-pwt-entrance
-clay-tunnel-area
-underground-ruins-area
-rocky-mountain-room-area
-glacier-room-area
-iron-room-area
-cyllage-city-area
-glittering-cave-unknown-area-303
-glittering-cave-unknown-area-304
-johto-safari-zone-zone-wasteland
+ Location Areas:
+   Oreburgh mine 1f
+   Oreburgh mine b1f
+   Sinnoh victory road 1f
+   Sinnoh victory road 2f
+   Sinnoh victory road b1f
+   Sinnoh victory road inside
+   Sinnoh victory road inside exit
+   Stark mountain entrance
+   Stark mountain inside
+   Snowpoint temple 1f
+   Snowpoint temple b1f
+   Snowpoint temple b2f
+   Snowpoint temple b3f
+   Wayward cave 1f
+   Wayward cave b1f
+   Iron island 1f
+   Iron island b1f left
+   Iron island b1f right
+   Iron island b2f right
+   Iron island b2f left
+   Iron island b3f
+   Union cave 1f
+   Union cave b1f
+   Union cave b2f
+   Johto route 47 inside cave
+   Mt silver 1f
+   Mt silver mountainside
+   Mt silver top
+   Rock tunnel 1f
+   Rock tunnel b1f
+   Kanto victory road 1 1f
+   Kanto victory road 1 2f
+   Kanto victory road 1 3f
+   Rock tunnel b2f
+   Kanto victory road 2 1f
+   Kanto victory road 2 2f
+   Kanto victory road 2 3f
+   Sevault canyon area
+   Relic castle c
+   Twist mountain area
+   Unova victory road 2 unknown area 74
+   Unova victory road 2 unknown area 75
+   Unova victory road 2 unknown area 77
+   Unova victory road 2 unknown area 80
+   Relic passage castelia sewers entrance
+   Relic passage relic castle entrance
+   Relic passage pwt entrance
+   Clay tunnel area
+   Underground ruins area
+   Rocky mountain room area
+   Glacier room area
+   Iron room area
+   Cyllage city area
+   Glittering cave unknown area 303
+   Glittering cave unknown area 304
+   Johto safari zone zone wasteland

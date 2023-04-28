@@ -1,28 +1,27 @@
 
-Carbink	 A rock type Pokémon
+  Carbink    Rock Type Pokémon
 
-Born from the temperatures and 
-pressures deep underground, it 
-fires beams from the stone in 
-its head. 
+  Born from the temperatures and 
+  pressures deep underground, it 
+  fires beams from the stone in 
+  its head. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         50
+         defense:        150
+  special-attack:         50
+ special-defense:        150
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         50
-        defense:        150
- special-attack:         50
-special-defense:        150
-          speed:         50
+ Genus: Jewel Pokémon
+ Happiness: 50	Pokedex ID: 703
+ Base Exp: 100	Capture Rate: 60
+ Height:    3	Weight: 57
 
-Pokedex ID: 703	Capture Rate: 60
-Base Exp: 100	Happiness: 50
-Height: 3	Weight: 57
-
-Genus: Jewel Pokémon
-Location Areas:
-reflection-cave-unknown-area-305
-reflection-cave-unknown-area-306
-reflection-cave-unknown-area-307
-reflection-cave-unknown-area-308
+ Location Areas:
+   Reflection cave unknown area 305
+   Reflection cave unknown area 306
+   Reflection cave unknown area 307
+   Reflection cave unknown area 308

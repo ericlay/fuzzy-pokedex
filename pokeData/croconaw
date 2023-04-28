@@ -1,26 +1,24 @@
 
-Croconaw	 A water type Pokémon
+  Croconaw    Water Type Pokémon
 
-If it loses a fang, a new one 
-grows back in its place.  There 
-are always 48 fangs lining its 
-mouth. 
+  If it loses a fang, a new one 
+  grows back in its place.  There 
+  are always 48 fangs lining its 
+  mouth. 
+	   Evolution Chain
+  Totodile ► Croconaw ► Feraligatr
 
-	Evolution Chain
-Totodile ► Croconaw ► Feraligatr
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         80
+         defense:         80
+  special-attack:         59
+ special-defense:         63
+           speed:         58
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         80
-        defense:         80
- special-attack:         59
-special-defense:         63
-          speed:         58
+ Genus: Big Jaw Pokémon
+ Happiness: 70	Pokedex ID: 159
+ Base Exp: 142	Capture Rate: 45
+ Height:    11	Weight: 250
 
-Pokedex ID: 159	Capture Rate: 45
-Base Exp: 142	Happiness: 70
-Height: 11	Weight: 250
-
-Genus: Big Jaw Pokémon
-Location Areas:
-
+ Location Areas:

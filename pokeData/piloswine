@@ -1,32 +1,32 @@
 
-Piloswine	 A ice type Pokémon
+  Piloswine    Ice Type Pokémon
 
-Because the long hair all over 
-its body obscures its sight, 
-it just keeps charging repeatedly. 
+  Because the long hair all over 
+  its body obscures its sight, 
+  it just keeps charging repeatedly. 
+  
+	   Evolution Chain
+  Swinub ► Piloswine ► Mamoswine
 
-	Evolution Chain
-Swinub ► Piloswine ► Mamoswine
+   ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:        100
+         defense:         80
+  special-attack:         60
+ special-defense:         60
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:        100
-         attack:        100
-        defense:         80
- special-attack:         60
-special-defense:         60
-          speed:         50
+ Genus: Swine Pokémon
+ Happiness: 50	Pokedex ID: 221
+ Base Exp: 158	Capture Rate: 75
+ Height:    11	Weight: 558
 
-Pokedex ID: 221	Capture Rate: 75
-Base Exp: 158	Happiness: 50
-Height: 11	Weight: 558
-
-Genus: Swine Pokémon
-Location Areas:
-sinnoh-route-217-area
-giant-chasm-area
-giant-chasm-forest
-giant-chasm-forest-cave
-frost-cavern-unknown-area-314
-frost-cavern-unknown-area-315
-frost-cavern-unknown-area-316
-frost-cavern-unknown-area-317
+ Location Areas:
+   Sinnoh route 217 area
+   Giant chasm area
+   Giant chasm forest
+   Giant chasm forest cave
+   Frost cavern unknown area 314
+   Frost cavern unknown area 315
+   Frost cavern unknown area 316
+   Frost cavern unknown area 317

@@ -1,28 +1,27 @@
 
-Hippopotas	 A ground type Pokémon
+  Hippopotas    Ground Type Pokémon
 
-It lives in arid places.  Instead 
-of perspiration, it expels grainy 
-sand from its body. 
-
+  It lives in arid places.  Instead 
+  of perspiration, it expels grainy 
+  sand from its body. 
 	Evolution Chain
       Hippopotas ► Hippowdon
 
-  ↞--------| STATS |--------↠ 
-             hp:         68
-         attack:         72
-        defense:         78
- special-attack:         38
-special-defense:         42
-          speed:         32
+   ↞--------| STATS |--------↠ 
+              hp:         68
+          attack:         72
+         defense:         78
+  special-attack:         38
+ special-defense:         42
+           speed:         32
 
-Pokedex ID: 449	Capture Rate: 140
-Base Exp: 66	Happiness: 50
-Height: 8	Weight: 495
+ Genus: Hippo Pokémon
+ Happiness: 50	Pokedex ID: 449
+ Base Exp: 66	Capture Rate: 140
+ Height:    8	Weight: 495
 
-Genus: Hippo Pokémon
-Location Areas:
-ruin-maniac-cave-0-9-different-unown-caught
-ruin-maniac-cave-10-25-different-unown-caught
-maniac-tunnel-26-plus-different-unown-caught
-kalos-route-9-area
+ Location Areas:
+   Ruin maniac cave 0 9 different unown caught
+   Ruin maniac cave 10 25 different unown caught
+   Maniac tunnel 26 plus different unown caught
+   Kalos route 9 area

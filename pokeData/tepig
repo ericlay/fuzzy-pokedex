@@ -1,28 +1,27 @@
 
-Tepig	 A fire type Pokémon
+  Tepig    Fire Type Pokémon
 
-It can deftly dodge its foe’s 
-attacks while shooting fireballs 
-from its nose.  It roasts berries 
-before it eats them. 
+  It can deftly dodge its foe’s 
+  attacks while shooting fireballs 
+  from its nose.  It roasts berries 
+  before it eats them. 
+	   Evolution Chain
+  Tepig ► Pignite ► Emboar
 
-	Evolution Chain
-Tepig ► Pignite ► Emboar
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         63
+         defense:         45
+  special-attack:         45
+ special-defense:         45
+           speed:         45
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         63
-        defense:         45
- special-attack:         45
-special-defense:         45
-          speed:         45
+ Genus: Fire Pig Pokémon
+ Happiness: 70	Pokedex ID: 498
+ Base Exp: 62	Capture Rate: 45
+ Height:    5	Weight: 99
 
-Pokedex ID: 498	Capture Rate: 45
-Base Exp: 62	Happiness: 70
-Height: 5	Weight: 99
-
-Genus: Fire Pig Pokémon
-Location Areas:
-hoenn-route-101-area
-aspertia-city-area
-nuvema-town-area
+ Location Areas:
+   Hoenn route 101 area
+   Aspertia city area
+   Nuvema town area

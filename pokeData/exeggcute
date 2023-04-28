@@ -1,47 +1,46 @@
 
-Exeggcute	 A grass type Pokémon
+  Exeggcute    Grass Type Pokémon
 
-Often mistaken for eggs.  When 
-disturbed, they quickly gather 
-and attack in swarms. 
-
+  Often mistaken for eggs.  When 
+  disturbed, they quickly gather 
+  and attack in swarms. 
 	Evolution Chain
       Exeggcute ► Exeggutor
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         40
-        defense:         80
- special-attack:         60
-special-defense:         45
-          speed:         40
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         40
+         defense:         80
+  special-attack:         60
+ special-defense:         45
+           speed:         40
 
-Pokedex ID: 102	Capture Rate: 90
-Base Exp: 65	Happiness: 50
-Height: 4	Weight: 25
+ Genus: Egg Pokémon
+ Happiness: 50	Pokedex ID: 102
+ Base Exp: 65	Capture Rate: 90
+ Height:    4	Weight: 25
 
-Genus: Egg Pokémon
-Location Areas:
-johto-route-29-area
-johto-route-30-area
-johto-route-31-area
-johto-route-32-area
-ilex-forest-area
-johto-route-34-area
-johto-route-35-area
-johto-route-36-area
-johto-route-37-area
-johto-route-38-area
-johto-route-39-area
-johto-route-43-area
-lake-of-rage-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-berry-forest-area
-kalos-route-12-area
-azure-bay-area
-azalea-town-area
+ Location Areas:
+   Johto route 29 area
+   Johto route 30 area
+   Johto route 31 area
+   Johto route 32 area
+   Ilex forest area
+   Johto route 34 area
+   Johto route 35 area
+   Johto route 36 area
+   Johto route 37 area
+   Johto route 38 area
+   Johto route 39 area
+   Johto route 43 area
+   Lake of rage area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Berry forest area
+   Kalos route 12 area
+   Azure bay area
+   Azalea town area

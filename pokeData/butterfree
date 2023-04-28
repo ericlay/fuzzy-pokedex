@@ -1,41 +1,40 @@
 
-Butterfree	 A bug type Pokémon
+  Butterfree    Bug Type Pokémon
 
-In battle, it flaps its wings 
-at high speed to release highly 
-toxic dust into the air. 
+  In battle, it flaps its wings 
+  at high speed to release highly 
+  toxic dust into the air. 
+	   Evolution Chain
+  Caterpie ► Metapod ► Butterfree
 
-	Evolution Chain
-Caterpie ► Metapod ► Butterfree
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         45
+         defense:         50
+  special-attack:         90
+ special-defense:         80
+           speed:         70
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         45
-        defense:         50
- special-attack:         90
-special-defense:         80
-          speed:         70
+ Genus: Butterfly Pokémon
+ Happiness: 50	Pokedex ID: 12
+ Base Exp: 198	Capture Rate: 45
+ Height:    11	Weight: 320
 
-Pokedex ID: 12	Capture Rate: 45
-Base Exp: 198	Happiness: 50
-Height: 11	Weight: 320
-
-Genus: Butterfly Pokémon
-Location Areas:
-ilex-forest-area
-johto-route-34-area
-johto-route-35-area
-johto-route-36-area
-johto-route-37-area
-johto-route-38-area
-johto-route-39-area
-lake-of-rage-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-2-south-towards-viridian-city
-kanto-route-24-area
-kanto-route-25-area
-kanto-route-2-north-towards-pewter-city
-viridian-forest-area
-unova-route-12-area
-azalea-town-area
+ Location Areas:
+   Ilex forest area
+   Johto route 34 area
+   Johto route 35 area
+   Johto route 36 area
+   Johto route 37 area
+   Johto route 38 area
+   Johto route 39 area
+   Lake of rage area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto route 2 south towards viridian city
+   Kanto route 24 area
+   Kanto route 25 area
+   Kanto route 2 north towards pewter city
+   Viridian forest area
+   Unova route 12 area
+   Azalea town area

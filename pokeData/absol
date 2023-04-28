@@ -1,77 +1,77 @@
 
-Absol	 A dark type Pokémon
+  Absol    Dark Type Pokémon
 
-Every time ABSOL appears before 
-people, it is followed by a disaster 
-such as an earthquake or a tidal 
-wave.  As a result, it came to 
-be known as the disaster Pokémon. 
+  Every time ABSOL appears before 
+  people, it is followed by a disaster 
+  such as an earthquake or a tidal 
+  wave.  As a result, it came to 
+  be known as the disaster Pokémon. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:        130
+         defense:         60
+  special-attack:         75
+ special-defense:         60
+           speed:         75
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:        130
-        defense:         60
- special-attack:         75
-special-defense:         60
-          speed:         75
+ Genus: Disaster Pokémon
+ Happiness: 35	Pokedex ID: 359
+ Base Exp: 163	Capture Rate: 30
+ Height:    12	Weight: 470
 
-Pokedex ID: 359	Capture Rate: 30
-Base Exp: 163	Happiness: 35
-Height: 12	Weight: 470
-
-Genus: Disaster Pokémon
-Location Areas:
-mt-coronet-exterior-snowfall
-mt-coronet-exterior-blizzard
-sinnoh-route-213-area
-union-cave-1f
-union-cave-b1f
-union-cave-b2f
-slowpoke-well-1f
-slowpoke-well-b1f
-whirl-islands-1f
-whirl-islands-b1f
-whirl-islands-b2f
-whirl-islands-b3f
-mt-mortar-1f
-mt-mortar-lower-cave
-mt-mortar-upper-cave
-mt-mortar-b1f
-ice-path-1f
-ice-path-b1f
-ice-path-b2f
-ice-path-b3f
-dark-cave-violet-city-entrance
-dark-cave-blackthorn-city-entrance
-seafoam-islands-1f
-seafoam-islands-b1f
-seafoam-islands-b2f
-seafoam-islands-b3f
-seafoam-islands-b4f
-mt-silver-2f
-mt-silver-1f-top
-mt-silver-4f
-johto-route-47-inside-cave
-mt-silver-1f
-mt-silver-mountainside
-mt-silver-3f
-mt-silver-top
-mt-moon-1f
-mt-moon-2f
-rock-tunnel-1f
-rock-tunnel-b1f
-kanto-victory-road-1-1f
-tohjo-falls-area
-digletts-cave-area
-kanto-victory-road-1-2f
-kanto-victory-road-1-3f
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-hoenn-route-120-area
-giant-chasm-outside
-unova-route-13-area
-unova-route-14-area
-kalos-route-8-area
+ Location Areas:
+   Mt coronet exterior snowfall
+   Mt coronet exterior blizzard
+   Sinnoh route 213 area
+   Union cave 1f
+   Union cave b1f
+   Union cave b2f
+   Slowpoke well 1f
+   Slowpoke well b1f
+   Whirl islands 1f
+   Whirl islands b1f
+   Whirl islands b2f
+   Whirl islands b3f
+   Mt mortar 1f
+   Mt mortar lower cave
+   Mt mortar upper cave
+   Mt mortar b1f
+   Ice path 1f
+   Ice path b1f
+   Ice path b2f
+   Ice path b3f
+   Dark cave violet city entrance
+   Dark cave blackthorn city entrance
+   Seafoam islands 1f
+   Seafoam islands b1f
+   Seafoam islands b2f
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Mt silver 2f
+   Mt silver 1f top
+   Mt silver 4f
+   Johto route 47 inside cave
+   Mt silver 1f
+   Mt silver mountainside
+   Mt silver 3f
+   Mt silver top
+   Mt moon 1f
+   Mt moon 2f
+   Rock tunnel 1f
+   Rock tunnel b1f
+   Kanto victory road 1 1f
+   Tohjo falls area
+   Digletts cave area
+   Kanto victory road 1 2f
+   Kanto victory road 1 3f
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Hoenn route 120 area
+   Giant chasm outside
+   Unova route 13 area
+   Unova route 14 area
+   Kalos route 8 area

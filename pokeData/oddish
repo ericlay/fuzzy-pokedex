@@ -1,55 +1,57 @@
 
-Oddish	 A grass type Pokémon
+  Oddish    Grass Type Pokémon
 
-During the day, it keeps its 
-face buried in the ground.  At 
-night, it wanders around sowing 
-its seeds. 
+  During the day, it keeps its 
+  face buried in the ground.  At 
+  night, it wanders around sowing 
+  its seeds. 
+	   Evolution Chain
+  Oddish ► Gloom ► Vileplume
 
-	Evolution Chain
-Oddish ► Gloom ► Vileplume
-bellossom
+Stage 3 Forms:
+  vileplume
+  bellossom
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         50
-        defense:         55
- special-attack:         75
-special-defense:         65
-          speed:         30
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         50
+         defense:         55
+  special-attack:         75
+ special-defense:         65
+           speed:         30
 
-Pokedex ID: 43	Capture Rate: 255
-Base Exp: 64	Happiness: 50
-Height: 5	Weight: 54
+ Genus: Weed Pokémon
+ Happiness: 50	Pokedex ID: 43
+ Base Exp: 64	Capture Rate: 255
+ Height:    5	Weight: 54
 
-Genus: Weed Pokémon
-Location Areas:
-sinnoh-route-224-area
-sinnoh-route-229-area
-sinnoh-sea-route-230-area
-ilex-forest-area
-kanto-route-12-area
-kanto-route-5-area
-kanto-route-6-area
-kanto-route-7-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-kanto-route-24-area
-kanto-route-25-area
-hoenn-route-110-area
-hoenn-route-117-area
-hoenn-route-119-area
-hoenn-route-120-area
-hoenn-route-121-area
-hoenn-route-123-area
-hoenn-safari-zone-nwmach-bike-area
-hoenn-safari-zone-neacro-bike-area
-hoenn-safari-zone-sw
-hoenn-safari-zone-se
-berry-forest-area
-cape-brink-area
-bond-bridge-area
-water-path-area
-kalos-route-6-area
-johto-safari-zone-zone-marshland
+ Location Areas:
+   Sinnoh route 224 area
+   Sinnoh route 229 area
+   Sinnoh sea route 230 area
+   Ilex forest area
+   Kanto route 12 area
+   Kanto route 5 area
+   Kanto route 6 area
+   Kanto route 7 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Hoenn route 110 area
+   Hoenn route 117 area
+   Hoenn route 119 area
+   Hoenn route 120 area
+   Hoenn route 121 area
+   Hoenn route 123 area
+   Hoenn safari zone nwmach bike area
+   Hoenn safari zone neacro bike area
+   Hoenn safari zone sw
+   Hoenn safari zone se
+   Berry forest area
+   Cape brink area
+   Bond bridge area
+   Water path area
+   Kalos route 6 area
+   Johto safari zone zone marshland

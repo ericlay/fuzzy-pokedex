@@ -1,28 +1,28 @@
 
-Cinccino	 A normal type Pokémon
+  Cinccino    Normal Type Pokémon
 
-Their white fur is coated in 
-a special oil that makes it easy 
-for them to deflect attacks. 
-
+  Their white fur is coated in 
+  a special oil that makes it easy 
+  for them to deflect attacks. 
+  
 	Evolution Chain
       Minccino ► Cinccino
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:         95
-        defense:         60
- special-attack:         65
-special-defense:         60
-          speed:        115
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         95
+         defense:         60
+  special-attack:         65
+ special-defense:         60
+           speed:        115
 
-Pokedex ID: 573	Capture Rate: 60
-Base Exp: 165	Happiness: 50
-Height: 5	Weight: 75
+ Genus: Scarf Pokémon
+ Happiness: 50	Pokedex ID: 573
+ Base Exp: 165	Capture Rate: 60
+ Height:    5	Weight: 75
 
-Genus: Scarf Pokémon
-Location Areas:
-cold-storage-area
-unova-route-5-area
-unova-route-9-area
-unova-route-16-area
+ Location Areas:
+   Cold storage area
+   Unova route 5 area
+   Unova route 9 area
+   Unova route 16 area

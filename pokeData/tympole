@@ -1,25 +1,24 @@
 
-Tympole	 A water type Pokémon
+  Tympole    Water Type Pokémon
 
-They warn others of danger by 
-vibrating their cheeks to create 
-a high-pitched sound. 
+  They warn others of danger by 
+  vibrating their cheeks to create 
+  a high-pitched sound. 
+	   Evolution Chain
+  Tympole ► Palpitoad ► Seismitoad
 
-	Evolution Chain
-Tympole ► Palpitoad ► Seismitoad
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         50
+         defense:         40
+  special-attack:         50
+ special-defense:         40
+           speed:         64
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         50
-        defense:         40
- special-attack:         50
-special-defense:         40
-          speed:         64
+ Genus: Tadpole Pokémon
+ Happiness: 50	Pokedex ID: 535
+ Base Exp: 59	Capture Rate: 255
+ Height:    5	Weight: 45
 
-Pokedex ID: 535	Capture Rate: 255
-Base Exp: 59	Happiness: 50
-Height: 5	Weight: 45
-
-Genus: Tadpole Pokémon
-Location Areas:
-pinwheel-forest-outside
+ Location Areas:
+   Pinwheel forest outside

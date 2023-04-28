@@ -1,34 +1,33 @@
 
-Aron	 A steel type Pokémon
+  Aron    Steel Type Pokémon
 
-Aron has a body of steel. 
- To make its body, ARON feeds 
-on iron ore that it digs from 
-mountains.  Occasionally, it 
-causes major trouble by eating 
-bridges and rails. 
+  Aron has a body of steel. 
+   To make its body, ARON feeds 
+  on iron ore that it digs from 
+  mountains.  Occasionally, it 
+  causes major trouble by eating 
+  bridges and rails. 
+	   Evolution Chain
+  Aron ► Lairon ► Aggron
 
-	Evolution Chain
-Aron ► Lairon ► Aggron
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         70
+         defense:        100
+  special-attack:         40
+ special-defense:         40
+           speed:         30
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         70
-        defense:        100
- special-attack:         40
-special-defense:         40
-          speed:         30
+ Genus: Iron Armor Pokémon
+ Happiness: 35	Pokedex ID: 304
+ Base Exp: 66	Capture Rate: 180
+ Height:    4	Weight: 600
 
-Pokedex ID: 304	Capture Rate: 180
-Base Exp: 66	Happiness: 35
-Height: 4	Weight: 600
-
-Genus: Iron Armor Pokémon
-Location Areas:
-fuego-ironworks-area
-granite-cave-b1f
-granite-cave-b2f
-granite-cave-1fsmall-room
-hoenn-victory-road-1f
-mistralton-cave-area
-guidance-chamber-area
+ Location Areas:
+   Fuego ironworks area
+   Granite cave b1f
+   Granite cave b2f
+   Granite cave 1fsmall room
+   Hoenn victory road 1f
+   Mistralton cave area
+   Guidance chamber area

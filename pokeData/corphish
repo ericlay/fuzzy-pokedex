@@ -1,33 +1,28 @@
 
-Corphish	 A water type Pokémon
+  Corphish    Water Type Pokémon
 
-Its hardy vitality enables it 
-to adapt to any environment. 
- Its pincers will never release 
-prey. 
+  
+  Single Stage Evolution Pokémon
 
-	Evolution Chain
-      Corphish ► Crawdaunt
+   ↞--------| STATS |--------↠ 
+              hp:         43
+          attack:         80
+         defense:         65
+  special-attack:         50
+ special-defense:         35
+           speed:         35
 
-  ↞--------| STATS |--------↠ 
-             hp:         43
-         attack:         80
-        defense:         65
- special-attack:         50
-special-defense:         35
-          speed:         35
+ Genus: 
+ Happiness: 	Pokedex ID: 341
+ Base Exp: 62	Capture Rate: 
+ Height:    6	Weight: 115
 
-Pokedex ID: 341	Capture Rate: 205
-Base Exp: 62	Happiness: 50
-Height: 6	Weight: 115
-
-Genus: Ruffian Pokémon
-Location Areas:
-celestic-town-area
-petalburg-city-area
-hoenn-route-102-area
-hoenn-route-117-area
-striaton-city-area
-unova-route-3-area
-kalos-route-3-area
-parfum-palace-area
+ Location Areas:
+   Celestic town area
+   Petalburg city area
+   Hoenn route 102 area
+   Hoenn route 117 area
+   Striaton city area
+   Unova route 3 area
+   Kalos route 3 area
+   Parfum palace area

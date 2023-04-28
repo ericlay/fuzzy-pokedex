@@ -1,28 +1,27 @@
 
-Joltik	 A bug type Pokémon
+  Joltik    Bug Type Pokémon
 
-Joltik that live in cities have 
-learned a technique for sucking 
-electricity from the outlets 
-in houses. 
-
+  Joltik that live in cities have 
+  learned a technique for sucking 
+  electricity from the outlets 
+  in houses. 
 	Evolution Chain
       Joltik ► Galvantula
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         47
-        defense:         50
- special-attack:         57
-special-defense:         50
-          speed:         65
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         47
+         defense:         50
+  special-attack:         57
+ special-defense:         50
+           speed:         65
 
-Pokedex ID: 595	Capture Rate: 190
-Base Exp: 64	Happiness: 50
-Height: 1	Weight: 6
+ Genus: Attaching Pokémon
+ Happiness: 50	Pokedex ID: 595
+ Base Exp: 64	Capture Rate: 190
+ Height:    1	Weight: 6
 
-Genus: Attaching Pokémon
-Location Areas:
-chargestone-cave-1f
-chargestone-cave-b1f
-chargestone-cave-b2f
+ Location Areas:
+   Chargestone cave 1f
+   Chargestone cave b1f
+   Chargestone cave b2f

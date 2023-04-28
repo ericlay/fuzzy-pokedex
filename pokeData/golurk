@@ -1,29 +1,28 @@
 
-Golurk	 A ground type Pokémon
+  Golurk    Ground Type Pokémon
 
-It flies across the sky at Mach 
-speeds.  Removing the seal on 
-its chest makes its internal 
-energy go out of control. 
-
+  It flies across the sky at Mach 
+  speeds.  Removing the seal on 
+  its chest makes its internal 
+  energy go out of control. 
 	Evolution Chain
       Golett ► Golurk
 
-  ↞--------| STATS |--------↠ 
-             hp:         89
-         attack:        124
-        defense:         80
- special-attack:         55
-special-defense:         80
-          speed:         55
+   ↞--------| STATS |--------↠ 
+              hp:         89
+          attack:        124
+         defense:         80
+  special-attack:         55
+ special-defense:         80
+           speed:         55
 
-Pokedex ID: 623	Capture Rate: 90
-Base Exp: 169	Happiness: 50
-Height: 28	Weight: 3300
+ Genus: Automaton Pokémon
+ Happiness: 50	Pokedex ID: 623
+ Base Exp: 169	Capture Rate: 90
+ Height:    28	Weight: 3300
 
-Genus: Automaton Pokémon
-Location Areas:
-dragonspiral-tower-1f
-dragonspiral-tower-2f
-unova-victory-road-2-unknown-area-71
-unova-victory-road-2-unknown-area-78
+ Location Areas:
+   Dragonspiral tower 1f
+   Dragonspiral tower 2f
+   Unova victory road 2 unknown area 71
+   Unova victory road 2 unknown area 78

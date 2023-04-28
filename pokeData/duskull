@@ -1,47 +1,46 @@
 
-Duskull	 A ghost type Pokémon
+  Duskull    Ghost Type Pokémon
 
-DUSKULL can pass through any 
-wall no matter how thick it may 
-be.  Once Duskull chooses 
-a target, it will doggedly pursue 
-the intended victim until the 
-break of dawn. 
+  DUSKULL can pass through any 
+  wall no matter how thick it may 
+  be.  Once Duskull chooses 
+  a target, it will doggedly pursue 
+  the intended victim until the 
+  break of dawn. 
+	   Evolution Chain
+  Duskull ► Dusclops ► Dusknoir
 
-	Evolution Chain
-Duskull ► Dusclops ► Dusknoir
+   ↞--------| STATS |--------↠ 
+              hp:         20
+          attack:         40
+         defense:         90
+  special-attack:         30
+ special-defense:         90
+           speed:         25
 
-  ↞--------| STATS |--------↠ 
-             hp:         20
-         attack:         40
-        defense:         90
- special-attack:         30
-special-defense:         90
-          speed:         25
+ Genus: Requiem Pokémon
+ Happiness: 35	Pokedex ID: 355
+ Base Exp: 59	Capture Rate: 190
+ Height:    8	Weight: 150
 
-Pokedex ID: 355	Capture Rate: 190
-Base Exp: 59	Happiness: 35
-Height: 8	Weight: 150
-
-Genus: Requiem Pokémon
-Location Areas:
-turnback-cave-pillar-1
-turnback-cave-before-pillar-1
-turnback-cave-between-pillars-1-and-2
-sinnoh-route-209-area
-lost-tower-1f
-lost-tower-2f
-lost-tower-3f
-lost-tower-4f
-lost-tower-5f
-sinnoh-route-224-area
-mt-pyre-1f
-mt-pyre-2f
-mt-pyre-3f
-mt-pyre-4f
-mt-pyre-5f
-mt-pyre-6f
-mt-pyre-outside
-mt-pyre-summit
-hoenn-route-121-area
-hoenn-route-123-area
+ Location Areas:
+   Turnback cave pillar 1
+   Turnback cave before pillar 1
+   Turnback cave between pillars 1 and 2
+   Sinnoh route 209 area
+   Lost tower 1f
+   Lost tower 2f
+   Lost tower 3f
+   Lost tower 4f
+   Lost tower 5f
+   Sinnoh route 224 area
+   Mt pyre 1f
+   Mt pyre 2f
+   Mt pyre 3f
+   Mt pyre 4f
+   Mt pyre 5f
+   Mt pyre 6f
+   Mt pyre outside
+   Mt pyre summit
+   Hoenn route 121 area
+   Hoenn route 123 area

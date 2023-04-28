@@ -1,28 +1,30 @@
 
-Cofagrigus	 A ghost type Pokémon
+  Cofagrigus    Ghost Type Pokémon
 
-It has been said that they swallow 
-those who get too close and turn 
-them into mummies.  They like 
-to eat gold nuggets. 
-
+  It has been said that they swallow 
+  those who get too close and turn 
+  them into mummies.  They like 
+  to eat gold nuggets. 
 	Evolution Chain
       Yamask ► Cofagrigus
-runerigus
 
-  ↞--------| STATS |--------↠ 
-             hp:         58
-         attack:         50
-        defense:        145
- special-attack:         95
-special-defense:        105
-          speed:         30
+Stage 2 Forms:
+  cofagrigus
+  runerigus
 
-Pokedex ID: 563	Capture Rate: 90
-Base Exp: 169	Happiness: 50
-Height: 17	Weight: 765
+   ↞--------| STATS |--------↠ 
+              hp:         58
+          attack:         50
+         defense:        145
+  special-attack:         95
+ special-defense:        105
+           speed:         30
 
-Genus: Coffin Pokémon
-Location Areas:
-relic-castle-b
-relic-castle-c
+ Genus: Coffin Pokémon
+ Happiness: 50	Pokedex ID: 563
+ Base Exp: 169	Capture Rate: 90
+ Height:    17	Weight: 765
+
+ Location Areas:
+   Relic castle b
+   Relic castle c

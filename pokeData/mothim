@@ -1,26 +1,27 @@
 
-Mothim	 A bug type Pokémon
+  Mothim    Bug Type Pokémon
 
-It loves the honey of flowers 
-and steals honey collected by 
-COMBEE. 
-
+  It loves the honey of flowers 
+  and steals honey collected by 
+  COMBEE. 
 	Evolution Chain
       Burmy ► Wormadam
-mothim
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         94
-        defense:         50
- special-attack:         94
-special-defense:         50
-          speed:         66
+Stage 2 Forms:
+  wormadam
+  mothim
 
-Pokedex ID: 414	Capture Rate: 45
-Base Exp: 148	Happiness: 70
-Height: 9	Weight: 233
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         94
+         defense:         50
+  special-attack:         94
+ special-defense:         50
+           speed:         66
 
-Genus: Moth Pokémon
-Location Areas:
+ Genus: Moth Pokémon
+ Happiness: 70	Pokedex ID: 414
+ Base Exp: 148	Capture Rate: 45
+ Height:    9	Weight: 233
 
+ Location Areas:

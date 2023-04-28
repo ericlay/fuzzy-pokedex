@@ -1,28 +1,27 @@
 
-Crobat	 A poison type Pokémon
+  Crobat    Poison Type Pokémon
 
-It flies so si­ lently through 
-the dark on its four wings that 
-it may not be noticed even when 
-nearby. 
+  It flies so si­ lently through 
+  the dark on its four wings that 
+  it may not be noticed even when 
+  nearby. 
+	   Evolution Chain
+  Zubat ► Golbat ► Crobat
 
-	Evolution Chain
-Zubat ► Golbat ► Crobat
+   ↞--------| STATS |--------↠ 
+              hp:         85
+          attack:         90
+         defense:         80
+  special-attack:         70
+ special-defense:         80
+           speed:        130
 
-  ↞--------| STATS |--------↠ 
-             hp:         85
-         attack:         90
-        defense:         80
- special-attack:         70
-special-defense:         80
-          speed:        130
+ Genus: Bat Pokémon
+ Happiness: 50	Pokedex ID: 169
+ Base Exp: 268	Capture Rate: 90
+ Height:    18	Weight: 750
 
-Pokedex ID: 169	Capture Rate: 90
-Base Exp: 268	Happiness: 50
-Height: 18	Weight: 750
-
-Genus: Bat Pokémon
-Location Areas:
-dreamyard-area
-giant-chasm-outside
-unova-route-13-area
+ Location Areas:
+   Dreamyard area
+   Giant chasm outside
+   Unova route 13 area

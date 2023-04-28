@@ -1,35 +1,34 @@
 
-Drilbur	 A ground type Pokémon
+  Drilbur    Ground Type Pokémon
 
-It can dig through the ground 
-at a speed of 30 mph.  It could 
-give a car running aboveground 
-a good race. 
-
+  It can dig through the ground 
+  at a speed of 30 mph.  It could 
+  give a car running aboveground 
+  a good race. 
 	Evolution Chain
       Drilbur ► Excadrill
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         85
-        defense:         40
- special-attack:         30
-special-defense:         45
-          speed:         68
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         85
+         defense:         40
+  special-attack:         30
+ special-defense:         45
+           speed:         68
 
-Pokedex ID: 529	Capture Rate: 120
-Base Exp: 66	Happiness: 50
-Height: 3	Weight: 85
+ Genus: Mole Pokémon
+ Happiness: 50	Pokedex ID: 529
+ Base Exp: 66	Capture Rate: 120
+ Height:    3	Weight: 85
 
-Genus: Mole Pokémon
-Location Areas:
-chargestone-cave-1f
-chargestone-cave-b1f
-chargestone-cave-b2f
-twist-mountain-area
-wellspring-cave-area
-mistralton-cave-area
-guidance-chamber-area
-relic-passage-castelia-sewers-entrance
-relic-passage-relic-castle-entrance
-relic-passage-pwt-entrance
+ Location Areas:
+   Chargestone cave 1f
+   Chargestone cave b1f
+   Chargestone cave b2f
+   Twist mountain area
+   Wellspring cave area
+   Mistralton cave area
+   Guidance chamber area
+   Relic passage castelia sewers entrance
+   Relic passage relic castle entrance
+   Relic passage pwt entrance

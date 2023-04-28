@@ -1,40 +1,39 @@
 
-Beedrill	 A bug type Pokémon
+  Beedrill    Bug Type Pokémon
 
-It has three poisonous stingers 
-on its forelegs and its tail. 
- They are used to jab its enemy 
-repeatedly. 
+  It has three poisonous stingers 
+  on its forelegs and its tail. 
+   They are used to jab its enemy 
+  repeatedly. 
+	   Evolution Chain
+  Weedle ► Kakuna ► Beedrill
 
-	Evolution Chain
-Weedle ► Kakuna ► Beedrill
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         90
+         defense:         40
+  special-attack:         45
+ special-defense:         80
+           speed:         75
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         90
-        defense:         40
- special-attack:         45
-special-defense:         80
-          speed:         75
+ Genus: Poison Bee Pokémon
+ Happiness: 70	Pokedex ID: 15
+ Base Exp: 178	Capture Rate: 45
+ Height:    10	Weight: 295
 
-Pokedex ID: 15	Capture Rate: 45
-Base Exp: 178	Happiness: 70
-Height: 10	Weight: 295
-
-Genus: Poison Bee Pokémon
-Location Areas:
-ilex-forest-area
-johto-route-34-area
-johto-route-35-area
-johto-route-36-area
-johto-route-37-area
-johto-route-38-area
-johto-route-39-area
-lake-of-rage-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-2-south-towards-viridian-city
-kanto-route-2-north-towards-pewter-city
-viridian-forest-area
-unova-route-12-area
-azalea-town-area
+ Location Areas:
+   Ilex forest area
+   Johto route 34 area
+   Johto route 35 area
+   Johto route 36 area
+   Johto route 37 area
+   Johto route 38 area
+   Johto route 39 area
+   Lake of rage area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto route 2 south towards viridian city
+   Kanto route 2 north towards pewter city
+   Viridian forest area
+   Unova route 12 area
+   Azalea town area

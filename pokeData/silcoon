@@ -1,32 +1,38 @@
 
-Silcoon	 A bug type Pokémon
+  Silcoon    Bug Type Pokémon
 
-SILCOON tethers itself to a 
-tree branch using silk to keep 
-from falling.  There,  Silcoon 
-hangs quietly while it awaits 
-evolution.  It peers out of the 
-silk cocoon through a small hole. 
+  SILCOON tethers itself to a 
+  tree branch using silk to keep 
+  from falling.  There,  Silcoon 
+  hangs quietly while it awaits 
+  evolution.  It peers out of the 
+  silk cocoon through a small hole. 
+  
+	   Evolution Chain
+  Wurmple ► Silcoon ► Beautifly
 
-	Evolution Chain
-Wurmple ► Silcoon
-cascoon ► Beautifly
-dustox
+Stage 2 Forms:
+  silcoon
+  cascoon
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         35
-        defense:         55
- special-attack:         25
-special-defense:         25
-          speed:         15
+Stage 3 Forms:
+  beautifly
+  dustox
 
-Pokedex ID: 266	Capture Rate: 120
-Base Exp: 72	Happiness: 70
-Height: 6	Weight: 100
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         35
+         defense:         55
+  special-attack:         25
+ special-defense:         25
+           speed:         15
 
-Genus: Cocoon Pokémon
-Location Areas:
-eterna-forest-area
-sinnoh-route-205-east-towards-eterna-city
-petalburg-woods-area
+ Genus: Cocoon Pokémon
+ Happiness: 70	Pokedex ID: 266
+ Base Exp: 72	Capture Rate: 120
+ Height:    6	Weight: 100
+
+ Location Areas:
+   Eterna forest area
+   Sinnoh route 205 east towards eterna city
+   Petalburg woods area

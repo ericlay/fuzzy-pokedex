@@ -1,25 +1,23 @@
 
-Manaphy	 A water type Pokémon
+  Manaphy    Water Type Pokémon
 
-Born on a cold seafloor, it 
-will swim great distances to 
-return to its birthplace. 
-
+  Born on a cold seafloor, it 
+  will swim great distances to 
+  return to its birthplace. 
 	Evolution Chain
       Phione ► Manaphy
 
-  ↞--------| STATS |--------↠ 
-             hp:        100
-         attack:        100
-        defense:        100
- special-attack:        100
-special-defense:        100
-          speed:        100
+   ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:        100
+         defense:        100
+  special-attack:        100
+ special-defense:        100
+           speed:        100
 
-Pokedex ID: 490	Capture Rate: 3
-Base Exp: 270	Happiness: 70
-Height: 3	Weight: 14
+ Genus: Seafaring Pokémon
+ Happiness: 70	Pokedex ID: 490
+ Base Exp: 270	Capture Rate: 3
+ Height:    3	Weight: 14
 
-Genus: Seafaring Pokémon
-Location Areas:
-
+ Location Areas:

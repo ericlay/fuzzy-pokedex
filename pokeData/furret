@@ -1,27 +1,26 @@
 
-Furret	 A normal type Pokémon
+  Furret    Normal Type Pokémon
 
-It makes a nest to suit its 
-long and skinny body.  The nest 
-is impossible for other Pokémon 
-to enter. 
-
+  It makes a nest to suit its 
+  long and skinny body.  The nest 
+  is impossible for other Pokémon 
+  to enter. 
 	Evolution Chain
       Sentret ► Furret
 
-  ↞--------| STATS |--------↠ 
-             hp:         85
-         attack:         76
-        defense:         64
- special-attack:         45
-special-defense:         55
-          speed:         90
+   ↞--------| STATS |--------↠ 
+              hp:         85
+          attack:         76
+         defense:         64
+  special-attack:         45
+ special-defense:         55
+           speed:         90
 
-Pokedex ID: 162	Capture Rate: 90
-Base Exp: 145	Happiness: 70
-Height: 18	Weight: 325
+ Genus: Long Body Pokémon
+ Happiness: 70	Pokedex ID: 162
+ Base Exp: 145	Capture Rate: 90
+ Height:    18	Weight: 325
 
-Genus: Long Body Pokémon
-Location Areas:
-johto-route-43-area
-kanto-route-1-area
+ Location Areas:
+   Johto route 43 area
+   Kanto route 1 area

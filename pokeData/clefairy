@@ -1,47 +1,47 @@
 
-Clefairy	 A fairy type Pokémon
+  Clefairy    Fairy Type Pokémon
 
-Its magical and cute appeal 
-has many admirers.  It is rare 
-and found only in certain areas. 
+  Its magical and cute appeal 
+  has many admirers.  It is rare 
+  and found only in certain areas. 
+  
+	   Evolution Chain
+  Cleffa ► Clefairy ► Clefable
 
-	Evolution Chain
-Cleffa ► Clefairy ► Clefable
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         45
+         defense:         48
+  special-attack:         60
+ special-defense:         65
+           speed:         35
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         45
-        defense:         48
- special-attack:         60
-special-defense:         65
-          speed:         35
+ Genus: Fairy Pokémon
+ Happiness: 140	Pokedex ID: 35
+ Base Exp: 113	Capture Rate: 150
+ Height:    6	Weight: 75
 
-Pokedex ID: 35	Capture Rate: 150
-Base Exp: 113	Happiness: 140
-Height: 6	Weight: 75
-
-Genus: Fairy Pokémon
-Location Areas:
-mt-coronet-1f-route-207
-mt-coronet-2f
-mt-coronet-3f
-mt-coronet-exterior-snowfall
-mt-coronet-exterior-blizzard
-mt-coronet-4f
-mt-coronet-4f-small-room
-mt-coronet-5f
-mt-coronet-6f
-mt-coronet-1f-from-exterior
-mt-coronet-1f-route-216
-mt-coronet-b1f
-mt-moon-1f
-mt-moon-2f
-kanto-route-3-area
-kanto-route-4-area
-mt-moon-b1f
-mt-moon-b2f
-giant-chasm-outside
-giant-chasm-area
-giant-chasm-forest
-giant-chasm-forest-cave
-johto-safari-zone-zone-meadow
+ Location Areas:
+   Mt coronet 1f route 207
+   Mt coronet 2f
+   Mt coronet 3f
+   Mt coronet exterior snowfall
+   Mt coronet exterior blizzard
+   Mt coronet 4f
+   Mt coronet 4f small room
+   Mt coronet 5f
+   Mt coronet 6f
+   Mt coronet 1f from exterior
+   Mt coronet 1f route 216
+   Mt coronet b1f
+   Mt moon 1f
+   Mt moon 2f
+   Kanto route 3 area
+   Kanto route 4 area
+   Mt moon b1f
+   Mt moon b2f
+   Giant chasm outside
+   Giant chasm area
+   Giant chasm forest
+   Giant chasm forest cave
+   Johto safari zone zone meadow

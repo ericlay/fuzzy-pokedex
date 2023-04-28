@@ -1,25 +1,25 @@
 
-Articuno	 A ice type Pokémon
+  Articuno    Ice Type Pokémon
 
-A legendary bird Pokémon that 
-is said to appear to doomed people 
-who are lost in icy mountains. 
+  A legendary bird Pokémon that 
+  is said to appear to doomed people 
+  who are lost in icy mountains. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:         85
+         defense:        100
+  special-attack:         95
+ special-defense:        125
+           speed:         85
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:         85
-        defense:        100
- special-attack:         95
-special-defense:        125
-          speed:         85
+ Genus: Freeze Pokémon
+ Happiness: 35	Pokedex ID: 144
+ Base Exp: 290	Capture Rate: 3
+ Height:    17	Weight: 554
 
-Pokedex ID: 144	Capture Rate: 3
-Base Exp: 290	Happiness: 35
-Height: 17	Weight: 554
-
-Genus: Freeze Pokémon
-Location Areas:
-seafoam-islands-b4f
-roaming-sinnoh-area
+ Location Areas:
+   Seafoam islands b4f
+   Roaming sinnoh area

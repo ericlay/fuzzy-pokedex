@@ -1,27 +1,26 @@
 
-Electabuzz	 A electric type Pokémon
+  Electabuzz    Electric Type Pokémon
 
-Normally found near power plants, 
-they can wander away and cause 
-major blackouts in cities. 
+  Normally found near power plants, 
+  they can wander away and cause 
+  major blackouts in cities. 
+	   Evolution Chain
+  Elekid ► Electabuzz ► Electivire
 
-	Evolution Chain
-Elekid ► Electabuzz ► Electivire
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         83
+         defense:         57
+  special-attack:         95
+ special-defense:         85
+           speed:        105
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         83
-        defense:         57
- special-attack:         95
-special-defense:         85
-          speed:        105
+ Genus: Electric Pokémon
+ Happiness: 50	Pokedex ID: 125
+ Base Exp: 172	Capture Rate: 45
+ Height:    11	Weight: 300
 
-Pokedex ID: 125	Capture Rate: 45
-Base Exp: 172	Happiness: 50
-Height: 11	Weight: 300
-
-Genus: Electric Pokémon
-Location Areas:
-sinnoh-route-222-area
-kanto-route-10-area
-power-plant-area
+ Location Areas:
+   Sinnoh route 222 area
+   Kanto route 10 area
+   Power plant area

@@ -1,28 +1,28 @@
 
-Swadloon	 A bug type Pokémon
+  Swadloon    Bug Type Pokémon
 
-Forests where Swadloon live 
-have superb foliage because the 
-nutrients they make from fallen 
-leaves nourish the plant life. 
+  Forests where Swadloon live 
+  have superb foliage because the 
+  nutrients they make from fallen 
+  leaves nourish the plant life. 
+  
+	   Evolution Chain
+  Sewaddle ► Swadloon ► Leavanny
 
-	Evolution Chain
-Sewaddle ► Swadloon ► Leavanny
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         63
+         defense:         90
+  special-attack:         50
+ special-defense:         80
+           speed:         42
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         63
-        defense:         90
- special-attack:         50
-special-defense:         80
-          speed:         42
+ Genus: Leaf-Wrapped Pokémon
+ Happiness: 70	Pokedex ID: 541
+ Base Exp: 133	Capture Rate: 120
+ Height:    5	Weight: 73
 
-Pokedex ID: 541	Capture Rate: 120
-Base Exp: 133	Happiness: 70
-Height: 5	Weight: 73
-
-Genus: Leaf-Wrapped Pokémon
-Location Areas:
-pinwheel-forest-inside
-unova-route-6-area
-lostlorn-forest-area
+ Location Areas:
+   Pinwheel forest inside
+   Unova route 6 area
+   Lostlorn forest area

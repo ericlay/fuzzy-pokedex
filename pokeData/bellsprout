@@ -1,45 +1,45 @@
 
-Bellsprout	 A grass type Pokémon
+  Bellsprout    Grass Type Pokémon
 
-A carnivorous Pokémon that traps 
-and eats bugs.  It uses its root 
-feet to soak up needed moisture. 
+  A carnivorous Pokémon that traps 
+  and eats bugs.  It uses its root 
+  feet to soak up needed moisture. 
+  
+	   Evolution Chain
+  Bellsprout ► Weepinbell ► Victreebel
 
-	Evolution Chain
-Bellsprout ► Weepinbell ► Victreebel
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         75
+         defense:         35
+  special-attack:         70
+ special-defense:         30
+           speed:         40
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         75
-        defense:         35
- special-attack:         70
-special-defense:         30
-          speed:         40
+ Genus: Flower Pokémon
+ Happiness: 70	Pokedex ID: 69
+ Base Exp: 60	Capture Rate: 255
+ Height:    7	Weight: 40
 
-Pokedex ID: 69	Capture Rate: 255
-Base Exp: 60	Happiness: 70
-Height: 7	Weight: 40
-
-Genus: Flower Pokémon
-Location Areas:
-sinnoh-route-224-area
-sinnoh-route-229-area
-sinnoh-sea-route-230-area
-johto-route-31-area
-johto-route-32-area
-johto-route-36-area
-johto-route-44-area
-kanto-route-12-area
-kanto-route-5-area
-kanto-route-6-area
-kanto-route-7-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-kanto-route-24-area
-kanto-route-25-area
-berry-forest-area
-cape-brink-area
-bond-bridge-area
-water-path-area
-johto-safari-zone-zone-forest
+ Location Areas:
+   Sinnoh route 224 area
+   Sinnoh route 229 area
+   Sinnoh sea route 230 area
+   Johto route 31 area
+   Johto route 32 area
+   Johto route 36 area
+   Johto route 44 area
+   Kanto route 12 area
+   Kanto route 5 area
+   Kanto route 6 area
+   Kanto route 7 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Berry forest area
+   Cape brink area
+   Bond bridge area
+   Water path area
+   Johto safari zone zone forest

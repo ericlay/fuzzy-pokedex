@@ -1,27 +1,29 @@
 
-Slowking	 A water type Pokémon
+  Slowking    Water Type Pokémon
 
-It has incredible intellect 
-and in­ tuition.  Whatever the 
-situation, it remains calm and 
-collected. 
-
+  It has incredible intellect 
+  and in­ tuition.  Whatever the 
+  situation, it remains calm and 
+  collected. 
 	Evolution Chain
       Slowpoke ► Slowbro
-slowking
 
-  ↞--------| STATS |--------↠ 
-             hp:         95
-         attack:         75
-        defense:         80
- special-attack:        100
-special-defense:        110
-          speed:         30
+Stage 2 Forms:
+  slowbro
+  slowking
 
-Pokedex ID: 199	Capture Rate: 70
-Base Exp: 172	Happiness: 50
-Height: 20	Weight: 795
+   ↞--------| STATS |--------↠ 
+              hp:         95
+          attack:         75
+         defense:         80
+  special-attack:        100
+ special-defense:        110
+           speed:         30
 
-Genus: Royal Pokémon
-Location Areas:
-abundant-shrine-area
+ Genus: Royal Pokémon
+ Happiness: 50	Pokedex ID: 199
+ Base Exp: 172	Capture Rate: 70
+ Height:    20	Weight: 795
+
+ Location Areas:
+   Abundant shrine area

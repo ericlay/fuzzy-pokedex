@@ -1,43 +1,43 @@
 
-Weepinbell	 A grass type Pokémon
+  Weepinbell    Grass Type Pokémon
 
-It spits out POISONPOWDER to 
-immobilize the enemy and then 
-finishes it with a spray of ACID. 
+  It spits out POISONPOWDER to 
+  immobilize the enemy and then 
+  finishes it with a spray of ACID. 
+  
+	   Evolution Chain
+  Bellsprout ► Weepinbell ► Victreebel
 
-	Evolution Chain
-Bellsprout ► Weepinbell ► Victreebel
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         90
+         defense:         50
+  special-attack:         85
+ special-defense:         45
+           speed:         55
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         90
-        defense:         50
- special-attack:         85
-special-defense:         45
-          speed:         55
+ Genus: Flycatcher Pokémon
+ Happiness: 70	Pokedex ID: 70
+ Base Exp: 137	Capture Rate: 120
+ Height:    10	Weight: 64
 
-Pokedex ID: 70	Capture Rate: 120
-Base Exp: 137	Happiness: 70
-Height: 10	Weight: 64
-
-Genus: Flycatcher Pokémon
-Location Areas:
-sinnoh-route-224-area
-sinnoh-route-229-area
-sinnoh-sea-route-230-area
-johto-route-44-area
-kanto-route-12-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-kanto-route-24-area
-kanto-route-25-area
-cerulean-cave-1f
-cerulean-cave-2f
-berry-forest-area
-cape-brink-area
-bond-bridge-area
-water-path-area
-kalos-route-14-area
-kalos-route-16-area
-kalos-route-19-area
+ Location Areas:
+   Sinnoh route 224 area
+   Sinnoh route 229 area
+   Sinnoh sea route 230 area
+   Johto route 44 area
+   Kanto route 12 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Berry forest area
+   Cape brink area
+   Bond bridge area
+   Water path area
+   Kalos route 14 area
+   Kalos route 16 area
+   Kalos route 19 area

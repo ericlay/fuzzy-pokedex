@@ -1,41 +1,40 @@
 
-Venomoth	 A bug type Pokémon
+  Venomoth    Bug Type Pokémon
 
-The dustlike scales covering 
-its wings are color-coded to 
-indicate the kinds of poison 
-it has. 
-
+  The dustlike scales covering 
+  its wings are color-coded to 
+  indicate the kinds of poison 
+  it has. 
 	Evolution Chain
       Venonat ► Venomoth
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         65
-        defense:         60
- special-attack:         90
-special-defense:         75
-          speed:         90
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         65
+         defense:         60
+  special-attack:         90
+ special-defense:         75
+           speed:         90
 
-Pokedex ID: 49	Capture Rate: 75
-Base Exp: 158	Happiness: 70
-Height: 15	Weight: 125
+ Genus: Poison Moth Pokémon
+ Happiness: 70	Pokedex ID: 49
+ Base Exp: 158	Capture Rate: 75
+ Height:    15	Weight: 125
 
-Genus: Poison Moth Pokémon
-Location Areas:
-sinnoh-route-229-area
-johto-route-43-area
-kanto-route-9-area
-kanto-route-10-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-kanto-route-24-area
-kanto-route-25-area
-cerulean-cave-1f
-cerulean-cave-2f
-kanto-victory-road-2-3f
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-berry-forest-area
-dreamyard-area
+ Location Areas:
+   Sinnoh route 229 area
+   Johto route 43 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Kanto victory road 2 3f
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Berry forest area
+   Dreamyard area

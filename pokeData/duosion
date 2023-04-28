@@ -1,24 +1,27 @@
 
-Duosion	 A psychic type Pokémon
+  Duosion    Psychic Type Pokémon
 
-                    
+  Since they have two divided 
+  brains, at times they suddenly 
+  try to take two different actions 
+  at once. 
+	   Evolution Chain
+  Solosis ► Duosion ► Reuniclus
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         40
+         defense:         50
+  special-attack:        125
+ special-defense:         60
+           speed:         30
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         40
-        defense:         50
- special-attack:        125
-special-defense:         60
-          speed:         30
+ Genus: Mitosis Pokémon
+ Happiness: 50	Pokedex ID: 578
+ Base Exp: 130	Capture Rate: 100
+ Height:    6	Weight: 80
 
-Pokedex ID: 578	Capture Rate: 
-Base Exp: 130	Happiness: 
-Height: 6	Weight: 80
-
-Genus: 
-Location Areas:
-unova-route-9-area
-strange-house-1f
-strange-house-b1f
+ Location Areas:
+   Unova route 9 area
+   Strange house 1f
+   Strange house b1f

@@ -1,28 +1,26 @@
 
-Aggron	 A steel type Pokémon
+  Aggron    Steel Type Pokémon
 
-AGGRON claims an entire mountain 
-as its own territory.  It mercilessly 
-beats up anything that violates 
-its environment.  Aggron 
-vigilantly patrols its territory 
-at all times. 
+  AGGRON claims an entire mountain 
+  as its own territory.  It mercilessly 
+  beats up anything that violates 
+  its environment.  Aggron 
+  vigilantly patrols its territory 
+  at all times. 
+	   Evolution Chain
+  Aron ► Lairon ► Aggron
 
-	Evolution Chain
-Aron ► Lairon ► Aggron
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:        110
+         defense:        180
+  special-attack:         60
+ special-defense:         60
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:        110
-        defense:        180
- special-attack:         60
-special-defense:         60
-          speed:         50
+ Genus: Iron Armor Pokémon
+ Happiness: 35	Pokedex ID: 306
+ Base Exp: 265	Capture Rate: 45
+ Height:    21	Weight: 3600
 
-Pokedex ID: 306	Capture Rate: 45
-Base Exp: 265	Happiness: 35
-Height: 21	Weight: 3600
-
-Genus: Iron Armor Pokémon
-Location Areas:
-
+ Location Areas:

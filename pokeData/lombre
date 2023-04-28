@@ -1,34 +1,34 @@
 
-Lombre	 A water type Pokémon
+  Lombre    Water Type Pokémon
 
-It lives at the water’s edge 
-where it is sunny.  It sleeps 
-on a bed of water grass by day 
-and becomes active at night. 
+  It lives at the water’s edge 
+  where it is sunny.  It sleeps 
+  on a bed of water grass by day 
+  and becomes active at night. 
+  
+	   Evolution Chain
+  Lotad ► Lombre ► Ludicolo
 
-	Evolution Chain
-Lotad ► Lombre ► Ludicolo
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         50
+         defense:         50
+  special-attack:         60
+ special-defense:         70
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         50
-        defense:         50
- special-attack:         60
-special-defense:         70
-          speed:         50
+ Genus: Jolly Pokémon
+ Happiness: 50	Pokedex ID: 271
+ Base Exp: 119	Capture Rate: 120
+ Height:    12	Weight: 325
 
-Pokedex ID: 271	Capture Rate: 120
-Base Exp: 119	Happiness: 50
-Height: 12	Weight: 325
-
-Genus: Jolly Pokémon
-Location Areas:
-sinnoh-route-212-east-towards-pastoria-city
-sinnoh-route-229-area
-hoenn-route-114-area
-couriway-town-area
-kalos-route-15-area
-kalos-route-16-area
-kalos-route-21-area
-pokemon-village-area
-kalos-victory-road-unknown-area-327
+ Location Areas:
+   Sinnoh route 212 east towards pastoria city
+   Sinnoh route 229 area
+   Hoenn route 114 area
+   Couriway town area
+   Kalos route 15 area
+   Kalos route 16 area
+   Kalos route 21 area
+   Pokemon village area
+   Kalos victory road unknown area 327

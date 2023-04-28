@@ -1,26 +1,26 @@
 
-Mime-jr	 A psychic type Pokémon
+  Mime-jr    Psychic Type Pokémon
 
-It habitually mimics foes.  
-Once mimicked, the foe cannot 
-take its eyes off this Pokémon. 
+  It habitually mimics foes.  
+  Once mimicked, the foe cannot 
+  take its eyes off this Pokémon. 
+  
+	   Evolution Chain
+  Mime-jr ► Mr-mime ► Mr-rime
 
-	Evolution Chain
-Mime-jr ► Mr-mime ► Mr-rime
+   ↞--------| STATS |--------↠ 
+              hp:         20
+          attack:         25
+         defense:         45
+  special-attack:         70
+ special-defense:         90
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         20
-         attack:         25
-        defense:         45
- special-attack:         70
-special-defense:         90
-          speed:         60
+ Genus: Mime Pokémon
+ Happiness: 50	Pokedex ID: 439
+ Base Exp: 62	Capture Rate: 145
+ Height:    6	Weight: 130
 
-Pokedex ID: 439	Capture Rate: 145
-Base Exp: 62	Happiness: 50
-Height: 6	Weight: 130
-
-Genus: Mime Pokémon
-Location Areas:
-sinnoh-route-209-area
-sinnoh-route-210-south-towards-solaceon-town
+ Location Areas:
+   Sinnoh route 209 area
+   Sinnoh route 210 south towards solaceon town

@@ -1,26 +1,25 @@
 
-Chespin	 A grass type Pokémon
+  Chespin    Grass Type Pokémon
 
-The quills on its head are usually 
-soft.  When it flexes them, the 
-points become so hard and sharp 
-that they can pierce rock. 
+  The quills on its head are usually 
+  soft.  When it flexes them, the 
+  points become so hard and sharp 
+  that they can pierce rock. 
+	   Evolution Chain
+  Chespin ► Quilladin ► Chesnaught
 
-	Evolution Chain
-Chespin ► Quilladin ► Chesnaught
+   ↞--------| STATS |--------↠ 
+              hp:         56
+          attack:         61
+         defense:         65
+  special-attack:         48
+ special-defense:         45
+           speed:         38
 
-  ↞--------| STATS |--------↠ 
-             hp:         56
-         attack:         61
-        defense:         65
- special-attack:         48
-special-defense:         45
-          speed:         38
+ Genus: Spiny Nut Pokémon
+ Happiness: 70	Pokedex ID: 650
+ Base Exp: 63	Capture Rate: 45
+ Height:    4	Weight: 90
 
-Pokedex ID: 650	Capture Rate: 45
-Base Exp: 63	Happiness: 70
-Height: 4	Weight: 90
-
-Genus: Spiny Nut Pokémon
-Location Areas:
-aquacorde-town-area
+ Location Areas:
+   Aquacorde town area

@@ -1,26 +1,25 @@
 
-Tyranitar	 A rock type Pokémon
+  Tyranitar    Rock Type Pokémon
 
-Its body can't be harmed by 
-any sort of attack, so it is 
-very eager to make challenges 
-against enemies. 
+  Its body can't be harmed by 
+  any sort of attack, so it is 
+  very eager to make challenges 
+  against enemies. 
+	   Evolution Chain
+  Larvitar ► Pupitar ► Tyranitar
 
-	Evolution Chain
-Larvitar ► Pupitar ► Tyranitar
+   ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:        134
+         defense:        110
+  special-attack:         95
+ special-defense:        100
+           speed:         61
 
-  ↞--------| STATS |--------↠ 
-             hp:        100
-         attack:        134
-        defense:        110
- special-attack:         95
-special-defense:        100
-          speed:         61
+ Genus: Armor Pokémon
+ Happiness: 35	Pokedex ID: 248
+ Base Exp: 300	Capture Rate: 45
+ Height:    20	Weight: 2020
 
-Pokedex ID: 248	Capture Rate: 45
-Base Exp: 300	Happiness: 35
-Height: 20	Weight: 2020
-
-Genus: Armor Pokémon
-Location Areas:
-unova-route-15-area
+ Location Areas:
+   Unova route 15 area

@@ -1,28 +1,30 @@
 
-Yamask	 A ghost type Pokémon
+  Yamask    Ghost Type Pokémon
 
-Each of them carries a mask 
-that used to be its face when 
-it was human.  Sometimes they 
-look at it and cry. 
-
+  Each of them carries a mask 
+  that used to be its face when 
+  it was human.  Sometimes they 
+  look at it and cry. 
 	Evolution Chain
       Yamask ► Cofagrigus
-runerigus
 
-  ↞--------| STATS |--------↠ 
-             hp:         38
-         attack:         30
-        defense:         85
- special-attack:         55
-special-defense:         65
-          speed:         30
+Stage 2 Forms:
+  cofagrigus
+  runerigus
 
-Pokedex ID: 562	Capture Rate: 190
-Base Exp: 61	Happiness: 50
-Height: 5	Weight: 15
+   ↞--------| STATS |--------↠ 
+              hp:         38
+          attack:         30
+         defense:         85
+  special-attack:         55
+ special-defense:         65
+           speed:         30
 
-Genus: Spirit Pokémon
-Location Areas:
-relic-castle-a
-relic-castle-c
+ Genus: Spirit Pokémon
+ Happiness: 50	Pokedex ID: 562
+ Base Exp: 61	Capture Rate: 190
+ Height:    5	Weight: 15
+
+ Location Areas:
+   Relic castle a
+   Relic castle c

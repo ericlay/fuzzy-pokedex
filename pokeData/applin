@@ -1,28 +1,29 @@
 
-Applin	 A grass type Pokémon
+  Applin    Grass Type Pokémon
 
-It spends its entire life inside 
-an apple.  It hides from its 
-natural enemies, bird Pokémon, 
-by pretending it’s just an apple 
-and nothing more. 
-
+  It spends its entire life inside 
+  an apple.  It hides from its 
+  natural enemies, bird Pokémon, 
+  by pretending it’s just an apple 
+  and nothing more. 
 	Evolution Chain
       Applin ► Flapple
-appletun
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         40
-        defense:         80
- special-attack:         40
-special-defense:         40
-          speed:         20
+Stage 2 Forms:
+  flapple
+  appletun
 
-Pokedex ID: 840	Capture Rate: 255
-Base Exp: 52	Happiness: 50
-Height: 2	Weight: 5
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         40
+         defense:         80
+  special-attack:         40
+ special-defense:         40
+           speed:         20
 
-Genus: Apple Core Pokémon
-Location Areas:
+ Genus: Apple Core Pokémon
+ Happiness: 50	Pokedex ID: 840
+ Base Exp: 52	Capture Rate: 255
+ Height:    2	Weight: 5
 
+ Location Areas:

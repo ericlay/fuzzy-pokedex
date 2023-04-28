@@ -1,24 +1,24 @@
 
-Spiritomb	 A ghost type Pokémon
+  Spiritomb    Ghost Type Pokémon
 
-A Pokémon that was formed by 
-108 spirits.  It is bound to 
-a fissure in an odd keystone. 
+  A Pokémon that was formed by 
+  108 spirits.  It is bound to 
+  a fissure in an odd keystone. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         92
+         defense:        108
+  special-attack:         92
+ special-defense:        108
+           speed:         35
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         92
-        defense:        108
- special-attack:         92
-special-defense:        108
-          speed:         35
+ Genus: Forbidden Pokémon
+ Happiness: 50	Pokedex ID: 442
+ Base Exp: 170	Capture Rate: 100
+ Height:    10	Weight: 1080
 
-Pokedex ID: 442	Capture Rate: 100
-Base Exp: 170	Happiness: 50
-Height: 10	Weight: 1080
-
-Genus: Forbidden Pokémon
-Location Areas:
-sinnoh-route-209-area
+ Location Areas:
+   Sinnoh route 209 area

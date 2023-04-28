@@ -1,27 +1,25 @@
 
-Rolycoly	 A rock type Pokémon
+  Rolycoly    Rock Type Pokémon
 
-Most of its body has the same 
-composition as coal.  Fittingly, 
-this Pokémon was first discovered 
-in coal mines about 400 years 
-ago. 
+  Most of its body has the same 
+  composition as coal.  Fittingly, 
+  this Pokémon was first discovered 
+  in coal mines about 400 years 
+  ago. 
+	   Evolution Chain
+  Rolycoly ► Carkol ► Coalossal
 
-	Evolution Chain
-Rolycoly ► Carkol ► Coalossal
+   ↞--------| STATS |--------↠ 
+              hp:         30
+          attack:         40
+         defense:         50
+  special-attack:         40
+ special-defense:         50
+           speed:         30
 
-  ↞--------| STATS |--------↠ 
-             hp:         30
-         attack:         40
-        defense:         50
- special-attack:         40
-special-defense:         50
-          speed:         30
+ Genus: Coal Pokémon
+ Happiness: 50	Pokedex ID: 837
+ Base Exp: 48	Capture Rate: 255
+ Height:    3	Weight: 120
 
-Pokedex ID: 837	Capture Rate: 255
-Base Exp: 48	Happiness: 50
-Height: 3	Weight: 120
-
-Genus: Coal Pokémon
-Location Areas:
-
+ Location Areas:

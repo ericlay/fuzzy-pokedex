@@ -1,27 +1,26 @@
 
-Combee	 A bug type Pokémon
+  Combee    Bug Type Pokémon
 
-A Pokémon formed by three others. 
- It busily carries sweet floral 
-honey to VESPIQUEN. 
-
+  A Pokémon formed by three others. 
+   It busily carries sweet floral 
+  honey to VESPIQUEN. 
 	Evolution Chain
       Combee ► Vespiquen
 
-  ↞--------| STATS |--------↠ 
-             hp:         30
-         attack:         30
-        defense:         42
- special-attack:         30
-special-defense:         42
-          speed:         70
+   ↞--------| STATS |--------↠ 
+              hp:         30
+          attack:         30
+         defense:         42
+  special-attack:         30
+ special-defense:         42
+           speed:         70
 
-Pokedex ID: 415	Capture Rate: 120
-Base Exp: 49	Happiness: 50
-Height: 3	Weight: 55
+ Genus: Tiny Bee Pokémon
+ Happiness: 50	Pokedex ID: 415
+ Base Exp: 49	Capture Rate: 120
+ Height:    3	Weight: 55
 
-Genus: Tiny Bee Pokémon
-Location Areas:
-unova-route-12-area
-lostlorn-forest-area
-kalos-route-4-area
+ Location Areas:
+   Unova route 12 area
+   Lostlorn forest area
+   Kalos route 4 area

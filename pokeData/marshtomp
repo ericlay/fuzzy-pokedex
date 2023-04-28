@@ -1,28 +1,26 @@
 
-Marshtomp	 A water type Pokémon
+  Marshtomp    Water Type Pokémon
 
-The surface of MARSHTOMP’s body 
-is enveloped by a thin, sticky 
-film that enables it to live 
-on land.  Marshtomp plays 
-in mud on beaches when the ocean 
-tide is low. 
+  The surface of MARSHTOMP’s body 
+  is enveloped by a thin, sticky 
+  film that enables it to live 
+  on land.  Marshtomp plays 
+  in mud on beaches when the ocean 
+  tide is low. 
+	   Evolution Chain
+  Mudkip ► Marshtomp ► Swampert
 
-	Evolution Chain
-Mudkip ► Marshtomp ► Swampert
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         85
+         defense:         70
+  special-attack:         60
+ special-defense:         70
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         85
-        defense:         70
- special-attack:         60
-special-defense:         70
-          speed:         50
+ Genus: Mud Fish Pokémon
+ Happiness: 50	Pokedex ID: 259
+ Base Exp: 142	Capture Rate: 45
+ Height:    7	Weight: 280
 
-Pokedex ID: 259	Capture Rate: 45
-Base Exp: 142	Happiness: 50
-Height: 7	Weight: 280
-
-Genus: Mud Fish Pokémon
-Location Areas:
-
+ Location Areas:

@@ -1,27 +1,26 @@
 
-Cleffa	 A fairy type Pokémon
+  Cleffa    Fairy Type Pokémon
 
-Because of its unusual, star-like 
-silhouette, people believe that 
-it came here on a meteor. 
+  Because of its unusual, star-like 
+  silhouette, people believe that 
+  it came here on a meteor. 
+	   Evolution Chain
+  Cleffa ► Clefairy ► Clefable
 
-	Evolution Chain
-Cleffa ► Clefairy ► Clefable
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         25
+         defense:         28
+  special-attack:         45
+ special-defense:         55
+           speed:         15
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         25
-        defense:         28
- special-attack:         45
-special-defense:         55
-          speed:         15
+ Genus: Star Shape Pokémon
+ Happiness: 140	Pokedex ID: 173
+ Base Exp: 44	Capture Rate: 150
+ Height:    3	Weight: 30
 
-Pokedex ID: 173	Capture Rate: 150
-Base Exp: 44	Happiness: 140
-Height: 3	Weight: 30
-
-Genus: Star Shape Pokémon
-Location Areas:
-mt-coronet-1f-route-207
-mt-coronet-1f-route-211
-johto-route-34-area
+ Location Areas:
+   Mt coronet 1f route 207
+   Mt coronet 1f route 211
+   Johto route 34 area

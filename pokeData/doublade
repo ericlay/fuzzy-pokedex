@@ -1,26 +1,25 @@
 
-Doublade	 A steel type Pokémon
+  Doublade    Steel Type Pokémon
 
-When Honedge evolves, it divides 
-into two swords, which cooperate 
-via telepathy to coordinate attacks 
-and slash their enemies to ribbons. 
+  When Honedge evolves, it divides 
+  into two swords, which cooperate 
+  via telepathy to coordinate attacks 
+  and slash their enemies to ribbons. 
+  
+	   Evolution Chain
+  Honedge ► Doublade ► Aegislash
 
-	Evolution Chain
-Honedge ► Doublade ► Aegislash
+   ↞--------| STATS |--------↠ 
+              hp:         59
+          attack:        110
+         defense:        150
+  special-attack:         45
+ special-defense:         49
+           speed:         35
 
-  ↞--------| STATS |--------↠ 
-             hp:         59
-         attack:        110
-        defense:        150
- special-attack:         45
-special-defense:         49
-          speed:         35
+ Genus: Sword Pokémon
+ Happiness: 50	Pokedex ID: 680
+ Base Exp: 157	Capture Rate: 90
+ Height:    8	Weight: 45
 
-Pokedex ID: 680	Capture Rate: 90
-Base Exp: 157	Happiness: 50
-Height: 8	Weight: 45
-
-Genus: Sword Pokémon
-Location Areas:
-
+ Location Areas:

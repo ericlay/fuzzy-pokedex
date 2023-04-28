@@ -1,38 +1,37 @@
 
-Nidorino	 A poison type Pokémon
+  Nidorino    Poison Type Pokémon
 
-An aggressive Pokémon that is 
-quick to attack.  The horn on 
-its head secretes a powerful 
-venom. 
+  An aggressive Pokémon that is 
+  quick to attack.  The horn on 
+  its head secretes a powerful 
+  venom. 
+	   Evolution Chain
+  Nidoran-m ► Nidorino ► Nidoking
 
-	Evolution Chain
-Nidoran-m ► Nidorino ► Nidoking
+   ↞--------| STATS |--------↠ 
+              hp:         61
+          attack:         72
+         defense:         57
+  special-attack:         55
+ special-defense:         55
+           speed:         65
 
-  ↞--------| STATS |--------↠ 
-             hp:         61
-         attack:         72
-        defense:         57
- special-attack:         55
-special-defense:         55
-          speed:         65
+ Genus: Poison Pin Pokémon
+ Happiness: 50	Pokedex ID: 33
+ Base Exp: 128	Capture Rate: 120
+ Height:    9	Weight: 195
 
-Pokedex ID: 33	Capture Rate: 120
-Base Exp: 128	Happiness: 50
-Height: 9	Weight: 195
-
-Genus: Poison Pin Pokémon
-Location Areas:
-valor-lakefront-area
-sinnoh-route-221-area
-kanto-route-9-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-kanto-route-23-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-kalos-route-11-area
-johto-safari-zone-zone-savannah
+ Location Areas:
+   Valor lakefront area
+   Sinnoh route 221 area
+   Kanto route 9 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Kanto route 23 area
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Kalos route 11 area
+   Johto safari zone zone savannah

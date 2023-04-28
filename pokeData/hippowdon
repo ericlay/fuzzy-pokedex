@@ -1,26 +1,25 @@
 
-Hippowdon	 A ground type Pokémon
+  Hippowdon    Ground Type Pokémon
 
-It blasts internally stored 
-sand from ports on its body to 
-create a towering twister for 
-attack. 
-
+  It blasts internally stored 
+  sand from ports on its body to 
+  create a towering twister for 
+  attack. 
 	Evolution Chain
       Hippopotas ► Hippowdon
 
-  ↞--------| STATS |--------↠ 
-             hp:        108
-         attack:        112
-        defense:        118
- special-attack:         68
-special-defense:         72
-          speed:         47
+   ↞--------| STATS |--------↠ 
+              hp:        108
+          attack:        112
+         defense:        118
+  special-attack:         68
+ special-defense:         72
+           speed:         47
 
-Pokedex ID: 450	Capture Rate: 60
-Base Exp: 184	Happiness: 50
-Height: 20	Weight: 3000
+ Genus: Heavyweight Pokémon
+ Happiness: 50	Pokedex ID: 450
+ Base Exp: 184	Capture Rate: 60
+ Height:    20	Weight: 3000
 
-Genus: Heavyweight Pokémon
-Location Areas:
-sinnoh-route-228-area
+ Location Areas:
+   Sinnoh route 228 area

@@ -1,30 +1,29 @@
 
-Metang	 A steel type Pokémon
+  Metang    Steel Type Pokémon
 
-When two BELDUM fuse together, 
-METANG is formed.  The brains 
-of the BELDUM are joined by a 
-magnetic nervous system.  By 
-linking its brains magnetically, 
-Metang generates strong 
-psychokinetic power. 
+  When two BELDUM fuse together, 
+  METANG is formed.  The brains 
+  of the BELDUM are joined by a 
+  magnetic nervous system.  By 
+  linking its brains magnetically, 
+  Metang generates strong 
+  psychokinetic power. 
+	   Evolution Chain
+  Beldum ► Metang ► Metagross
 
-	Evolution Chain
-Beldum ► Metang ► Metagross
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         75
+         defense:        100
+  special-attack:         55
+ special-defense:         80
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         75
-        defense:        100
- special-attack:         55
-special-defense:         80
-          speed:         50
+ Genus: Iron Claw Pokémon
+ Happiness: 35	Pokedex ID: 375
+ Base Exp: 147	Capture Rate: 3
+ Height:    12	Weight: 2025
 
-Pokedex ID: 375	Capture Rate: 3
-Base Exp: 147	Happiness: 35
-Height: 12	Weight: 2025
-
-Genus: Iron Claw Pokémon
-Location Areas:
-giant-chasm-forest
-giant-chasm-forest-cave
+ Location Areas:
+   Giant chasm forest
+   Giant chasm forest cave

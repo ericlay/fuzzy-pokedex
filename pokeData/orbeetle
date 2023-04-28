@@ -1,27 +1,25 @@
 
-Orbeetle	 A bug type Pokémon
+  Orbeetle    Bug Type Pokémon
 
-It’s famous for its high level 
-of intelligence, and the large 
-size of its brain is proof that 
-it also possesses immense psychic 
-power. 
+  It’s famous for its high level 
+  of intelligence, and the large 
+  size of its brain is proof that 
+  it also possesses immense psychic 
+  power. 
+	   Evolution Chain
+  Blipbug ► Dottler ► Orbeetle
 
-	Evolution Chain
-Blipbug ► Dottler ► Orbeetle
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         45
+         defense:        110
+  special-attack:         80
+ special-defense:        120
+           speed:         90
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         45
-        defense:        110
- special-attack:         80
-special-defense:        120
-          speed:         90
+ Genus: Seven Spot Pokémon
+ Happiness: 50	Pokedex ID: 826
+ Base Exp: 253	Capture Rate: 45
+ Height:    4	Weight: 408
 
-Pokedex ID: 826	Capture Rate: 45
-Base Exp: 253	Happiness: 50
-Height: 4	Weight: 408
-
-Genus: Seven Spot Pokémon
-Location Areas:
-
+ Location Areas:

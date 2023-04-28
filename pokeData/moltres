@@ -1,27 +1,27 @@
 
-Moltres	 A fire type Pokémon
+  Moltres    Fire Type Pokémon
 
-Known as the legendary bird 
-of fire.  Every flap of its wings 
-creates a dazzling flash of flames. 
+  Known as the legendary bird 
+  of fire.  Every flap of its wings 
+  creates a dazzling flash of flames. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:        100
+         defense:         90
+  special-attack:        125
+ special-defense:         85
+           speed:         90
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:        100
-        defense:         90
- special-attack:        125
-special-defense:         85
-          speed:         90
+ Genus: Flame Pokémon
+ Happiness: 35	Pokedex ID: 146
+ Base Exp: 290	Capture Rate: 3
+ Height:    20	Weight: 600
 
-Pokedex ID: 146	Capture Rate: 3
-Base Exp: 290	Happiness: 35
-Height: 20	Weight: 600
-
-Genus: Flame Pokémon
-Location Areas:
-mt-silver-top
-kanto-victory-road-2-2f
-roaming-sinnoh-area
-mt-ember-summit
+ Location Areas:
+   Mt silver top
+   Kanto victory road 2 2f
+   Roaming sinnoh area
+   Mt ember summit

@@ -1,31 +1,30 @@
 
-Rufflet	 A normal type Pokémon
+  Rufflet    Normal Type Pokémon
 
-They crush berries with their 
-talons.  They bravely stand up 
-to any opponent, no matter how 
-strong it is. 
-
+  They crush berries with their 
+  talons.  They bravely stand up 
+  to any opponent, no matter how 
+  strong it is. 
 	Evolution Chain
       Rufflet ► Braviary
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         83
-        defense:         50
- special-attack:         37
-special-defense:         50
-          speed:         60
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         83
+         defense:         50
+  special-attack:         37
+ special-defense:         50
+           speed:         60
 
-Pokedex ID: 627	Capture Rate: 190
-Base Exp: 70	Happiness: 50
-Height: 5	Weight: 105
+ Genus: Eaglet Pokémon
+ Happiness: 50	Pokedex ID: 627
+ Base Exp: 70	Capture Rate: 190
+ Height:    5	Weight: 105
 
-Genus: Eaglet Pokémon
-Location Areas:
-unova-victory-road-outside
-village-bridge-area
-unova-route-10-area
-unova-route-10-victory-road-gate
-unova-route-11-area
-unova-route-23-area
+ Location Areas:
+   Unova victory road outside
+   Village bridge area
+   Unova route 10 area
+   Unova route 10 victory road gate
+   Unova route 11 area
+   Unova route 23 area

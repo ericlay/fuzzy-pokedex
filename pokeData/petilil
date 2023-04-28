@@ -1,30 +1,25 @@
 
-Petilil	 A grass type Pokémon
+  Petilil    Grass Type Pokémon
 
-The leaves on its head are very 
-bitter.  Eating one of these 
-leaves is known to refresh a 
-tired body. 
+  
+  Single Stage Evolution Pokémon
 
-	Evolution Chain
-      Petilil ► Lilligant
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         35
+         defense:         50
+  special-attack:         70
+ special-defense:         50
+           speed:         30
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         35
-        defense:         50
- special-attack:         70
-special-defense:         50
-          speed:         30
+ Genus: 
+ Happiness: 	Pokedex ID: 548
+ Base Exp: 56	Capture Rate: 
+ Height:    5	Weight: 66
 
-Pokedex ID: 548	Capture Rate: 190
-Base Exp: 56	Happiness: 50
-Height: 5	Weight: 66
-
-Genus: Bulb Pokémon
-Location Areas:
-pinwheel-forest-inside
-abundant-shrine-area
-lostlorn-forest-area
-castelia-city-area
-unova-victory-road-2-unknown-area-72
+ Location Areas:
+   Pinwheel forest inside
+   Abundant shrine area
+   Lostlorn forest area
+   Castelia city area
+   Unova victory road 2 unknown area 72

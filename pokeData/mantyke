@@ -1,32 +1,31 @@
 
-Mantyke	 A water type Pokémon
+  Mantyke    Water Type Pokémon
 
-A friendly Pokémon that captures 
-the subtle flows of seawater 
-using its two antennae. 
-
+  A friendly Pokémon that captures 
+  the subtle flows of seawater 
+  using its two antennae. 
 	Evolution Chain
       Mantyke ► Mantine
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         20
-        defense:         50
- special-attack:         60
-special-defense:        120
-          speed:         50
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         20
+         defense:         50
+  special-attack:         60
+ special-defense:        120
+           speed:         50
 
-Pokedex ID: 458	Capture Rate: 25
-Base Exp: 69	Happiness: 50
-Height: 10	Weight: 650
+ Genus: Kite Pokémon
+ Happiness: 50	Pokedex ID: 458
+ Base Exp: 69	Capture Rate: 25
+ Height:    10	Weight: 650
 
-Genus: Kite Pokémon
-Location Areas:
-sunyshore-city-area
-sinnoh-sea-route-223-area
-undella-bay-area
-undella-town-area
-unova-route-21-area
-shalour-city-area
-kalos-route-12-area
-azure-bay-area
+ Location Areas:
+   Sunyshore city area
+   Sinnoh sea route 223 area
+   Undella bay area
+   Undella town area
+   Unova route 21 area
+   Shalour city area
+   Kalos route 12 area
+   Azure bay area

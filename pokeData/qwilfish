@@ -1,45 +1,44 @@
 
-Qwilfish	 A water type Pokémon
+  Qwilfish    Water Type Pokémon
 
-To fire its poison spikes, it 
-must inflate its body by drinking 
-over 2. 6 gallons of water all 
-at once. 
-
+  To fire its poison spikes, it 
+  must inflate its body by drinking 
+  over 2. 6 gallons of water all 
+  at once. 
 	Evolution Chain
       Qwilfish ► Overqwil
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         95
-        defense:         85
- special-attack:         55
-special-defense:         55
-          speed:         85
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         95
+         defense:         85
+  special-attack:         55
+ special-defense:         55
+           speed:         85
 
-Pokedex ID: 211	Capture Rate: 45
-Base Exp: 88	Happiness: 50
-Height: 5	Weight: 39
+ Genus: Balloon Pokémon
+ Happiness: 50	Pokedex ID: 211
+ Base Exp: 88	Capture Rate: 45
+ Height:    5	Weight: 39
 
-Genus: Balloon Pokémon
-Location Areas:
-iron-island-area
-johto-route-32-area
-kanto-route-12-area
-kanto-route-13-area
-resort-gorgeous-area
-water-labyrinth-area
-five-isle-meadow-area
-memorial-pillar-area
-outcast-island-area
-green-path-area
-water-path-area
-trainer-tower-area
-tanoby-ruins-area
-p2-laboratory-area
-unova-route-4-area
-unova-route-18-area
-unova-route-17-area
-virbank-city-area
-virbank-complex-outer
-kalos-route-8-area
+ Location Areas:
+   Iron island area
+   Johto route 32 area
+   Kanto route 12 area
+   Kanto route 13 area
+   Resort gorgeous area
+   Water labyrinth area
+   Five isle meadow area
+   Memorial pillar area
+   Outcast island area
+   Green path area
+   Water path area
+   Trainer tower area
+   Tanoby ruins area
+   P2 laboratory area
+   Unova route 4 area
+   Unova route 18 area
+   Unova route 17 area
+   Virbank city area
+   Virbank complex outer
+   Kalos route 8 area

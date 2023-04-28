@@ -1,25 +1,24 @@
 
-Klinklang	 A steel type Pokémon
+  Klinklang    Steel Type Pokémon
 
-The gear with the red core is 
-rotated at high speed for a rapid 
-energy charge. 
+  The gear with the red core is 
+  rotated at high speed for a rapid 
+  energy charge. 
+	   Evolution Chain
+  Klink ► Klang ► Klinklang
 
-	Evolution Chain
-Klink ► Klang ► Klinklang
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:        100
+         defense:        115
+  special-attack:         70
+ special-defense:         85
+           speed:         90
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:        100
-        defense:        115
- special-attack:         70
-special-defense:         85
-          speed:         90
+ Genus: Gear Pokémon
+ Happiness: 50	Pokedex ID: 601
+ Base Exp: 260	Capture Rate: 30
+ Height:    6	Weight: 810
 
-Pokedex ID: 601	Capture Rate: 30
-Base Exp: 260	Happiness: 50
-Height: 6	Weight: 810
-
-Genus: Gear Pokémon
-Location Areas:
-p2-laboratory-area
+ Location Areas:
+   P2 laboratory area

@@ -1,26 +1,26 @@
 
-Whirlipede	 A bug type Pokémon
+  Whirlipede    Bug Type Pokémon
 
-Protected by a hard shell, it 
-spins its body like a wheel and 
-crashes furiously into its enemies. 
+  Protected by a hard shell, it 
+  spins its body like a wheel and 
+  crashes furiously into its enemies. 
+  
+	   Evolution Chain
+  Venipede ► Whirlipede ► Scolipede
 
-	Evolution Chain
-Venipede ► Whirlipede ► Scolipede
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         55
+         defense:         99
+  special-attack:         40
+ special-defense:         79
+           speed:         47
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         55
-        defense:         99
- special-attack:         40
-special-defense:         79
-          speed:         47
+ Genus: Curlipede Pokémon
+ Happiness: 50	Pokedex ID: 544
+ Base Exp: 126	Capture Rate: 120
+ Height:    12	Weight: 585
 
-Pokedex ID: 544	Capture Rate: 120
-Base Exp: 126	Happiness: 50
-Height: 12	Weight: 585
-
-Genus: Curlipede Pokémon
-Location Areas:
-pinwheel-forest-inside
-lostlorn-forest-area
+ Location Areas:
+   Pinwheel forest inside
+   Lostlorn forest area

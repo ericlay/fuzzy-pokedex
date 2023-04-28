@@ -1,76 +1,75 @@
 
-Boldore	 A rock type Pokémon
+  Boldore    Rock Type Pokémon
 
-When it overflows with power, 
-the orange crystal on its body 
-glows.  It looks for underground 
-water in caves. 
+  When it overflows with power, 
+  the orange crystal on its body 
+  glows.  It looks for underground 
+  water in caves. 
+	   Evolution Chain
+  Roggenrola ► Boldore ► Gigalith
 
-	Evolution Chain
-Roggenrola ► Boldore ► Gigalith
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:        105
+         defense:        105
+  special-attack:         50
+ special-defense:         40
+           speed:         20
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:        105
-        defense:        105
- special-attack:         50
-special-defense:         40
-          speed:         20
+ Genus: Ore Pokémon
+ Happiness: 50	Pokedex ID: 525
+ Base Exp: 137	Capture Rate: 120
+ Height:    9	Weight: 1020
 
-Pokedex ID: 525	Capture Rate: 120
-Base Exp: 137	Happiness: 50
-Height: 9	Weight: 1020
-
-Genus: Ore Pokémon
-Location Areas:
-chargestone-cave-1f
-chargestone-cave-b1f
-chargestone-cave-b2f
-twist-mountain-area
-unova-victory-road-unknown-area-53
-unova-victory-road-unknown-area-54
-unova-victory-road-unknown-area-55
-unova-victory-road-unknown-area-56
-unova-victory-road-unknown-area-57
-unova-victory-road-unknown-area-58
-unova-victory-road-unknown-area-59
-unova-victory-road-unknown-area-60
-unova-victory-road-unknown-area-61
-unova-victory-road-unknown-area-62
-unova-victory-road-unknown-area-63
-unova-victory-road-unknown-area-64
-unova-victory-road-unknown-area-65
-unova-victory-road-unknown-area-66
-trial-chamber-area
-giant-chasm-area
-giant-chasm-forest-cave
-wellspring-cave-area
-mistralton-cave-area
-guidance-chamber-area
-challengers-cave-1f
-challengers-cave-b1f
-challengers-cave-b2f
-unova-victory-road-7f
-unova-victory-road-2-unknown-area-74
-unova-victory-road-2-unknown-area-75
-reversal-mountain-unknown-area-49
-reversal-mountain-unknown-area-50
-reversal-mountain-unknown-area-51
-reversal-mountain-unknown-area-52
-reversal-mountain-unknown-area-53
-reversal-mountain-unknown-area-54
-reversal-mountain-unknown-area-55
-reversal-mountain-unknown-area-56
-reversal-mountain-unknown-area-57
-reversal-mountain-unknown-area-58
-reversal-mountain-unknown-area-59
-reversal-mountain-unknown-area-60
-relic-passage-relic-castle-entrance
-relic-passage-pwt-entrance
-clay-tunnel-area
-underground-ruins-area
-rocky-mountain-room-area
-glacier-room-area
-iron-room-area
-seaside-cave-1f
-seaside-cave-b1f
+ Location Areas:
+   Chargestone cave 1f
+   Chargestone cave b1f
+   Chargestone cave b2f
+   Twist mountain area
+   Unova victory road unknown area 53
+   Unova victory road unknown area 54
+   Unova victory road unknown area 55
+   Unova victory road unknown area 56
+   Unova victory road unknown area 57
+   Unova victory road unknown area 58
+   Unova victory road unknown area 59
+   Unova victory road unknown area 60
+   Unova victory road unknown area 61
+   Unova victory road unknown area 62
+   Unova victory road unknown area 63
+   Unova victory road unknown area 64
+   Unova victory road unknown area 65
+   Unova victory road unknown area 66
+   Trial chamber area
+   Giant chasm area
+   Giant chasm forest cave
+   Wellspring cave area
+   Mistralton cave area
+   Guidance chamber area
+   Challengers cave 1f
+   Challengers cave b1f
+   Challengers cave b2f
+   Unova victory road 7f
+   Unova victory road 2 unknown area 74
+   Unova victory road 2 unknown area 75
+   Reversal mountain unknown area 49
+   Reversal mountain unknown area 50
+   Reversal mountain unknown area 51
+   Reversal mountain unknown area 52
+   Reversal mountain unknown area 53
+   Reversal mountain unknown area 54
+   Reversal mountain unknown area 55
+   Reversal mountain unknown area 56
+   Reversal mountain unknown area 57
+   Reversal mountain unknown area 58
+   Reversal mountain unknown area 59
+   Reversal mountain unknown area 60
+   Relic passage relic castle entrance
+   Relic passage pwt entrance
+   Clay tunnel area
+   Underground ruins area
+   Rocky mountain room area
+   Glacier room area
+   Iron room area
+   Seaside cave 1f
+   Seaside cave b1f

@@ -1,27 +1,27 @@
 
-Snivy	 A grass type Pokémon
+  Snivy    Grass Type Pokémon
 
-It is very intelligent and calm. 
- Being exposed to lots of sunlight 
-makes its movements swifter. 
+  It is very intelligent and calm. 
+   Being exposed to lots of sunlight 
+  makes its movements swifter. 
+  
+	   Evolution Chain
+  Snivy ► Servine ► Serperior
 
-	Evolution Chain
-Snivy ► Servine ► Serperior
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         45
+         defense:         55
+  special-attack:         45
+ special-defense:         55
+           speed:         63
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         45
-        defense:         55
- special-attack:         45
-special-defense:         55
-          speed:         63
+ Genus: Grass Snake Pokémon
+ Happiness: 70	Pokedex ID: 495
+ Base Exp: 62	Capture Rate: 45
+ Height:    6	Weight: 81
 
-Pokedex ID: 495	Capture Rate: 45
-Base Exp: 62	Happiness: 70
-Height: 6	Weight: 81
-
-Genus: Grass Snake Pokémon
-Location Areas:
-hoenn-route-101-area
-aspertia-city-area
-nuvema-town-area
+ Location Areas:
+   Hoenn route 101 area
+   Aspertia city area
+   Nuvema town area

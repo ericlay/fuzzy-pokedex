@@ -1,28 +1,27 @@
 
-Ferroseed	 A grass type Pokémon
+  Ferroseed    Grass Type Pokémon
 
-When threatened, it attacks 
-by shooting a barrage of spikes, 
-which gives it a chance to escape 
-by rolling away. 
-
+  When threatened, it attacks 
+  by shooting a barrage of spikes, 
+  which gives it a chance to escape 
+  by rolling away. 
 	Evolution Chain
       Ferroseed ► Ferrothorn
 
-  ↞--------| STATS |--------↠ 
-             hp:         44
-         attack:         50
-        defense:         91
- special-attack:         24
-special-defense:         86
-          speed:         10
+   ↞--------| STATS |--------↠ 
+              hp:         44
+          attack:         50
+         defense:         91
+  special-attack:         24
+ special-defense:         86
+           speed:         10
 
-Pokedex ID: 597	Capture Rate: 255
-Base Exp: 61	Happiness: 50
-Height: 6	Weight: 188
+ Genus: Thorn Seed Pokémon
+ Happiness: 50	Pokedex ID: 597
+ Base Exp: 61	Capture Rate: 255
+ Height:    6	Weight: 188
 
-Genus: Thorn Seed Pokémon
-Location Areas:
-chargestone-cave-1f
-chargestone-cave-b1f
-chargestone-cave-b2f
+ Location Areas:
+   Chargestone cave 1f
+   Chargestone cave b1f
+   Chargestone cave b2f

@@ -1,27 +1,26 @@
 
-Zapdos	 A electric type Pokémon
+  Zapdos    Electric Type Pokémon
 
-A legendary bird Pokémon that 
-is said to appear from clouds 
-while dropping enormous lightning 
-bolts. 
+  A legendary bird Pokémon that 
+  is said to appear from clouds 
+  while dropping enormous lightning 
+  bolts. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:         90
+         defense:         85
+  special-attack:        125
+ special-defense:         90
+           speed:        100
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:         90
-        defense:         85
- special-attack:        125
-special-defense:         90
-          speed:        100
+ Genus: Electric Pokémon
+ Happiness: 35	Pokedex ID: 145
+ Base Exp: 290	Capture Rate: 3
+ Height:    16	Weight: 526
 
-Pokedex ID: 145	Capture Rate: 3
-Base Exp: 290	Happiness: 35
-Height: 16	Weight: 526
-
-Genus: Electric Pokémon
-Location Areas:
-kanto-route-10-area
-power-plant-area
-roaming-sinnoh-area
+ Location Areas:
+   Kanto route 10 area
+   Power plant area
+   Roaming sinnoh area

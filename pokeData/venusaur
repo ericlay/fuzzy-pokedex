@@ -1,25 +1,24 @@
 
-Venusaur	 A grass type Pokémon
+  Venusaur    Grass Type Pokémon
 
-The plant blooms when it is 
-absorbing solar energy.  It stays 
-on the move to seek sunlight. 
+  The plant blooms when it is 
+  absorbing solar energy.  It stays 
+  on the move to seek sunlight. 
+  
+	   Evolution Chain
+  Bulbasaur ► Ivysaur ► Venusaur
 
-	Evolution Chain
-Bulbasaur ► Ivysaur ► Venusaur
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:         82
+         defense:         83
+  special-attack:        100
+ special-defense:        100
+           speed:         80
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:         82
-        defense:         83
- special-attack:        100
-special-defense:        100
-          speed:         80
+ Genus: Seed Pokémon
+ Happiness: 50	Pokedex ID: 3
+ Base Exp: 263	Capture Rate: 45
+ Height:    20	Weight: 1000
 
-Pokedex ID: 3	Capture Rate: 45
-Base Exp: 263	Happiness: 50
-Height: 20	Weight: 1000
-
-Genus: Seed Pokémon
-Location Areas:
-
+ Location Areas:

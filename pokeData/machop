@@ -1,52 +1,52 @@
 
-Machop	 A fighting type Pokémon
+  Machop    Fighting Type Pokémon
 
-Loves to build its muscles. 
- It trains in all styles of martial 
-arts to become even stronger. 
+  Loves to build its muscles. 
+   It trains in all styles of martial 
+  arts to become even stronger. 
+  
+	   Evolution Chain
+  Machop ► Machoke ► Machamp
 
-	Evolution Chain
-Machop ► Machoke ► Machamp
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         80
+         defense:         50
+  special-attack:         35
+ special-defense:         35
+           speed:         35
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         80
-        defense:         50
- special-attack:         35
-special-defense:         35
-          speed:         35
+ Genus: Superpower Pokémon
+ Happiness: 50	Pokedex ID: 66
+ Base Exp: 61	Capture Rate: 180
+ Height:    8	Weight: 195
 
-Pokedex ID: 66	Capture Rate: 180
-Base Exp: 61	Happiness: 50
-Height: 8	Weight: 195
-
-Genus: Superpower Pokémon
-Location Areas:
-mt-coronet-1f-route-207
-mt-coronet-1f-route-211
-sinnoh-route-206-area
-sinnoh-route-207-area
-sinnoh-route-208-area
-sinnoh-route-210-west-towards-celestic-town
-sinnoh-route-211-west-towards-eterna-city
-mt-mortar-1f
-mt-mortar-lower-cave
-mt-mortar-upper-cave
-mt-mortar-b1f
-johto-route-47-inside-cave
-rock-tunnel-1f
-rock-tunnel-b1f
-kanto-route-10-area
-rock-tunnel-b2f
-kanto-victory-road-2-1f
-kanto-victory-road-2-2f
-kanto-victory-road-2-3f
-jagged-pass-area
-fiery-path-area
-hoenn-route-112-area
-mt-ember-area
-mt-ember-cave
-mt-ember-inside
-mt-ember-1f-cave-behind-team-rocket
-glittering-cave-unknown-area-303
-johto-safari-zone-zone-wasteland
+ Location Areas:
+   Mt coronet 1f route 207
+   Mt coronet 1f route 211
+   Sinnoh route 206 area
+   Sinnoh route 207 area
+   Sinnoh route 208 area
+   Sinnoh route 210 west towards celestic town
+   Sinnoh route 211 west towards eterna city
+   Mt mortar 1f
+   Mt mortar lower cave
+   Mt mortar upper cave
+   Mt mortar b1f
+   Johto route 47 inside cave
+   Rock tunnel 1f
+   Rock tunnel b1f
+   Kanto route 10 area
+   Rock tunnel b2f
+   Kanto victory road 2 1f
+   Kanto victory road 2 2f
+   Kanto victory road 2 3f
+   Jagged pass area
+   Fiery path area
+   Hoenn route 112 area
+   Mt ember area
+   Mt ember cave
+   Mt ember inside
+   Mt ember 1f cave behind team rocket
+   Glittering cave unknown area 303
+   Johto safari zone zone wasteland

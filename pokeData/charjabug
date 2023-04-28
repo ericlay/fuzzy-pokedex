@@ -1,26 +1,24 @@
 
-Charjabug	 A bug type Pokémon
+  Charjabug    Bug Type Pokémon
 
-Its body is capable of storing 
-electricity.  On camping trips, 
-people are grateful to have one 
-around. 
+  Its body is capable of storing 
+  electricity.  On camping trips, 
+  people are grateful to have one 
+  around. 
+	   Evolution Chain
+  Grubbin ► Charjabug ► Vikavolt
 
-	Evolution Chain
-Grubbin ► Charjabug ► Vikavolt
+   ↞--------| STATS |--------↠ 
+              hp:         57
+          attack:         82
+         defense:         95
+  special-attack:         55
+ special-defense:         75
+           speed:         36
 
-  ↞--------| STATS |--------↠ 
-             hp:         57
-         attack:         82
-        defense:         95
- special-attack:         55
-special-defense:         75
-          speed:         36
+ Genus: Battery Pokémon
+ Happiness: 50	Pokedex ID: 737
+ Base Exp: 140	Capture Rate: 120
+ Height:    5	Weight: 105
 
-Pokedex ID: 737	Capture Rate: 120
-Base Exp: 140	Happiness: 50
-Height: 5	Weight: 105
-
-Genus: Battery Pokémon
-Location Areas:
-
+ Location Areas:

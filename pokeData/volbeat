@@ -1,29 +1,29 @@
 
-Volbeat	 A bug type Pokémon
+  Volbeat    Bug Type Pokémon
 
-With the arrival of night, VOLBEAT 
-emits light from its tail.  It 
-communicates with others by adjusting 
-the intensity and flashing of 
-its light.  Volbeat is attracted 
-by the sweet aroma of ILLUMISE. 
+  With the arrival of night, VOLBEAT 
+  emits light from its tail.  It 
+  communicates with others by adjusting 
+  the intensity and flashing of 
+  its light.  Volbeat is attracted 
+  by the sweet aroma of ILLUMISE. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         73
+         defense:         75
+  special-attack:         47
+ special-defense:         85
+           speed:         85
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         73
-        defense:         75
- special-attack:         47
-special-defense:         85
-          speed:         85
+ Genus: Firefly Pokémon
+ Happiness: 70	Pokedex ID: 313
+ Base Exp: 151	Capture Rate: 150
+ Height:    7	Weight: 177
 
-Pokedex ID: 313	Capture Rate: 150
-Base Exp: 151	Happiness: 70
-Height: 7	Weight: 177
-
-Genus: Firefly Pokémon
-Location Areas:
-sinnoh-route-229-area
-hoenn-route-117-area
-kalos-route-7-area
+ Location Areas:
+   Sinnoh route 229 area
+   Hoenn route 117 area
+   Kalos route 7 area

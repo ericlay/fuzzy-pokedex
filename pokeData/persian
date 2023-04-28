@@ -1,36 +1,39 @@
 
-Persian	 A normal type Pokémon
+  Persian    Normal Type Pokémon
 
-Although its fur has many admirers, 
-it is tough to raise as a pet 
-because of its fickle meanness. 
-
+  Although its fur has many admirers, 
+  it is tough to raise as a pet 
+  because of its fickle meanness. 
+  
 	Evolution Chain
       Meowth ► Persian
-perrserker
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         70
-        defense:         60
- special-attack:         65
-special-defense:         65
-          speed:        115
+Stage 2 Forms:
+  persian
+  perrserker
 
-Pokedex ID: 53	Capture Rate: 90
-Base Exp: 154	Happiness: 50
-Height: 10	Weight: 320
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         70
+         defense:         60
+  special-attack:         65
+ special-defense:         65
+           speed:        115
 
-Genus: Classy Cat Pokémon
-Location Areas:
-kanto-route-7-area
-cerulean-cave-1f
-kindle-road-area
-treasure-beach-area
-cape-brink-area
-bond-bridge-area
-five-isle-meadow-area
-water-path-area
-ruin-valley-area
-canyon-entrance-area
-sevault-canyon-area
+ Genus: Classy Cat Pokémon
+ Happiness: 50	Pokedex ID: 53
+ Base Exp: 154	Capture Rate: 90
+ Height:    10	Weight: 320
+
+ Location Areas:
+   Kanto route 7 area
+   Cerulean cave 1f
+   Kindle road area
+   Treasure beach area
+   Cape brink area
+   Bond bridge area
+   Five isle meadow area
+   Water path area
+   Ruin valley area
+   Canyon entrance area
+   Sevault canyon area

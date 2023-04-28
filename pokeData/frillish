@@ -1,38 +1,37 @@
 
-Frillish	 A water type Pokémon
+  Frillish    Water Type Pokémon
 
-With its thin, veil-like arms 
-wrapped around the body of its 
-opponent, it sinks to the ocean 
-floor. 
-
+  With its thin, veil-like arms 
+  wrapped around the body of its 
+  opponent, it sinks to the ocean 
+  floor. 
 	Evolution Chain
       Frillish ► Jellicent
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         40
-        defense:         50
- special-attack:         65
-special-defense:         85
-          speed:         40
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         40
+         defense:         50
+  special-attack:         65
+ special-defense:         85
+           speed:         40
 
-Pokedex ID: 592	Capture Rate: 190
-Base Exp: 67	Happiness: 50
-Height: 12	Weight: 330
+ Genus: Floating Pokémon
+ Happiness: 50	Pokedex ID: 592
+ Base Exp: 67	Capture Rate: 190
+ Height:    12	Weight: 330
 
-Genus: Floating Pokémon
-Location Areas:
-driftveil-city-area
-p2-laboratory-area
-undella-bay-area
-unova-route-4-area
-unova-route-13-area
-unova-route-18-area
-undella-town-area
-unova-route-17-area
-virbank-city-area
-humilau-city-area
-virbank-complex-outer
-seaside-cave-1f
-unova-route-21-area
+ Location Areas:
+   Driftveil city area
+   P2 laboratory area
+   Undella bay area
+   Unova route 4 area
+   Unova route 13 area
+   Unova route 18 area
+   Undella town area
+   Unova route 17 area
+   Virbank city area
+   Humilau city area
+   Virbank complex outer
+   Seaside cave 1f
+   Unova route 21 area

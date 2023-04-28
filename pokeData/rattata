@@ -1,81 +1,81 @@
 
-Rattata	 A normal type Pokémon
+  Rattata    Normal Type Pokémon
 
-Bites anything when it attacks. 
- Small and very quick, it is 
-a common sight in many places. 
-
+  Bites anything when it attacks. 
+   Small and very quick, it is 
+  a common sight in many places. 
+  
 	Evolution Chain
       Rattata ► Raticate
 
-  ↞--------| STATS |--------↠ 
-             hp:         30
-         attack:         56
-        defense:         35
- special-attack:         25
-special-defense:         35
-          speed:         72
+   ↞--------| STATS |--------↠ 
+              hp:         30
+          attack:         56
+         defense:         35
+  special-attack:         25
+ special-defense:         35
+           speed:         72
 
-Pokedex ID: 19	Capture Rate: 255
-Base Exp: 51	Happiness: 70
-Height: 3	Weight: 35
+ Genus: Mouse Pokémon
+ Happiness: 70	Pokedex ID: 19
+ Base Exp: 51	Capture Rate: 255
+ Height:    3	Weight: 35
 
-Genus: Mouse Pokémon
-Location Areas:
-sinnoh-route-225-area
-sinnoh-sea-route-226-area
-johto-route-29-area
-johto-route-30-area
-johto-route-31-area
-sprout-tower-2f
-sprout-tower-3f
-johto-route-32-area
-union-cave-1f
-union-cave-b1f
-union-cave-b2f
-johto-route-33-area
-johto-route-34-area
-burned-tower-1f
-burned-tower-b1f
-bell-tower-2f
-bell-tower-3f
-bell-tower-4f
-bell-tower-5f
-bell-tower-6f
-bell-tower-7f
-bell-tower-8f
-bell-tower-9f
-johto-route-38-area
-johto-route-39-area
-johto-route-42-area
-mt-mortar-1f
-mt-mortar-lower-cave
-mt-mortar-b1f
-johto-route-46-area
-bell-tower-10f
-unknown-all-rattata-area
-kanto-route-1-area
-kanto-route-2-south-towards-viridian-city
-kanto-route-3-area
-kanto-route-4-area
-kanto-route-5-area
-kanto-route-6-area
-kanto-route-7-area
-kanto-route-8-area
-kanto-route-9-area
-kanto-route-10-area
-kanto-route-11-area
-kanto-route-16-area
-kanto-route-17-area
-kanto-route-18-area
-kanto-sea-route-21-area
-kanto-route-22-area
-tohjo-falls-area
-pokemon-mansion-1f
-pokemon-mansion-2f
-pokemon-mansion-3f
-pokemon-mansion-b1f
-castelia-city-area
-castelia-sewers-area
-castelia-sewers-unknown-area-38
-relic-passage-castelia-sewers-entrance
+ Location Areas:
+   Sinnoh route 225 area
+   Sinnoh sea route 226 area
+   Johto route 29 area
+   Johto route 30 area
+   Johto route 31 area
+   Sprout tower 2f
+   Sprout tower 3f
+   Johto route 32 area
+   Union cave 1f
+   Union cave b1f
+   Union cave b2f
+   Johto route 33 area
+   Johto route 34 area
+   Burned tower 1f
+   Burned tower b1f
+   Bell tower 2f
+   Bell tower 3f
+   Bell tower 4f
+   Bell tower 5f
+   Bell tower 6f
+   Bell tower 7f
+   Bell tower 8f
+   Bell tower 9f
+   Johto route 38 area
+   Johto route 39 area
+   Johto route 42 area
+   Mt mortar 1f
+   Mt mortar lower cave
+   Mt mortar b1f
+   Johto route 46 area
+   Bell tower 10f
+   Unknown all rattata area
+   Kanto route 1 area
+   Kanto route 2 south towards viridian city
+   Kanto route 3 area
+   Kanto route 4 area
+   Kanto route 5 area
+   Kanto route 6 area
+   Kanto route 7 area
+   Kanto route 8 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Kanto route 11 area
+   Kanto route 16 area
+   Kanto route 17 area
+   Kanto route 18 area
+   Kanto sea route 21 area
+   Kanto route 22 area
+   Tohjo falls area
+   Pokemon mansion 1f
+   Pokemon mansion 2f
+   Pokemon mansion 3f
+   Pokemon mansion b1f
+   Castelia city area
+   Castelia sewers area
+   Castelia sewers unknown area 38
+   Relic passage castelia sewers entrance

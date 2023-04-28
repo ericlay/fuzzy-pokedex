@@ -1,25 +1,24 @@
 
-Monferno	 A fire type Pokémon
+  Monferno    Fire Type Pokémon
 
-To intimidate attackers, it 
-stretches the fire on its tail 
-to make itself appear bigger. 
+  To intimidate attackers, it 
+  stretches the fire on its tail 
+  to make itself appear bigger. 
+  
+	   Evolution Chain
+  Chimchar ► Monferno ► Infernape
 
-	Evolution Chain
-Chimchar ► Monferno ► Infernape
+   ↞--------| STATS |--------↠ 
+              hp:         64
+          attack:         78
+         defense:         52
+  special-attack:         78
+ special-defense:         52
+           speed:         81
 
-  ↞--------| STATS |--------↠ 
-             hp:         64
-         attack:         78
-        defense:         52
- special-attack:         78
-special-defense:         52
-          speed:         81
+ Genus: Playful Pokémon
+ Happiness: 70	Pokedex ID: 391
+ Base Exp: 142	Capture Rate: 45
+ Height:    9	Weight: 220
 
-Pokedex ID: 391	Capture Rate: 45
-Base Exp: 142	Happiness: 70
-Height: 9	Weight: 220
-
-Genus: Playful Pokémon
-Location Areas:
-
+ Location Areas:

@@ -1,41 +1,40 @@
 
-Shuckle	 A bug type Pokémon
+  Shuckle    Bug Type Pokémon
 
-The BERRIES it stores in its 
-vase-like shell decompose and 
-become a gooey liquid. 
+  The BERRIES it stores in its 
+  vase-like shell decompose and 
+  become a gooey liquid. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         20
+          attack:         10
+         defense:        230
+  special-attack:         10
+ special-defense:        230
+           speed:          5
 
-  ↞--------| STATS |--------↠ 
-             hp:         20
-         attack:         10
-        defense:        230
- special-attack:         10
-special-defense:        230
-          speed:          5
+ Genus: Mold Pokémon
+ Happiness: 50	Pokedex ID: 213
+ Base Exp: 177	Capture Rate: 190
+ Height:    6	Weight: 205
 
-Pokedex ID: 213	Capture Rate: 190
-Base Exp: 177	Happiness: 50
-Height: 6	Weight: 205
-
-Genus: Mold Pokémon
-Location Areas:
-sinnoh-route-224-area
-johto-sea-route-40-area
-cianwood-city-area
-dark-cave-violet-city-entrance
-vermilion-city-area
-hoenn-safari-zone-expansion-north
-hoenn-altering-cave-g
-kanto-altering-cave-g
-unova-route-14-area
-seaside-cave-b1f
-kalos-route-18-area
-kalos-victory-road-unknown-area-322
-kalos-victory-road-unknown-area-324
-terminus-cave-unknown-area-343
-terminus-cave-unknown-area-344
-terminus-cave-unknown-area-345
-cianwood-city-manias-house
-cianwood-city-kirks-house
+ Location Areas:
+   Sinnoh route 224 area
+   Johto sea route 40 area
+   Cianwood city area
+   Dark cave violet city entrance
+   Vermilion city area
+   Hoenn safari zone expansion north
+   Hoenn altering cave g
+   Kanto altering cave g
+   Unova route 14 area
+   Seaside cave b1f
+   Kalos route 18 area
+   Kalos victory road unknown area 322
+   Kalos victory road unknown area 324
+   Terminus cave unknown area 343
+   Terminus cave unknown area 344
+   Terminus cave unknown area 345
+   Cianwood city manias house
+   Cianwood city kirks house

@@ -1,29 +1,28 @@
 
-Klink	 A steel type Pokémon
+  Klink    Steel Type Pokémon
 
-The two minigears that mesh 
-together are predetermined.  
-Each will rebound from other 
-minigears without meshing. 
+  The two minigears that mesh 
+  together are predetermined.  
+  Each will rebound from other 
+  minigears without meshing. 
+	   Evolution Chain
+  Klink ► Klang ► Klinklang
 
-	Evolution Chain
-Klink ► Klang ► Klinklang
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         55
+         defense:         70
+  special-attack:         45
+ special-defense:         60
+           speed:         30
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         55
-        defense:         70
- special-attack:         45
-special-defense:         60
-          speed:         30
+ Genus: Gear Pokémon
+ Happiness: 50	Pokedex ID: 599
+ Base Exp: 60	Capture Rate: 130
+ Height:    3	Weight: 210
 
-Pokedex ID: 599	Capture Rate: 130
-Base Exp: 60	Happiness: 50
-Height: 3	Weight: 210
-
-Genus: Gear Pokémon
-Location Areas:
-chargestone-cave-1f
-chargestone-cave-b1f
-chargestone-cave-b2f
-p2-laboratory-area
+ Location Areas:
+   Chargestone cave 1f
+   Chargestone cave b1f
+   Chargestone cave b2f
+   P2 laboratory area

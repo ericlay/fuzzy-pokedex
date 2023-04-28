@@ -1,27 +1,26 @@
 
-Mamoswine	 A ice type Pokémon
+  Mamoswine    Ice Type Pokémon
 
-Its impressive tusks are made 
-of ice.  The population thinned 
-when it turned warm after the 
-ice age. 
+  Its impressive tusks are made 
+  of ice.  The population thinned 
+  when it turned warm after the 
+  ice age. 
+	   Evolution Chain
+  Swinub ► Piloswine ► Mamoswine
 
-	Evolution Chain
-Swinub ► Piloswine ► Mamoswine
+   ↞--------| STATS |--------↠ 
+              hp:        110
+          attack:        130
+         defense:         80
+  special-attack:         70
+ special-defense:         60
+           speed:         80
 
-  ↞--------| STATS |--------↠ 
-             hp:        110
-         attack:        130
-        defense:         80
- special-attack:         70
-special-defense:         60
-          speed:         80
+ Genus: Twin Tusk Pokémon
+ Happiness: 50	Pokedex ID: 473
+ Base Exp: 265	Capture Rate: 50
+ Height:    25	Weight: 2910
 
-Pokedex ID: 473	Capture Rate: 50
-Base Exp: 265	Happiness: 50
-Height: 25	Weight: 2910
-
-Genus: Twin Tusk Pokémon
-Location Areas:
-giant-chasm-forest
-giant-chasm-forest-cave
+ Location Areas:
+   Giant chasm forest
+   Giant chasm forest cave

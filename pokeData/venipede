@@ -1,27 +1,24 @@
 
-Venipede	 A bug type Pokémon
+  Venipede    Bug Type Pokémon
 
-Its bite injects a potent poison, 
-enough to paralyze large bird 
-Pokémon that try to prey on it. 
+  Its bite injects a potent poison, 
+  enough to paralyze large bird 
+  Pokémon that try to prey on it. 
+  
+	   Evolution Chain
+  Venipede ► Whirlipede ► Scolipede
 
-	Evolution Chain
-Venipede ► Whirlipede ► Scolipede
+   ↞--------| STATS |--------↠ 
+              hp:         30
+          attack:         45
+         defense:         59
+  special-attack:         30
+ special-defense:         39
+           speed:         57
 
-  ↞--------| STATS |--------↠ 
-             hp:         30
-         attack:         45
-        defense:         59
- special-attack:         30
-special-defense:         39
-          speed:         57
+ Genus: Centipede Pokémon
+ Happiness: 50	Pokedex ID: 543
+ Base Exp: 52	Capture Rate: 255
+ Height:    4	Weight: 53
 
-Pokedex ID: 543	Capture Rate: 255
-Base Exp: 52	Happiness: 50
-Height: 4	Weight: 53
-
-Genus: Centipede Pokémon
-Location Areas:
-pinwheel-forest-inside
-lostlorn-forest-area
-unova-route-20-area
+ Location Areas:

@@ -1,27 +1,27 @@
 
-Kingdra	 A water type Pokémon
+  Kingdra    Water Type Pokémon
 
-It is said that it usually hides 
-in underwater caves.  It can 
-create whirlpools by yawning. 
+  It is said that it usually hides 
+  in underwater caves.  It can 
+  create whirlpools by yawning. 
+  
+	   Evolution Chain
+  Horsea ► Seadra ► Kingdra
 
-	Evolution Chain
-Horsea ► Seadra ► Kingdra
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         95
+         defense:         95
+  special-attack:         95
+ special-defense:         95
+           speed:         85
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:         95
-        defense:         95
- special-attack:         95
-special-defense:         95
-          speed:         85
+ Genus: Dragon Pokémon
+ Happiness: 50	Pokedex ID: 230
+ Base Exp: 270	Capture Rate: 45
+ Height:    18	Weight: 1520
 
-Pokedex ID: 230	Capture Rate: 45
-Base Exp: 270	Happiness: 50
-Height: 18	Weight: 1520
-
-Genus: Dragon Pokémon
-Location Areas:
-p2-laboratory-area
-unova-route-18-area
-unova-route-17-area
+ Location Areas:
+   P2 laboratory area
+   Unova route 18 area
+   Unova route 17 area

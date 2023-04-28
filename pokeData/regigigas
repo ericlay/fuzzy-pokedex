@@ -1,24 +1,23 @@
 
-Regigigas	 A normal type Pokémon
+  Regigigas    Normal Type Pokémon
 
-There is an enduring legend 
-that states this Pokémon towed 
-continents with ropes. 
+  There is an enduring legend 
+  that states this Pokémon towed 
+  continents with ropes. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:        110
+          attack:        160
+         defense:        110
+  special-attack:         80
+ special-defense:        110
+           speed:        100
 
-  ↞--------| STATS |--------↠ 
-             hp:        110
-         attack:        160
-        defense:        110
- special-attack:         80
-special-defense:        110
-          speed:        100
+ Genus: Colossal Pokémon
+ Happiness: 0	Pokedex ID: 486
+ Base Exp: 335	Capture Rate: 3
+ Height:    37	Weight: 4200
 
-Pokedex ID: 486	Capture Rate: 3
-Base Exp: 335	Happiness: 0
-Height: 37	Weight: 4200
-
-Genus: Colossal Pokémon
-Location Areas:
-snowpoint-temple-b5f
+ Location Areas:
+   Snowpoint temple b5f

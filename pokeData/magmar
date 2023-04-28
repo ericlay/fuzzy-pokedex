@@ -1,31 +1,31 @@
 
-Magmar	 A fire type Pokémon
+  Magmar    Fire Type Pokémon
 
-Its body always burns with an 
-orange glow that enables it to 
-hide perfectly among flames. 
+  Its body always burns with an 
+  orange glow that enables it to 
+  hide perfectly among flames. 
+  
+	   Evolution Chain
+  Magby ► Magmar ► Magmortar
 
-	Evolution Chain
-Magby ► Magmar ► Magmortar
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         95
+         defense:         57
+  special-attack:        100
+ special-defense:         85
+           speed:         93
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         95
-        defense:         57
- special-attack:        100
-special-defense:         85
-          speed:         93
+ Genus: Spitfire Pokémon
+ Happiness: 50	Pokedex ID: 126
+ Base Exp: 173	Capture Rate: 45
+ Height:    13	Weight: 445
 
-Pokedex ID: 126	Capture Rate: 45
-Base Exp: 173	Happiness: 50
-Height: 13	Weight: 445
-
-Genus: Spitfire Pokémon
-Location Areas:
-fuego-ironworks-area
-burned-tower-b1f
-mt-silver-1f
-pokemon-mansion-3f
-pokemon-mansion-b1f
-mt-ember-area
-johto-safari-zone-zone-peak
+ Location Areas:
+   Fuego ironworks area
+   Burned tower b1f
+   Mt silver 1f
+   Pokemon mansion 3f
+   Pokemon mansion b1f
+   Mt ember area
+   Johto safari zone zone peak

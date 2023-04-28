@@ -1,25 +1,24 @@
 
-Magnezone	 A electric type Pokémon
+  Magnezone    Electric Type Pokémon
 
-It evolved from exposure to 
-a special magnetic field.  Three 
-units generate magnetism. 
+  It evolved from exposure to 
+  a special magnetic field.  Three 
+  units generate magnetism. 
+	   Evolution Chain
+  Magnemite ► Magneton ► Magnezone
 
-	Evolution Chain
-Magnemite ► Magneton ► Magnezone
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         70
+         defense:        115
+  special-attack:        130
+ special-defense:         90
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         70
-        defense:        115
- special-attack:        130
-special-defense:         90
-          speed:         60
+ Genus: Magnet Area Pokémon
+ Happiness: 50	Pokedex ID: 462
+ Base Exp: 268	Capture Rate: 30
+ Height:    12	Weight: 1800
 
-Pokedex ID: 462	Capture Rate: 30
-Base Exp: 268	Happiness: 50
-Height: 12	Weight: 1800
-
-Genus: Magnet Area Pokémon
-Location Areas:
-p2-laboratory-area
+ Location Areas:
+   P2 laboratory area

@@ -1,30 +1,29 @@
 
-Kadabra	 A psychic type Pokémon
+  Kadabra    Psychic Type Pokémon
 
-It emits special alpha waves 
-from its body that induce headaches 
-just by being close by. 
+  It emits special alpha waves 
+  from its body that induce headaches 
+  just by being close by. 
+	   Evolution Chain
+  Abra ► Kadabra ► Alakazam
 
-	Evolution Chain
-Abra ► Kadabra ► Alakazam
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         35
+         defense:         30
+  special-attack:        120
+ special-defense:         70
+           speed:        105
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         35
-        defense:         30
- special-attack:        120
-special-defense:         70
-          speed:        105
+ Genus: Psi Pokémon
+ Happiness: 50	Pokedex ID: 64
+ Base Exp: 140	Capture Rate: 100
+ Height:    13	Weight: 565
 
-Pokedex ID: 64	Capture Rate: 100
-Base Exp: 140	Happiness: 50
-Height: 13	Weight: 565
-
-Genus: Psi Pokémon
-Location Areas:
-sinnoh-victory-road-2f
-sinnoh-route-215-area
-kanto-route-8-area
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
+ Location Areas:
+   Sinnoh victory road 2f
+   Sinnoh route 215 area
+   Kanto route 8 area
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f

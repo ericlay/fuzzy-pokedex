@@ -1,25 +1,24 @@
 
-Blipbug	 A bug type Pokémon
+  Blipbug    Bug Type Pokémon
 
-A constant collector of information, 
-this Pokémon is very smart.  
-Very strong is what it isn’t. 
+  A constant collector of information, 
+  this Pokémon is very smart.  
+  Very strong is what it isn’t. 
+  
+	   Evolution Chain
+  Blipbug ► Dottler ► Orbeetle
 
-	Evolution Chain
-Blipbug ► Dottler ► Orbeetle
+   ↞--------| STATS |--------↠ 
+              hp:         25
+          attack:         20
+         defense:         20
+  special-attack:         25
+ special-defense:         45
+           speed:         45
 
-  ↞--------| STATS |--------↠ 
-             hp:         25
-         attack:         20
-        defense:         20
- special-attack:         25
-special-defense:         45
-          speed:         45
+ Genus: Larva Pokémon
+ Happiness: 50	Pokedex ID: 824
+ Base Exp: 36	Capture Rate: 255
+ Height:    4	Weight: 80
 
-Pokedex ID: 824	Capture Rate: 255
-Base Exp: 36	Happiness: 50
-Height: 4	Weight: 80
-
-Genus: Larva Pokémon
-Location Areas:
-
+ Location Areas:

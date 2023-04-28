@@ -1,25 +1,24 @@
 
-Pidgeot	 A normal type Pokémon
+  Pidgeot    Normal Type Pokémon
 
-When hunting, it skims the surface 
-of water at high speed to pick 
-off unwary prey such as MAGIKARP. 
+  When hunting, it skims the surface 
+  of water at high speed to pick 
+  off unwary prey such as MAGIKARP. 
+  
+	   Evolution Chain
+  Pidgey ► Pidgeotto ► Pidgeot
 
-	Evolution Chain
-Pidgey ► Pidgeotto ► Pidgeot
+   ↞--------| STATS |--------↠ 
+              hp:         83
+          attack:         80
+         defense:         75
+  special-attack:         70
+ special-defense:         70
+           speed:        101
 
-  ↞--------| STATS |--------↠ 
-             hp:         83
-         attack:         80
-        defense:         75
- special-attack:         70
-special-defense:         70
-          speed:        101
+ Genus: Bird Pokémon
+ Happiness: 70	Pokedex ID: 18
+ Base Exp: 216	Capture Rate: 45
+ Height:    15	Weight: 395
 
-Pokedex ID: 18	Capture Rate: 45
-Base Exp: 216	Happiness: 70
-Height: 15	Weight: 395
-
-Genus: Bird Pokémon
-Location Areas:
-
+ Location Areas:

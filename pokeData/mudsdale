@@ -1,26 +1,24 @@
 
-Mudsdale	 A ground type Pokémon
+  Mudsdale    Ground Type Pokémon
 
-It spits a mud that provides 
-resistance to both wind and rain, 
-so the walls of old houses were 
-often coated with it. 
-
+  It spits a mud that provides 
+  resistance to both wind and rain, 
+  so the walls of old houses were 
+  often coated with it. 
 	Evolution Chain
       Mudbray ► Mudsdale
 
-  ↞--------| STATS |--------↠ 
-             hp:        100
-         attack:        125
-        defense:        100
- special-attack:         55
-special-defense:         85
-          speed:         35
+   ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:        125
+         defense:        100
+  special-attack:         55
+ special-defense:         85
+           speed:         35
 
-Pokedex ID: 750	Capture Rate: 60
-Base Exp: 175	Happiness: 50
-Height: 25	Weight: 9200
+ Genus: Draft Horse Pokémon
+ Happiness: 50	Pokedex ID: 750
+ Base Exp: 175	Capture Rate: 60
+ Height:    25	Weight: 9200
 
-Genus: Draft Horse Pokémon
-Location Areas:
-
+ Location Areas:

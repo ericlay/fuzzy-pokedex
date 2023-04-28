@@ -1,30 +1,29 @@
 
-Kangaskhan	 A normal type Pokémon
+  Kangaskhan    Normal Type Pokémon
 
-The infant rarely ventures out 
-of its mother's protective pouch 
-until it is 3 years old. 
+  The infant rarely ventures out 
+  of its mother's protective pouch 
+  until it is 3 years old. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:        105
+          attack:         95
+         defense:         80
+  special-attack:         40
+ special-defense:         80
+           speed:         90
 
-  ↞--------| STATS |--------↠ 
-             hp:        105
-         attack:         95
-        defense:         80
- special-attack:         40
-special-defense:         80
-          speed:         90
+ Genus: Parent Pokémon
+ Happiness: 50	Pokedex ID: 115
+ Base Exp: 172	Capture Rate: 45
+ Height:    22	Weight: 800
 
-Pokedex ID: 115	Capture Rate: 45
-Base Exp: 172	Happiness: 50
-Height: 22	Weight: 800
-
-Genus: Parent Pokémon
-Location Areas:
-rock-tunnel-b1f
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-unova-route-15-area
-glittering-cave-unknown-area-303
-johto-safari-zone-zone-wasteland
+ Location Areas:
+   Rock tunnel b1f
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Unova route 15 area
+   Glittering cave unknown area 303
+   Johto safari zone zone wasteland

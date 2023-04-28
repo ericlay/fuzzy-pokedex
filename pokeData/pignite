@@ -1,26 +1,24 @@
 
-Pignite	 A fire type Pokémon
+  Pignite    Fire Type Pokémon
 
-When its internal fire flares 
-up, its movements grow sharper 
-and faster.  When in trouble, 
-it emits smoke. 
+  When its internal fire flares 
+  up, its movements grow sharper 
+  and faster.  When in trouble, 
+  it emits smoke. 
+	   Evolution Chain
+  Tepig ► Pignite ► Emboar
 
-	Evolution Chain
-Tepig ► Pignite ► Emboar
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:         93
+         defense:         55
+  special-attack:         70
+ special-defense:         55
+           speed:         55
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:         93
-        defense:         55
- special-attack:         70
-special-defense:         55
-          speed:         55
+ Genus: Fire Pig Pokémon
+ Happiness: 70	Pokedex ID: 499
+ Base Exp: 146	Capture Rate: 45
+ Height:    10	Weight: 555
 
-Pokedex ID: 499	Capture Rate: 45
-Base Exp: 146	Happiness: 70
-Height: 10	Weight: 555
-
-Genus: Fire Pig Pokémon
-Location Areas:
-
+ Location Areas:

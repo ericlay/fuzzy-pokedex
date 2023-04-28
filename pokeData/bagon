@@ -1,27 +1,26 @@
 
-Bagon	 A dragon type Pokémon
+  Bagon    Dragon Type Pokémon
 
-Dreaming of one day flying, 
-it practices by leaping off cliffs 
-every day. 
+  Dreaming of one day flying, 
+  it practices by leaping off cliffs 
+  every day. 
+	   Evolution Chain
+  Bagon ► Shelgon ► Salamence
 
-	Evolution Chain
-Bagon ► Shelgon ► Salamence
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         75
+         defense:         60
+  special-attack:         40
+ special-defense:         30
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         75
-        defense:         60
- special-attack:         40
-special-defense:         30
-          speed:         50
+ Genus: Rock Head Pokémon
+ Happiness: 35	Pokedex ID: 371
+ Base Exp: 60	Capture Rate: 45
+ Height:    6	Weight: 421
 
-Pokedex ID: 371	Capture Rate: 45
-Base Exp: 60	Happiness: 35
-Height: 6	Weight: 421
-
-Genus: Rock Head Pokémon
-Location Areas:
-sinnoh-route-210-west-towards-celestic-town
-meteor-falls-backsmall-room
-kalos-route-8-area
+ Location Areas:
+   Sinnoh route 210 west towards celestic town
+   Meteor falls backsmall room
+   Kalos route 8 area

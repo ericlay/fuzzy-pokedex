@@ -1,25 +1,24 @@
 
-Toxicroak	 A poison type Pokémon
+  Toxicroak    Poison Type Pokémon
 
-Its knuckle claws secrete a 
-toxin so vile that even a scratch 
-could prove fatal. 
-
+  Its knuckle claws secrete a 
+  toxin so vile that even a scratch 
+  could prove fatal. 
 	Evolution Chain
       Croagunk ► Toxicroak
 
-  ↞--------| STATS |--------↠ 
-             hp:         83
-         attack:        106
-        defense:         65
- special-attack:         86
-special-defense:         65
-          speed:         85
+   ↞--------| STATS |--------↠ 
+              hp:         83
+          attack:        106
+         defense:         65
+  special-attack:         86
+ special-defense:         65
+           speed:         85
 
-Pokedex ID: 454	Capture Rate: 75
-Base Exp: 172	Happiness: 50
-Height: 13	Weight: 444
+ Genus: Toxic Mouth Pokémon
+ Happiness: 50	Pokedex ID: 454
+ Base Exp: 172	Capture Rate: 75
+ Height:    13	Weight: 444
 
-Genus: Toxic Mouth Pokémon
-Location Areas:
-pinwheel-forest-outside
+ Location Areas:
+   Pinwheel forest outside

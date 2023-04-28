@@ -1,31 +1,34 @@
 
-Gorebyss	 A water type Pokémon
+  Gorebyss    Water Type Pokémon
 
-GOREBYSS lives in the southern 
-seas at extreme depths.  Its 
-body is built to withstand the 
-enormous pressure of water at 
-incredible depths.  Because of 
-this, Gorebyss’s body is 
-unharmed by ordinary attacks. 
-
+  GOREBYSS lives in the southern 
+  seas at extreme depths.  Its 
+  body is built to withstand the 
+  enormous pressure of water at 
+  incredible depths.  Because of 
+  this, Gorebyss’s body is 
+  unharmed by ordinary attacks. 
+  
 	Evolution Chain
       Clamperl ► Huntail
-gorebyss
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         84
-        defense:        105
- special-attack:        114
-special-defense:         75
-          speed:         52
+Stage 2 Forms:
+  huntail
+  gorebyss
 
-Pokedex ID: 368	Capture Rate: 60
-Base Exp: 170	Happiness: 70
-Height: 18	Weight: 226
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         84
+         defense:        105
+  special-attack:        114
+ special-defense:         75
+           speed:         52
 
-Genus: South Sea Pokémon
-Location Areas:
-unova-route-4-area
-kalos-route-12-area
+ Genus: South Sea Pokémon
+ Happiness: 70	Pokedex ID: 368
+ Base Exp: 170	Capture Rate: 60
+ Height:    18	Weight: 226
+
+ Location Areas:
+   Unova route 4 area
+   Kalos route 12 area

@@ -1,28 +1,27 @@
 
-Skrelp	 A poison type Pokémon
+  Skrelp    Poison Type Pokémon
 
-Camouflaged as rotten kelp, 
-they spray liquid poison on prey 
-that approaches unawares and 
-then finish it off. 
-
+  Camouflaged as rotten kelp, 
+  they spray liquid poison on prey 
+  that approaches unawares and 
+  then finish it off. 
 	Evolution Chain
       Skrelp ► Dragalge
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         60
-        defense:         60
- special-attack:         60
-special-defense:         60
-          speed:         30
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         60
+         defense:         60
+  special-attack:         60
+ special-defense:         60
+           speed:         30
 
-Pokedex ID: 690	Capture Rate: 225
-Base Exp: 64	Happiness: 50
-Height: 5	Weight: 73
+ Genus: Mock Kelp Pokémon
+ Happiness: 50	Pokedex ID: 690
+ Base Exp: 64	Capture Rate: 225
+ Height:    5	Weight: 73
 
-Genus: Mock Kelp Pokémon
-Location Areas:
-ambrette-town-area
-cyllage-city-area
-kalos-route-8-area
+ Location Areas:
+   Ambrette town area
+   Cyllage city area
+   Kalos route 8 area

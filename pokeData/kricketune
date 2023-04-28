@@ -1,35 +1,34 @@
 
-Kricketune	 A bug type Pokémon
+  Kricketune    Bug Type Pokémon
 
-It crosses its knifelike arms 
-in front of its chest when it 
-cries.  It can compose melodies 
-ad lib. 
-
+  It crosses its knifelike arms 
+  in front of its chest when it 
+  cries.  It can compose melodies 
+  ad lib. 
 	Evolution Chain
       Kricketot ► Kricketune
 
-  ↞--------| STATS |--------↠ 
-             hp:         77
-         attack:         85
-        defense:         51
- special-attack:         55
-special-defense:         51
-          speed:         65
+   ↞--------| STATS |--------↠ 
+              hp:         77
+          attack:         85
+         defense:         51
+  special-attack:         55
+ special-defense:         51
+           speed:         65
 
-Pokedex ID: 402	Capture Rate: 45
-Base Exp: 134	Happiness: 70
-Height: 10	Weight: 255
+ Genus: Cricket Pokémon
+ Happiness: 70	Pokedex ID: 402
+ Base Exp: 134	Capture Rate: 45
+ Height:    10	Weight: 255
 
-Genus: Cricket Pokémon
-Location Areas:
-trophy-garden-area
-valor-lakefront-area
-sinnoh-route-206-area
-sinnoh-route-210-south-towards-solaceon-town
-sinnoh-route-212-north-towards-hearthome-city
-sinnoh-route-212-east-towards-pastoria-city
-sinnoh-route-214-area
-sinnoh-route-215-area
-dreamyard-area
-dreamyard-b1f
+ Location Areas:
+   Trophy garden area
+   Valor lakefront area
+   Sinnoh route 206 area
+   Sinnoh route 210 south towards solaceon town
+   Sinnoh route 212 north towards hearthome city
+   Sinnoh route 212 east towards pastoria city
+   Sinnoh route 214 area
+   Sinnoh route 215 area
+   Dreamyard area
+   Dreamyard b1f

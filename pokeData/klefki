@@ -1,26 +1,25 @@
 
-Klefki	 A steel type Pokémon
+  Klefki    Steel Type Pokémon
 
-These key collectors threaten 
-any attackers by fiercely jingling 
-their keys at them. 
+  These key collectors threaten 
+  any attackers by fiercely jingling 
+  their keys at them. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         57
+          attack:         80
+         defense:         91
+  special-attack:         80
+ special-defense:         87
+           speed:         75
 
-  ↞--------| STATS |--------↠ 
-             hp:         57
-         attack:         80
-        defense:         91
- special-attack:         80
-special-defense:         87
-          speed:         75
+ Genus: Key Ring Pokémon
+ Happiness: 50	Pokedex ID: 707
+ Base Exp: 165	Capture Rate: 75
+ Height:    2	Weight: 30
 
-Pokedex ID: 707	Capture Rate: 75
-Base Exp: 165	Happiness: 50
-Height: 2	Weight: 30
-
-Genus: Key Ring Pokémon
-Location Areas:
-kalos-route-15-area
-kalos-route-16-area
-lost-hotel-area
+ Location Areas:
+   Kalos route 15 area
+   Kalos route 16 area
+   Lost hotel area

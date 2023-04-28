@@ -1,25 +1,24 @@
 
-Oranguru	 A normal type Pokémon
+  Oranguru    Normal Type Pokémon
 
-Known for its extreme intelligence, 
-this Pokémon will look down on 
-inexperienced Trainers, so it’s 
-best suited to veteran Trainers. 
+  Known for its extreme intelligence, 
+  this Pokémon will look down on 
+  inexperienced Trainers, so it’s 
+  best suited to veteran Trainers. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:         60
+         defense:         80
+  special-attack:         90
+ special-defense:        110
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:         60
-        defense:         80
- special-attack:         90
-special-defense:        110
-          speed:         60
+ Genus: Sage Pokémon
+ Happiness: 50	Pokedex ID: 765
+ Base Exp: 172	Capture Rate: 45
+ Height:    15	Weight: 760
 
-Pokedex ID: 765	Capture Rate: 45
-Base Exp: 172	Happiness: 50
-Height: 15	Weight: 760
-
-Genus: Sage Pokémon
-Location Areas:
-
+ Location Areas:

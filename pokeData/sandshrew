@@ -1,45 +1,43 @@
 
-Sandshrew	 A ground type Pokémon
+  Sandshrew    Ground Type Pokémon
 
-Burrows deep underground in 
-arid locations far from water. 
- It only emerges to hunt for 
-food. 
+  Burrows deep underground in 
+  arid locations far from water. 
+   It only emerges to hunt for 
+  food. 
+  Single Stage Evolution Pokémon
 
-	Evolution Chain
-      Sandshrew ► Sandslash
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         75
+         defense:         85
+  special-attack:         20
+ special-defense:         30
+           speed:         40
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         75
-        defense:         85
- special-attack:         20
-special-defense:         30
-          speed:         40
+ Genus: Mouse Pokémon
+ Happiness: 50	Pokedex ID: 27
+ Base Exp: 60	Capture Rate: 255
+ Height:    6	Weight: 120
 
-Pokedex ID: 27	Capture Rate: 255
-Base Exp: 60	Happiness: 50
-Height: 6	Weight: 120
-
-Genus: Mouse Pokémon
-Location Areas:
-wayward-cave-1f
-wayward-cave-b1f
-union-cave-1f
-union-cave-b1f
-mt-moon-1f
-mt-moon-2f
-kanto-route-3-area
-kanto-route-4-area
-kanto-route-8-area
-kanto-route-9-area
-kanto-route-10-area
-kanto-route-11-area
-kanto-route-23-area
-hoenn-route-111-area
-hoenn-route-113-area
-mirage-tower-area
-desert-resort-entrance
-desert-resort-area
-relic-castle-a
-johto-safari-zone-zone-desert
+ Location Areas:
+   Wayward cave 1f
+   Wayward cave b1f
+   Union cave 1f
+   Union cave b1f
+   Mt moon 1f
+   Mt moon 2f
+   Kanto route 3 area
+   Kanto route 4 area
+   Kanto route 8 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Kanto route 11 area
+   Kanto route 23 area
+   Hoenn route 111 area
+   Hoenn route 113 area
+   Mirage tower area
+   Desert resort entrance
+   Desert resort area
+   Relic castle a
+   Johto safari zone zone desert

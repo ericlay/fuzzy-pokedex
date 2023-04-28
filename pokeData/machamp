@@ -1,26 +1,24 @@
 
-Machamp	 A fighting type Pokémon
+  Machamp    Fighting Type Pokémon
 
-Using its heavy muscles, it 
-throws powerful punches that 
-can send the victim clear over 
-the horizon. 
+  Using its heavy muscles, it 
+  throws powerful punches that 
+  can send the victim clear over 
+  the horizon. 
+	   Evolution Chain
+  Machop ► Machoke ► Machamp
 
-	Evolution Chain
-Machop ► Machoke ► Machamp
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:        130
+         defense:         80
+  special-attack:         65
+ special-defense:         85
+           speed:         55
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:        130
-        defense:         80
- special-attack:         65
-special-defense:         85
-          speed:         55
+ Genus: Superpower Pokémon
+ Happiness: 50	Pokedex ID: 68
+ Base Exp: 253	Capture Rate: 45
+ Height:    16	Weight: 1300
 
-Pokedex ID: 68	Capture Rate: 45
-Base Exp: 253	Happiness: 50
-Height: 16	Weight: 1300
-
-Genus: Superpower Pokémon
-Location Areas:
-
+ Location Areas:

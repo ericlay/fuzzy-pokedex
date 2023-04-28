@@ -1,31 +1,33 @@
 
-Tyrogue	 A fighting type Pokémon
+  Tyrogue    Fighting Type Pokémon
 
-It is always bursting with en­ 
-ergy.  To make it­ self stronger, 
-it keeps on fighting even if 
-it loses. 
-
+  It is always bursting with en­ 
+  ergy.  To make it­ self stronger, 
+  it keeps on fighting even if 
+  it loses. 
 	Evolution Chain
       Tyrogue ► Hitmonlee
-hitmonchan
-hitmontop
 
-  ↞--------| STATS |--------↠ 
-             hp:         35
-         attack:         35
-        defense:         35
- special-attack:         35
-special-defense:         35
-          speed:         35
+Stage 2 Forms:
+  hitmonlee
+  hitmonchan
+  hitmontop
 
-Pokedex ID: 236	Capture Rate: 75
-Base Exp: 42	Happiness: 50
-Height: 7	Weight: 210
+   ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:         35
+         defense:         35
+  special-attack:         35
+ special-defense:         35
+           speed:         35
 
-Genus: Scuffle Pokémon
-Location Areas:
-sinnoh-route-208-area
-sinnoh-route-211-west-towards-eterna-city
-johto-route-34-area
-mt-mortar-b1f
+ Genus: Scuffle Pokémon
+ Happiness: 50	Pokedex ID: 236
+ Base Exp: 42	Capture Rate: 75
+ Height:    7	Weight: 210
+
+ Location Areas:
+   Sinnoh route 208 area
+   Sinnoh route 211 west towards eterna city
+   Johto route 34 area
+   Mt mortar b1f

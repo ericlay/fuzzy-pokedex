@@ -1,27 +1,27 @@
 
-Dugtrio	 A ground type Pokémon
+  Dugtrio    Ground Type Pokémon
 
-A team of DIGLETT triplets. 
- It triggers huge earthquakes 
-by burrowing 60 miles underground. 
-
+  A team of DIGLETT triplets. 
+   It triggers huge earthquakes 
+  by burrowing 60 miles underground. 
+  
 	Evolution Chain
       Diglett ► Dugtrio
 
-  ↞--------| STATS |--------↠ 
-             hp:         35
-         attack:        100
-        defense:         50
- special-attack:         50
-special-defense:         70
-          speed:        120
+   ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:        100
+         defense:         50
+  special-attack:         50
+ special-defense:         70
+           speed:        120
 
-Pokedex ID: 51	Capture Rate: 50
-Base Exp: 149	Happiness: 50
-Height: 7	Weight: 333
+ Genus: Mole Pokémon
+ Happiness: 50	Pokedex ID: 51
+ Base Exp: 149	Capture Rate: 50
+ Height:    7	Weight: 333
 
-Genus: Mole Pokémon
-Location Areas:
-sinnoh-route-228-area
-digletts-cave-area
-kalos-route-13-area
+ Location Areas:
+   Sinnoh route 228 area
+   Digletts cave area
+   Kalos route 13 area

@@ -1,28 +1,28 @@
 
-Drifblim	 A ghost type Pokémon
+  Drifblim    Ghost Type Pokémon
 
-At dusk, swarms of them are 
-carried aloft on winds.  When 
-noticed, they suddenly vanish. 
-
+  At dusk, swarms of them are 
+  carried aloft on winds.  When 
+  noticed, they suddenly vanish. 
+  
 	Evolution Chain
       Drifloon ► Drifblim
 
-  ↞--------| STATS |--------↠ 
-             hp:        150
-         attack:         80
-        defense:         44
- special-attack:         90
-special-defense:         54
-          speed:         80
+   ↞--------| STATS |--------↠ 
+              hp:        150
+          attack:         80
+         defense:         44
+  special-attack:         90
+ special-defense:         54
+           speed:         80
 
-Pokedex ID: 426	Capture Rate: 60
-Base Exp: 174	Happiness: 50
-Height: 12	Weight: 150
+ Genus: Blimp Pokémon
+ Happiness: 50	Pokedex ID: 426
+ Base Exp: 174	Capture Rate: 60
+ Height:    12	Weight: 150
 
-Genus: Blimp Pokémon
-Location Areas:
-giant-chasm-outside
-unova-route-13-area
-unova-route-14-area
-reversal-mountain-unknown-area-48
+ Location Areas:
+   Giant chasm outside
+   Unova route 13 area
+   Unova route 14 area
+   Reversal mountain unknown area 48

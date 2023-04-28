@@ -1,28 +1,28 @@
 
-Vanilluxe	 A ice type Pokémon
+  Vanilluxe    Ice Type Pokémon
 
-Swallowing large amounts of 
-water, they make snow clouds 
-inside their bodies and attack 
-their foes with violent blizzards. 
+  Swallowing large amounts of 
+  water, they make snow clouds 
+  inside their bodies and attack 
+  their foes with violent blizzards. 
+  
+	   Evolution Chain
+  Vanillite ► Vanillish ► Vanilluxe
 
-	Evolution Chain
-Vanillite ► Vanillish ► Vanilluxe
+   ↞--------| STATS |--------↠ 
+              hp:         71
+          attack:         95
+         defense:         85
+  special-attack:        110
+ special-defense:         95
+           speed:         79
 
-  ↞--------| STATS |--------↠ 
-             hp:         71
-         attack:         95
-        defense:         85
- special-attack:        110
-special-defense:         95
-          speed:         79
+ Genus: Snowstorm Pokémon
+ Happiness: 50	Pokedex ID: 584
+ Base Exp: 268	Capture Rate: 45
+ Height:    13	Weight: 575
 
-Pokedex ID: 584	Capture Rate: 45
-Base Exp: 268	Happiness: 50
-Height: 13	Weight: 575
-
-Genus: Snowstorm Pokémon
-Location Areas:
-dragonspiral-tower-entrance
-dragonspiral-tower-outside
-giant-chasm-outside
+ Location Areas:
+   Dragonspiral tower entrance
+   Dragonspiral tower outside
+   Giant chasm outside

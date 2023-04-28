@@ -1,27 +1,27 @@
 
-Clefable	 A fairy type Pokémon
+  Clefable    Fairy Type Pokémon
 
-A timid fairy Pokémon that is 
-rarely seen.  It will run and 
-hide the moment it senses people. 
+  A timid fairy Pokémon that is 
+  rarely seen.  It will run and 
+  hide the moment it senses people. 
+  
+	   Evolution Chain
+  Cleffa ► Clefairy ► Clefable
 
-	Evolution Chain
-Cleffa ► Clefairy ► Clefable
+   ↞--------| STATS |--------↠ 
+              hp:         95
+          attack:         70
+         defense:         73
+  special-attack:         95
+ special-defense:         90
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         95
-         attack:         70
-        defense:         73
- special-attack:         95
-special-defense:         90
-          speed:         60
+ Genus: Fairy Pokémon
+ Happiness: 140	Pokedex ID: 36
+ Base Exp: 242	Capture Rate: 25
+ Height:    13	Weight: 400
 
-Pokedex ID: 36	Capture Rate: 25
-Base Exp: 242	Happiness: 140
-Height: 13	Weight: 400
-
-Genus: Fairy Pokémon
-Location Areas:
-giant-chasm-outside
-giant-chasm-forest
-giant-chasm-forest-cave
+ Location Areas:
+   Giant chasm outside
+   Giant chasm forest
+   Giant chasm forest cave

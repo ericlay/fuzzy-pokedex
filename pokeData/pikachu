@@ -1,37 +1,37 @@
 
-Pikachu	 A electric type Pokémon
+  Pikachu    Electric Type Pokémon
 
-When several of these Pokémon 
-gather, their electricity could 
-build and cause lightning storms. 
+  When several of these Pokémon 
+  gather, their electricity could 
+  build and cause lightning storms. 
+  
+	   Evolution Chain
+  Pichu ► Pikachu ► Raichu
 
-	Evolution Chain
-Pichu ► Pikachu ► Raichu
+   ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:         55
+         defense:         40
+  special-attack:         50
+ special-defense:         50
+           speed:         90
 
-  ↞--------| STATS |--------↠ 
-             hp:         35
-         attack:         55
-        defense:         40
- special-attack:         50
-special-defense:         50
-          speed:         90
+ Genus: Mouse Pokémon
+ Happiness: 50	Pokedex ID: 25
+ Base Exp: 112	Capture Rate: 190
+ Height:    4	Weight: 60
 
-Pokedex ID: 25	Capture Rate: 190
-Base Exp: 112	Happiness: 50
-Height: 4	Weight: 60
-
-Genus: Mouse Pokémon
-Location Areas:
-trophy-garden-area
-pallet-town-area
-kanto-route-2-south-towards-viridian-city
-viridian-forest-area
-power-plant-area
-hoenn-safari-zone-sw
-hoenn-safari-zone-se
-kalos-route-3-area
-santalune-forest-area
-slateport-city-contest-hall
-verdanturf-town-contest-hall
-fallarbor-town-contest-hall
-lilycove-city-contest-hall
+ Location Areas:
+   Trophy garden area
+   Pallet town area
+   Kanto route 2 south towards viridian city
+   Viridian forest area
+   Power plant area
+   Hoenn safari zone sw
+   Hoenn safari zone se
+   Kalos route 3 area
+   Santalune forest area
+   Slateport city contest hall
+   Verdanturf town contest hall
+   Fallarbor town contest hall
+   Lilycove city contest hall

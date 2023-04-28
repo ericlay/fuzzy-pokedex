@@ -1,38 +1,37 @@
 
-Delibird	 A ice type Pokémon
+  Delibird    Ice Type Pokémon
 
-It carries food all day long. 
- There are tales about lost people 
-who were saved by the food it 
-had. 
+  It carries food all day long. 
+   There are tales about lost people 
+  who were saved by the food it 
+  had. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         55
+         defense:         45
+  special-attack:         65
+ special-defense:         45
+           speed:         75
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         55
-        defense:         45
- special-attack:         65
-special-defense:         45
-          speed:         75
+ Genus: Delivery Pokémon
+ Happiness: 50	Pokedex ID: 225
+ Base Exp: 116	Capture Rate: 45
+ Height:    9	Weight: 160
 
-Pokedex ID: 225	Capture Rate: 45
-Base Exp: 116	Happiness: 50
-Height: 9	Weight: 160
-
-Genus: Delivery Pokémon
-Location Areas:
-sinnoh-route-216-area
-sinnoh-route-217-area
-ice-path-1f
-ice-path-b1f
-ice-path-b2f
-ice-path-b3f
-icefall-cave-1f
-icefall-cave-b1f
-giant-chasm-outside
-giant-chasm-area
-giant-chasm-forest
-giant-chasm-forest-cave
-unova-route-22-area
-kalos-route-17-area
+ Location Areas:
+   Sinnoh route 216 area
+   Sinnoh route 217 area
+   Ice path 1f
+   Ice path b1f
+   Ice path b2f
+   Ice path b3f
+   Icefall cave 1f
+   Icefall cave b1f
+   Giant chasm outside
+   Giant chasm area
+   Giant chasm forest
+   Giant chasm forest cave
+   Unova route 22 area
+   Kalos route 17 area

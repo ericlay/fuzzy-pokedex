@@ -1,102 +1,102 @@
 
-Graveler	 A rock type Pokémon
+  Graveler    Rock Type Pokémon
 
-Rolls down slopes to move.  
-It rolls over any obstacle without 
-slowing or changing its direction. 
+  Rolls down slopes to move.  
+  It rolls over any obstacle without 
+  slowing or changing its direction. 
+  
+	   Evolution Chain
+  Geodude ► Graveler ► Golem
 
-	Evolution Chain
-Geodude ► Graveler ► Golem
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         95
+         defense:        115
+  special-attack:         45
+ special-defense:         45
+           speed:         35
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         95
-        defense:        115
- special-attack:         45
-special-defense:         45
-          speed:         35
+ Genus: Rock Pokémon
+ Happiness: 70	Pokedex ID: 75
+ Base Exp: 137	Capture Rate: 120
+ Height:    10	Weight: 1050
 
-Pokedex ID: 75	Capture Rate: 120
-Base Exp: 137	Happiness: 70
-Height: 10	Weight: 1050
-
-Genus: Rock Pokémon
-Location Areas:
-mt-coronet-2f
-mt-coronet-3f
-mt-coronet-4f
-mt-coronet-4f-small-room
-mt-coronet-5f
-mt-coronet-6f
-mt-coronet-1f-from-exterior
-mt-coronet-1f-route-216
-mt-coronet-b1f
-sinnoh-victory-road-1f
-sinnoh-victory-road-2f
-sinnoh-victory-road-b1f
-sinnoh-victory-road-inside-b1f
-sinnoh-victory-road-inside
-sinnoh-victory-road-inside-exit
-stark-mountain-area
-stark-mountain-entrance
-stark-mountain-inside
-sendoff-spring-area
-snowpoint-temple-1f
-snowpoint-temple-b1f
-snowpoint-temple-b2f
-snowpoint-temple-b3f
-snowpoint-temple-b4f
-snowpoint-temple-b5f
-iron-island-1f
-iron-island-b1f-left
-iron-island-b1f-right
-iron-island-b2f-right
-iron-island-b2f-left
-iron-island-b3f
-valor-lakefront-area
-sinnoh-route-211-east-towards-celestic-town
-sinnoh-route-214-area
-sinnoh-route-216-area
-sinnoh-route-225-area
-sinnoh-route-227-area
-sinnoh-sea-route-226-area
-mt-mortar-upper-cave
-johto-route-45-area
-dark-cave-blackthorn-city-entrance
-johto-route-47-inside-cave
-mt-silver-1f
-mt-silver-top
-rock-tunnel-b1f
-kanto-victory-road-1-1f
-kanto-victory-road-1-2f
-kanto-victory-road-1-3f
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-kanto-victory-road-2-1f
-kanto-victory-road-2-2f
-kanto-victory-road-2-3f
-hoenn-victory-road-b1f
-magma-hideout-area
-mt-ember-area
-mt-ember-inside
-mt-ember-1f-cave-behind-team-rocket
-mt-ember-b1f
-mt-ember-b2f
-kindle-road-area
-sevault-canyon-area
-challengers-cave-1f
-challengers-cave-b1f
-challengers-cave-b2f
-kalos-route-13-area
-kalos-route-18-area
-kalos-victory-road-unknown-area-322
-kalos-victory-road-unknown-area-324
-kalos-victory-road-unknown-area-326
-kalos-victory-road-unknown-area-328
-terminus-cave-unknown-area-343
-terminus-cave-unknown-area-344
-terminus-cave-unknown-area-345
-terminus-cave-unknown-area-347
-terminus-cave-unknown-area-348
-mt-ember-summit
+ Location Areas:
+   Mt coronet 2f
+   Mt coronet 3f
+   Mt coronet 4f
+   Mt coronet 4f small room
+   Mt coronet 5f
+   Mt coronet 6f
+   Mt coronet 1f from exterior
+   Mt coronet 1f route 216
+   Mt coronet b1f
+   Sinnoh victory road 1f
+   Sinnoh victory road 2f
+   Sinnoh victory road b1f
+   Sinnoh victory road inside b1f
+   Sinnoh victory road inside
+   Sinnoh victory road inside exit
+   Stark mountain area
+   Stark mountain entrance
+   Stark mountain inside
+   Sendoff spring area
+   Snowpoint temple 1f
+   Snowpoint temple b1f
+   Snowpoint temple b2f
+   Snowpoint temple b3f
+   Snowpoint temple b4f
+   Snowpoint temple b5f
+   Iron island 1f
+   Iron island b1f left
+   Iron island b1f right
+   Iron island b2f right
+   Iron island b2f left
+   Iron island b3f
+   Valor lakefront area
+   Sinnoh route 211 east towards celestic town
+   Sinnoh route 214 area
+   Sinnoh route 216 area
+   Sinnoh route 225 area
+   Sinnoh route 227 area
+   Sinnoh sea route 226 area
+   Mt mortar upper cave
+   Johto route 45 area
+   Dark cave blackthorn city entrance
+   Johto route 47 inside cave
+   Mt silver 1f
+   Mt silver top
+   Rock tunnel b1f
+   Kanto victory road 1 1f
+   Kanto victory road 1 2f
+   Kanto victory road 1 3f
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Kanto victory road 2 1f
+   Kanto victory road 2 2f
+   Kanto victory road 2 3f
+   Hoenn victory road b1f
+   Magma hideout area
+   Mt ember area
+   Mt ember inside
+   Mt ember 1f cave behind team rocket
+   Mt ember b1f
+   Mt ember b2f
+   Kindle road area
+   Sevault canyon area
+   Challengers cave 1f
+   Challengers cave b1f
+   Challengers cave b2f
+   Kalos route 13 area
+   Kalos route 18 area
+   Kalos victory road unknown area 322
+   Kalos victory road unknown area 324
+   Kalos victory road unknown area 326
+   Kalos victory road unknown area 328
+   Terminus cave unknown area 343
+   Terminus cave unknown area 344
+   Terminus cave unknown area 345
+   Terminus cave unknown area 347
+   Terminus cave unknown area 348
+   Mt ember summit

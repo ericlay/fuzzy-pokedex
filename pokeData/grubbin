@@ -1,25 +1,24 @@
 
-Grubbin	 A bug type Pokémon
+  Grubbin    Bug Type Pokémon
 
-Its strong jaw enables it to 
-scrape trees and slurp out the 
-sap.  It normally lives underground. 
+  Its strong jaw enables it to 
+  scrape trees and slurp out the 
+  sap.  It normally lives underground. 
+  
+	   Evolution Chain
+  Grubbin ► Charjabug ► Vikavolt
 
-	Evolution Chain
-Grubbin ► Charjabug ► Vikavolt
+   ↞--------| STATS |--------↠ 
+              hp:         47
+          attack:         62
+         defense:         45
+  special-attack:         55
+ special-defense:         45
+           speed:         46
 
-  ↞--------| STATS |--------↠ 
-             hp:         47
-         attack:         62
-        defense:         45
- special-attack:         55
-special-defense:         45
-          speed:         46
+ Genus: Larva Pokémon
+ Happiness: 50	Pokedex ID: 736
+ Base Exp: 60	Capture Rate: 255
+ Height:    4	Weight: 44
 
-Pokedex ID: 736	Capture Rate: 255
-Base Exp: 60	Happiness: 50
-Height: 4	Weight: 44
-
-Genus: Larva Pokémon
-Location Areas:
-
+ Location Areas:

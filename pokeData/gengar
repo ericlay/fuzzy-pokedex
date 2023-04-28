@@ -1,25 +1,25 @@
 
-Gengar	 A ghost type Pokémon
+  Gengar    Ghost Type Pokémon
 
-Under a full moon, Gengar 
-likes to mimic the shadows of 
-people and laugh at their fright. 
+  Under a full moon, Gengar 
+  likes to mimic the shadows of 
+  people and laugh at their fright. 
+  
+	   Evolution Chain
+  Gastly ► Haunter ► Gengar
 
-	Evolution Chain
-Gastly ► Haunter ► Gengar
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         65
+         defense:         60
+  special-attack:        130
+ special-defense:         75
+           speed:        110
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         65
-        defense:         60
- special-attack:        130
-special-defense:         75
-          speed:        110
+ Genus: Shadow Pokémon
+ Happiness: 50	Pokedex ID: 94
+ Base Exp: 250	Capture Rate: 45
+ Height:    15	Weight: 405
 
-Pokedex ID: 94	Capture Rate: 45
-Base Exp: 250	Happiness: 50
-Height: 15	Weight: 405
-
-Genus: Shadow Pokémon
-Location Areas:
-old-chateau-2f-right-room
+ Location Areas:
+   Old chateau 2f right room

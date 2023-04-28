@@ -1,35 +1,34 @@
 
-Surskit	 A bug type Pokémon
+  Surskit    Bug Type Pokémon
 
-From the tips of its feet, SURSKIT 
-secretes an oil that enables 
-it to walk on water as if it 
-were skating.  Surskit feeds 
-on microscopic organisms in ponds 
-and lakes. 
-
+  From the tips of its feet, SURSKIT 
+  secretes an oil that enables 
+  it to walk on water as if it 
+  were skating.  Surskit feeds 
+  on microscopic organisms in ponds 
+  and lakes. 
 	Evolution Chain
       Surskit ► Masquerain
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         30
-        defense:         32
- special-attack:         50
-special-defense:         52
-          speed:         65
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         30
+         defense:         32
+  special-attack:         50
+ special-defense:         52
+           speed:         65
 
-Pokedex ID: 283	Capture Rate: 200
-Base Exp: 54	Happiness: 70
-Height: 5	Weight: 17
+ Genus: Pond Skater Pokémon
+ Happiness: 70	Pokedex ID: 283
+ Base Exp: 54	Capture Rate: 200
+ Height:    5	Weight: 17
 
-Genus: Pond Skater Pokémon
-Location Areas:
-lake-verity-before-galactic-intervention
-lake-verity-after-galactic-intervention
-sinnoh-route-229-area
-hoenn-route-102-area
-hoenn-route-111-area
-hoenn-route-114-area
-hoenn-route-117-area
-hoenn-route-120-area
+ Location Areas:
+   Lake verity before galactic intervention
+   Lake verity after galactic intervention
+   Sinnoh route 229 area
+   Hoenn route 102 area
+   Hoenn route 111 area
+   Hoenn route 114 area
+   Hoenn route 117 area
+   Hoenn route 120 area

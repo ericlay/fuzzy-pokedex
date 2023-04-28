@@ -1,32 +1,31 @@
 
-Houndour	 A dark type Pokémon
+  Houndour    Dark Type Pokémon
 
-It uses different kinds of cries 
-for communicating with others 
-of its kind and for pursuing 
-its prey. 
-
+  It uses different kinds of cries 
+  for communicating with others 
+  of its kind and for pursuing 
+  its prey. 
 	Evolution Chain
       Houndour ► Houndoom
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         60
-        defense:         30
- special-attack:         80
-special-defense:         50
-          speed:         65
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         60
+         defense:         30
+  special-attack:         80
+ special-defense:         50
+           speed:         65
 
-Pokedex ID: 228	Capture Rate: 120
-Base Exp: 66	Happiness: 35
-Height: 6	Weight: 108
+ Genus: Dark Pokémon
+ Happiness: 35	Pokedex ID: 228
+ Base Exp: 66	Capture Rate: 120
+ Height:    6	Weight: 108
 
-Genus: Dark Pokémon
-Location Areas:
-valor-lakefront-area
-sinnoh-route-214-area
-kanto-route-7-area
-hoenn-safari-zone-expansion-north
-hoenn-altering-cave-d
-kanto-altering-cave-d
-kalos-route-10-area
+ Location Areas:
+   Valor lakefront area
+   Sinnoh route 214 area
+   Kanto route 7 area
+   Hoenn safari zone expansion north
+   Hoenn altering cave d
+   Kanto altering cave d
+   Kalos route 10 area

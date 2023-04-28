@@ -1,30 +1,29 @@
 
-Masquerain	 A bug type Pokémon
+  Masquerain    Bug Type Pokémon
 
-MASQUERAIN intimidates enemies 
-with the eyelike patterns on 
-its antennas.  Masquerain flaps 
-its four wings to freely fly 
-in any direction - even sideways 
-and backwards - as if it were 
-a helicopter. 
-
+  MASQUERAIN intimidates enemies 
+  with the eyelike patterns on 
+  its antennas.  Masquerain flaps 
+  its four wings to freely fly 
+  in any direction - even sideways 
+  and backwards - as if it were 
+  a helicopter. 
 	Evolution Chain
       Surskit ► Masquerain
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         60
-        defense:         62
- special-attack:        100
-special-defense:         82
-          speed:         80
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         60
+         defense:         62
+  special-attack:        100
+ special-defense:         82
+           speed:         80
 
-Pokedex ID: 284	Capture Rate: 75
-Base Exp: 159	Happiness: 70
-Height: 8	Weight: 36
+ Genus: Eyeball Pokémon
+ Happiness: 70	Pokedex ID: 284
+ Base Exp: 159	Capture Rate: 75
+ Height:    8	Weight: 36
 
-Genus: Eyeball Pokémon
-Location Areas:
-sinnoh-route-229-area
-kalos-route-3-area
+ Location Areas:
+   Sinnoh route 229 area
+   Kalos route 3 area

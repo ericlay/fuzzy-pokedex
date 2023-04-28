@@ -1,30 +1,29 @@
 
-Skarmory	 A steel type Pokémon
+  Skarmory    Steel Type Pokémon
 
-Its sturdy wings look heavy, 
-but they are actually hollow 
-and light, allowing it to fly 
-freely in the sky. 
+  Its sturdy wings look heavy, 
+  but they are actually hollow 
+  and light, allowing it to fly 
+  freely in the sky. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         80
+         defense:        140
+  special-attack:         40
+ special-defense:         70
+           speed:         70
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         80
-        defense:        140
- special-attack:         40
-special-defense:         70
-          speed:         70
+ Genus: Armor Bird Pokémon
+ Happiness: 50	Pokedex ID: 227
+ Base Exp: 163	Capture Rate: 25
+ Height:    17	Weight: 505
 
-Pokedex ID: 227	Capture Rate: 25
-Base Exp: 163	Happiness: 50
-Height: 17	Weight: 505
-
-Genus: Armor Bird Pokémon
-Location Areas:
-stark-mountain-area
-sinnoh-route-227-area
-johto-route-45-area
-hoenn-route-113-area
-sevault-canyon-area
-reversal-mountain-unknown-area-48
+ Location Areas:
+   Stark mountain area
+   Sinnoh route 227 area
+   Johto route 45 area
+   Hoenn route 113 area
+   Sevault canyon area
+   Reversal mountain unknown area 48

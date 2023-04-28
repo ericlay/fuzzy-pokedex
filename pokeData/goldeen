@@ -1,124 +1,123 @@
 
-Goldeen	 A water type Pokémon
+  Goldeen    Water Type Pokémon
 
-Its tail fin billows like an 
-elegant ballroom dress, giving 
-it the nickname of the Water 
-Queen. 
-
+  Its tail fin billows like an 
+  elegant ballroom dress, giving 
+  it the nickname of the Water 
+  Queen. 
 	Evolution Chain
       Goldeen ► Seaking
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         67
-        defense:         60
- special-attack:         35
-special-defense:         50
-          speed:         63
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         67
+         defense:         60
+  special-attack:         35
+ special-defense:         50
+           speed:         63
 
-Pokedex ID: 118	Capture Rate: 225
-Base Exp: 64	Happiness: 50
-Height: 6	Weight: 150
+ Genus: Goldfish Pokémon
+ Happiness: 50	Pokedex ID: 118
+ Base Exp: 64	Capture Rate: 225
+ Height:    6	Weight: 150
 
-Genus: Goldfish Pokémon
-Location Areas:
-sendoff-spring-area
-lake-verity-before-galactic-intervention
-lake-verity-after-galactic-intervention
-lake-valor-area
-lake-acuity-area
-sinnoh-route-203-area
-sinnoh-route-204-south-towards-jubilife-city
-sinnoh-route-204-north-towards-floaroma-town
-sinnoh-route-208-area
-sinnoh-route-209-area
-sinnoh-route-212-north-towards-hearthome-city
-sinnoh-route-214-area
-sinnoh-route-229-area
-twinleaf-town-area
-celestic-town-area
-resort-area-area
-union-cave-1f
-union-cave-b1f
-slowpoke-well-1f
-slowpoke-well-b1f
-johto-route-42-area
-mt-mortar-1f
-mt-mortar-upper-cave
-mt-mortar-b1f
-dark-cave-violet-city-entrance
-dark-cave-blackthorn-city-entrance
-seafoam-islands-b3f
-seafoam-islands-b4f
-mt-silver-2f
-mt-silver-1f-top
-mt-silver-4f
-mt-silver-1f
-mt-silver-top
-unknown-all-rattata-area
-kanto-route-12-area
-kanto-sea-route-19-area
-kanto-sea-route-20-area
-cinnabar-island-area
-viridian-city-area
-cerulean-city-area
-vermilion-city-area
-celadon-city-area
-fuchsia-city-area
-pallet-town-area
-kanto-route-4-area
-kanto-route-6-area
-kanto-route-9-area
-kanto-route-10-area
-kanto-route-11-area
-kanto-route-13-area
-kanto-route-17-area
-kanto-route-18-area
-kanto-sea-route-21-area
-kanto-route-22-area
-kanto-route-24-area
-kanto-route-25-area
-tohjo-falls-area
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-kanto-route-23-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-vermilion-city-ss-anne-dock
-petalburg-city-area
-meteor-falls-area
-meteor-falls-back
-meteor-falls-b1f
-meteor-falls-backsmall-room
-hoenn-victory-road-b2f
-hoenn-route-102-area
-hoenn-route-111-area
-hoenn-route-114-area
-hoenn-route-117-area
-hoenn-route-120-area
-hoenn-safari-zone-nwmach-bike-area
-hoenn-safari-zone-sw
-hoenn-safari-zone-expansion-south
-berry-forest-area
-icefall-cave-entrance
-cape-brink-area
-ruin-valley-area
-four-island-area
-striaton-city-area
-pinwheel-forest-inside
-unova-route-3-area
-unova-route-11-area
-unova-route-14-area
-abundant-shrine-area
-lostlorn-forest-area
-aspertia-city-area
-unova-route-22-area
-kalos-route-3-area
-kalos-route-22-area
-parfum-palace-area
-johto-safari-zone-zone-swamp
-johto-safari-zone-zone-rocky-beach
+ Location Areas:
+   Sendoff spring area
+   Lake verity before galactic intervention
+   Lake verity after galactic intervention
+   Lake valor area
+   Lake acuity area
+   Sinnoh route 203 area
+   Sinnoh route 204 south towards jubilife city
+   Sinnoh route 204 north towards floaroma town
+   Sinnoh route 208 area
+   Sinnoh route 209 area
+   Sinnoh route 212 north towards hearthome city
+   Sinnoh route 214 area
+   Sinnoh route 229 area
+   Twinleaf town area
+   Celestic town area
+   Resort area area
+   Union cave 1f
+   Union cave b1f
+   Slowpoke well 1f
+   Slowpoke well b1f
+   Johto route 42 area
+   Mt mortar 1f
+   Mt mortar upper cave
+   Mt mortar b1f
+   Dark cave violet city entrance
+   Dark cave blackthorn city entrance
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Mt silver 2f
+   Mt silver 1f top
+   Mt silver 4f
+   Mt silver 1f
+   Mt silver top
+   Unknown all rattata area
+   Kanto route 12 area
+   Kanto sea route 19 area
+   Kanto sea route 20 area
+   Cinnabar island area
+   Viridian city area
+   Cerulean city area
+   Vermilion city area
+   Celadon city area
+   Fuchsia city area
+   Pallet town area
+   Kanto route 4 area
+   Kanto route 6 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Kanto route 11 area
+   Kanto route 13 area
+   Kanto route 17 area
+   Kanto route 18 area
+   Kanto sea route 21 area
+   Kanto route 22 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Tohjo falls area
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Kanto route 23 area
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Vermilion city ss anne dock
+   Petalburg city area
+   Meteor falls area
+   Meteor falls back
+   Meteor falls b1f
+   Meteor falls backsmall room
+   Hoenn victory road b2f
+   Hoenn route 102 area
+   Hoenn route 111 area
+   Hoenn route 114 area
+   Hoenn route 117 area
+   Hoenn route 120 area
+   Hoenn safari zone nwmach bike area
+   Hoenn safari zone sw
+   Hoenn safari zone expansion south
+   Berry forest area
+   Icefall cave entrance
+   Cape brink area
+   Ruin valley area
+   Four island area
+   Striaton city area
+   Pinwheel forest inside
+   Unova route 3 area
+   Unova route 11 area
+   Unova route 14 area
+   Abundant shrine area
+   Lostlorn forest area
+   Aspertia city area
+   Unova route 22 area
+   Kalos route 3 area
+   Kalos route 22 area
+   Parfum palace area
+   Johto safari zone zone swamp
+   Johto safari zone zone rocky beach

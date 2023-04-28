@@ -1,43 +1,42 @@
 
-Chinchou	 A water type Pokémon
+  Chinchou    Water Type Pokémon
 
-Chinchou blink their shining 
-antennae at one another to claim 
-their respective turf. 
-
+  Chinchou blink their shining 
+  antennae at one another to claim 
+  their respective turf. 
 	Evolution Chain
       Chinchou ► Lanturn
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:         38
-        defense:         38
- special-attack:         56
-special-defense:         56
-          speed:         67
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         38
+         defense:         38
+  special-attack:         56
+ special-defense:         56
+           speed:         67
 
-Pokedex ID: 170	Capture Rate: 190
-Base Exp: 66	Happiness: 50
-Height: 5	Weight: 120
+ Genus: Angler Pokémon
+ Happiness: 50	Pokedex ID: 170
+ Base Exp: 66	Capture Rate: 190
+ Height:    5	Weight: 120
 
-Genus: Angler Pokémon
-Location Areas:
-sinnoh-sea-route-220-area
-new-bark-town-area
-johto-sea-route-41-area
-johto-route-47-area
-kanto-sea-route-20-area
-cinnabar-island-area
-vermilion-city-area
-pallet-town-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-sea-route-21-area
-vermilion-city-ss-anne-dock
-hoenn-route-124-underwater
-hoenn-route-126-underwater
-driftveil-city-area
-undella-bay-area
-unova-route-18-area
-shalour-city-area
-azure-bay-area
+ Location Areas:
+   Sinnoh sea route 220 area
+   New bark town area
+   Johto sea route 41 area
+   Johto route 47 area
+   Kanto sea route 20 area
+   Cinnabar island area
+   Vermilion city area
+   Pallet town area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto sea route 21 area
+   Vermilion city ss anne dock
+   Hoenn route 124 underwater
+   Hoenn route 126 underwater
+   Driftveil city area
+   Undella bay area
+   Unova route 18 area
+   Shalour city area
+   Azure bay area

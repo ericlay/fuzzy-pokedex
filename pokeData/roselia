@@ -1,43 +1,42 @@
 
-Roselia	 A grass type Pokémon
+  Roselia    Grass Type Pokémon
 
-ROSELIA shoots sharp thorns 
-as projectiles at any opponent 
-that tries to steal the flowers 
-on its arms.  The aroma of this 
-Pokémon brings serenity to living 
-things. 
+  ROSELIA shoots sharp thorns 
+  as projectiles at any opponent 
+  that tries to steal the flowers 
+  on its arms.  The aroma of this 
+  Pokémon brings serenity to living 
+  things. 
+	   Evolution Chain
+  Budew ► Roselia ► Roserade
 
-	Evolution Chain
-Budew ► Roselia ► Roserade
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         60
+         defense:         45
+  special-attack:        100
+ special-defense:         80
+           speed:         65
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         60
-        defense:         45
- special-attack:        100
-special-defense:         80
-          speed:         65
+ Genus: Thorn Pokémon
+ Happiness: 50	Pokedex ID: 315
+ Base Exp: 140	Capture Rate: 150
+ Height:    3	Weight: 20
 
-Pokedex ID: 315	Capture Rate: 150
-Base Exp: 140	Happiness: 50
-Height: 3	Weight: 20
-
-Genus: Thorn Pokémon
-Location Areas:
-trophy-garden-area
-sinnoh-route-208-area
-sinnoh-route-209-area
-sinnoh-route-210-south-towards-solaceon-town
-sinnoh-route-212-north-towards-hearthome-city
-sinnoh-route-212-east-towards-pastoria-city
-sinnoh-route-221-area
-sinnoh-route-224-area
-sinnoh-route-225-area
-sinnoh-route-229-area
-sinnoh-sea-route-230-area
-hoenn-route-117-area
-unova-route-12-area
-lostlorn-forest-area
-unova-victory-road-2-unknown-area-72
-kalos-route-7-area
+ Location Areas:
+   Trophy garden area
+   Sinnoh route 208 area
+   Sinnoh route 209 area
+   Sinnoh route 210 south towards solaceon town
+   Sinnoh route 212 north towards hearthome city
+   Sinnoh route 212 east towards pastoria city
+   Sinnoh route 221 area
+   Sinnoh route 224 area
+   Sinnoh route 225 area
+   Sinnoh route 229 area
+   Sinnoh sea route 230 area
+   Hoenn route 117 area
+   Unova route 12 area
+   Lostlorn forest area
+   Unova victory road 2 unknown area 72
+   Kalos route 7 area

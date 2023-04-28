@@ -1,24 +1,23 @@
 
-Terrakion	 A rock type Pokémon
+  Terrakion    Rock Type Pokémon
 
-This Pokémon came to the defense 
-of Pokémon that had lost their 
-homes in a war among humans. 
+  This Pokémon came to the defense 
+  of Pokémon that had lost their 
+  homes in a war among humans. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         91
+          attack:        129
+         defense:         90
+  special-attack:         72
+ special-defense:         90
+           speed:        108
 
-  ↞--------| STATS |--------↠ 
-             hp:         91
-         attack:        129
-        defense:         90
- special-attack:         72
-special-defense:         90
-          speed:        108
+ Genus: Cavern Pokémon
+ Happiness: 35	Pokedex ID: 639
+ Base Exp: 290	Capture Rate: 3
+ Height:    19	Weight: 2600
 
-Pokedex ID: 639	Capture Rate: 3
-Base Exp: 290	Happiness: 35
-Height: 19	Weight: 2600
-
-Genus: Cavern Pokémon
-Location Areas:
-
+ Location Areas:

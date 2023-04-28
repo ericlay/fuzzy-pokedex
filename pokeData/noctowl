@@ -1,62 +1,61 @@
 
-Noctowl	 A normal type Pokémon
+  Noctowl    Normal Type Pokémon
 
-Its eyes are specially adapted. 
- They concentrate even faint 
-light and enable it to see in 
-the dark. 
-
+  Its eyes are specially adapted. 
+   They concentrate even faint 
+  light and enable it to see in 
+  the dark. 
 	Evolution Chain
       Hoothoot ► Noctowl
 
-  ↞--------| STATS |--------↠ 
-             hp:        100
-         attack:         50
-        defense:         50
- special-attack:         86
-special-defense:         96
-          speed:         70
+   ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:         50
+         defense:         50
+  special-attack:         86
+ special-defense:         96
+           speed:         70
 
-Pokedex ID: 164	Capture Rate: 90
-Base Exp: 158	Happiness: 50
-Height: 16	Weight: 408
+ Genus: Owl Pokémon
+ Happiness: 50	Pokedex ID: 164
+ Base Exp: 158	Capture Rate: 90
+ Height:    16	Weight: 408
 
-Genus: Owl Pokémon
-Location Areas:
-mt-coronet-exterior-snowfall
-mt-coronet-exterior-blizzard
-great-marsh-area-1
-great-marsh-area-2
-great-marsh-area-3
-great-marsh-area-4
-sendoff-spring-area
-lake-valor-area
-lake-acuity-area
-acuity-lakefront-area
-sinnoh-route-210-south-towards-solaceon-town
-sinnoh-route-210-west-towards-celestic-town
-sinnoh-route-211-east-towards-celestic-town
-sinnoh-route-216-area
-sinnoh-route-217-area
-ilex-forest-area
-johto-route-37-area
-johto-route-38-area
-johto-route-39-area
-johto-route-43-area
-johto-route-47-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-2-south-towards-viridian-city
-kanto-route-5-area
-kanto-route-8-area
-kanto-route-11-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-kanto-route-25-area
-kanto-route-2-north-towards-pewter-city
-viridian-forest-area
-abundant-shrine-area
-nature-sanctuary-area
-kalos-route-20-area
-pokemon-village-area
+ Location Areas:
+   Mt coronet exterior snowfall
+   Mt coronet exterior blizzard
+   Great marsh area 1
+   Great marsh area 2
+   Great marsh area 3
+   Great marsh area 4
+   Sendoff spring area
+   Lake valor area
+   Lake acuity area
+   Acuity lakefront area
+   Sinnoh route 210 south towards solaceon town
+   Sinnoh route 210 west towards celestic town
+   Sinnoh route 211 east towards celestic town
+   Sinnoh route 216 area
+   Sinnoh route 217 area
+   Ilex forest area
+   Johto route 37 area
+   Johto route 38 area
+   Johto route 39 area
+   Johto route 43 area
+   Johto route 47 area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto route 2 south towards viridian city
+   Kanto route 5 area
+   Kanto route 8 area
+   Kanto route 11 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Kanto route 25 area
+   Kanto route 2 north towards pewter city
+   Viridian forest area
+   Abundant shrine area
+   Nature sanctuary area
+   Kalos route 20 area
+   Pokemon village area

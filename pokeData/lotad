@@ -1,32 +1,31 @@
 
-Lotad	 A water type Pokémon
+  Lotad    Water Type Pokémon
 
-It searches about for clean 
-water.  If it does not drink 
-water for too long, the leaf 
-on its head wilts. 
+  It searches about for clean 
+  water.  If it does not drink 
+  water for too long, the leaf 
+  on its head wilts. 
+	   Evolution Chain
+  Lotad ► Lombre ► Ludicolo
 
-	Evolution Chain
-Lotad ► Lombre ► Ludicolo
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         30
+         defense:         30
+  special-attack:         40
+ special-defense:         50
+           speed:         30
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         30
-        defense:         30
- special-attack:         40
-special-defense:         50
-          speed:         30
+ Genus: Water Weed Pokémon
+ Happiness: 50	Pokedex ID: 270
+ Base Exp: 44	Capture Rate: 255
+ Height:    5	Weight: 26
 
-Pokedex ID: 270	Capture Rate: 255
-Base Exp: 44	Happiness: 50
-Height: 5	Weight: 26
-
-Genus: Water Weed Pokémon
-Location Areas:
-sinnoh-route-203-area
-sinnoh-route-204-south-towards-jubilife-city
-sinnoh-route-204-north-towards-floaroma-town
-sinnoh-route-205-east-towards-eterna-city
-sinnoh-route-212-east-towards-pastoria-city
-hoenn-route-102-area
-hoenn-route-114-area
+ Location Areas:
+   Sinnoh route 203 area
+   Sinnoh route 204 south towards jubilife city
+   Sinnoh route 204 north towards floaroma town
+   Sinnoh route 205 east towards eterna city
+   Sinnoh route 212 east towards pastoria city
+   Hoenn route 102 area
+   Hoenn route 114 area

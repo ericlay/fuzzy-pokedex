@@ -1,26 +1,25 @@
 
-Vespiquen	 A bug type Pokémon
+  Vespiquen    Bug Type Pokémon
 
-Its abdomen is a honeycomb for 
-grubs.  It raises its grubs on 
-honey collected by COMBEE. 
-
+  Its abdomen is a honeycomb for 
+  grubs.  It raises its grubs on 
+  honey collected by COMBEE. 
 	Evolution Chain
       Combee ► Vespiquen
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         80
-        defense:        102
- special-attack:         80
-special-defense:        102
-          speed:         40
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         80
+         defense:        102
+  special-attack:         80
+ special-defense:        102
+           speed:         40
 
-Pokedex ID: 416	Capture Rate: 45
-Base Exp: 166	Happiness: 50
-Height: 12	Weight: 385
+ Genus: Beehive Pokémon
+ Happiness: 50	Pokedex ID: 416
+ Base Exp: 166	Capture Rate: 45
+ Height:    12	Weight: 385
 
-Genus: Beehive Pokémon
-Location Areas:
-unova-route-12-area
-lostlorn-forest-area
+ Location Areas:
+   Unova route 12 area
+   Lostlorn forest area

@@ -1,27 +1,25 @@
 
-Vikavolt	 A bug type Pokémon
+  Vikavolt    Bug Type Pokémon
 
-It zips around, on sharp lookout 
-for an opening.  It concentrates 
-electrical energy within its 
-large jaws and uses it to zap 
-its enemies. 
+  It zips around, on sharp lookout 
+  for an opening.  It concentrates 
+  electrical energy within its 
+  large jaws and uses it to zap 
+  its enemies. 
+	   Evolution Chain
+  Grubbin ► Charjabug ► Vikavolt
 
-	Evolution Chain
-Grubbin ► Charjabug ► Vikavolt
+   ↞--------| STATS |--------↠ 
+              hp:         77
+          attack:         70
+         defense:         90
+  special-attack:        145
+ special-defense:         75
+           speed:         43
 
-  ↞--------| STATS |--------↠ 
-             hp:         77
-         attack:         70
-        defense:         90
- special-attack:        145
-special-defense:         75
-          speed:         43
+ Genus: Stag Beetle Pokémon
+ Happiness: 50	Pokedex ID: 738
+ Base Exp: 250	Capture Rate: 45
+ Height:    15	Weight: 450
 
-Pokedex ID: 738	Capture Rate: 45
-Base Exp: 250	Happiness: 50
-Height: 15	Weight: 450
-
-Genus: Stag Beetle Pokémon
-Location Areas:
-
+ Location Areas:

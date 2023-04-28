@@ -1,40 +1,39 @@
 
-Heracross	 A bug type Pokémon
+  Heracross    Bug Type Pokémon
 
-It is usually docile, but if 
-it is disturbed while sipping 
-honey, it chases off the intruder 
-with its horn. 
+  It is usually docile, but if 
+  it is disturbed while sipping 
+  honey, it chases off the intruder 
+  with its horn. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:        125
+         defense:         75
+  special-attack:         40
+ special-defense:         95
+           speed:         85
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:        125
-        defense:         75
- special-attack:         40
-special-defense:         95
-          speed:         85
+ Genus: Single Horn Pokémon
+ Happiness: 50	Pokedex ID: 214
+ Base Exp: 175	Capture Rate: 45
+ Height:    15	Weight: 540
 
-Pokedex ID: 214	Capture Rate: 45
-Base Exp: 175	Happiness: 50
-Height: 15	Weight: 540
-
-Genus: Single Horn Pokémon
-Location Areas:
-johto-route-29-area
-johto-route-30-area
-johto-route-31-area
-johto-route-32-area
-johto-route-33-area
-johto-route-42-area
-johto-route-43-area
-johto-route-44-area
-johto-route-45-area
-johto-route-46-area
-hoenn-safari-zone-neacro-bike-area
-pattern-bush-area
-unova-route-12-area
-lostlorn-forest-area
-kalos-route-12-area
-azalea-town-area
+ Location Areas:
+   Johto route 29 area
+   Johto route 30 area
+   Johto route 31 area
+   Johto route 32 area
+   Johto route 33 area
+   Johto route 42 area
+   Johto route 43 area
+   Johto route 44 area
+   Johto route 45 area
+   Johto route 46 area
+   Hoenn safari zone neacro bike area
+   Pattern bush area
+   Unova route 12 area
+   Lostlorn forest area
+   Kalos route 12 area
+   Azalea town area

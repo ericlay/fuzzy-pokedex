@@ -1,31 +1,33 @@
 
-Nincada	 A bug type Pokémon
+  Nincada    Bug Type Pokémon
 
-NINCADA lives underground for 
-many years in complete darkness. 
- Nincada absorbs nutrients 
-from the roots of trees.  It 
-stays motionless as it waits 
-for evolution. 
-
+  NINCADA lives underground for 
+  many years in complete darkness. 
+   Nincada absorbs nutrients 
+  from the roots of trees.  It 
+  stays motionless as it waits 
+  for evolution. 
 	Evolution Chain
       Nincada ► Ninjask
-shedinja
 
-  ↞--------| STATS |--------↠ 
-             hp:         31
-         attack:         45
-        defense:         90
- special-attack:         30
-special-defense:         30
-          speed:         40
+Stage 2 Forms:
+  ninjask
+  shedinja
 
-Pokedex ID: 290	Capture Rate: 255
-Base Exp: 53	Happiness: 50
-Height: 5	Weight: 55
+   ↞--------| STATS |--------↠ 
+              hp:         31
+          attack:         45
+         defense:         90
+  special-attack:         30
+ special-defense:         30
+           speed:         40
 
-Genus: Trainee Pokémon
-Location Areas:
-eterna-forest-area
-hoenn-route-116-area
-kalos-route-6-area
+ Genus: Trainee Pokémon
+ Happiness: 50	Pokedex ID: 290
+ Base Exp: 53	Capture Rate: 255
+ Height:    5	Weight: 55
+
+ Location Areas:
+   Eterna forest area
+   Hoenn route 116 area
+   Kalos route 6 area

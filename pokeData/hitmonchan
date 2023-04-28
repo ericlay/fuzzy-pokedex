@@ -1,28 +1,30 @@
 
-Hitmonchan	 A fighting type Pokémon
+  Hitmonchan    Fighting Type Pokémon
 
-While apparently doing nothing, 
-it fires punches in lightning 
-fast volleys that are impossible 
-to see. 
-
+  While apparently doing nothing, 
+  it fires punches in lightning 
+  fast volleys that are impossible 
+  to see. 
 	Evolution Chain
       Tyrogue ► Hitmonlee
-hitmonchan
-hitmontop
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:        105
-        defense:         79
- special-attack:         35
-special-defense:        110
-          speed:         76
+Stage 2 Forms:
+  hitmonlee
+  hitmonchan
+  hitmontop
 
-Pokedex ID: 107	Capture Rate: 45
-Base Exp: 159	Happiness: 50
-Height: 14	Weight: 502
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:        105
+         defense:         79
+  special-attack:         35
+ special-defense:        110
+           speed:         76
 
-Genus: Punching Pokémon
-Location Areas:
-saffron-city-fighting-dojo
+ Genus: Punching Pokémon
+ Happiness: 50	Pokedex ID: 107
+ Base Exp: 159	Capture Rate: 45
+ Height:    14	Weight: 502
+
+ Location Areas:
+   Saffron city fighting dojo

@@ -1,27 +1,25 @@
 
-Litten	 A fire type Pokémon
+  Litten    Fire Type Pokémon
 
-While grooming itself, it builds 
-up fur inside its stomach.  It 
-sets the fur alight and spews 
-fiery attacks, which change based 
-on how it coughs. 
+  While grooming itself, it builds 
+  up fur inside its stomach.  It 
+  sets the fur alight and spews 
+  fiery attacks, which change based 
+  on how it coughs. 
+	   Evolution Chain
+  Litten ► Torracat ► Incineroar
 
-	Evolution Chain
-Litten ► Torracat ► Incineroar
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         65
+         defense:         40
+  special-attack:         60
+ special-defense:         40
+           speed:         70
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         65
-        defense:         40
- special-attack:         60
-special-defense:         40
-          speed:         70
+ Genus: Fire Cat Pokémon
+ Happiness: 50	Pokedex ID: 725
+ Base Exp: 64	Capture Rate: 45
+ Height:    4	Weight: 43
 
-Pokedex ID: 725	Capture Rate: 45
-Base Exp: 64	Happiness: 50
-Height: 4	Weight: 43
-
-Genus: Fire Cat Pokémon
-Location Areas:
-
+ Location Areas:

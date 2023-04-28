@@ -1,32 +1,34 @@
 
-Jolteon	 A electric type Pokémon
+  Jolteon    Electric Type Pokémon
 
-It accumulates negative ions 
-in the atmosphere to blast out 
-10000- volt lightning bolts. 
-
+  It accumulates negative ions 
+  in the atmosphere to blast out 
+  10000- volt lightning bolts. 
+  
 	Evolution Chain
       Eevee ► Vaporeon
-jolteon
-flareon
-espeon
-umbreon
-leafeon
-glaceon
-sylveon
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         65
-        defense:         60
- special-attack:        110
-special-defense:         95
-          speed:        130
+Stage 2 Forms:
+  vaporeon
+  jolteon
+  flareon
+  espeon
+  umbreon
+  leafeon
+  glaceon
+  sylveon
 
-Pokedex ID: 135	Capture Rate: 45
-Base Exp: 184	Happiness: 50
-Height: 8	Weight: 245
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         65
+         defense:         60
+  special-attack:        110
+ special-defense:         95
+           speed:        130
 
-Genus: Lightning Pokémon
-Location Areas:
+ Genus: Lightning Pokémon
+ Happiness: 50	Pokedex ID: 135
+ Base Exp: 184	Capture Rate: 45
+ Height:    8	Weight: 245
 
+ Location Areas:

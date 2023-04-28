@@ -1,26 +1,26 @@
 
-Sliggoo	 A dragon type Pokémon
+  Sliggoo    Dragon Type Pokémon
 
-It drives away opponents by 
-excreting a sticky liquid that 
-can dissolve anything.  Its eyes 
-devolved, so it can’t see anything. 
+  It drives away opponents by 
+  excreting a sticky liquid that 
+  can dissolve anything.  Its eyes 
+  devolved, so it can’t see anything. 
+  
+	   Evolution Chain
+  Goomy ► Sliggoo ► Goodra
 
-	Evolution Chain
-Goomy ► Sliggoo ► Goodra
+   ↞--------| STATS |--------↠ 
+              hp:         68
+          attack:         75
+         defense:         53
+  special-attack:         83
+ special-defense:        113
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         68
-         attack:         75
-        defense:         53
- special-attack:         83
-special-defense:        113
-          speed:         60
+ Genus: Soft Tissue Pokémon
+ Happiness: 35	Pokedex ID: 705
+ Base Exp: 158	Capture Rate: 45
+ Height:    8	Weight: 175
 
-Pokedex ID: 705	Capture Rate: 45
-Base Exp: 158	Happiness: 35
-Height: 8	Weight: 175
-
-Genus: Soft Tissue Pokémon
-Location Areas:
-kalos-route-19-area
+ Location Areas:
+   Kalos route 19 area

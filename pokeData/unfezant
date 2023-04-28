@@ -1,34 +1,33 @@
 
-Unfezant	 A normal type Pokémon
+  Unfezant    Normal Type Pokémon
 
-Males swing their head plumage 
-to threaten opponents.  The females’ 
-flying abilities surpass those 
-of the males. 
+  Males swing their head plumage 
+  to threaten opponents.  The females’ 
+  flying abilities surpass those 
+  of the males. 
+	   Evolution Chain
+  Pidove ► Tranquill ► Unfezant
 
-	Evolution Chain
-Pidove ► Tranquill ► Unfezant
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:        115
+         defense:         80
+  special-attack:         65
+ special-defense:         55
+           speed:         93
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:        115
-        defense:         80
- special-attack:         65
-special-defense:         55
-          speed:         93
+ Genus: Proud Pokémon
+ Happiness: 50	Pokedex ID: 521
+ Base Exp: 244	Capture Rate: 45
+ Height:    12	Weight: 290
 
-Pokedex ID: 521	Capture Rate: 45
-Base Exp: 244	Happiness: 50
-Height: 12	Weight: 290
-
-Genus: Proud Pokémon
-Location Areas:
-dragonspiral-tower-entrance
-dragonspiral-tower-outside
-unova-route-3-area
-unova-route-6-area
-unova-route-7-area
-unova-route-12-area
-lostlorn-forest-area
-unova-victory-road-2-unknown-area-73
-unova-victory-road-2-unknown-area-79
+ Location Areas:
+   Dragonspiral tower entrance
+   Dragonspiral tower outside
+   Unova route 3 area
+   Unova route 6 area
+   Unova route 7 area
+   Unova route 12 area
+   Lostlorn forest area
+   Unova victory road 2 unknown area 73
+   Unova victory road 2 unknown area 79

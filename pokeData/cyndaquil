@@ -1,27 +1,26 @@
 
-Cyndaquil	 A fire type Pokémon
+  Cyndaquil    Fire Type Pokémon
 
-It has a timid nature.  If it 
-is startled, the flames on its 
-back burn more vigorously. 
+  It has a timid nature.  If it 
+  is startled, the flames on its 
+  back burn more vigorously. 
+	   Evolution Chain
+  Cyndaquil ► Quilava ► Typhlosion
 
-	Evolution Chain
-Cyndaquil ► Quilava ► Typhlosion
+   ↞--------| STATS |--------↠ 
+              hp:         39
+          attack:         52
+         defense:         43
+  special-attack:         60
+ special-defense:         50
+           speed:         65
 
-  ↞--------| STATS |--------↠ 
-             hp:         39
-         attack:         52
-        defense:         43
- special-attack:         60
-special-defense:         50
-          speed:         65
+ Genus: Fire Mouse Pokémon
+ Happiness: 70	Pokedex ID: 155
+ Base Exp: 62	Capture Rate: 45
+ Height:    5	Weight: 79
 
-Pokedex ID: 155	Capture Rate: 45
-Base Exp: 62	Happiness: 70
-Height: 5	Weight: 79
-
-Genus: Fire Mouse Pokémon
-Location Areas:
-new-bark-town-area
-hoenn-route-101-area
-littleroot-town-area
+ Location Areas:
+   New bark town area
+   Hoenn route 101 area
+   Littleroot town area

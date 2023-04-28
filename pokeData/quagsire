@@ -1,55 +1,58 @@
 
-Quagsire	 A water type Pokémon
+  Quagsire    Water Type Pokémon
 
-This carefree Pokémon has an 
-easy-going nature.  While swimming, 
-it always bumps into boat hulls. 
-
+  This carefree Pokémon has an 
+  easy-going nature.  While swimming, 
+  it always bumps into boat hulls. 
+  
 	Evolution Chain
       Wooper ► Quagsire
-clodsire
 
-  ↞--------| STATS |--------↠ 
-             hp:         95
-         attack:         85
-        defense:         85
- special-attack:         65
-special-defense:         65
-          speed:         35
+Stage 2 Forms:
+  quagsire
+  clodsire
 
-Pokedex ID: 195	Capture Rate: 90
-Base Exp: 151	Happiness: 50
-Height: 14	Weight: 750
+   ↞--------| STATS |--------↠ 
+              hp:         95
+          attack:         85
+         defense:         85
+  special-attack:         65
+ special-defense:         65
+           speed:         35
 
-Genus: Water Fish Pokémon
-Location Areas:
-great-marsh-area-1
-great-marsh-area-2
-great-marsh-area-3
-great-marsh-area-4
-great-marsh-area-5
-great-marsh-area-6
-sinnoh-route-212-east-towards-pastoria-city
-johto-route-32-area
-ruins-of-alph-outside
-union-cave-1f
-union-cave-b1f
-union-cave-b2f
-mt-silver-2f
-mt-silver-1f-top
-mt-silver-4f
-johto-route-47-cave-gate
-johto-route-47-inside-cave
-mt-silver-3f
-mt-silver-top
-kanto-route-12-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-10-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-hoenn-safari-zone-expansion-south
-kalos-route-14-area
-kalos-route-19-area
-johto-safari-zone-zone-wetland
+ Genus: Water Fish Pokémon
+ Happiness: 50	Pokedex ID: 195
+ Base Exp: 151	Capture Rate: 90
+ Height:    14	Weight: 750
+
+ Location Areas:
+   Great marsh area 1
+   Great marsh area 2
+   Great marsh area 3
+   Great marsh area 4
+   Great marsh area 5
+   Great marsh area 6
+   Sinnoh route 212 east towards pastoria city
+   Johto route 32 area
+   Ruins of alph outside
+   Union cave 1f
+   Union cave b1f
+   Union cave b2f
+   Mt silver 2f
+   Mt silver 1f top
+   Mt silver 4f
+   Johto route 47 cave gate
+   Johto route 47 inside cave
+   Mt silver 3f
+   Mt silver top
+   Kanto route 12 area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto route 10 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Hoenn safari zone expansion south
+   Kalos route 14 area
+   Kalos route 19 area
+   Johto safari zone zone wetland

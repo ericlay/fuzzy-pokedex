@@ -1,35 +1,34 @@
 
-Watchog	 A normal type Pokémon
+  Watchog    Normal Type Pokémon
 
-When they see an enemy, their 
-tails stand high, and they spit 
-the seeds of berries stored in 
-their cheek pouches. 
-
+  When they see an enemy, their 
+  tails stand high, and they spit 
+  the seeds of berries stored in 
+  their cheek pouches. 
 	Evolution Chain
       Patrat ► Watchog
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         85
-        defense:         69
- special-attack:         60
-special-defense:         69
-          speed:         77
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         85
+         defense:         69
+  special-attack:         60
+ special-defense:         69
+           speed:         77
 
-Pokedex ID: 505	Capture Rate: 255
-Base Exp: 147	Happiness: 70
-Height: 11	Weight: 270
+ Genus: Lookout Pokémon
+ Happiness: 70	Pokedex ID: 505
+ Base Exp: 147	Capture Rate: 255
+ Height:    11	Weight: 270
 
-Genus: Lookout Pokémon
-Location Areas:
-dreamyard-area
-dreamyard-b1f
-p2-laboratory-area
-unova-route-1-area
-unova-route-2-area
-unova-route-3-area
-unova-route-7-area
-unova-route-15-area
-unova-route-18-area
-kalos-route-15-area
+ Location Areas:
+   Dreamyard area
+   Dreamyard b1f
+   P2 laboratory area
+   Unova route 1 area
+   Unova route 2 area
+   Unova route 3 area
+   Unova route 7 area
+   Unova route 15 area
+   Unova route 18 area
+   Kalos route 15 area

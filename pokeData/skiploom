@@ -1,28 +1,27 @@
 
-Skiploom	 A grass type Pokémon
+  Skiploom    Grass Type Pokémon
 
-The bloom on top of its head 
-opens and closes as the temperature 
-fluc­ tuates up and down. 
+  The bloom on top of its head 
+  opens and closes as the temperature 
+  fluc­ tuates up and down. 
+	   Evolution Chain
+  Hoppip ► Skiploom ► Jumpluff
 
-	Evolution Chain
-Hoppip ► Skiploom ► Jumpluff
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         45
+         defense:         50
+  special-attack:         45
+ special-defense:         65
+           speed:         80
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         45
-        defense:         50
- special-attack:         45
-special-defense:         65
-          speed:         80
+ Genus: Cottonweed Pokémon
+ Happiness: 70	Pokedex ID: 188
+ Base Exp: 119	Capture Rate: 120
+ Height:    6	Weight: 10
 
-Pokedex ID: 188	Capture Rate: 120
-Base Exp: 119	Happiness: 70
-Height: 6	Weight: 10
-
-Genus: Cottonweed Pokémon
-Location Areas:
-fuego-ironworks-area
-sinnoh-route-205-east-towards-eterna-city
-kanto-route-14-area
-johto-safari-zone-zone-meadow
+ Location Areas:
+   Fuego ironworks area
+   Sinnoh route 205 east towards eterna city
+   Kanto route 14 area
+   Johto safari zone zone meadow

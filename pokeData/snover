@@ -1,31 +1,31 @@
 
-Snover	 A grass type Pokémon
+  Snover    Grass Type Pokémon
 
-It lives on snowy mountains. 
- Having had little contact with 
-humans, it is boldly inquisitive. 
-
+  It lives on snowy mountains. 
+   Having had little contact with 
+  humans, it is boldly inquisitive. 
+  
 	Evolution Chain
       Snover ► Abomasnow
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         62
-        defense:         50
- special-attack:         62
-special-defense:         60
-          speed:         40
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         62
+         defense:         50
+  special-attack:         62
+ special-defense:         60
+           speed:         40
 
-Pokedex ID: 459	Capture Rate: 120
-Base Exp: 67	Happiness: 50
-Height: 10	Weight: 505
+ Genus: Frost Tree Pokémon
+ Happiness: 50	Pokedex ID: 459
+ Base Exp: 67	Capture Rate: 120
+ Height:    10	Weight: 505
 
-Genus: Frost Tree Pokémon
-Location Areas:
-mt-coronet-exterior-snowfall
-mt-coronet-exterior-blizzard
-lake-acuity-area
-acuity-lakefront-area
-sinnoh-route-216-area
-sinnoh-route-217-area
-kalos-route-17-area
+ Location Areas:
+   Mt coronet exterior snowfall
+   Mt coronet exterior blizzard
+   Lake acuity area
+   Acuity lakefront area
+   Sinnoh route 216 area
+   Sinnoh route 217 area
+   Kalos route 17 area

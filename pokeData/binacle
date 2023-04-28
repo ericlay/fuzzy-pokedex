@@ -1,30 +1,29 @@
 
-Binacle	 A rock type Pokémon
+  Binacle    Rock Type Pokémon
 
-Two Binacle live together on 
-one rock.  When they fight, one 
-of them will move to a different 
-rock. 
-
+  Two Binacle live together on 
+  one rock.  When they fight, one 
+  of them will move to a different 
+  rock. 
 	Evolution Chain
       Binacle ► Barbaracle
 
-  ↞--------| STATS |--------↠ 
-             hp:         42
-         attack:         52
-        defense:         67
- special-attack:         39
-special-defense:         56
-          speed:         50
+   ↞--------| STATS |--------↠ 
+              hp:         42
+          attack:         52
+         defense:         67
+  special-attack:         39
+ special-defense:         56
+           speed:         50
 
-Pokedex ID: 688	Capture Rate: 120
-Base Exp: 61	Happiness: 50
-Height: 5	Weight: 310
+ Genus: Two-Handed Pokémon
+ Happiness: 50	Pokedex ID: 688
+ Base Exp: 61	Capture Rate: 120
+ Height:    5	Weight: 310
 
-Genus: Two-Handed Pokémon
-Location Areas:
-ambrette-town-area
-cyllage-city-area
-kalos-route-8-area
-kalos-route-12-area
-azure-bay-area
+ Location Areas:
+   Ambrette town area
+   Cyllage city area
+   Kalos route 8 area
+   Kalos route 12 area
+   Azure bay area

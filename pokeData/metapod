@@ -1,48 +1,24 @@
 
-Metapod	 A bug type Pokémon
+  Metapod    Bug Type Pokémon
 
-Metapod is vulnerable to 
-attack while its shell is soft, 
-exposing its weak and tender 
-body. 
+  Metapod is vulnerable to 
+  attack while its shell is soft, 
+  exposing its weak and tender 
+  body. 
+	   Evolution Chain
+  Caterpie ► Metapod ► Butterfree
 
-	Evolution Chain
-Caterpie ► Metapod ► Butterfree
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         20
+         defense:         55
+  special-attack:         25
+ special-defense:         25
+           speed:         30
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         20
-        defense:         55
- special-attack:         25
-special-defense:         25
-          speed:         30
+ Genus: Cocoon Pokémon
+ Happiness: 50	Pokedex ID: 11
+ Base Exp: 72	Capture Rate: 120
+ Height:    7	Weight: 99
 
-Pokedex ID: 11	Capture Rate: 120
-Base Exp: 72	Happiness: 50
-Height: 7	Weight: 99
-
-Genus: Cocoon Pokémon
-Location Areas:
-eterna-forest-area
-johto-route-30-area
-johto-route-31-area
-ilex-forest-area
-johto-route-34-area
-johto-route-35-area
-national-park-area
-johto-route-36-area
-johto-route-37-area
-johto-route-38-area
-johto-route-39-area
-lake-of-rage-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-2-south-towards-viridian-city
-kanto-route-24-area
-kanto-route-25-area
-kanto-route-2-north-towards-pewter-city
-viridian-forest-area
-pattern-bush-area
-unova-route-12-area
-santalune-forest-area
-azalea-town-area
+ Location Areas:

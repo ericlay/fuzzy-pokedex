@@ -1,25 +1,24 @@
 
-Lampent	 A ghost type Pokémon
+  Lampent    Ghost Type Pokémon
 
-This ominous Pokémon is feared. 
- Through cities it wanders, searching 
-for the spirits of the fallen. 
+  This ominous Pokémon is feared. 
+   Through cities it wanders, searching 
+  for the spirits of the fallen. 
+  
+	   Evolution Chain
+  Litwick ► Lampent ► Chandelure
 
-	Evolution Chain
-Litwick ► Lampent ► Chandelure
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         40
+         defense:         60
+  special-attack:         95
+ special-defense:         60
+           speed:         55
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         40
-        defense:         60
- special-attack:         95
-special-defense:         60
-          speed:         55
+ Genus: Lamp Pokémon
+ Happiness: 50	Pokedex ID: 608
+ Base Exp: 130	Capture Rate: 90
+ Height:    6	Weight: 130
 
-Pokedex ID: 608	Capture Rate: 90
-Base Exp: 130	Happiness: 50
-Height: 6	Weight: 130
-
-Genus: Lamp Pokémon
-Location Areas:
-
+ Location Areas:

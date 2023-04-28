@@ -1,26 +1,27 @@
 
-Scizor	 A bug type Pokémon
+  Scizor    Bug Type Pokémon
 
-It has a steel-hard body.  It 
-intimidates foes by upraising 
-its eye-patterned pincers. 
-
+  It has a steel-hard body.  It 
+  intimidates foes by upraising 
+  its eye-patterned pincers. 
 	Evolution Chain
       Scyther ► Scizor
-kleavor
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:        130
-        defense:        100
- special-attack:         55
-special-defense:         80
-          speed:         65
+Stage 2 Forms:
+  scizor
+  kleavor
 
-Pokedex ID: 212	Capture Rate: 25
-Base Exp: 175	Happiness: 50
-Height: 18	Weight: 1180
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:        130
+         defense:        100
+  special-attack:         55
+ special-defense:         80
+           speed:         65
 
-Genus: Pincer Pokémon
-Location Areas:
+ Genus: Pincer Pokémon
+ Happiness: 50	Pokedex ID: 212
+ Base Exp: 175	Capture Rate: 25
+ Height:    18	Weight: 1180
 
+ Location Areas:

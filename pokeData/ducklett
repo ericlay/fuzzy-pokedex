@@ -1,27 +1,26 @@
 
-Ducklett	 A water type Pokémon
+  Ducklett    Water Type Pokémon
 
-These bird Pokémon are excellent 
-divers.  They swim around in 
-the water eating their favorite 
-food--peat moss. 
-
+  These bird Pokémon are excellent 
+  divers.  They swim around in 
+  the water eating their favorite 
+  food--peat moss. 
 	Evolution Chain
       Ducklett ► Swanna
 
-  ↞--------| STATS |--------↠ 
-             hp:         62
-         attack:         44
-        defense:         50
- special-attack:         44
-special-defense:         50
-          speed:         55
+   ↞--------| STATS |--------↠ 
+              hp:         62
+          attack:         44
+         defense:         50
+  special-attack:         44
+ special-defense:         50
+           speed:         55
 
-Pokedex ID: 580	Capture Rate: 190
-Base Exp: 61	Happiness: 70
-Height: 5	Weight: 55
+ Genus: Water Bird Pokémon
+ Happiness: 70	Pokedex ID: 580
+ Base Exp: 61	Capture Rate: 190
+ Height:    5	Weight: 55
 
-Genus: Water Bird Pokémon
-Location Areas:
-driftveil-drawbridge-area
-kalos-route-7-area
+ Location Areas:
+   Driftveil drawbridge area
+   Kalos route 7 area

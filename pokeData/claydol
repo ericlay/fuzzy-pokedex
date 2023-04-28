@@ -1,30 +1,30 @@
 
-Claydol	 A ground type Pokémon
+  Claydol    Ground Type Pokémon
 
-CLAYDOL are said to be dolls 
-of mud made by primitive humans 
-and brought to life by exposure 
-to a mysterious ray.  Claydol 
-moves about while levitating. 
-
+  CLAYDOL are said to be dolls 
+  of mud made by primitive humans 
+  and brought to life by exposure 
+  to a mysterious ray.  Claydol 
+  moves about while levitating. 
+  
 	Evolution Chain
       Baltoy ► Claydol
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         70
-        defense:        105
- special-attack:         70
-special-defense:        120
-          speed:         75
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         70
+         defense:        105
+  special-attack:         70
+ special-defense:        120
+           speed:         75
 
-Pokedex ID: 344	Capture Rate: 90
-Base Exp: 175	Happiness: 50
-Height: 15	Weight: 1080
+ Genus: Clay Doll Pokémon
+ Happiness: 50	Pokedex ID: 344
+ Base Exp: 175	Capture Rate: 90
+ Height:    15	Weight: 1080
 
-Genus: Clay Doll Pokémon
-Location Areas:
-sky-pillar-1f
-sky-pillar-3f
-sky-pillar-5f
-relic-castle-d
+ Location Areas:
+   Sky pillar 1f
+   Sky pillar 3f
+   Sky pillar 5f
+   Relic castle d

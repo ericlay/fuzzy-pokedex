@@ -1,44 +1,43 @@
 
-Hoppip	 A grass type Pokémon
+  Hoppip    Grass Type Pokémon
 
-To keep from being blown away 
-by the wind, they gather in clusters. 
- They do enjoy gentle breezes, 
-though. 
+  To keep from being blown away 
+  by the wind, they gather in clusters. 
+   They do enjoy gentle breezes, 
+  though. 
+	   Evolution Chain
+  Hoppip ► Skiploom ► Jumpluff
 
-	Evolution Chain
-Hoppip ► Skiploom ► Jumpluff
+   ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:         35
+         defense:         40
+  special-attack:         35
+ special-defense:         55
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         35
-         attack:         35
-        defense:         40
- special-attack:         35
-special-defense:         55
-          speed:         50
+ Genus: Cottonweed Pokémon
+ Happiness: 70	Pokedex ID: 187
+ Base Exp: 50	Capture Rate: 255
+ Height:    4	Weight: 5
 
-Pokedex ID: 187	Capture Rate: 255
-Base Exp: 50	Happiness: 70
-Height: 4	Weight: 5
-
-Genus: Cottonweed Pokémon
-Location Areas:
-fuego-ironworks-area
-sinnoh-route-205-south-towards-floaroma-town
-sinnoh-route-205-east-towards-eterna-city
-johto-route-29-area
-johto-route-30-area
-johto-route-31-area
-johto-route-32-area
-johto-route-33-area
-johto-route-48-area
-kanto-route-11-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-resort-gorgeous-area
-water-labyrinth-area
-five-isle-meadow-area
-memorial-pillar-area
-five-island-area
-johto-safari-zone-zone-meadow
+ Location Areas:
+   Fuego ironworks area
+   Sinnoh route 205 south towards floaroma town
+   Sinnoh route 205 east towards eterna city
+   Johto route 29 area
+   Johto route 30 area
+   Johto route 31 area
+   Johto route 32 area
+   Johto route 33 area
+   Johto route 48 area
+   Kanto route 11 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Resort gorgeous area
+   Water labyrinth area
+   Five isle meadow area
+   Memorial pillar area
+   Five island area
+   Johto safari zone zone meadow

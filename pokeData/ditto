@@ -1,41 +1,40 @@
 
-Ditto	 A normal type Pokémon
+  Ditto    Normal Type Pokémon
 
-Capable of copying an enemy's 
-genetic code to instantly transform 
-itself into a duplicate of the 
-enemy. 
+  Capable of copying an enemy's 
+  genetic code to instantly transform 
+  itself into a duplicate of the 
+  enemy. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         48
+          attack:         48
+         defense:         48
+  special-attack:         48
+ special-defense:         48
+           speed:         48
 
-  ↞--------| STATS |--------↠ 
-             hp:         48
-         attack:         48
-        defense:         48
- special-attack:         48
-special-defense:         48
-          speed:         48
+ Genus: Transform Pokémon
+ Happiness: 50	Pokedex ID: 132
+ Base Exp: 101	Capture Rate: 35
+ Height:    3	Weight: 40
 
-Pokedex ID: 132	Capture Rate: 35
-Base Exp: 101	Happiness: 50
-Height: 3	Weight: 40
-
-Genus: Transform Pokémon
-Location Areas:
-sinnoh-route-218-area
-johto-route-34-area
-johto-route-35-area
-johto-route-47-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-kanto-route-23-area
-pokemon-mansion-b1f
-desert-underpass-area
-giant-chasm-forest
-giant-chasm-forest-cave
-pokemon-village-area
-johto-safari-zone-zone-wetland
+ Location Areas:
+   Sinnoh route 218 area
+   Johto route 34 area
+   Johto route 35 area
+   Johto route 47 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Kanto route 23 area
+   Pokemon mansion b1f
+   Desert underpass area
+   Giant chasm forest
+   Giant chasm forest cave
+   Pokemon village area
+   Johto safari zone zone wetland

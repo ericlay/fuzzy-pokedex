@@ -1,29 +1,28 @@
 
-Vanillite	 A ice type Pokémon
+  Vanillite    Ice Type Pokémon
 
-The temperature of their breath 
-is -58° F.  They create snow 
-crystals and make snow fall in 
-the areas around them. 
+  The temperature of their breath 
+  is -58° F.  They create snow 
+  crystals and make snow fall in 
+  the areas around them. 
+	   Evolution Chain
+  Vanillite ► Vanillish ► Vanilluxe
 
-	Evolution Chain
-Vanillite ► Vanillish ► Vanilluxe
+   ↞--------| STATS |--------↠ 
+              hp:         36
+          attack:         50
+         defense:         50
+  special-attack:         65
+ special-defense:         60
+           speed:         44
 
-  ↞--------| STATS |--------↠ 
-             hp:         36
-         attack:         50
-        defense:         50
- special-attack:         65
-special-defense:         60
-          speed:         44
+ Genus: Fresh Snow Pokémon
+ Happiness: 50	Pokedex ID: 582
+ Base Exp: 61	Capture Rate: 255
+ Height:    4	Weight: 57
 
-Pokedex ID: 582	Capture Rate: 255
-Base Exp: 61	Happiness: 50
-Height: 4	Weight: 57
-
-Genus: Fresh Snow Pokémon
-Location Areas:
-cold-storage-area
-dragonspiral-tower-entrance
-dragonspiral-tower-outside
-unova-route-6-area
+ Location Areas:
+   Cold storage area
+   Dragonspiral tower entrance
+   Dragonspiral tower outside
+   Unova route 6 area

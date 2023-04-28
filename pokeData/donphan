@@ -1,38 +1,37 @@
 
-Donphan	 A ground type Pokémon
+  Donphan    Ground Type Pokémon
 
-It has sharp, hard tusks and 
-a rugged hide.  Its TACKLE is 
-strong enough to knock down a 
-house. 
-
+  It has sharp, hard tusks and 
+  a rugged hide.  Its TACKLE is 
+  strong enough to knock down a 
+  house. 
 	Evolution Chain
       Phanpy ► Donphan
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:        120
-        defense:        120
- special-attack:         60
-special-defense:         60
-          speed:         50
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:        120
+         defense:        120
+  special-attack:         60
+ special-defense:         60
+           speed:         50
 
-Pokedex ID: 232	Capture Rate: 60
-Base Exp: 175	Happiness: 70
-Height: 11	Weight: 1200
+ Genus: Armor Pokémon
+ Happiness: 70	Pokedex ID: 232
+ Base Exp: 175	Capture Rate: 60
+ Height:    11	Weight: 1200
 
-Genus: Armor Pokémon
-Location Areas:
-johto-route-45-area
-mt-silver-2f
-mt-silver-1f-top
-mt-silver-4f
-mt-silver-outside
-mt-silver-1f
-mt-silver-mountainside
-mt-silver-3f
-mt-silver-top
-kanto-route-28-area
-kanto-victory-road-1-1f
-kanto-victory-road-1-2f
-kanto-victory-road-1-3f
+ Location Areas:
+   Johto route 45 area
+   Mt silver 2f
+   Mt silver 1f top
+   Mt silver 4f
+   Mt silver outside
+   Mt silver 1f
+   Mt silver mountainside
+   Mt silver 3f
+   Mt silver top
+   Kanto route 28 area
+   Kanto victory road 1 1f
+   Kanto victory road 1 2f
+   Kanto victory road 1 3f

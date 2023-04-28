@@ -1,29 +1,28 @@
 
-Slakoth	 A normal type Pokémon
+  Slakoth    Normal Type Pokémon
 
-SLAKOTH lolls around for over 
-twenty hours every day.  Because 
-it moves so little, it does not 
-need much food.  Slakoth’s 
-sole daily meal consists of just 
-three leaves. 
+  SLAKOTH lolls around for over 
+  twenty hours every day.  Because 
+  it moves so little, it does not 
+  need much food.  Slakoth’s 
+  sole daily meal consists of just 
+  three leaves. 
+	   Evolution Chain
+  Slakoth ► Vigoroth ► Slaking
 
-	Evolution Chain
-Slakoth ► Vigoroth ► Slaking
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         60
+         defense:         60
+  special-attack:         35
+ special-defense:         35
+           speed:         30
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         60
-        defense:         60
- special-attack:         35
-special-defense:         35
-          speed:         30
+ Genus: Slacker Pokémon
+ Happiness: 70	Pokedex ID: 287
+ Base Exp: 56	Capture Rate: 255
+ Height:    8	Weight: 240
 
-Pokedex ID: 287	Capture Rate: 255
-Base Exp: 56	Happiness: 70
-Height: 8	Weight: 240
-
-Genus: Slacker Pokémon
-Location Areas:
-eterna-forest-area
-petalburg-woods-area
+ Location Areas:
+   Eterna forest area
+   Petalburg woods area

@@ -1,32 +1,31 @@
 
-Litwick	 A ghost type Pokémon
+  Litwick    Ghost Type Pokémon
 
-Litwick shines a light that 
-absorbs the life energy of people 
-and Pokémon, which becomes the 
-fuel that it burns. 
+  Litwick shines a light that 
+  absorbs the life energy of people 
+  and Pokémon, which becomes the 
+  fuel that it burns. 
+	   Evolution Chain
+  Litwick ► Lampent ► Chandelure
 
-	Evolution Chain
-Litwick ► Lampent ► Chandelure
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         30
+         defense:         55
+  special-attack:         65
+ special-defense:         55
+           speed:         20
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         30
-        defense:         55
- special-attack:         65
-special-defense:         55
-          speed:         20
+ Genus: Candle Pokémon
+ Happiness: 50	Pokedex ID: 607
+ Base Exp: 55	Capture Rate: 190
+ Height:    3	Weight: 31
 
-Pokedex ID: 607	Capture Rate: 190
-Base Exp: 55	Happiness: 50
-Height: 3	Weight: 31
-
-Genus: Candle Pokémon
-Location Areas:
-celestial-tower-2f
-celestial-tower-3f
-celestial-tower-4f
-celestial-tower-5f
-strange-house-1f
-strange-house-b1f
-lost-hotel-area
+ Location Areas:
+   Celestial tower 2f
+   Celestial tower 3f
+   Celestial tower 4f
+   Celestial tower 5f
+   Strange house 1f
+   Strange house b1f
+   Lost hotel area

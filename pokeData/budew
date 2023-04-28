@@ -1,40 +1,39 @@
 
-Budew	 A grass type Pokémon
+  Budew    Grass Type Pokémon
 
-Over the winter, it closes its 
-bud and endures the cold.  In 
-spring, the bud opens and releases 
-pollen. 
+  Over the winter, it closes its 
+  bud and endures the cold.  In 
+  spring, the bud opens and releases 
+  pollen. 
+	   Evolution Chain
+  Budew ► Roselia ► Roserade
 
-	Evolution Chain
-Budew ► Roselia ► Roserade
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         30
+         defense:         35
+  special-attack:         50
+ special-defense:         70
+           speed:         55
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         30
-        defense:         35
- special-attack:         50
-special-defense:         70
-          speed:         55
+ Genus: Bud Pokémon
+ Happiness: 50	Pokedex ID: 406
+ Base Exp: 56	Capture Rate: 255
+ Height:    2	Weight: 12
 
-Pokedex ID: 406	Capture Rate: 255
-Base Exp: 56	Happiness: 50
-Height: 2	Weight: 12
-
-Genus: Bud Pokémon
-Location Areas:
-eterna-forest-area
-great-marsh-area-1
-great-marsh-area-2
-great-marsh-area-3
-great-marsh-area-4
-great-marsh-area-5
-great-marsh-area-6
-sinnoh-route-204-south-towards-jubilife-city
-sinnoh-route-204-north-towards-floaroma-town
-sinnoh-route-205-east-towards-eterna-city
-sinnoh-route-208-area
-sinnoh-route-212-north-towards-hearthome-city
-ilex-forest-area
-viridian-forest-area
-kalos-route-4-area
+ Location Areas:
+   Eterna forest area
+   Great marsh area 1
+   Great marsh area 2
+   Great marsh area 3
+   Great marsh area 4
+   Great marsh area 5
+   Great marsh area 6
+   Sinnoh route 204 south towards jubilife city
+   Sinnoh route 204 north towards floaroma town
+   Sinnoh route 205 east towards eterna city
+   Sinnoh route 208 area
+   Sinnoh route 212 north towards hearthome city
+   Ilex forest area
+   Viridian forest area
+   Kalos route 4 area

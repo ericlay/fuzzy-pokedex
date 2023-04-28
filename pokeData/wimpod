@@ -1,27 +1,25 @@
 
-Wimpod	 A bug type Pokémon
+  Wimpod    Bug Type Pokémon
 
-This Pokémon is a coward.  As 
-it desperately dashes off, the 
-flailing of its many legs leaves 
-a sparkling clean path in its 
-wake. 
-
+  This Pokémon is a coward.  As 
+  it desperately dashes off, the 
+  flailing of its many legs leaves 
+  a sparkling clean path in its 
+  wake. 
 	Evolution Chain
       Wimpod ► Golisopod
 
-  ↞--------| STATS |--------↠ 
-             hp:         25
-         attack:         35
-        defense:         40
- special-attack:         20
-special-defense:         30
-          speed:         80
+   ↞--------| STATS |--------↠ 
+              hp:         25
+          attack:         35
+         defense:         40
+  special-attack:         20
+ special-defense:         30
+           speed:         80
 
-Pokedex ID: 767	Capture Rate: 90
-Base Exp: 46	Happiness: 50
-Height: 5	Weight: 120
+ Genus: Turn Tail Pokémon
+ Happiness: 50	Pokedex ID: 767
+ Base Exp: 46	Capture Rate: 90
+ Height:    5	Weight: 120
 
-Genus: Turn Tail Pokémon
-Location Areas:
-
+ Location Areas:

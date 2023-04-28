@@ -1,56 +1,55 @@
 
-Zigzagoon	 A normal type Pokémon
+  Zigzagoon    Normal Type Pokémon
 
-ZIGZAGOON restlessly wanders 
-everywhere at all times.  This 
-Pokémon does so because it is 
-very curious.  It becomes interested 
-in anything that it happens to 
-see. 
+  ZIGZAGOON restlessly wanders 
+  everywhere at all times.  This 
+  Pokémon does so because it is 
+  very curious.  It becomes interested 
+  in anything that it happens to 
+  see. 
+	   Evolution Chain
+  Zigzagoon ► Linoone ► Obstagoon
 
-	Evolution Chain
-Zigzagoon ► Linoone ► Obstagoon
+   ↞--------| STATS |--------↠ 
+              hp:         38
+          attack:         30
+         defense:         41
+  special-attack:         30
+ special-defense:         41
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         38
-         attack:         30
-        defense:         41
- special-attack:         30
-special-defense:         41
-          speed:         60
+ Genus: Tiny Raccoon Pokémon
+ Happiness: 50	Pokedex ID: 263
+ Base Exp: 56	Capture Rate: 255
+ Height:    4	Weight: 175
 
-Pokedex ID: 263	Capture Rate: 255
-Base Exp: 56	Happiness: 50
-Height: 4	Weight: 175
-
-Genus: Tiny Raccoon Pokémon
-Location Areas:
-sinnoh-route-202-area
-sprout-tower-2f
-sprout-tower-3f
-burned-tower-1f
-burned-tower-b1f
-bell-tower-2f
-bell-tower-3f
-bell-tower-4f
-bell-tower-5f
-bell-tower-6f
-bell-tower-7f
-bell-tower-8f
-bell-tower-9f
-bell-tower-10f
-unknown-all-rattata-area
-petalburg-woods-area
-hoenn-route-101-area
-hoenn-route-102-area
-hoenn-route-103-area
-hoenn-route-104-area
-hoenn-route-110-area
-hoenn-route-116-area
-hoenn-route-117-area
-hoenn-route-118-area
-hoenn-route-119-area
-hoenn-route-120-area
-hoenn-route-121-area
-hoenn-route-123-area
-kalos-route-2-area
+ Location Areas:
+   Sinnoh route 202 area
+   Sprout tower 2f
+   Sprout tower 3f
+   Burned tower 1f
+   Burned tower b1f
+   Bell tower 2f
+   Bell tower 3f
+   Bell tower 4f
+   Bell tower 5f
+   Bell tower 6f
+   Bell tower 7f
+   Bell tower 8f
+   Bell tower 9f
+   Bell tower 10f
+   Unknown all rattata area
+   Petalburg woods area
+   Hoenn route 101 area
+   Hoenn route 102 area
+   Hoenn route 103 area
+   Hoenn route 104 area
+   Hoenn route 110 area
+   Hoenn route 116 area
+   Hoenn route 117 area
+   Hoenn route 118 area
+   Hoenn route 119 area
+   Hoenn route 120 area
+   Hoenn route 121 area
+   Hoenn route 123 area
+   Kalos route 2 area

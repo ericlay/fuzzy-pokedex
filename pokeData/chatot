@@ -1,42 +1,41 @@
 
-Chatot	 A normal type Pokémon
+  Chatot    Normal Type Pokémon
 
-It can learn and speak human 
-words.  If they gather, they 
-all learn the same saying. 
+  It can learn and speak human 
+  words.  If they gather, they 
+  all learn the same saying. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         76
+          attack:         65
+         defense:         45
+  special-attack:         92
+ special-defense:         42
+           speed:         91
 
-  ↞--------| STATS |--------↠ 
-             hp:         76
-         attack:         65
-        defense:         45
- special-attack:         92
-special-defense:         42
-          speed:         91
+ Genus: Music Note Pokémon
+ Happiness: 35	Pokedex ID: 441
+ Base Exp: 144	Capture Rate: 30
+ Height:    5	Weight: 19
 
-Pokedex ID: 441	Capture Rate: 30
-Base Exp: 144	Happiness: 35
-Height: 5	Weight: 19
-
-Genus: Music Note Pokémon
-Location Areas:
-sinnoh-route-213-area
-sinnoh-route-218-area
-sinnoh-route-222-area
-sinnoh-route-224-area
-sprout-tower-2f
-sprout-tower-3f
-burned-tower-1f
-burned-tower-b1f
-bell-tower-2f
-bell-tower-3f
-bell-tower-4f
-bell-tower-5f
-bell-tower-6f
-bell-tower-7f
-bell-tower-8f
-bell-tower-9f
-bell-tower-10f
-kalos-route-12-area
-azure-bay-area
+ Location Areas:
+   Sinnoh route 213 area
+   Sinnoh route 218 area
+   Sinnoh route 222 area
+   Sinnoh route 224 area
+   Sprout tower 2f
+   Sprout tower 3f
+   Burned tower 1f
+   Burned tower b1f
+   Bell tower 2f
+   Bell tower 3f
+   Bell tower 4f
+   Bell tower 5f
+   Bell tower 6f
+   Bell tower 7f
+   Bell tower 8f
+   Bell tower 9f
+   Bell tower 10f
+   Kalos route 12 area
+   Azure bay area

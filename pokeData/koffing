@@ -1,37 +1,36 @@
 
-Koffing	 A poison type Pokémon
+  Koffing    Poison Type Pokémon
 
-Because it stores several kinds 
-of toxic gases in its body, it 
-is prone to exploding without 
-warning. 
-
+  Because it stores several kinds 
+  of toxic gases in its body, it 
+  is prone to exploding without 
+  warning. 
 	Evolution Chain
       Koffing ► Weezing
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         65
-        defense:         95
- special-attack:         60
-special-defense:         45
-          speed:         35
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         65
+         defense:         95
+  special-attack:         60
+ special-defense:         45
+           speed:         35
 
-Pokedex ID: 109	Capture Rate: 190
-Base Exp: 68	Happiness: 50
-Height: 6	Weight: 10
+ Genus: Poison Gas Pokémon
+ Happiness: 50	Pokedex ID: 109
+ Base Exp: 68	Capture Rate: 190
+ Height:    6	Weight: 10
 
-Genus: Poison Gas Pokémon
-Location Areas:
-stark-mountain-inside
-burned-tower-1f
-burned-tower-b1f
-celadon-city-area
-pokemon-mansion-1f
-pokemon-mansion-2f
-pokemon-mansion-3f
-pokemon-mansion-b1f
-fiery-path-area
-virbank-complex-inner
-johto-safari-zone-zone-marshland
-team-rocket-hq-area
+ Location Areas:
+   Stark mountain inside
+   Burned tower 1f
+   Burned tower b1f
+   Celadon city area
+   Pokemon mansion 1f
+   Pokemon mansion 2f
+   Pokemon mansion 3f
+   Pokemon mansion b1f
+   Fiery path area
+   Virbank complex inner
+   Johto safari zone zone marshland
+   Team rocket hq area

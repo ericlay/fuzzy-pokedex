@@ -1,118 +1,120 @@
 
-Poliwag	 A water type Pokémon
+  Poliwag    Water Type Pokémon
 
-Its newly grown legs prevent 
-it from running.  It appears 
-to prefer swimming than trying 
-to stand. 
+  Its newly grown legs prevent 
+  it from running.  It appears 
+  to prefer swimming than trying 
+  to stand. 
+	   Evolution Chain
+  Poliwag ► Poliwhirl ► Poliwrath
 
-	Evolution Chain
-Poliwag ► Poliwhirl ► Poliwrath
-politoed
+Stage 3 Forms:
+  poliwrath
+  politoed
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         50
-        defense:         40
- special-attack:         40
-special-defense:         40
-          speed:         90
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         50
+         defense:         40
+  special-attack:         40
+ special-defense:         40
+           speed:         90
 
-Pokedex ID: 60	Capture Rate: 255
-Base Exp: 60	Happiness: 50
-Height: 6	Weight: 124
+ Genus: Tadpole Pokémon
+ Happiness: 50	Pokedex ID: 60
+ Base Exp: 60	Capture Rate: 255
+ Height:    6	Weight: 124
 
-Genus: Tadpole Pokémon
-Location Areas:
-sinnoh-route-225-area
-sinnoh-route-227-area
-sinnoh-route-228-area
-johto-route-30-area
-johto-route-31-area
-violet-city-area
-ruins-of-alph-outside
-ilex-forest-area
-johto-route-35-area
-ecruteak-city-area
-johto-route-43-area
-johto-route-44-area
-blackthorn-city-area
-johto-route-45-area
-mt-moon-mt-moon-square
-unknown-all-poliwag-area
-seafoam-islands-b3f
-seafoam-islands-b4f
-johto-route-47-cave-gate
-mt-silver-outside
-kanto-route-12-area
-kanto-sea-route-19-area
-kanto-sea-route-20-area
-cinnabar-island-area
-viridian-city-area
-cerulean-city-area
-vermilion-city-area
-celadon-city-area
-fuchsia-city-area
-pallet-town-area
-kanto-route-28-area
-kanto-route-6-area
-kanto-route-10-area
-kanto-route-11-area
-kanto-route-13-area
-kanto-route-17-area
-kanto-route-18-area
-kanto-sea-route-21-area
-kanto-route-22-area
-kanto-route-24-area
-kanto-route-25-area
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-kanto-route-23-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-vermilion-city-ss-anne-dock
-berry-forest-area
-icefall-cave-entrance
-cape-brink-area
-ruin-valley-area
-four-island-area
-unova-victory-road-unknown-area-53
-unova-victory-road-unknown-area-58
-giant-chasm-area
-giant-chasm-forest-cave
-wellspring-cave-area
-unova-route-6-area
-challengers-cave-b2f
-lostlorn-forest-area
-unova-victory-road-2-unknown-area-71
-unova-victory-road-2-unknown-area-73
-unova-victory-road-2-unknown-area-75
-unova-victory-road-2-unknown-area-78
-unova-victory-road-2-unknown-area-79
-floccesy-ranch-outer
-floccesy-ranch-inner
-relic-passage-relic-castle-entrance
-clay-tunnel-area
-unova-route-19-area
-unova-route-20-area
-unova-route-23-area
-couriway-town-area
-laverre-city-area
-kalos-route-14-area
-kalos-route-15-area
-kalos-route-16-area
-kalos-route-19-area
-kalos-route-21-area
-frost-cavern-unknown-area-313
-frost-cavern-unknown-area-315
-pokemon-village-area
-kalos-victory-road-unknown-area-322
-kalos-victory-road-unknown-area-327
-kalos-victory-road-unknown-area-328
-johto-safari-zone-zone-meadow
-johto-safari-zone-zone-marshland
-johto-safari-zone-zone-rocky-beach
-johto-safari-zone-zone-wetland
+ Location Areas:
+   Sinnoh route 225 area
+   Sinnoh route 227 area
+   Sinnoh route 228 area
+   Johto route 30 area
+   Johto route 31 area
+   Violet city area
+   Ruins of alph outside
+   Ilex forest area
+   Johto route 35 area
+   Ecruteak city area
+   Johto route 43 area
+   Johto route 44 area
+   Blackthorn city area
+   Johto route 45 area
+   Mt moon mt moon square
+   Unknown all poliwag area
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Johto route 47 cave gate
+   Mt silver outside
+   Kanto route 12 area
+   Kanto sea route 19 area
+   Kanto sea route 20 area
+   Cinnabar island area
+   Viridian city area
+   Cerulean city area
+   Vermilion city area
+   Celadon city area
+   Fuchsia city area
+   Pallet town area
+   Kanto route 28 area
+   Kanto route 6 area
+   Kanto route 10 area
+   Kanto route 11 area
+   Kanto route 13 area
+   Kanto route 17 area
+   Kanto route 18 area
+   Kanto sea route 21 area
+   Kanto route 22 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Kanto route 23 area
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Vermilion city ss anne dock
+   Berry forest area
+   Icefall cave entrance
+   Cape brink area
+   Ruin valley area
+   Four island area
+   Unova victory road unknown area 53
+   Unova victory road unknown area 58
+   Giant chasm area
+   Giant chasm forest cave
+   Wellspring cave area
+   Unova route 6 area
+   Challengers cave b2f
+   Lostlorn forest area
+   Unova victory road 2 unknown area 71
+   Unova victory road 2 unknown area 73
+   Unova victory road 2 unknown area 75
+   Unova victory road 2 unknown area 78
+   Unova victory road 2 unknown area 79
+   Floccesy ranch outer
+   Floccesy ranch inner
+   Relic passage relic castle entrance
+   Clay tunnel area
+   Unova route 19 area
+   Unova route 20 area
+   Unova route 23 area
+   Couriway town area
+   Laverre city area
+   Kalos route 14 area
+   Kalos route 15 area
+   Kalos route 16 area
+   Kalos route 19 area
+   Kalos route 21 area
+   Frost cavern unknown area 313
+   Frost cavern unknown area 315
+   Pokemon village area
+   Kalos victory road unknown area 322
+   Kalos victory road unknown area 327
+   Kalos victory road unknown area 328
+   Johto safari zone zone meadow
+   Johto safari zone zone marshland
+   Johto safari zone zone rocky beach
+   Johto safari zone zone wetland

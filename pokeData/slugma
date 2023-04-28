@@ -1,26 +1,36 @@
 
-Slugma	 A fire type Pokémon
+  Slugma    Fire Type Pokémon
 
-It never sleeps.  It has to 
-keep moving because if it stopped, 
-its magma body would cool and 
-harden. 
-
+  It never sleeps.  It has to 
+  keep moving because if it stopped, 
+  its magma body would cool and 
+  harden. 
 	Evolution Chain
       Slugma ► Magcargo
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         40
-        defense:         40
- special-attack:         70
-special-defense:         40
-          speed:         20
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         40
+         defense:         40
+  special-attack:         70
+ special-defense:         40
+           speed:         20
 
-Pokedex ID: 218	Capture Rate: 190
-Base Exp: 50	Happiness: 70
-Height: 7	Weight: 350
+ Genus: Lava Pokémon
+ Happiness: 70	Pokedex ID: 218
+ Base Exp: 50	Capture Rate: 190
+ Height:    7	Weight: 350
 
-Genus: Lava Pokémon
-Location Areas:
-
+ Location Areas:
+   Stark mountain entrance
+   Stark mountain inside
+   Kanto route 16 area
+   Kanto route 17 area
+   Kanto route 18 area
+   Fiery path area
+   Hoenn route 113 area
+   Mt ember b1f
+   Mt ember b2f
+   Mt ember b3f
+   Kalos route 13 area
+   Violet city pokemon center

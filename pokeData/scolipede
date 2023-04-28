@@ -1,25 +1,25 @@
 
-Scolipede	 A bug type Pokémon
+  Scolipede    Bug Type Pokémon
 
-With quick movements, it chases 
-down its foes, attacking relentlessly 
-with its horns until it prevails. 
+  With quick movements, it chases 
+  down its foes, attacking relentlessly 
+  with its horns until it prevails. 
+  
+	   Evolution Chain
+  Venipede ► Whirlipede ► Scolipede
 
-	Evolution Chain
-Venipede ► Whirlipede ► Scolipede
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:        100
+         defense:         89
+  special-attack:         55
+ special-defense:         69
+           speed:        112
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:        100
-        defense:         89
- special-attack:         55
-special-defense:         69
-          speed:        112
+ Genus: Megapede Pokémon
+ Happiness: 50	Pokedex ID: 545
+ Base Exp: 243	Capture Rate: 45
+ Height:    25	Weight: 2005
 
-Pokedex ID: 545	Capture Rate: 45
-Base Exp: 243	Happiness: 50
-Height: 25	Weight: 2005
-
-Genus: Megapede Pokémon
-Location Areas:
-pinwheel-forest-inside
+ Location Areas:
+   Pinwheel forest inside

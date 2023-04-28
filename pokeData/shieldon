@@ -1,20 +1,24 @@
 
-	 A  type Pokémon
+  Shieldon    Rock Type Pokémon
 
-A Pokémon that lived in jungles 
-around 100 million years ago. 
- Its facial hide is extremely 
-hard. 
-
+  A Pokémon that lived in jungles 
+  around 100 million years ago. 
+   Its facial hide is extremely 
+  hard. 
 	Evolution Chain
       Shieldon ► Bastiodon
 
-  ↞--------| STATS |--------↠ 
+   ↞--------| STATS |--------↠ 
+              hp:         30
+          attack:         42
+         defense:        118
+  special-attack:         42
+ special-defense:         88
+           speed:         30
 
-Pokedex ID: 	Capture Rate: 45
-Base Exp: 	Happiness: 70
-Height: 	Weight: 
+ Genus: Shield Pokémon
+ Happiness: 70	Pokedex ID: 410
+ Base Exp: 70	Capture Rate: 45
+ Height:    5	Weight: 570
 
-Genus: Shield Pokémon
-Location Areas:
-
+ Location Areas:

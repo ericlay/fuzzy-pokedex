@@ -1,34 +1,33 @@
 
-Mareep	 A electric type Pokémon
+  Mareep    Electric Type Pokémon
 
-If static elec­ tricity builds 
-in its body, its fleece doubles 
-in volume.  Touching it will 
-shock you. 
+  If static elec­ tricity builds 
+  in its body, its fleece doubles 
+  in volume.  Touching it will 
+  shock you. 
+	   Evolution Chain
+  Mareep ► Flaaffy ► Ampharos
 
-	Evolution Chain
-Mareep ► Flaaffy ► Ampharos
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         40
+         defense:         40
+  special-attack:         65
+ special-defense:         45
+           speed:         35
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         40
-        defense:         40
- special-attack:         65
-special-defense:         45
-          speed:         35
+ Genus: Wool Pokémon
+ Happiness: 70	Pokedex ID: 179
+ Base Exp: 56	Capture Rate: 235
+ Height:    6	Weight: 78
 
-Pokedex ID: 179	Capture Rate: 235
-Base Exp: 56	Happiness: 70
-Height: 6	Weight: 78
-
-Genus: Wool Pokémon
-Location Areas:
-valley-windworks-area
-johto-route-32-area
-johto-route-42-area
-johto-route-43-area
-hoenn-safari-zone-expansion-south
-hoenn-altering-cave-b
-kanto-altering-cave-b
-floccesy-ranch-inner
-violet-city-pokemon-center
+ Location Areas:
+   Valley windworks area
+   Johto route 32 area
+   Johto route 42 area
+   Johto route 43 area
+   Hoenn safari zone expansion south
+   Hoenn altering cave b
+   Kanto altering cave b
+   Floccesy ranch inner
+   Violet city pokemon center

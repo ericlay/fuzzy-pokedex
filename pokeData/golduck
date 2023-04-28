@@ -1,78 +1,77 @@
 
-Golduck	 A water type Pokémon
+  Golduck    Water Type Pokémon
 
-Often seen swim­ ming elegantly 
-by lake shores.  It is often 
-mistaken for the Japanese monster, 
-Kappa. 
-
+  Often seen swim­ ming elegantly 
+  by lake shores.  It is often 
+  mistaken for the Japanese monster, 
+  Kappa. 
 	Evolution Chain
       Psyduck ► Golduck
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:         82
-        defense:         78
- special-attack:         95
-special-defense:         80
-          speed:         85
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:         82
+         defense:         78
+  special-attack:         95
+ special-defense:         80
+           speed:         85
 
-Pokedex ID: 55	Capture Rate: 75
-Base Exp: 175	Happiness: 50
-Height: 17	Weight: 766
+ Genus: Duck Pokémon
+ Happiness: 50	Pokedex ID: 55
+ Base Exp: 175	Capture Rate: 75
+ Height:    17	Weight: 766
 
-Genus: Duck Pokémon
-Location Areas:
-eterna-city-area
-ravaged-path-area
-oreburgh-gate-b1f
-sendoff-spring-area
-lake-verity-before-galactic-intervention
-lake-verity-after-galactic-intervention
-lake-valor-area
-lake-acuity-area
-sinnoh-route-203-area
-sinnoh-route-204-south-towards-jubilife-city
-sinnoh-route-204-north-towards-floaroma-town
-sinnoh-route-205-east-towards-eterna-city
-sinnoh-route-208-area
-sinnoh-route-209-area
-sinnoh-route-210-west-towards-celestic-town
-sinnoh-route-212-north-towards-hearthome-city
-sinnoh-route-214-area
-sinnoh-route-225-area
-twinleaf-town-area
-celestic-town-area
-resort-area-area
-sinnoh-sea-route-226-area
-sinnoh-sea-route-230-area
-ilex-forest-area
-johto-route-35-area
-seafoam-islands-1f
-seafoam-islands-b1f
-seafoam-islands-b2f
-seafoam-islands-b3f
-seafoam-islands-b4f
-mt-silver-2f
-mt-silver-1f-top
-mt-silver-4f
-mt-silver-mountainside
-mt-silver-3f
-mt-silver-top
-kanto-route-6-area
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-hoenn-safari-zone-nwmach-bike-area
-berry-forest-area
-cape-brink-area
-village-bridge-area
-unova-route-11-area
-unova-route-14-area
-abundant-shrine-area
-seaside-cave-1f
-seaside-cave-b1f
-nature-sanctuary-area
-unova-route-22-area
-unova-route-23-area
-johto-safari-zone-zone-wetland
+ Location Areas:
+   Eterna city area
+   Ravaged path area
+   Oreburgh gate b1f
+   Sendoff spring area
+   Lake verity before galactic intervention
+   Lake verity after galactic intervention
+   Lake valor area
+   Lake acuity area
+   Sinnoh route 203 area
+   Sinnoh route 204 south towards jubilife city
+   Sinnoh route 204 north towards floaroma town
+   Sinnoh route 205 east towards eterna city
+   Sinnoh route 208 area
+   Sinnoh route 209 area
+   Sinnoh route 210 west towards celestic town
+   Sinnoh route 212 north towards hearthome city
+   Sinnoh route 214 area
+   Sinnoh route 225 area
+   Twinleaf town area
+   Celestic town area
+   Resort area area
+   Sinnoh sea route 226 area
+   Sinnoh sea route 230 area
+   Ilex forest area
+   Johto route 35 area
+   Seafoam islands 1f
+   Seafoam islands b1f
+   Seafoam islands b2f
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Mt silver 2f
+   Mt silver 1f top
+   Mt silver 4f
+   Mt silver mountainside
+   Mt silver 3f
+   Mt silver top
+   Kanto route 6 area
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Hoenn safari zone nwmach bike area
+   Berry forest area
+   Cape brink area
+   Village bridge area
+   Unova route 11 area
+   Unova route 14 area
+   Abundant shrine area
+   Seaside cave 1f
+   Seaside cave b1f
+   Nature sanctuary area
+   Unova route 22 area
+   Unova route 23 area
+   Johto safari zone zone wetland

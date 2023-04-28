@@ -1,31 +1,30 @@
 
-Parasect	 A bug type Pokémon
+  Parasect    Bug Type Pokémon
 
-A host-parasite pair in which 
-the parasite mushroom has taken 
-over the host bug.  Prefers damp 
-places. 
-
+  A host-parasite pair in which 
+  the parasite mushroom has taken 
+  over the host bug.  Prefers damp 
+  places. 
 	Evolution Chain
       Paras ► Parasect
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         95
-        defense:         80
- special-attack:         60
-special-defense:         80
-          speed:         30
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         95
+         defense:         80
+  special-attack:         60
+ special-defense:         80
+           speed:         30
 
-Pokedex ID: 47	Capture Rate: 75
-Base Exp: 142	Happiness: 70
-Height: 10	Weight: 295
+ Genus: Mushroom Pokémon
+ Happiness: 70	Pokedex ID: 47
+ Base Exp: 142	Capture Rate: 75
+ Height:    10	Weight: 295
 
-Genus: Mushroom Pokémon
-Location Areas:
-mt-silver-2f
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
+ Location Areas:
+   Mt silver 2f
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Kanto safari zone middle
+   Kanto safari zone area 1 east

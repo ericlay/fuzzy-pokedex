@@ -1,29 +1,30 @@
 
-Ninjask	 A bug type Pokémon
+  Ninjask    Bug Type Pokémon
 
-NINJASK moves around at such 
-a high speed that it cannot be 
-seen, even while its crying can 
-be clearly heard.  For that reason, 
-Ninjask was long believed 
-to be invisible. 
-
+  NINJASK moves around at such 
+  a high speed that it cannot be 
+  seen, even while its crying can 
+  be clearly heard.  For that reason, 
+  Ninjask was long believed 
+  to be invisible. 
 	Evolution Chain
       Nincada ► Ninjask
-shedinja
 
-  ↞--------| STATS |--------↠ 
-             hp:         61
-         attack:         90
-        defense:         45
- special-attack:         50
-special-defense:         50
-          speed:        160
+Stage 2 Forms:
+  ninjask
+  shedinja
 
-Pokedex ID: 291	Capture Rate: 120
-Base Exp: 160	Happiness: 50
-Height: 8	Weight: 120
+   ↞--------| STATS |--------↠ 
+              hp:         61
+          attack:         90
+         defense:         45
+  special-attack:         50
+ special-defense:         50
+           speed:        160
 
-Genus: Ninja Pokémon
-Location Areas:
+ Genus: Ninja Pokémon
+ Happiness: 50	Pokedex ID: 291
+ Base Exp: 160	Capture Rate: 120
+ Height:    8	Weight: 120
 
+ Location Areas:

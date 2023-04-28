@@ -1,34 +1,33 @@
 
-Chansey	 A normal type Pokémon
+  Chansey    Normal Type Pokémon
 
-A rare and elusive Pokémon that 
-is said to bring happiness to 
-those who manage to get it. 
+  A rare and elusive Pokémon that 
+  is said to bring happiness to 
+  those who manage to get it. 
+	   Evolution Chain
+  Happiny ► Chansey ► Blissey
 
-	Evolution Chain
-Happiny ► Chansey ► Blissey
+   ↞--------| STATS |--------↠ 
+              hp:        250
+          attack:          5
+         defense:          5
+  special-attack:         35
+ special-defense:        105
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:        250
-         attack:          5
-        defense:          5
- special-attack:         35
-special-defense:        105
-          speed:         50
+ Genus: Egg Pokémon
+ Happiness: 140	Pokedex ID: 113
+ Base Exp: 395	Capture Rate: 30
+ Height:    11	Weight: 346
 
-Pokedex ID: 113	Capture Rate: 30
-Base Exp: 395	Happiness: 140
-Height: 11	Weight: 346
-
-Genus: Egg Pokémon
-Location Areas:
-sinnoh-route-209-area
-sinnoh-route-210-south-towards-solaceon-town
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-cerulean-cave-2f
-cerulean-cave-b1f
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
+ Location Areas:
+   Sinnoh route 209 area
+   Sinnoh route 210 south towards solaceon town
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north

@@ -1,26 +1,24 @@
 
-Dottler	 A bug type Pokémon
+  Dottler    Bug Type Pokémon
 
-It barely moves, but it’s still 
-alive.  Hiding in its shell without 
-food or water seems to have awakened 
-its psychic powers. 
+  It barely moves, but it’s still 
+  alive.  Hiding in its shell without 
+  food or water seems to have awakened 
+  its psychic powers. 
+	   Evolution Chain
+  Blipbug ► Dottler ► Orbeetle
 
-	Evolution Chain
-Blipbug ► Dottler ► Orbeetle
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         35
+         defense:         80
+  special-attack:         50
+ special-defense:         90
+           speed:         30
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         35
-        defense:         80
- special-attack:         50
-special-defense:         90
-          speed:         30
+ Genus: Radome Pokémon
+ Happiness: 50	Pokedex ID: 825
+ Base Exp: 117	Capture Rate: 120
+ Height:    4	Weight: 195
 
-Pokedex ID: 825	Capture Rate: 120
-Base Exp: 117	Happiness: 50
-Height: 4	Weight: 195
-
-Genus: Radome Pokémon
-Location Areas:
-
+ Location Areas:

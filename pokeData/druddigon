@@ -1,33 +1,32 @@
 
-Druddigon	 A dragon type Pokémon
+  Druddigon    Dragon Type Pokémon
 
-It warms its body by absorbing 
-sunlight with its wings.  When 
-its body temperature falls, it 
-can no longer move. 
+  It warms its body by absorbing 
+  sunlight with its wings.  When 
+  its body temperature falls, it 
+  can no longer move. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         77
+          attack:        120
+         defense:         90
+  special-attack:         60
+ special-defense:         90
+           speed:         48
 
-  ↞--------| STATS |--------↠ 
-             hp:         77
-         attack:        120
-        defense:         90
- special-attack:         60
-special-defense:         90
-          speed:         48
+ Genus: Cave Pokémon
+ Happiness: 50	Pokedex ID: 621
+ Base Exp: 170	Capture Rate: 45
+ Height:    16	Weight: 1390
 
-Pokedex ID: 621	Capture Rate: 45
-Base Exp: 170	Happiness: 50
-Height: 16	Weight: 1390
-
-Genus: Cave Pokémon
-Location Areas:
-dragonspiral-tower-entrance
-dragonspiral-tower-outside
-dragonspiral-tower-1f
-unova-victory-road-2-unknown-area-77
-unova-victory-road-2-unknown-area-80
-kalos-victory-road-unknown-area-322
-kalos-victory-road-unknown-area-324
-kalos-victory-road-unknown-area-326
-kalos-victory-road-unknown-area-328
+ Location Areas:
+   Dragonspiral tower entrance
+   Dragonspiral tower outside
+   Dragonspiral tower 1f
+   Unova victory road 2 unknown area 77
+   Unova victory road 2 unknown area 80
+   Kalos victory road unknown area 322
+   Kalos victory road unknown area 324
+   Kalos victory road unknown area 326
+   Kalos victory road unknown area 328

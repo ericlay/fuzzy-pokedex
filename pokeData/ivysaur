@@ -1,26 +1,24 @@
 
-Ivysaur	 A grass type Pokémon
+  Ivysaur    Grass Type Pokémon
 
-When the bulb on its back grows 
-large, it appears to lose the 
-ability to stand on its hind 
-legs. 
+  When the bulb on its back grows 
+  large, it appears to lose the 
+  ability to stand on its hind 
+  legs. 
+	   Evolution Chain
+  Bulbasaur ► Ivysaur ► Venusaur
 
-	Evolution Chain
-Bulbasaur ► Ivysaur ► Venusaur
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         62
+         defense:         63
+  special-attack:         80
+ special-defense:         80
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         62
-        defense:         63
- special-attack:         80
-special-defense:         80
-          speed:         60
+ Genus: Seed Pokémon
+ Happiness: 50	Pokedex ID: 2
+ Base Exp: 142	Capture Rate: 45
+ Height:    10	Weight: 130
 
-Pokedex ID: 2	Capture Rate: 45
-Base Exp: 142	Happiness: 50
-Height: 10	Weight: 130
-
-Genus: Seed Pokémon
-Location Areas:
-
+ Location Areas:

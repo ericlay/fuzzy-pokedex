@@ -1,29 +1,28 @@
 
-Carnivine	 A grass type Pokémon
+  Carnivine    Grass Type Pokémon
 
-It attracts prey with its sweet- 
-smelling saliva, then chomps 
-down.  It takes a whole day to 
-eat prey. 
+  It attracts prey with its sweet- 
+  smelling saliva, then chomps 
+  down.  It takes a whole day to 
+  eat prey. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         74
+          attack:        100
+         defense:         72
+  special-attack:         90
+ special-defense:         72
+           speed:         46
 
-  ↞--------| STATS |--------↠ 
-             hp:         74
-         attack:        100
-        defense:         72
- special-attack:         90
-special-defense:         72
-          speed:         46
+ Genus: Bug Catcher Pokémon
+ Happiness: 70	Pokedex ID: 455
+ Base Exp: 159	Capture Rate: 200
+ Height:    14	Weight: 270
 
-Pokedex ID: 455	Capture Rate: 200
-Base Exp: 159	Happiness: 70
-Height: 14	Weight: 270
-
-Genus: Bug Catcher Pokémon
-Location Areas:
-ilex-forest-area
-viridian-forest-area
-unova-route-18-area
-kalos-route-14-area
-kalos-route-19-area
+ Location Areas:
+   Ilex forest area
+   Viridian forest area
+   Unova route 18 area
+   Kalos route 14 area
+   Kalos route 19 area

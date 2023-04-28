@@ -1,25 +1,23 @@
 
-Cherubi	 A grass type Pokémon
+  Cherubi    Grass Type Pokémon
 
-The small ball holds the nutrients 
-needed for evolution.  Apparently, 
-it is very sweet and tasty. 
-
+  The small ball holds the nutrients 
+  needed for evolution.  Apparently, 
+  it is very sweet and tasty. 
 	Evolution Chain
       Cherubi ► Cherrim
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         35
-        defense:         45
- special-attack:         62
-special-defense:         53
-          speed:         35
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         35
+         defense:         45
+  special-attack:         62
+ special-defense:         53
+           speed:         35
 
-Pokedex ID: 420	Capture Rate: 190
-Base Exp: 55	Happiness: 50
-Height: 4	Weight: 33
+ Genus: Cherry Pokémon
+ Happiness: 50	Pokedex ID: 420
+ Base Exp: 55	Capture Rate: 190
+ Height:    4	Weight: 33
 
-Genus: Cherry Pokémon
-Location Areas:
-
+ Location Areas:

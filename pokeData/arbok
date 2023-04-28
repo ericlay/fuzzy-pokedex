@@ -1,44 +1,43 @@
 
-Arbok	 A poison type Pokémon
+  Arbok    Poison Type Pokémon
 
-It is rumored that the ferocious 
-warning markings on its belly 
-differ from area to area. 
-
+  It is rumored that the ferocious 
+  warning markings on its belly 
+  differ from area to area. 
 	Evolution Chain
       Ekans ► Arbok
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         95
-        defense:         69
- special-attack:         65
-special-defense:         79
-          speed:         80
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         95
+         defense:         69
+  special-attack:         65
+ special-defense:         79
+           speed:         80
 
-Pokedex ID: 24	Capture Rate: 90
-Base Exp: 157	Happiness: 70
-Height: 35	Weight: 650
+ Genus: Cobra Pokémon
+ Happiness: 70	Pokedex ID: 24
+ Base Exp: 157	Capture Rate: 90
+ Height:    35	Weight: 650
 
-Genus: Cobra Pokémon
-Location Areas:
-great-marsh-area-1
-great-marsh-area-2
-great-marsh-area-3
-great-marsh-area-4
-great-marsh-area-5
-great-marsh-area-6
-johto-route-42-area
-mt-silver-outside
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-28-area
-kanto-route-3-area
-kanto-route-4-area
-cerulean-cave-1f
-cerulean-cave-b1f
-kanto-route-23-area
-kanto-victory-road-2-1f
-kanto-victory-road-2-2f
-kanto-victory-road-2-3f
-johto-safari-zone-zone-marshland
+ Location Areas:
+   Great marsh area 1
+   Great marsh area 2
+   Great marsh area 3
+   Great marsh area 4
+   Great marsh area 5
+   Great marsh area 6
+   Johto route 42 area
+   Mt silver outside
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto route 28 area
+   Kanto route 3 area
+   Kanto route 4 area
+   Cerulean cave 1f
+   Cerulean cave b1f
+   Kanto route 23 area
+   Kanto victory road 2 1f
+   Kanto victory road 2 2f
+   Kanto victory road 2 3f
+   Johto safari zone zone marshland

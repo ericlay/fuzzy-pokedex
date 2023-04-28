@@ -1,31 +1,31 @@
 
-Herdier	 A normal type Pokémon
+  Herdier    Normal Type Pokémon
 
-It has black, cape-like fur 
-that is very hard and decreases 
-the amount of damage it receives. 
+  It has black, cape-like fur 
+  that is very hard and decreases 
+  the amount of damage it receives. 
+  
+	   Evolution Chain
+  Lillipup ► Herdier ► Stoutland
 
-	Evolution Chain
-Lillipup ► Herdier ► Stoutland
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         80
+         defense:         65
+  special-attack:         35
+ special-defense:         65
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         80
-        defense:         65
- special-attack:         35
-special-defense:         65
-          speed:         60
+ Genus: Loyal Dog Pokémon
+ Happiness: 50	Pokedex ID: 507
+ Base Exp: 130	Capture Rate: 120
+ Height:    9	Weight: 147
 
-Pokedex ID: 507	Capture Rate: 120
-Base Exp: 130	Happiness: 50
-Height: 9	Weight: 147
-
-Genus: Loyal Dog Pokémon
-Location Areas:
-cold-storage-area
-p2-laboratory-area
-unova-route-1-area
-unova-route-2-area
-unova-route-3-area
-unova-route-10-area
-unova-route-10-victory-road-gate
+ Location Areas:
+   Cold storage area
+   P2 laboratory area
+   Unova route 1 area
+   Unova route 2 area
+   Unova route 3 area
+   Unova route 10 area
+   Unova route 10 victory road gate

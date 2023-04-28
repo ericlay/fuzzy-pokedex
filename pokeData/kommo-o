@@ -1,26 +1,24 @@
 
-Kommo-o	 A dragon type Pokémon
+  Kommo-o    Dragon Type Pokémon
 
-When it spots enemies, it threatens 
-them by jingling the scales on 
-its tail.  Weak opponents will 
-crack and flee in panic. 
+  When it spots enemies, it threatens 
+  them by jingling the scales on 
+  its tail.  Weak opponents will 
+  crack and flee in panic. 
+	   Evolution Chain
+  Jangmo-o ► Hakamo-o ► Kommo-o
 
-	Evolution Chain
-Jangmo-o ► Hakamo-o ► Kommo-o
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:        110
+         defense:        125
+  special-attack:        100
+ special-defense:        105
+           speed:         85
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:        110
-        defense:        125
- special-attack:        100
-special-defense:        105
-          speed:         85
+ Genus: Scaly Pokémon
+ Happiness: 50	Pokedex ID: 784
+ Base Exp: 300	Capture Rate: 45
+ Height:    16	Weight: 782
 
-Pokedex ID: 784	Capture Rate: 45
-Base Exp: 300	Happiness: 50
-Height: 16	Weight: 782
-
-Genus: Scaly Pokémon
-Location Areas:
-
+ Location Areas:

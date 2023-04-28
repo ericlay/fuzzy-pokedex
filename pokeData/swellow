@@ -1,31 +1,32 @@
 
-Swellow	 A normal type Pokémon
+  Swellow    Normal Type Pokémon
 
-SWELLOW flies high above our 
-heads, making graceful arcs in 
-the sky.  Swellow dives 
-at a steep angle as soon as it 
-spots its prey.  The hapless 
-prey is tightly grasped by SWELLOW’s 
-clawed feet, preventing escape. 
+  SWELLOW flies high above our 
+  heads, making graceful arcs in 
+  the sky.  Swellow dives 
+  at a steep angle as soon as it 
+  spots its prey.  The hapless 
+  prey is tightly grasped by SWELLOW’s 
+  clawed feet, preventing escape. 
+  
+	Evolution Chain
+      Taillow ► Swellow
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         85
+         defense:         60
+  special-attack:         75
+ special-defense:         50
+           speed:        125
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         85
-        defense:         60
- special-attack:         75
-special-defense:         50
-          speed:        125
+ Genus: Swallow Pokémon
+ Happiness: 70	Pokedex ID: 277
+ Base Exp: 159	Capture Rate: 45
+ Height:    7	Weight: 198
 
-Pokedex ID: 277	Capture Rate: 45
-Base Exp: 159	Happiness: 70
-Height: 7	Weight: 198
-
-Genus: Swallow Pokémon
-Location Areas:
-sinnoh-route-213-area
-hoenn-route-115-area
-giant-chasm-outside
-unova-route-13-area
+ Location Areas:
+   Sinnoh route 213 area
+   Hoenn route 115 area
+   Giant chasm outside
+   Unova route 13 area

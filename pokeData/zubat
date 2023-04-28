@@ -1,139 +1,138 @@
 
-Zubat	 A poison type Pokémon
+  Zubat    Poison Type Pokémon
 
-Forms colonies in perpetually 
-dark places.  Uses ultrasonic 
-waves to identify and approach 
-targets. 
+  Forms colonies in perpetually 
+  dark places.  Uses ultrasonic 
+  waves to identify and approach 
+  targets. 
+	   Evolution Chain
+  Zubat ► Golbat ► Crobat
 
-	Evolution Chain
-Zubat ► Golbat ► Crobat
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         45
+         defense:         35
+  special-attack:         30
+ special-defense:         40
+           speed:         55
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         45
-        defense:         35
- special-attack:         30
-special-defense:         40
-          speed:         55
+ Genus: Bat Pokémon
+ Happiness: 50	Pokedex ID: 41
+ Base Exp: 49	Capture Rate: 255
+ Height:    8	Weight: 75
 
-Pokedex ID: 41	Capture Rate: 255
-Base Exp: 49	Happiness: 50
-Height: 8	Weight: 75
-
-Genus: Bat Pokémon
-Location Areas:
-oreburgh-mine-1f
-oreburgh-mine-b1f
-mt-coronet-1f-route-207
-mt-coronet-4f
-mt-coronet-1f-route-211
-mt-coronet-b1f
-ravaged-path-area
-oreburgh-gate-1f
-oreburgh-gate-b1f
-wayward-cave-1f
-wayward-cave-b1f
-iron-island-1f
-acuity-lakefront-area
-sinnoh-route-203-area
-sinnoh-route-204-south-towards-jubilife-city
-sinnoh-route-204-north-towards-floaroma-town
-sinnoh-route-206-area
-sinnoh-route-207-area
-sinnoh-route-208-area
-sinnoh-route-209-area
-lost-tower-1f
-lost-tower-2f
-lost-tower-3f
-lost-tower-4f
-lost-tower-5f
-sinnoh-route-211-west-towards-eterna-city
-sinnoh-route-211-east-towards-celestic-town
-sinnoh-route-214-area
-sinnoh-route-216-area
-sinnoh-route-217-area
-johto-route-30-area
-johto-route-31-area
-johto-route-32-area
-union-cave-1f
-union-cave-b1f
-union-cave-b2f
-johto-route-33-area
-slowpoke-well-1f
-slowpoke-well-b1f
-ilex-forest-area
-burned-tower-1f
-burned-tower-b1f
-whirl-islands-1f
-whirl-islands-b1f
-whirl-islands-b2f
-whirl-islands-b3f
-johto-route-42-area
-mt-mortar-1f
-mt-mortar-lower-cave
-mt-mortar-b1f
-ice-path-1f
-ice-path-b1f
-ice-path-b2f
-ice-path-b3f
-dark-cave-violet-city-entrance
-dark-cave-blackthorn-city-entrance
-seafoam-islands-1f
-seafoam-islands-b1f
-seafoam-islands-b2f
-seafoam-islands-b3f
-seafoam-islands-b4f
-johto-route-47-inside-cave
-mt-moon-1f
-mt-moon-2f
-rock-tunnel-1f
-rock-tunnel-b1f
-kanto-route-3-area
-kanto-route-4-area
-kanto-route-9-area
-kanto-route-10-area
-tohjo-falls-area
-mt-moon-b1f
-mt-moon-b2f
-rock-tunnel-b2f
-kanto-victory-road-2-1f
-kanto-victory-road-2-2f
-kanto-victory-road-2-3f
-meteor-falls-area
-granite-cave-1f
-granite-cave-b1f
-granite-cave-b2f
-granite-cave-1fsmall-room
-seafloor-cavern-area
-cave-of-origin-entrance
-cave-of-origin-1f
-cave-of-origin-b1f
-cave-of-origin-b2f
-cave-of-origin-b3f
-hoenn-victory-road-1f
-shoal-cave-area
-shoal-cave-b1f
-hoenn-altering-cave-a
-icefall-cave-entrance
-icefall-cave-1f
-icefall-cave-b1f
-icefall-cave-waterfall
-lost-cave-room-1
-lost-cave-room-2
-lost-cave-room-3
-lost-cave-room-4
-lost-cave-room-5
-lost-cave-room-6
-lost-cave-room-7
-lost-cave-room-8
-lost-cave-room-9
-lost-cave-room-10
-lost-cave-item-rooms
-kanto-altering-cave-a
-castelia-sewers-area
-castelia-sewers-unknown-area-38
-connecting-cave-area
-johto-safari-zone-zone-mountain
-johto-safari-zone-zone-rocky-beach
-johto-safari-zone-zone-savannah
+ Location Areas:
+   Oreburgh mine 1f
+   Oreburgh mine b1f
+   Mt coronet 1f route 207
+   Mt coronet 4f
+   Mt coronet 1f route 211
+   Mt coronet b1f
+   Ravaged path area
+   Oreburgh gate 1f
+   Oreburgh gate b1f
+   Wayward cave 1f
+   Wayward cave b1f
+   Iron island 1f
+   Acuity lakefront area
+   Sinnoh route 203 area
+   Sinnoh route 204 south towards jubilife city
+   Sinnoh route 204 north towards floaroma town
+   Sinnoh route 206 area
+   Sinnoh route 207 area
+   Sinnoh route 208 area
+   Sinnoh route 209 area
+   Lost tower 1f
+   Lost tower 2f
+   Lost tower 3f
+   Lost tower 4f
+   Lost tower 5f
+   Sinnoh route 211 west towards eterna city
+   Sinnoh route 211 east towards celestic town
+   Sinnoh route 214 area
+   Sinnoh route 216 area
+   Sinnoh route 217 area
+   Johto route 30 area
+   Johto route 31 area
+   Johto route 32 area
+   Union cave 1f
+   Union cave b1f
+   Union cave b2f
+   Johto route 33 area
+   Slowpoke well 1f
+   Slowpoke well b1f
+   Ilex forest area
+   Burned tower 1f
+   Burned tower b1f
+   Whirl islands 1f
+   Whirl islands b1f
+   Whirl islands b2f
+   Whirl islands b3f
+   Johto route 42 area
+   Mt mortar 1f
+   Mt mortar lower cave
+   Mt mortar b1f
+   Ice path 1f
+   Ice path b1f
+   Ice path b2f
+   Ice path b3f
+   Dark cave violet city entrance
+   Dark cave blackthorn city entrance
+   Seafoam islands 1f
+   Seafoam islands b1f
+   Seafoam islands b2f
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Johto route 47 inside cave
+   Mt moon 1f
+   Mt moon 2f
+   Rock tunnel 1f
+   Rock tunnel b1f
+   Kanto route 3 area
+   Kanto route 4 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Tohjo falls area
+   Mt moon b1f
+   Mt moon b2f
+   Rock tunnel b2f
+   Kanto victory road 2 1f
+   Kanto victory road 2 2f
+   Kanto victory road 2 3f
+   Meteor falls area
+   Granite cave 1f
+   Granite cave b1f
+   Granite cave b2f
+   Granite cave 1fsmall room
+   Seafloor cavern area
+   Cave of origin entrance
+   Cave of origin 1f
+   Cave of origin b1f
+   Cave of origin b2f
+   Cave of origin b3f
+   Hoenn victory road 1f
+   Shoal cave area
+   Shoal cave b1f
+   Hoenn altering cave a
+   Icefall cave entrance
+   Icefall cave 1f
+   Icefall cave b1f
+   Icefall cave waterfall
+   Lost cave room 1
+   Lost cave room 2
+   Lost cave room 3
+   Lost cave room 4
+   Lost cave room 5
+   Lost cave room 6
+   Lost cave room 7
+   Lost cave room 8
+   Lost cave room 9
+   Lost cave room 10
+   Lost cave item rooms
+   Kanto altering cave a
+   Castelia sewers area
+   Castelia sewers unknown area 38
+   Connecting cave area
+   Johto safari zone zone mountain
+   Johto safari zone zone rocky beach
+   Johto safari zone zone savannah

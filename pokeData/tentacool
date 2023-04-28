@@ -1,128 +1,127 @@
 
-Tentacool	 A water type Pokémon
+  Tentacool    Water Type Pokémon
 
-Drifts in shallow seas.  Anglers 
-who hook them by accident are 
-often punished by its stinging 
-acid. 
-
+  Drifts in shallow seas.  Anglers 
+  who hook them by accident are 
+  often punished by its stinging 
+  acid. 
 	Evolution Chain
       Tentacool ► Tentacruel
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         40
-        defense:         35
- special-attack:         50
-special-defense:        100
-          speed:         70
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         40
+         defense:         35
+  special-attack:         50
+ special-defense:        100
+           speed:         70
 
-Pokedex ID: 72	Capture Rate: 190
-Base Exp: 67	Happiness: 50
-Height: 9	Weight: 455
+ Genus: Jellyfish Pokémon
+ Happiness: 50	Pokedex ID: 72
+ Base Exp: 67	Capture Rate: 190
+ Height:    9	Weight: 455
 
-Genus: Jellyfish Pokémon
-Location Areas:
-canalave-city-area
-pastoria-city-area
-sunyshore-city-area
-valley-windworks-area
-fuego-ironworks-area
-iron-island-area
-sinnoh-route-205-south-towards-floaroma-town
-sinnoh-route-212-east-towards-pastoria-city
-sinnoh-route-213-area
-sinnoh-route-218-area
-sinnoh-route-219-area
-sinnoh-route-221-area
-sinnoh-route-222-area
-sinnoh-sea-route-220-area
-new-bark-town-area
-cherrygrove-city-area
-johto-route-32-area
-union-cave-b2f
-johto-route-34-area
-olivine-city-area
-johto-sea-route-40-area
-johto-sea-route-41-area
-whirl-islands-1f
-cianwood-city-area
-johto-route-47-area
-seafoam-islands-b3f
-seafoam-islands-b4f
-kanto-route-12-area
-kanto-sea-route-19-area
-kanto-sea-route-20-area
-cinnabar-island-area
-viridian-city-area
-cerulean-city-area
-vermilion-city-area
-pallet-town-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-4-area
-kanto-route-10-area
-kanto-route-11-area
-kanto-route-13-area
-kanto-route-17-area
-kanto-route-18-area
-kanto-sea-route-21-area
-kanto-route-24-area
-vermilion-city-ss-anne-dock
-slateport-city-area
-lilycove-city-area
-mossdeep-city-area
-sootopolis-city-area
-ever-grande-city-area
-seafloor-cavern-area
-shoal-cave-area
-abandoned-ship-area
-hoenn-route-103-area
-hoenn-route-105-area
-hoenn-route-106-area
-hoenn-route-107-area
-hoenn-route-108-area
-hoenn-route-109-area
-hoenn-route-110-area
-hoenn-route-115-area
-hoenn-route-118-area
-hoenn-route-119-area
-hoenn-route-121-area
-hoenn-route-122-area
-hoenn-route-123-area
-hoenn-route-124-area
-hoenn-route-125-area
-hoenn-route-126-area
-hoenn-route-127-area
-hoenn-route-128-area
-hoenn-route-129-area
-hoenn-route-130-area
-hoenn-route-131-area
-hoenn-route-132-area
-hoenn-route-133-area
-hoenn-route-134-area
-dewford-town-area
-pacifidlog-town-area
-ss-anne-area
-icefall-cave-waterfall
-kindle-road-area
-treasure-beach-area
-bond-bridge-area
-resort-gorgeous-area
-water-labyrinth-area
-five-isle-meadow-area
-memorial-pillar-area
-outcast-island-area
-green-path-area
-water-path-area
-trainer-tower-area
-tanoby-ruins-area
-one-island-area
-five-island-area
-ambrette-town-area
-cyllage-city-area
-shalour-city-area
-kalos-route-8-area
-kalos-route-12-area
-azure-bay-area
-cianwood-city-pokemon-center
+ Location Areas:
+   Canalave city area
+   Pastoria city area
+   Sunyshore city area
+   Valley windworks area
+   Fuego ironworks area
+   Iron island area
+   Sinnoh route 205 south towards floaroma town
+   Sinnoh route 212 east towards pastoria city
+   Sinnoh route 213 area
+   Sinnoh route 218 area
+   Sinnoh route 219 area
+   Sinnoh route 221 area
+   Sinnoh route 222 area
+   Sinnoh sea route 220 area
+   New bark town area
+   Cherrygrove city area
+   Johto route 32 area
+   Union cave b2f
+   Johto route 34 area
+   Olivine city area
+   Johto sea route 40 area
+   Johto sea route 41 area
+   Whirl islands 1f
+   Cianwood city area
+   Johto route 47 area
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Kanto route 12 area
+   Kanto sea route 19 area
+   Kanto sea route 20 area
+   Cinnabar island area
+   Viridian city area
+   Cerulean city area
+   Vermilion city area
+   Pallet town area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto route 4 area
+   Kanto route 10 area
+   Kanto route 11 area
+   Kanto route 13 area
+   Kanto route 17 area
+   Kanto route 18 area
+   Kanto sea route 21 area
+   Kanto route 24 area
+   Vermilion city ss anne dock
+   Slateport city area
+   Lilycove city area
+   Mossdeep city area
+   Sootopolis city area
+   Ever grande city area
+   Seafloor cavern area
+   Shoal cave area
+   Abandoned ship area
+   Hoenn route 103 area
+   Hoenn route 105 area
+   Hoenn route 106 area
+   Hoenn route 107 area
+   Hoenn route 108 area
+   Hoenn route 109 area
+   Hoenn route 110 area
+   Hoenn route 115 area
+   Hoenn route 118 area
+   Hoenn route 119 area
+   Hoenn route 121 area
+   Hoenn route 122 area
+   Hoenn route 123 area
+   Hoenn route 124 area
+   Hoenn route 125 area
+   Hoenn route 126 area
+   Hoenn route 127 area
+   Hoenn route 128 area
+   Hoenn route 129 area
+   Hoenn route 130 area
+   Hoenn route 131 area
+   Hoenn route 132 area
+   Hoenn route 133 area
+   Hoenn route 134 area
+   Dewford town area
+   Pacifidlog town area
+   Ss anne area
+   Icefall cave waterfall
+   Kindle road area
+   Treasure beach area
+   Bond bridge area
+   Resort gorgeous area
+   Water labyrinth area
+   Five isle meadow area
+   Memorial pillar area
+   Outcast island area
+   Green path area
+   Water path area
+   Trainer tower area
+   Tanoby ruins area
+   One island area
+   Five island area
+   Ambrette town area
+   Cyllage city area
+   Shalour city area
+   Kalos route 8 area
+   Kalos route 12 area
+   Azure bay area
+   Cianwood city pokemon center

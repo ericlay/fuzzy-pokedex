@@ -1,25 +1,23 @@
 
-Pyukumuku	 A water type Pokémon
+  Pyukumuku    Water Type Pokémon
 
-It’s covered in a slime that 
-keeps its skin moist, allowing 
-it to stay on land for days without 
-drying up. 
+  It’s covered in a slime that 
+  keeps its skin moist, allowing 
+  it to stay on land for days without 
+  drying up. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         60
+         defense:        130
+  special-attack:         30
+ special-defense:        130
+           speed:          5
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         60
-        defense:        130
- special-attack:         30
-special-defense:        130
-          speed:          5
+ Genus: Sea Cucumber Pokémon
+ Happiness: 50	Pokedex ID: 771
+ Base Exp: 144	Capture Rate: 60
+ Height:    3	Weight: 12
 
-Pokedex ID: 771	Capture Rate: 60
-Base Exp: 144	Happiness: 50
-Height: 3	Weight: 12
-
-Genus: Sea Cucumber Pokémon
-Location Areas:
-
+ Location Areas:

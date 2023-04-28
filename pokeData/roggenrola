@@ -1,30 +1,29 @@
 
-Roggenrola	 A rock type Pokémon
+  Roggenrola    Rock Type Pokémon
 
-Its ear is hexagonal in shape. 
- Compressed underground, its 
-body is as hard as steel. 
+  Its ear is hexagonal in shape. 
+   Compressed underground, its 
+  body is as hard as steel. 
+	   Evolution Chain
+  Roggenrola ► Boldore ► Gigalith
 
-	Evolution Chain
-Roggenrola ► Boldore ► Gigalith
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         75
+         defense:         85
+  special-attack:         25
+ special-defense:         25
+           speed:         15
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         75
-        defense:         85
- special-attack:         25
-special-defense:         25
-          speed:         15
+ Genus: Mantle Pokémon
+ Happiness: 50	Pokedex ID: 524
+ Base Exp: 56	Capture Rate: 255
+ Height:    4	Weight: 180
 
-Pokedex ID: 524	Capture Rate: 255
-Base Exp: 56	Happiness: 50
-Height: 4	Weight: 180
-
-Genus: Mantle Pokémon
-Location Areas:
-wellspring-cave-area
-relic-passage-castelia-sewers-entrance
-reflection-cave-unknown-area-305
-reflection-cave-unknown-area-306
-reflection-cave-unknown-area-307
-reflection-cave-unknown-area-308
+ Location Areas:
+   Wellspring cave area
+   Relic passage castelia sewers entrance
+   Reflection cave unknown area 305
+   Reflection cave unknown area 306
+   Reflection cave unknown area 307
+   Reflection cave unknown area 308

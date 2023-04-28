@@ -1,26 +1,25 @@
 
-Phantump	 A ghost type Pokémon
+  Phantump    Ghost Type Pokémon
 
-These Pokémon are created when 
-spirits possess rotten tree stumps. 
- They prefer to live in abandoned 
-forests. 
-
+  These Pokémon are created when 
+  spirits possess rotten tree stumps. 
+   They prefer to live in abandoned 
+  forests. 
 	Evolution Chain
       Phantump ► Trevenant
 
-  ↞--------| STATS |--------↠ 
-             hp:         43
-         attack:         70
-        defense:         48
- special-attack:         50
-special-defense:         60
-          speed:         38
+   ↞--------| STATS |--------↠ 
+              hp:         43
+          attack:         70
+         defense:         48
+  special-attack:         50
+ special-defense:         60
+           speed:         38
 
-Pokedex ID: 708	Capture Rate: 120
-Base Exp: 62	Happiness: 50
-Height: 4	Weight: 70
+ Genus: Stump Pokémon
+ Happiness: 50	Pokedex ID: 708
+ Base Exp: 62	Capture Rate: 120
+ Height:    4	Weight: 70
 
-Genus: Stump Pokémon
-Location Areas:
-kalos-route-16-area
+ Location Areas:
+   Kalos route 16 area

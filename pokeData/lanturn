@@ -1,41 +1,40 @@
 
-Lanturn	 A water type Pokémon
+  Lanturn    Water Type Pokémon
 
-The light it emits is so bright 
-that it can illuminate the sea's 
-surface from a depth of over 
-three miles. 
-
+  The light it emits is so bright 
+  that it can illuminate the sea's 
+  surface from a depth of over 
+  three miles. 
 	Evolution Chain
       Chinchou ► Lanturn
 
-  ↞--------| STATS |--------↠ 
-             hp:        125
-         attack:         58
-        defense:         58
- special-attack:         76
-special-defense:         76
-          speed:         67
+   ↞--------| STATS |--------↠ 
+              hp:        125
+          attack:         58
+         defense:         58
+  special-attack:         76
+ special-defense:         76
+           speed:         67
 
-Pokedex ID: 171	Capture Rate: 75
-Base Exp: 161	Happiness: 50
-Height: 12	Weight: 225
+ Genus: Light Pokémon
+ Happiness: 50	Pokedex ID: 171
+ Base Exp: 161	Capture Rate: 75
+ Height:    12	Weight: 225
 
-Genus: Light Pokémon
-Location Areas:
-sinnoh-sea-route-220-area
-new-bark-town-area
-johto-sea-route-41-area
-johto-route-47-area
-kanto-sea-route-20-area
-cinnabar-island-area
-vermilion-city-area
-pallet-town-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-sea-route-21-area
-vermilion-city-ss-anne-dock
-driftveil-city-area
-undella-bay-area
-shalour-city-area
-azure-bay-area
+ Location Areas:
+   Sinnoh sea route 220 area
+   New bark town area
+   Johto sea route 41 area
+   Johto route 47 area
+   Kanto sea route 20 area
+   Cinnabar island area
+   Vermilion city area
+   Pallet town area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto sea route 21 area
+   Vermilion city ss anne dock
+   Driftveil city area
+   Undella bay area
+   Shalour city area
+   Azure bay area

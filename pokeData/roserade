@@ -1,27 +1,26 @@
 
-Roserade	 A grass type Pokémon
+  Roserade    Grass Type Pokémon
 
-It attracts prey with a sweet 
-aroma, then downs it with thorny 
-whips hidden in its arms. 
+  It attracts prey with a sweet 
+  aroma, then downs it with thorny 
+  whips hidden in its arms. 
+	   Evolution Chain
+  Budew ► Roselia ► Roserade
 
-	Evolution Chain
-Budew ► Roselia ► Roserade
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         70
+         defense:         65
+  special-attack:        125
+ special-defense:        105
+           speed:         90
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         70
-        defense:         65
- special-attack:        125
-special-defense:        105
-          speed:         90
+ Genus: Bouquet Pokémon
+ Happiness: 50	Pokedex ID: 407
+ Base Exp: 258	Capture Rate: 75
+ Height:    9	Weight: 145
 
-Pokedex ID: 407	Capture Rate: 75
-Base Exp: 258	Happiness: 50
-Height: 9	Weight: 145
-
-Genus: Bouquet Pokémon
-Location Areas:
-unova-route-12-area
-lostlorn-forest-area
-unova-victory-road-2-unknown-area-72
+ Location Areas:
+   Unova route 12 area
+   Lostlorn forest area
+   Unova victory road 2 unknown area 72

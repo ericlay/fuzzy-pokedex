@@ -1,26 +1,26 @@
 
-Krokorok	 A ground type Pokémon
+  Krokorok    Ground Type Pokémon
 
-They live in groups of a few 
-individuals.  Protective membranes 
-shield their eyes from sandstorms. 
+  They live in groups of a few 
+  individuals.  Protective membranes 
+  shield their eyes from sandstorms. 
+  
+	   Evolution Chain
+  Sandile ► Krokorok ► Krookodile
 
-	Evolution Chain
-Sandile ► Krokorok ► Krookodile
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         82
+         defense:         45
+  special-attack:         45
+ special-defense:         45
+           speed:         74
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         82
-        defense:         45
- special-attack:         45
-special-defense:         45
-          speed:         74
+ Genus: Desert Croc Pokémon
+ Happiness: 50	Pokedex ID: 552
+ Base Exp: 123	Capture Rate: 90
+ Height:    10	Weight: 334
 
-Pokedex ID: 552	Capture Rate: 90
-Base Exp: 123	Happiness: 50
-Height: 10	Weight: 334
-
-Genus: Desert Croc Pokémon
-Location Areas:
-relic-castle-b
-relic-castle-c
+ Location Areas:
+   Relic castle b
+   Relic castle c

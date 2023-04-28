@@ -1,32 +1,31 @@
 
-Karrablast	 A bug type Pokémon
+  Karrablast    Bug Type Pokémon
 
-These mysterious Pokémon evolve 
-when they receive electrical 
-stimulation while they are in 
-the same place as Shelmet. 
-
+  These mysterious Pokémon evolve 
+  when they receive electrical 
+  stimulation while they are in 
+  the same place as Shelmet. 
 	Evolution Chain
       Karrablast ► Escavalier
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         75
-        defense:         45
- special-attack:         40
-special-defense:         45
-          speed:         60
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         75
+         defense:         45
+  special-attack:         40
+ special-defense:         45
+           speed:         60
 
-Pokedex ID: 588	Capture Rate: 200
-Base Exp: 63	Happiness: 50
-Height: 5	Weight: 59
+ Genus: Clamping Pokémon
+ Happiness: 50	Pokedex ID: 588
+ Base Exp: 63	Capture Rate: 200
+ Height:    5	Weight: 59
 
-Genus: Clamping Pokémon
-Location Areas:
-icirrus-city-area
-unova-route-6-area
-unova-route-8-area
-moor-of-icirrus-area
-unova-route-11-area
-kalos-route-14-area
-kalos-route-19-area
+ Location Areas:
+   Icirrus city area
+   Unova route 6 area
+   Unova route 8 area
+   Moor of icirrus area
+   Unova route 11 area
+   Kalos route 14 area
+   Kalos route 19 area

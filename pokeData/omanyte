@@ -1,25 +1,24 @@
 
-Omanyte	 A rock type Pokémon
+  Omanyte    Rock Type Pokémon
 
-Although long extinct, in rare 
-cases, it can be genetically 
-resurrected from fossils. 
-
+  Although long extinct, in rare 
+  cases, it can be genetically 
+  resurrected from fossils. 
 	Evolution Chain
       Omanyte ► Omastar
 
-  ↞--------| STATS |--------↠ 
-             hp:         35
-         attack:         40
-        defense:        100
- special-attack:         90
-special-defense:         55
-          speed:         35
+   ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:         40
+         defense:        100
+  special-attack:         90
+ special-defense:         55
+           speed:         35
 
-Pokedex ID: 138	Capture Rate: 45
-Base Exp: 71	Happiness: 50
-Height: 4	Weight: 75
+ Genus: Spiral Pokémon
+ Happiness: 50	Pokedex ID: 138
+ Base Exp: 71	Capture Rate: 45
+ Height:    4	Weight: 75
 
-Genus: Spiral Pokémon
-Location Areas:
-cinnabar-island-cinnabar-lab
+ Location Areas:
+   Cinnabar island cinnabar lab

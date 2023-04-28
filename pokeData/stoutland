@@ -1,32 +1,31 @@
 
-Stoutland	 A normal type Pokémon
+  Stoutland    Normal Type Pokémon
 
-It rescues people stranded by 
-blizzards in the mountains.  
-Its shaggy fur shields it from 
-the cold. 
+  It rescues people stranded by 
+  blizzards in the mountains.  
+  Its shaggy fur shields it from 
+  the cold. 
+	   Evolution Chain
+  Lillipup ► Herdier ► Stoutland
 
-	Evolution Chain
-Lillipup ► Herdier ► Stoutland
+   ↞--------| STATS |--------↠ 
+              hp:         85
+          attack:        110
+         defense:         90
+  special-attack:         45
+ special-defense:         90
+           speed:         80
 
-  ↞--------| STATS |--------↠ 
-             hp:         85
-         attack:        110
-        defense:         90
- special-attack:         45
-special-defense:         90
-          speed:         80
+ Genus: Big-Hearted Pokémon
+ Happiness: 50	Pokedex ID: 508
+ Base Exp: 250	Capture Rate: 45
+ Height:    12	Weight: 610
 
-Pokedex ID: 508	Capture Rate: 45
-Base Exp: 250	Happiness: 50
-Height: 12	Weight: 610
-
-Genus: Big-Hearted Pokémon
-Location Areas:
-cold-storage-area
-p2-laboratory-area
-unova-route-1-area
-unova-route-2-area
-unova-route-3-area
-unova-route-10-area
-unova-route-10-victory-road-gate
+ Location Areas:
+   Cold storage area
+   P2 laboratory area
+   Unova route 1 area
+   Unova route 2 area
+   Unova route 3 area
+   Unova route 10 area
+   Unova route 10 victory road gate

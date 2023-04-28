@@ -1,63 +1,62 @@
 
-Raticate	 A normal type Pokémon
+  Raticate    Normal Type Pokémon
 
-It uses its whis­ kers to maintain 
-its balance.  It apparently slows 
-down if they are cut off. 
-
+  It uses its whis­ kers to maintain 
+  its balance.  It apparently slows 
+  down if they are cut off. 
 	Evolution Chain
       Rattata ► Raticate
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         81
-        defense:         60
- special-attack:         50
-special-defense:         70
-          speed:         97
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         81
+         defense:         60
+  special-attack:         50
+ special-defense:         70
+           speed:         97
 
-Pokedex ID: 20	Capture Rate: 127
-Base Exp: 145	Happiness: 70
-Height: 7	Weight: 185
+ Genus: Mouse Pokémon
+ Happiness: 70	Pokedex ID: 20
+ Base Exp: 145	Capture Rate: 127
+ Height:    7	Weight: 185
 
-Genus: Mouse Pokémon
-Location Areas:
-sinnoh-route-225-area
-sinnoh-sea-route-226-area
-union-cave-b2f
-burned-tower-1f
-johto-route-38-area
-johto-route-39-area
-johto-route-42-area
-mt-mortar-1f
-mt-mortar-lower-cave
-mt-mortar-upper-cave
-mt-mortar-b1f
-johto-route-43-area
-johto-route-47-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-1-area
-kanto-route-3-area
-kanto-route-4-area
-kanto-route-6-area
-kanto-route-7-area
-kanto-route-9-area
-kanto-route-10-area
-kanto-route-11-area
-kanto-route-16-area
-kanto-route-17-area
-kanto-route-18-area
-kanto-sea-route-21-area
-tohjo-falls-area
-pokemon-mansion-1f
-pokemon-mansion-2f
-pokemon-mansion-3f
-pokemon-mansion-b1f
-dreamyard-area
-dreamyard-b1f
-strange-house-1f
-strange-house-b1f
-relic-passage-relic-castle-entrance
-johto-safari-zone-zone-plains
-johto-safari-zone-zone-mountain
+ Location Areas:
+   Sinnoh route 225 area
+   Sinnoh sea route 226 area
+   Union cave b2f
+   Burned tower 1f
+   Johto route 38 area
+   Johto route 39 area
+   Johto route 42 area
+   Mt mortar 1f
+   Mt mortar lower cave
+   Mt mortar upper cave
+   Mt mortar b1f
+   Johto route 43 area
+   Johto route 47 area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto route 1 area
+   Kanto route 3 area
+   Kanto route 4 area
+   Kanto route 6 area
+   Kanto route 7 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Kanto route 11 area
+   Kanto route 16 area
+   Kanto route 17 area
+   Kanto route 18 area
+   Kanto sea route 21 area
+   Tohjo falls area
+   Pokemon mansion 1f
+   Pokemon mansion 2f
+   Pokemon mansion 3f
+   Pokemon mansion b1f
+   Dreamyard area
+   Dreamyard b1f
+   Strange house 1f
+   Strange house b1f
+   Relic passage relic castle entrance
+   Johto safari zone zone plains
+   Johto safari zone zone mountain

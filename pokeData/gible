@@ -1,28 +1,27 @@
 
-Gible	 A dragon type Pokémon
+  Gible    Dragon Type Pokémon
 
-It nests in small, horizontal 
-holes in cave walls.  It pounces 
-to catch prey that stray too 
-close. 
+  It nests in small, horizontal 
+  holes in cave walls.  It pounces 
+  to catch prey that stray too 
+  close. 
+	   Evolution Chain
+  Gible ► Gabite ► Garchomp
 
-	Evolution Chain
-Gible ► Gabite ► Garchomp
+   ↞--------| STATS |--------↠ 
+              hp:         58
+          attack:         70
+         defense:         45
+  special-attack:         40
+ special-defense:         45
+           speed:         42
 
-  ↞--------| STATS |--------↠ 
-             hp:         58
-         attack:         70
-        defense:         45
- special-attack:         40
-special-defense:         45
-          speed:         42
+ Genus: Land Shark Pokémon
+ Happiness: 50	Pokedex ID: 443
+ Base Exp: 60	Capture Rate: 45
+ Height:    7	Weight: 205
 
-Pokedex ID: 443	Capture Rate: 45
-Base Exp: 60	Happiness: 50
-Height: 7	Weight: 205
-
-Genus: Land Shark Pokémon
-Location Areas:
-wayward-cave-b1f
-kalos-route-13-area
-floccesy-town-area
+ Location Areas:
+   Wayward cave b1f
+   Kalos route 13 area
+   Floccesy town area

@@ -1,26 +1,26 @@
 
-Pichu	 A electric type Pokémon
+  Pichu    Electric Type Pokémon
 
-It is not yet skilled at storing 
-electricity.  It may send out 
-a jolt if amused or startled. 
+  It is not yet skilled at storing 
+  electricity.  It may send out 
+  a jolt if amused or startled. 
+  
+	   Evolution Chain
+  Pichu ► Pikachu ► Raichu
 
-	Evolution Chain
-Pichu ► Pikachu ► Raichu
+   ↞--------| STATS |--------↠ 
+              hp:         20
+          attack:         40
+         defense:         15
+  special-attack:         35
+ special-defense:         35
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         20
-         attack:         40
-        defense:         15
- special-attack:         35
-special-defense:         35
-          speed:         60
+ Genus: Tiny Mouse Pokémon
+ Happiness: 50	Pokedex ID: 172
+ Base Exp: 41	Capture Rate: 190
+ Height:    3	Weight: 20
 
-Pokedex ID: 172	Capture Rate: 190
-Base Exp: 41	Happiness: 50
-Height: 3	Weight: 20
-
-Genus: Tiny Mouse Pokémon
-Location Areas:
-trophy-garden-area
-johto-route-34-area
+ Location Areas:
+   Trophy garden area
+   Johto route 34 area

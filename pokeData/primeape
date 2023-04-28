@@ -1,31 +1,30 @@
 
-Primeape	 A fighting type Pokémon
+  Primeape    Fighting Type Pokémon
 
-Always furious and tenacious 
-to boot.  It will not abandon 
-chasing its quarry until it is 
-caught. 
+  Always furious and tenacious 
+  to boot.  It will not abandon 
+  chasing its quarry until it is 
+  caught. 
+	   Evolution Chain
+  Mankey ► Primeape ► Annihilape
 
-	Evolution Chain
-Mankey ► Primeape ► Annihilape
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:        105
+         defense:         60
+  special-attack:         60
+ special-defense:         70
+           speed:         95
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:        105
-        defense:         60
- special-attack:         60
-special-defense:         70
-          speed:         95
+ Genus: Pig Monkey Pokémon
+ Happiness: 70	Pokedex ID: 57
+ Base Exp: 159	Capture Rate: 75
+ Height:    10	Weight: 320
 
-Pokedex ID: 57	Capture Rate: 75
-Base Exp: 159	Happiness: 70
-Height: 10	Weight: 320
-
-Genus: Pig Monkey Pokémon
-Location Areas:
-sinnoh-route-225-area
-sinnoh-sea-route-226-area
-kanto-route-9-area
-cerulean-cave-1f
-kanto-route-23-area
-kanto-victory-road-2-2f
+ Location Areas:
+   Sinnoh route 225 area
+   Sinnoh sea route 226 area
+   Kanto route 9 area
+   Cerulean cave 1f
+   Kanto route 23 area
+   Kanto victory road 2 2f

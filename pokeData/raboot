@@ -1,25 +1,24 @@
 
-Raboot	 A fire type Pokémon
+  Raboot    Fire Type Pokémon
 
-Its thick and fluffy fur protects 
-it from the cold and enables 
-it to use hotter fire moves. 
+  Its thick and fluffy fur protects 
+  it from the cold and enables 
+  it to use hotter fire moves. 
+  
+	   Evolution Chain
+  Scorbunny ► Raboot ► Cinderace
 
-	Evolution Chain
-Scorbunny ► Raboot ► Cinderace
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         86
+         defense:         60
+  special-attack:         55
+ special-defense:         60
+           speed:         94
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         86
-        defense:         60
- special-attack:         55
-special-defense:         60
-          speed:         94
+ Genus: Rabbit Pokémon
+ Happiness: 50	Pokedex ID: 814
+ Base Exp: 147	Capture Rate: 45
+ Height:    6	Weight: 90
 
-Pokedex ID: 814	Capture Rate: 45
-Base Exp: 147	Happiness: 50
-Height: 6	Weight: 90
-
-Genus: Rabbit Pokémon
-Location Areas:
-
+ Location Areas:

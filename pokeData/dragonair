@@ -1,33 +1,33 @@
 
-Dragonair	 A dragon type Pokémon
+  Dragonair    Dragon Type Pokémon
 
-A mystical Pokémon that exudes 
-a gentle aura.  Has the ability 
-to change climate conditions. 
+  A mystical Pokémon that exudes 
+  a gentle aura.  Has the ability 
+  to change climate conditions. 
+  
+	   Evolution Chain
+  Dratini ► Dragonair ► Dragonite
 
-	Evolution Chain
-Dratini ► Dragonair ► Dragonite
+   ↞--------| STATS |--------↠ 
+              hp:         61
+          attack:         84
+         defense:         65
+  special-attack:         70
+ special-defense:         70
+           speed:         70
 
-  ↞--------| STATS |--------↠ 
-             hp:         61
-         attack:         84
-        defense:         65
- special-attack:         70
-special-defense:         70
-          speed:         70
+ Genus: Dragon Pokémon
+ Happiness: 35	Pokedex ID: 148
+ Base Exp: 147	Capture Rate: 45
+ Height:    40	Weight: 165
 
-Pokedex ID: 148	Capture Rate: 45
-Base Exp: 147	Happiness: 35
-Height: 40	Weight: 165
-
-Genus: Dragon Pokémon
-Location Areas:
-mt-coronet-4f
-dragons-den-area
-johto-route-45-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-dragonspiral-tower-outside
-kalos-route-21-area
+ Location Areas:
+   Mt coronet 4f
+   Dragons den area
+   Johto route 45 area
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Dragonspiral tower outside
+   Kalos route 21 area

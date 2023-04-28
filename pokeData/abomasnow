@@ -1,27 +1,27 @@
 
-Abomasnow	 A grass type Pokémon
+  Abomasnow    Grass Type Pokémon
 
-It whips up blizzards in mountains 
-that are always buried in snow. 
- It is the abominable snowman. 
-
+  It whips up blizzards in mountains 
+  that are always buried in snow. 
+   It is the abominable snowman. 
+  
 	Evolution Chain
       Snover ► Abomasnow
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:         92
-        defense:         75
- special-attack:         92
-special-defense:         85
-          speed:         60
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:         92
+         defense:         75
+  special-attack:         92
+ special-defense:         85
+           speed:         60
 
-Pokedex ID: 460	Capture Rate: 60
-Base Exp: 173	Happiness: 50
-Height: 22	Weight: 1355
+ Genus: Frost Tree Pokémon
+ Happiness: 50	Pokedex ID: 460
+ Base Exp: 173	Capture Rate: 60
+ Height:    22	Weight: 1355
 
-Genus: Frost Tree Pokémon
-Location Areas:
-mt-coronet-exterior-snowfall
-mt-coronet-exterior-blizzard
-kalos-route-17-area
+ Location Areas:
+   Mt coronet exterior snowfall
+   Mt coronet exterior blizzard
+   Kalos route 17 area

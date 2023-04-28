@@ -1,25 +1,23 @@
 
-Charmeleon	 A fire type Pokémon
+  Charmeleon    Fire Type Pokémon
 
-When it swings its burning tail, 
-it elevates the temperature to 
-unbearably high levels. 
+  When it swings its burning tail, 
+  it elevates the temperature to 
+  unbearably high levels. 
+	   Evolution Chain
+  Charmander ► Charmeleon ► Charizard
 
-	Evolution Chain
-Charmander ► Charmeleon ► Charizard
+   ↞--------| STATS |--------↠ 
+              hp:         58
+          attack:         64
+         defense:         58
+  special-attack:         80
+ special-defense:         65
+           speed:         80
 
-  ↞--------| STATS |--------↠ 
-             hp:         58
-         attack:         64
-        defense:         58
- special-attack:         80
-special-defense:         65
-          speed:         80
+ Genus: Flame Pokémon
+ Happiness: 50	Pokedex ID: 5
+ Base Exp: 142	Capture Rate: 45
+ Height:    11	Weight: 190
 
-Pokedex ID: 5	Capture Rate: 45
-Base Exp: 142	Happiness: 50
-Height: 11	Weight: 190
-
-Genus: Flame Pokémon
-Location Areas:
-
+ Location Areas:

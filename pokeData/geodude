@@ -1,98 +1,97 @@
 
-Geodude	 A rock type Pokémon
+  Geodude    Rock Type Pokémon
 
-Found in fields and mountains. 
- Mistaking them for boulders, 
-people often step or trip on 
-them. 
+  Found in fields and mountains. 
+   Mistaking them for boulders, 
+  people often step or trip on 
+  them. 
+	   Evolution Chain
+  Geodude ► Graveler ► Golem
 
-	Evolution Chain
-Geodude ► Graveler ► Golem
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         80
+         defense:        100
+  special-attack:         30
+ special-defense:         30
+           speed:         20
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         80
-        defense:        100
- special-attack:         30
-special-defense:         30
-          speed:         20
+ Genus: Rock Pokémon
+ Happiness: 70	Pokedex ID: 74
+ Base Exp: 60	Capture Rate: 255
+ Height:    4	Weight: 200
 
-Pokedex ID: 74	Capture Rate: 255
-Base Exp: 60	Happiness: 70
-Height: 4	Weight: 200
-
-Genus: Rock Pokémon
-Location Areas:
-oreburgh-mine-1f
-oreburgh-mine-b1f
-mt-coronet-1f-route-207
-mt-coronet-1f-route-211
-ravaged-path-area
-oreburgh-gate-1f
-oreburgh-gate-b1f
-stark-mountain-entrance
-stark-mountain-inside
-wayward-cave-1f
-wayward-cave-b1f
-ruin-maniac-cave-0-9-different-unown-caught
-ruin-maniac-cave-10-25-different-unown-caught
-maniac-tunnel-26-plus-different-unown-caught
-iron-island-1f
-iron-island-b1f-left
-iron-island-b1f-right
-iron-island-b2f-right
-iron-island-b2f-left
-iron-island-b3f
-valor-lakefront-area
-sinnoh-route-206-area
-sinnoh-route-207-area
-sinnoh-route-210-south-towards-solaceon-town
-sinnoh-route-211-west-towards-eterna-city
-sinnoh-route-214-area
-sinnoh-route-215-area
-ruins-of-alph-outside
-union-cave-1f
-union-cave-b1f
-union-cave-b2f
-johto-route-33-area
-mt-mortar-1f
-mt-mortar-lower-cave
-mt-mortar-upper-cave
-mt-mortar-b1f
-johto-route-45-area
-johto-route-46-area
-dark-cave-violet-city-entrance
-dark-cave-blackthorn-city-entrance
-johto-route-47-inside-cave
-mt-moon-1f
-mt-moon-2f
-rock-tunnel-1f
-rock-tunnel-b1f
-kanto-victory-road-1-3f
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-mt-moon-b1f
-mt-moon-b2f
-rock-tunnel-b2f
-kanto-victory-road-2-1f
-kanto-victory-road-2-2f
-kanto-victory-road-2-3f
-granite-cave-1f
-granite-cave-b2f
-hoenn-victory-road-b1f
-hoenn-route-111-area
-hoenn-route-114-area
-hoenn-safari-zone-neacro-bike-area
-magma-hideout-area
-mt-ember-area
-mt-ember-cave
-mt-ember-inside
-mt-ember-1f-cave-behind-team-rocket
-mt-ember-b1f
-mt-ember-b2f
-kindle-road-area
-sevault-canyon-area
-johto-safari-zone-zone-peak
-mt-ember-summit
-team-rocket-hq-area
+ Location Areas:
+   Oreburgh mine 1f
+   Oreburgh mine b1f
+   Mt coronet 1f route 207
+   Mt coronet 1f route 211
+   Ravaged path area
+   Oreburgh gate 1f
+   Oreburgh gate b1f
+   Stark mountain entrance
+   Stark mountain inside
+   Wayward cave 1f
+   Wayward cave b1f
+   Ruin maniac cave 0 9 different unown caught
+   Ruin maniac cave 10 25 different unown caught
+   Maniac tunnel 26 plus different unown caught
+   Iron island 1f
+   Iron island b1f left
+   Iron island b1f right
+   Iron island b2f right
+   Iron island b2f left
+   Iron island b3f
+   Valor lakefront area
+   Sinnoh route 206 area
+   Sinnoh route 207 area
+   Sinnoh route 210 south towards solaceon town
+   Sinnoh route 211 west towards eterna city
+   Sinnoh route 214 area
+   Sinnoh route 215 area
+   Ruins of alph outside
+   Union cave 1f
+   Union cave b1f
+   Union cave b2f
+   Johto route 33 area
+   Mt mortar 1f
+   Mt mortar lower cave
+   Mt mortar upper cave
+   Mt mortar b1f
+   Johto route 45 area
+   Johto route 46 area
+   Dark cave violet city entrance
+   Dark cave blackthorn city entrance
+   Johto route 47 inside cave
+   Mt moon 1f
+   Mt moon 2f
+   Rock tunnel 1f
+   Rock tunnel b1f
+   Kanto victory road 1 3f
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Mt moon b1f
+   Mt moon b2f
+   Rock tunnel b2f
+   Kanto victory road 2 1f
+   Kanto victory road 2 2f
+   Kanto victory road 2 3f
+   Granite cave 1f
+   Granite cave b2f
+   Hoenn victory road b1f
+   Hoenn route 111 area
+   Hoenn route 114 area
+   Hoenn safari zone neacro bike area
+   Magma hideout area
+   Mt ember area
+   Mt ember cave
+   Mt ember inside
+   Mt ember 1f cave behind team rocket
+   Mt ember b1f
+   Mt ember b2f
+   Kindle road area
+   Sevault canyon area
+   Johto safari zone zone peak
+   Mt ember summit
+   Team rocket hq area

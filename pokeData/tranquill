@@ -1,34 +1,33 @@
 
-Tranquill	 A normal type Pokémon
+  Tranquill    Normal Type Pokémon
 
-It can return to its Trainer’s 
-location regardless of the distance 
-separating them. 
+  It can return to its Trainer’s 
+  location regardless of the distance 
+  separating them. 
+	   Evolution Chain
+  Pidove ► Tranquill ► Unfezant
 
-	Evolution Chain
-Pidove ► Tranquill ► Unfezant
+   ↞--------| STATS |--------↠ 
+              hp:         62
+          attack:         77
+         defense:         62
+  special-attack:         50
+ special-defense:         42
+           speed:         65
 
-  ↞--------| STATS |--------↠ 
-             hp:         62
-         attack:         77
-        defense:         62
- special-attack:         50
-special-defense:         42
-          speed:         65
+ Genus: Wild Pigeon Pokémon
+ Happiness: 50	Pokedex ID: 520
+ Base Exp: 125	Capture Rate: 120
+ Height:    6	Weight: 150
 
-Pokedex ID: 520	Capture Rate: 120
-Base Exp: 125	Happiness: 50
-Height: 6	Weight: 150
-
-Genus: Wild Pigeon Pokémon
-Location Areas:
-pinwheel-forest-inside
-dragonspiral-tower-entrance
-dragonspiral-tower-outside
-unova-route-3-area
-unova-route-6-area
-unova-route-7-area
-unova-route-12-area
-lostlorn-forest-area
-unova-victory-road-2-unknown-area-73
-unova-victory-road-2-unknown-area-79
+ Location Areas:
+   Pinwheel forest inside
+   Dragonspiral tower entrance
+   Dragonspiral tower outside
+   Unova route 3 area
+   Unova route 6 area
+   Unova route 7 area
+   Unova route 12 area
+   Lostlorn forest area
+   Unova victory road 2 unknown area 73
+   Unova victory road 2 unknown area 79

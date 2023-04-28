@@ -1,59 +1,58 @@
 
-Pidgey	 A normal type Pokémon
+  Pidgey    Normal Type Pokémon
 
-A common sight in forests and 
-woods.  It flaps its wings at 
-ground level to kick up blinding 
-sand. 
+  A common sight in forests and 
+  woods.  It flaps its wings at 
+  ground level to kick up blinding 
+  sand. 
+	   Evolution Chain
+  Pidgey ► Pidgeotto ► Pidgeot
 
-	Evolution Chain
-Pidgey ► Pidgeotto ► Pidgeot
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         45
+         defense:         40
+  special-attack:         35
+ special-defense:         35
+           speed:         56
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         45
-        defense:         40
- special-attack:         35
-special-defense:         35
-          speed:         56
+ Genus: Tiny Bird Pokémon
+ Happiness: 70	Pokedex ID: 16
+ Base Exp: 50	Capture Rate: 255
+ Height:    3	Weight: 18
 
-Pokedex ID: 16	Capture Rate: 255
-Base Exp: 50	Happiness: 70
-Height: 3	Weight: 18
-
-Genus: Tiny Bird Pokémon
-Location Areas:
-sinnoh-route-229-area
-johto-route-29-area
-johto-route-30-area
-johto-route-31-area
-johto-route-32-area
-ilex-forest-area
-johto-route-34-area
-johto-route-35-area
-national-park-area
-johto-route-36-area
-johto-route-37-area
-kanto-route-12-area
-kanto-route-1-area
-kanto-route-2-south-towards-viridian-city
-kanto-route-3-area
-kanto-route-5-area
-kanto-route-6-area
-kanto-route-7-area
-kanto-route-8-area
-kanto-route-11-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-kanto-sea-route-21-area
-kanto-route-24-area
-kanto-route-25-area
-kanto-route-2-north-towards-pewter-city
-viridian-forest-area
-berry-forest-area
-bond-bridge-area
-five-isle-meadow-area
-kalos-route-2-area
-kalos-route-3-area
-johto-safari-zone-zone-forest
+ Location Areas:
+   Sinnoh route 229 area
+   Johto route 29 area
+   Johto route 30 area
+   Johto route 31 area
+   Johto route 32 area
+   Ilex forest area
+   Johto route 34 area
+   Johto route 35 area
+   National park area
+   Johto route 36 area
+   Johto route 37 area
+   Kanto route 12 area
+   Kanto route 1 area
+   Kanto route 2 south towards viridian city
+   Kanto route 3 area
+   Kanto route 5 area
+   Kanto route 6 area
+   Kanto route 7 area
+   Kanto route 8 area
+   Kanto route 11 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Kanto sea route 21 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Kanto route 2 north towards pewter city
+   Viridian forest area
+   Berry forest area
+   Bond bridge area
+   Five isle meadow area
+   Kalos route 2 area
+   Kalos route 3 area
+   Johto safari zone zone forest

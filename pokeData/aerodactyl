@@ -1,24 +1,23 @@
 
-Aerodactyl	 A rock type Pokémon
+  Aerodactyl    Rock Type Pokémon
 
-A Pokémon that roamed the skies 
-in the dinosaur era.  Its teeth 
-are like saw blades. 
+  A Pokémon that roamed the skies 
+  in the dinosaur era.  Its teeth 
+  are like saw blades. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:        105
+         defense:         65
+  special-attack:         60
+ special-defense:         75
+           speed:        130
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:        105
-        defense:         65
- special-attack:         60
-special-defense:         75
-          speed:        130
+ Genus: Fossil Pokémon
+ Happiness: 50	Pokedex ID: 142
+ Base Exp: 180	Capture Rate: 45
+ Height:    18	Weight: 590
 
-Pokedex ID: 142	Capture Rate: 45
-Base Exp: 180	Happiness: 50
-Height: 18	Weight: 590
-
-Genus: Fossil Pokémon
-Location Areas:
-cinnabar-island-cinnabar-lab
+ Location Areas:
+   Cinnabar island cinnabar lab

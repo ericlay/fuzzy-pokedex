@@ -1,31 +1,30 @@
 
-Zweilous	 A dark type Pokémon
+  Zweilous    Dark Type Pokémon
 
-After it has eaten up all the 
-food in its territory, it moves 
-to another area.  Its two heads 
-do not get along. 
+  After it has eaten up all the 
+  food in its territory, it moves 
+  to another area.  Its two heads 
+  do not get along. 
+	   Evolution Chain
+  Deino ► Zweilous ► Hydreigon
 
-	Evolution Chain
-Deino ► Zweilous ► Hydreigon
+   ↞--------| STATS |--------↠ 
+              hp:         72
+          attack:         85
+         defense:         70
+  special-attack:         65
+ special-defense:         70
+           speed:         58
 
-  ↞--------| STATS |--------↠ 
-             hp:         72
-         attack:         85
-        defense:         70
- special-attack:         65
-special-defense:         70
-          speed:         58
+ Genus: Hostile Pokémon
+ Happiness: 35	Pokedex ID: 634
+ Base Exp: 147	Capture Rate: 45
+ Height:    14	Weight: 500
 
-Pokedex ID: 634	Capture Rate: 45
-Base Exp: 147	Happiness: 35
-Height: 14	Weight: 500
-
-Genus: Hostile Pokémon
-Location Areas:
-unova-victory-road-2-unknown-area-77
-unova-victory-road-2-unknown-area-80
-kalos-victory-road-unknown-area-322
-kalos-victory-road-unknown-area-324
-kalos-victory-road-unknown-area-326
-kalos-victory-road-unknown-area-328
+ Location Areas:
+   Unova victory road 2 unknown area 77
+   Unova victory road 2 unknown area 80
+   Kalos victory road unknown area 322
+   Kalos victory road unknown area 324
+   Kalos victory road unknown area 326
+   Kalos victory road unknown area 328

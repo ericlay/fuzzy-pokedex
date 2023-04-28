@@ -1,29 +1,28 @@
 
-Torkoal	 A fire type Pokémon
+  Torkoal    Fire Type Pokémon
 
-You can tell how it’s feeling 
-by the smoke spouting from its 
-shell.  Tremendous velocity is 
-a sign of good health. 
+  You can tell how it’s feeling 
+  by the smoke spouting from its 
+  shell.  Tremendous velocity is 
+  a sign of good health. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         85
+         defense:        140
+  special-attack:         85
+ special-defense:         70
+           speed:         20
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         85
-        defense:        140
- special-attack:         85
-special-defense:         70
-          speed:         20
+ Genus: Coal Pokémon
+ Happiness: 50	Pokedex ID: 324
+ Base Exp: 165	Capture Rate: 90
+ Height:    5	Weight: 804
 
-Pokedex ID: 324	Capture Rate: 90
-Base Exp: 165	Happiness: 50
-Height: 5	Weight: 804
-
-Genus: Coal Pokémon
-Location Areas:
-stark-mountain-area
-sinnoh-route-227-area
-fiery-path-area
-magma-hideout-area
-kalos-route-18-area
+ Location Areas:
+   Stark mountain area
+   Sinnoh route 227 area
+   Fiery path area
+   Magma hideout area
+   Kalos route 18 area

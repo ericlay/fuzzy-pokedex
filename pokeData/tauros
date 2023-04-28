@@ -1,24 +1,33 @@
 
-Tauros	 A normal type Pokémon
+  Tauros    Normal Type Pokémon
 
-When it targets an enemy, it 
-charges furiously while whipping 
-its body with its long tails. 
+  When it targets an enemy, it 
+  charges furiously while whipping 
+  its body with its long tails. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:        100
+         defense:         95
+  special-attack:         40
+ special-defense:         70
+           speed:        110
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:        100
-        defense:         95
- special-attack:         40
-special-defense:         70
-          speed:        110
+ Genus: Wild Bull Pokémon
+ Happiness: 50	Pokedex ID: 128
+ Base Exp: 172	Capture Rate: 45
+ Height:    14	Weight: 884
 
-Pokedex ID: 128	Capture Rate: 45
-Base Exp: 172	Happiness: 50
-Height: 14	Weight: 884
-
-Genus: Wild Bull Pokémon
-Location Areas:
-
+ Location Areas:
+   Sinnoh route 209 area
+   Sinnoh route 210 south towards solaceon town
+   Johto route 38 area
+   Johto route 39 area
+   Johto route 48 area
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Kalos route 12 area
+   Johto safari zone zone savannah

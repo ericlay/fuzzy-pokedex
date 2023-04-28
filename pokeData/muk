@@ -1,36 +1,36 @@
 
-Muk	 A poison type Pokémon
+  Muk    Poison Type Pokémon
 
-Thickly covered with a filthy, 
-vile sludge.  It is so toxic, 
-even its footprints contain poison. 
-
+  Thickly covered with a filthy, 
+  vile sludge.  It is so toxic, 
+  even its footprints contain poison. 
+  
 	Evolution Chain
       Grimer ► Muk
 
-  ↞--------| STATS |--------↠ 
-             hp:        105
-         attack:        105
-        defense:         75
- special-attack:         65
-special-defense:        100
-          speed:         50
+   ↞--------| STATS |--------↠ 
+              hp:        105
+          attack:        105
+         defense:         75
+  special-attack:         65
+ special-defense:        100
+           speed:         50
 
-Pokedex ID: 89	Capture Rate: 75
-Base Exp: 175	Happiness: 70
-Height: 12	Weight: 300
+ Genus: Sludge Pokémon
+ Happiness: 70	Pokedex ID: 89
+ Base Exp: 175	Capture Rate: 75
+ Height:    12	Weight: 300
 
-Genus: Sludge Pokémon
-Location Areas:
-celadon-city-area
-kanto-route-16-area
-kanto-route-17-area
-kanto-route-18-area
-power-plant-area
-pokemon-mansion-1f
-pokemon-mansion-2f
-pokemon-mansion-3f
-pokemon-mansion-b1f
-unova-route-9-area
-castelia-sewers-area
-castelia-sewers-unknown-area-38
+ Location Areas:
+   Celadon city area
+   Kanto route 16 area
+   Kanto route 17 area
+   Kanto route 18 area
+   Power plant area
+   Pokemon mansion 1f
+   Pokemon mansion 2f
+   Pokemon mansion 3f
+   Pokemon mansion b1f
+   Unova route 9 area
+   Castelia sewers area
+   Castelia sewers unknown area 38

@@ -1,26 +1,24 @@
 
-Hatterene	 A psychic type Pokémon
+  Hatterene    Psychic Type Pokémon
 
-It emits psychic power strong 
-enough to cause headaches as 
-a deterrent to the approach of 
-others. 
+  It emits psychic power strong 
+  enough to cause headaches as 
+  a deterrent to the approach of 
+  others. 
+	   Evolution Chain
+  Hatenna ► Hattrem ► Hatterene
 
-	Evolution Chain
-Hatenna ► Hattrem ► Hatterene
+   ↞--------| STATS |--------↠ 
+              hp:         57
+          attack:         90
+         defense:         95
+  special-attack:        136
+ special-defense:        103
+           speed:         29
 
-  ↞--------| STATS |--------↠ 
-             hp:         57
-         attack:         90
-        defense:         95
- special-attack:        136
-special-defense:        103
-          speed:         29
+ Genus: Silent Pokémon
+ Happiness: 50	Pokedex ID: 858
+ Base Exp: 255	Capture Rate: 45
+ Height:    21	Weight: 51
 
-Pokedex ID: 858	Capture Rate: 45
-Base Exp: 255	Happiness: 50
-Height: 21	Weight: 51
-
-Genus: Silent Pokémon
-Location Areas:
-
+ Location Areas:

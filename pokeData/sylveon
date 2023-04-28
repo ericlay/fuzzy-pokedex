@@ -1,32 +1,33 @@
 
-Sylveon	 A fairy type Pokémon
+  Sylveon    Fairy Type Pokémon
 
-It sends a soothing aura from 
-its ribbonlike feelers to calm 
-fights. 
-
+  It sends a soothing aura from 
+  its ribbonlike feelers to calm 
+  fights. 
 	Evolution Chain
       Eevee ► Vaporeon
-jolteon
-flareon
-espeon
-umbreon
-leafeon
-glaceon
-sylveon
 
-  ↞--------| STATS |--------↠ 
-             hp:         95
-         attack:         65
-        defense:         65
- special-attack:        110
-special-defense:        130
-          speed:         60
+Stage 2 Forms:
+  vaporeon
+  jolteon
+  flareon
+  espeon
+  umbreon
+  leafeon
+  glaceon
+  sylveon
 
-Pokedex ID: 700	Capture Rate: 45
-Base Exp: 184	Happiness: 50
-Height: 10	Weight: 235
+   ↞--------| STATS |--------↠ 
+              hp:         95
+          attack:         65
+         defense:         65
+  special-attack:        110
+ special-defense:        130
+           speed:         60
 
-Genus: Intertwining Pokémon
-Location Areas:
+ Genus: Intertwining Pokémon
+ Happiness: 50	Pokedex ID: 700
+ Base Exp: 184	Capture Rate: 45
+ Height:    10	Weight: 235
 
+ Location Areas:

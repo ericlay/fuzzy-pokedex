@@ -1,25 +1,23 @@
 
-Probopass	 A rock type Pokémon
+  Probopass    Rock Type Pokémon
 
-It freely controls three small 
-units called Mini-Noses using 
-magnetic force. 
-
+  It freely controls three small 
+  units called Mini-Noses using 
+  magnetic force. 
 	Evolution Chain
       Nosepass ► Probopass
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         55
-        defense:        145
- special-attack:         75
-special-defense:        150
-          speed:         40
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         55
+         defense:        145
+  special-attack:         75
+ special-defense:        150
+           speed:         40
 
-Pokedex ID: 476	Capture Rate: 60
-Base Exp: 184	Happiness: 70
-Height: 14	Weight: 3400
+ Genus: Compass Pokémon
+ Happiness: 70	Pokedex ID: 476
+ Base Exp: 184	Capture Rate: 60
+ Height:    14	Weight: 3400
 
-Genus: Compass Pokémon
-Location Areas:
-
+ Location Areas:

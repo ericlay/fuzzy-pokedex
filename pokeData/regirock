@@ -1,24 +1,24 @@
 
-Regirock	 A rock type Pokémon
+  Regirock    Rock Type Pokémon
 
-Its entire body is made of rock. 
- If any part chips off in battle, 
-it attaches rocks to repair itself. 
+  Its entire body is made of rock. 
+   If any part chips off in battle, 
+  it attaches rocks to repair itself. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:        100
+         defense:        200
+  special-attack:         50
+ special-defense:        100
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:        100
-        defense:        200
- special-attack:         50
-special-defense:        100
-          speed:         50
+ Genus: Rock Peak Pokémon
+ Happiness: 35	Pokedex ID: 377
+ Base Exp: 290	Capture Rate: 3
+ Height:    17	Weight: 2300
 
-Pokedex ID: 377	Capture Rate: 3
-Base Exp: 290	Happiness: 35
-Height: 17	Weight: 2300
-
-Genus: Rock Peak Pokémon
-Location Areas:
-desert-ruins-area
+ Location Areas:
+   Desert ruins area

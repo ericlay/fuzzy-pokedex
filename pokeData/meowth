@@ -1,43 +1,45 @@
 
-Meowth	 A normal type Pokémon
+  Meowth    Normal Type Pokémon
 
-It washes its face regularly 
-to keep the coin on its forehead 
-spotless.  It doesn’t get along 
-with Galarian Meowth. 
-
+  It washes its face regularly 
+  to keep the coin on its forehead 
+  spotless.  It doesn’t get along 
+  with Galarian Meowth. 
 	Evolution Chain
       Meowth ► Persian
-perrserker
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         45
-        defense:         35
- special-attack:         40
-special-defense:         40
-          speed:         90
+Stage 2 Forms:
+  persian
+  perrserker
 
-Pokedex ID: 52	Capture Rate: 255
-Base Exp: 58	Happiness: 50
-Height: 4	Weight: 42
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         45
+         defense:         35
+  special-attack:         40
+ special-defense:         40
+           speed:         90
 
-Genus: Scratch Cat Pokémon
-Location Areas:
-johto-route-35-area
-johto-route-38-area
-johto-route-39-area
-kanto-route-5-area
-kanto-route-6-area
-kanto-route-7-area
-kanto-route-8-area
-kanto-route-11-area
-kindle-road-area
-treasure-beach-area
-cape-brink-area
-bond-bridge-area
-five-isle-meadow-area
-water-path-area
-ruin-valley-area
-canyon-entrance-area
-sevault-canyon-area
+ Genus: Scratch Cat Pokémon
+ Happiness: 50	Pokedex ID: 52
+ Base Exp: 58	Capture Rate: 255
+ Height:    4	Weight: 42
+
+ Location Areas:
+   Johto route 35 area
+   Johto route 38 area
+   Johto route 39 area
+   Kanto route 5 area
+   Kanto route 6 area
+   Kanto route 7 area
+   Kanto route 8 area
+   Kanto route 11 area
+   Kindle road area
+   Treasure beach area
+   Cape brink area
+   Bond bridge area
+   Five isle meadow area
+   Water path area
+   Ruin valley area
+   Canyon entrance area
+   Sevault canyon area

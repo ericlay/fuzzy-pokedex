@@ -1,31 +1,30 @@
 
-Togepi	 A fairy type Pokémon
+  Togepi    Fairy Type Pokémon
 
-The shell seems to be filled 
-with joy.  It is said that it 
-will share good luck when treated 
-kindly. 
+  The shell seems to be filled 
+  with joy.  It is said that it 
+  will share good luck when treated 
+  kindly. 
+	   Evolution Chain
+  Togepi ► Togetic ► Togekiss
 
-	Evolution Chain
-Togepi ► Togetic ► Togekiss
+   ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:         20
+         defense:         65
+  special-attack:         40
+ special-defense:         65
+           speed:         20
 
-  ↞--------| STATS |--------↠ 
-             hp:         35
-         attack:         20
-        defense:         65
- special-attack:         40
-special-defense:         65
-          speed:         20
+ Genus: Spike Ball Pokémon
+ Happiness: 50	Pokedex ID: 175
+ Base Exp: 49	Capture Rate: 190
+ Height:    3	Weight: 15
 
-Pokedex ID: 175	Capture Rate: 190
-Base Exp: 49	Happiness: 50
-Height: 3	Weight: 15
-
-Genus: Spike Ball Pokémon
-Location Areas:
-sinnoh-sea-route-230-area
-violet-city-area
-water-labyrinth-area
-lavaridge-town-area
-eterna-city-west-gate
-violet-city-poke-mart
+ Location Areas:
+   Sinnoh sea route 230 area
+   Violet city area
+   Water labyrinth area
+   Lavaridge town area
+   Eterna city west gate
+   Violet city poke mart

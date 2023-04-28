@@ -1,32 +1,33 @@
 
-Leafeon	 A grass type Pokémon
+  Leafeon    Grass Type Pokémon
 
-Just like a plant, it uses photosynthesis. 
- As a result, it is always enveloped 
-in clear air. 
-
+  Just like a plant, it uses photosynthesis. 
+   As a result, it is always enveloped 
+  in clear air. 
 	Evolution Chain
       Eevee ► Vaporeon
-jolteon
-flareon
-espeon
-umbreon
-leafeon
-glaceon
-sylveon
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:        110
-        defense:        130
- special-attack:         60
-special-defense:         65
-          speed:         95
+Stage 2 Forms:
+  vaporeon
+  jolteon
+  flareon
+  espeon
+  umbreon
+  leafeon
+  glaceon
+  sylveon
 
-Pokedex ID: 470	Capture Rate: 45
-Base Exp: 184	Happiness: 35
-Height: 10	Weight: 255
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:        110
+         defense:        130
+  special-attack:         60
+ special-defense:         65
+           speed:         95
 
-Genus: Verdant Pokémon
-Location Areas:
+ Genus: Verdant Pokémon
+ Happiness: 35	Pokedex ID: 470
+ Base Exp: 184	Capture Rate: 45
+ Height:    10	Weight: 255
 
+ Location Areas:

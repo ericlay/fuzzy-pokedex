@@ -1,24 +1,24 @@
 
-Darkrai	 A dark type Pokémon
+  Darkrai    Dark Type Pokémon
 
-It can lull people to sleep 
-and make them dream.  It is active 
-during nights of the new moon. 
+  It can lull people to sleep 
+  and make them dream.  It is active 
+  during nights of the new moon. 
+  
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         90
+         defense:         90
+  special-attack:        135
+ special-defense:         90
+           speed:        125
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         90
-        defense:         90
- special-attack:        135
-special-defense:         90
-          speed:        125
+ Genus: Pitch-Black Pokémon
+ Happiness: 0	Pokedex ID: 491
+ Base Exp: 270	Capture Rate: 3
+ Height:    15	Weight: 505
 
-Pokedex ID: 491	Capture Rate: 3
-Base Exp: 270	Happiness: 0
-Height: 15	Weight: 505
-
-Genus: Pitch-Black Pokémon
-Location Areas:
-newmoon-island-area
+ Location Areas:
+   Newmoon island area

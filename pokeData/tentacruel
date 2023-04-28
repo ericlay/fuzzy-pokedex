@@ -1,83 +1,24 @@
 
-Tentacruel	 A water type Pokémon
+  Tentacruel    Water Type Pokémon
 
-The tentacles are normally kept 
-short.  On hunts, they are extended 
-to ensnare and immobilize prey. 
-
+  The tentacles are normally kept 
+  short.  On hunts, they are extended 
+  to ensnare and immobilize prey. 
+  
 	Evolution Chain
       Tentacool ► Tentacruel
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:         70
-        defense:         65
- special-attack:         80
-special-defense:        120
-          speed:        100
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:         70
+         defense:         65
+  special-attack:         80
+ special-defense:        120
+           speed:        100
 
-Pokedex ID: 73	Capture Rate: 60
-Base Exp: 180	Happiness: 50
-Height: 16	Weight: 550
+ Genus: Jellyfish Pokémon
+ Happiness: 50	Pokedex ID: 73
+ Base Exp: 180	Capture Rate: 60
+ Height:    16	Weight: 550
 
-Genus: Jellyfish Pokémon
-Location Areas:
-canalave-city-area
-pastoria-city-area
-sunyshore-city-area
-sinnoh-pokemon-league-area
-valley-windworks-area
-fuego-ironworks-area
-iron-island-area
-sinnoh-route-205-south-towards-floaroma-town
-sinnoh-route-212-east-towards-pastoria-city
-sinnoh-route-213-area
-sinnoh-route-218-area
-sinnoh-route-219-area
-sinnoh-route-221-area
-sinnoh-route-222-area
-sinnoh-route-224-area
-sinnoh-sea-route-220-area
-sinnoh-sea-route-223-area
-sinnoh-sea-route-226-area
-sinnoh-sea-route-230-area
-new-bark-town-area
-cherrygrove-city-area
-johto-route-32-area
-union-cave-b2f
-johto-route-34-area
-olivine-city-area
-johto-sea-route-40-area
-johto-sea-route-41-area
-whirl-islands-1f
-whirl-islands-b2f
-whirl-islands-b3f
-cianwood-city-area
-johto-route-47-area
-kanto-route-12-area
-kanto-sea-route-19-area
-kanto-sea-route-20-area
-cinnabar-island-area
-vermilion-city-area
-pallet-town-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-13-area
-kanto-sea-route-21-area
-vermilion-city-ss-anne-dock
-abandoned-ship-area
-icefall-cave-waterfall
-kindle-road-area
-treasure-beach-area
-bond-bridge-area
-resort-gorgeous-area
-water-labyrinth-area
-five-isle-meadow-area
-memorial-pillar-area
-outcast-island-area
-green-path-area
-water-path-area
-trainer-tower-area
-tanoby-ruins-area
-one-island-area
-five-island-area
+ Location Areas:

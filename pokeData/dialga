@@ -1,25 +1,24 @@
 
-Dialga	 A steel type Pokémon
+  Dialga    Steel Type Pokémon
 
-It has the power to control 
-time.  It appears in Sinnoh-region 
-myths as an ancient deity. 
+  It has the power to control 
+  time.  It appears in Sinnoh-region 
+  myths as an ancient deity. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:        120
+         defense:        120
+  special-attack:        150
+ special-defense:        100
+           speed:         90
 
-  ↞--------| STATS |--------↠ 
-             hp:        100
-         attack:        120
-        defense:        120
- special-attack:        150
-special-defense:        100
-          speed:         90
+ Genus: Temporal Pokémon
+ Happiness: 0	Pokedex ID: 483
+ Base Exp: 340	Capture Rate: 3
+ Height:    54	Weight: 6830
 
-Pokedex ID: 483	Capture Rate: 3
-Base Exp: 340	Happiness: 0
-Height: 54	Weight: 6830
-
-Genus: Temporal Pokémon
-Location Areas:
-spear-pillar-area
-sinjoh-ruins-area
+ Location Areas:
+   Spear pillar area
+   Sinjoh ruins area

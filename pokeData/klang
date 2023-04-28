@@ -1,26 +1,25 @@
 
-Klang	 A steel type Pokémon
+  Klang    Steel Type Pokémon
 
-By changing the direction in 
-which it rotates, it communicates 
-its feelings to others.  When 
-angry, it rotates faster. 
+  By changing the direction in 
+  which it rotates, it communicates 
+  its feelings to others.  When 
+  angry, it rotates faster. 
+	   Evolution Chain
+  Klink ► Klang ► Klinklang
 
-	Evolution Chain
-Klink ► Klang ► Klinklang
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         80
+         defense:         95
+  special-attack:         70
+ special-defense:         85
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         80
-        defense:         95
- special-attack:         70
-special-defense:         85
-          speed:         50
+ Genus: Gear Pokémon
+ Happiness: 50	Pokedex ID: 600
+ Base Exp: 154	Capture Rate: 60
+ Height:    6	Weight: 510
 
-Pokedex ID: 600	Capture Rate: 60
-Base Exp: 154	Happiness: 50
-Height: 6	Weight: 510
-
-Genus: Gear Pokémon
-Location Areas:
-p2-laboratory-area
+ Location Areas:
+   P2 laboratory area

@@ -1,27 +1,27 @@
 
-Bulbasaur	 A grass type Pokémon
+  Bulbasaur    Grass Type Pokémon
 
-A strange seed was planted on 
-its back at birth.  The plant 
-sprouts and grows with Bulbasaur. 
+  A strange seed was planted on 
+  its back at birth.  The plant 
+  sprouts and grows with Bulbasaur. 
+  
+	   Evolution Chain
+  Bulbasaur ► Ivysaur ► Venusaur
 
-	Evolution Chain
-Bulbasaur ► Ivysaur ► Venusaur
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         49
+         defense:         49
+  special-attack:         65
+ special-defense:         65
+           speed:         45
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         49
-        defense:         49
- special-attack:         65
-special-defense:         65
-          speed:         45
+ Genus: Seed Pokémon
+ Happiness: 50	Pokedex ID: 1
+ Base Exp: 64	Capture Rate: 45
+ Height:    7	Weight: 69
 
-Pokedex ID: 1	Capture Rate: 45
-Base Exp: 64	Happiness: 50
-Height: 7	Weight: 69
-
-Genus: Seed Pokémon
-Location Areas:
-cerulean-city-area
-pallet-town-area
-lumiose-city-area
+ Location Areas:
+   Cerulean city area
+   Pallet town area
+   Lumiose city area

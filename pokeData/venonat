@@ -1,42 +1,41 @@
 
-Venonat	 A bug type Pokémon
+  Venonat    Bug Type Pokémon
 
-Lives in the shadows of tall 
-trees where it eats insects. 
- It is attracted by light at 
-night. 
-
+  Lives in the shadows of tall 
+  trees where it eats insects. 
+   It is attracted by light at 
+  night. 
 	Evolution Chain
       Venonat ► Venomoth
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         55
-        defense:         50
- special-attack:         40
-special-defense:         55
-          speed:         45
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         55
+         defense:         50
+  special-attack:         40
+ special-defense:         55
+           speed:         45
 
-Pokedex ID: 48	Capture Rate: 190
-Base Exp: 61	Happiness: 70
-Height: 10	Weight: 300
+ Genus: Insect Pokémon
+ Happiness: 70	Pokedex ID: 48
+ Base Exp: 61	Capture Rate: 190
+ Height:    10	Weight: 300
 
-Genus: Insect Pokémon
-Location Areas:
-sinnoh-route-229-area
-ilex-forest-area
-national-park-area
-johto-route-43-area
-lake-of-rage-area
-kanto-route-12-area
-kanto-route-9-area
-kanto-route-10-area
-kanto-route-13-area
-kanto-route-14-area
-kanto-route-15-area
-kanto-route-24-area
-kanto-route-25-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-3-west
-berry-forest-area
-bond-bridge-area
+ Location Areas:
+   Sinnoh route 229 area
+   Ilex forest area
+   National park area
+   Johto route 43 area
+   Lake of rage area
+   Kanto route 12 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Kanto route 13 area
+   Kanto route 14 area
+   Kanto route 15 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Kanto safari zone middle
+   Kanto safari zone area 3 west
+   Berry forest area
+   Bond bridge area

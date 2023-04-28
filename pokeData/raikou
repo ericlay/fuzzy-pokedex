@@ -1,26 +1,25 @@
 
-Raikou	 A electric type Pokémon
+  Raikou    Electric Type Pokémon
 
-The rain clouds it carries let 
-it fire thunderbolts at will. 
- They say that it descended with 
-lightning. 
+  The rain clouds it carries let 
+  it fire thunderbolts at will. 
+   They say that it descended with 
+  lightning. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:         85
+         defense:         75
+  special-attack:        115
+ special-defense:        100
+           speed:        115
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:         85
-        defense:         75
- special-attack:        115
-special-defense:        100
-          speed:        115
+ Genus: Thunder Pokémon
+ Happiness: 35	Pokedex ID: 243
+ Base Exp: 290	Capture Rate: 3
+ Height:    19	Weight: 1780
 
-Pokedex ID: 243	Capture Rate: 3
-Base Exp: 290	Happiness: 35
-Height: 19	Weight: 1780
-
-Genus: Thunder Pokémon
-Location Areas:
-roaming-kanto-area
-roaming-johto-area
+ Location Areas:
+   Roaming kanto area
+   Roaming johto area

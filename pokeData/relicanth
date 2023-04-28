@@ -1,33 +1,32 @@
 
-Relicanth	 A water type Pokémon
+  Relicanth    Water Type Pokémon
 
-RELICANTH is a Pokémon species 
-that existed for a hundred million 
-years without ever changing its 
-form.  This ancient Pokémon feeds 
-on microscopic organisms with 
-its toothless mouth. 
+  RELICANTH is a Pokémon species 
+  that existed for a hundred million 
+  years without ever changing its 
+  form.  This ancient Pokémon feeds 
+  on microscopic organisms with 
+  its toothless mouth. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:         90
+         defense:        130
+  special-attack:         45
+ special-defense:         65
+           speed:         55
 
-  ↞--------| STATS |--------↠ 
-             hp:        100
-         attack:         90
-        defense:        130
- special-attack:         45
-special-defense:         65
-          speed:         55
+ Genus: Longevity Pokémon
+ Happiness: 50	Pokedex ID: 369
+ Base Exp: 170	Capture Rate: 25
+ Height:    10	Weight: 234
 
-Pokedex ID: 369	Capture Rate: 25
-Base Exp: 170	Happiness: 50
-Height: 10	Weight: 234
-
-Genus: Longevity Pokémon
-Location Areas:
-sinnoh-sea-route-226-area
-kanto-route-12-area
-hoenn-route-124-underwater
-hoenn-route-126-underwater
-unova-route-4-area
-ambrette-town-area
-cyllage-city-area
+ Location Areas:
+   Sinnoh sea route 226 area
+   Kanto route 12 area
+   Hoenn route 124 underwater
+   Hoenn route 126 underwater
+   Unova route 4 area
+   Ambrette town area
+   Cyllage city area

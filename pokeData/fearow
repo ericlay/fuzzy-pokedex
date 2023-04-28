@@ -1,49 +1,49 @@
 
-Fearow	 A normal type Pokémon
+  Fearow    Normal Type Pokémon
 
-With its huge and magnificent 
-wings, it can keep aloft without 
-ever having to land for rest. 
-
+  With its huge and magnificent 
+  wings, it can keep aloft without 
+  ever having to land for rest. 
+  
 	Evolution Chain
       Spearow ► Fearow
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         90
-        defense:         65
- special-attack:         61
-special-defense:         61
-          speed:        100
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         90
+         defense:         65
+  special-attack:         61
+ special-defense:         61
+           speed:        100
 
-Pokedex ID: 22	Capture Rate: 90
-Base Exp: 155	Happiness: 70
-Height: 12	Weight: 380
+ Genus: Beak Pokémon
+ Happiness: 70	Pokedex ID: 22
+ Base Exp: 155	Capture Rate: 90
+ Height:    12	Weight: 380
 
-Genus: Beak Pokémon
-Location Areas:
-stark-mountain-area
-sinnoh-route-225-area
-sinnoh-route-227-area
-sinnoh-sea-route-226-area
-johto-route-42-area
-johto-route-47-area
-johto-route-48-area
-kanto-route-9-area
-kanto-route-10-area
-kanto-route-16-area
-kanto-route-17-area
-kanto-route-18-area
-kanto-route-22-area
-kanto-route-23-area
-mt-ember-area
-kindle-road-area
-treasure-beach-area
-cape-brink-area
-water-path-area
-ruin-valley-area
-canyon-entrance-area
-sevault-canyon-area
-unova-route-15-area
-johto-safari-zone-zone-desert
-johto-safari-zone-zone-wasteland
+ Location Areas:
+   Stark mountain area
+   Sinnoh route 225 area
+   Sinnoh route 227 area
+   Sinnoh sea route 226 area
+   Johto route 42 area
+   Johto route 47 area
+   Johto route 48 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Kanto route 16 area
+   Kanto route 17 area
+   Kanto route 18 area
+   Kanto route 22 area
+   Kanto route 23 area
+   Mt ember area
+   Kindle road area
+   Treasure beach area
+   Cape brink area
+   Water path area
+   Ruin valley area
+   Canyon entrance area
+   Sevault canyon area
+   Unova route 15 area
+   Johto safari zone zone desert
+   Johto safari zone zone wasteland

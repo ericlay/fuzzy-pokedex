@@ -1,24 +1,22 @@
 
-Falinks	 A fighting type Pokémon
+  Falinks    Fighting Type Pokémon
 
-Five of them are troopers, and 
-one is the brass.  The brass’s 
-orders are absolute. 
+  Five of them are troopers, and 
+  one is the brass.  The brass’s 
+  orders are absolute. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:        100
+         defense:        100
+  special-attack:         70
+ special-defense:         60
+           speed:         75
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:        100
-        defense:        100
- special-attack:         70
-special-defense:         60
-          speed:         75
+ Genus: Formation Pokémon
+ Happiness: 50	Pokedex ID: 870
+ Base Exp: 165	Capture Rate: 45
+ Height:    30	Weight: 620
 
-Pokedex ID: 870	Capture Rate: 45
-Base Exp: 165	Happiness: 50
-Height: 30	Weight: 620
-
-Genus: Formation Pokémon
-Location Areas:
-
+ Location Areas:

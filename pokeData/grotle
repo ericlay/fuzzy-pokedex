@@ -1,25 +1,23 @@
 
-Grotle	 A grass type Pokémon
+  Grotle    Grass Type Pokémon
 
-It knows where pure water wells 
-up.  It carries fellow Pokémon 
-there on its back. 
+  It knows where pure water wells 
+  up.  It carries fellow Pokémon 
+  there on its back. 
+	   Evolution Chain
+  Turtwig ► Grotle ► Torterra
 
-	Evolution Chain
-Turtwig ► Grotle ► Torterra
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         89
+         defense:         85
+  special-attack:         55
+ special-defense:         65
+           speed:         36
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:         89
-        defense:         85
- special-attack:         55
-special-defense:         65
-          speed:         36
+ Genus: Grove Pokémon
+ Happiness: 70	Pokedex ID: 388
+ Base Exp: 142	Capture Rate: 45
+ Height:    11	Weight: 970
 
-Pokedex ID: 388	Capture Rate: 45
-Base Exp: 142	Happiness: 70
-Height: 11	Weight: 970
-
-Genus: Grove Pokémon
-Location Areas:
-
+ Location Areas:

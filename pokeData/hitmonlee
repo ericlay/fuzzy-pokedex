@@ -1,27 +1,30 @@
 
-Hitmonlee	 A fighting type Pokémon
+  Hitmonlee    Fighting Type Pokémon
 
-When in a hurry, its legs lengthen 
-progressively.  It runs smoothly 
-with extra long, loping strides. 
-
+  When in a hurry, its legs lengthen 
+  progressively.  It runs smoothly 
+  with extra long, loping strides. 
+  
 	Evolution Chain
       Tyrogue ► Hitmonlee
-hitmonchan
-hitmontop
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:        120
-        defense:         53
- special-attack:         35
-special-defense:        110
-          speed:         87
+Stage 2 Forms:
+  hitmonlee
+  hitmonchan
+  hitmontop
 
-Pokedex ID: 106	Capture Rate: 45
-Base Exp: 159	Happiness: 50
-Height: 15	Weight: 498
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:        120
+         defense:         53
+  special-attack:         35
+ special-defense:        110
+           speed:         87
 
-Genus: Kicking Pokémon
-Location Areas:
-saffron-city-fighting-dojo
+ Genus: Kicking Pokémon
+ Happiness: 50	Pokedex ID: 106
+ Base Exp: 159	Capture Rate: 45
+ Height:    15	Weight: 498
+
+ Location Areas:
+   Saffron city fighting dojo

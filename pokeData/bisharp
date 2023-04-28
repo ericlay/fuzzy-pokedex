@@ -1,26 +1,25 @@
 
-Bisharp	 A dark type Pokémon
+  Bisharp    Dark Type Pokémon
 
-It leads a group of Pawniard. 
- It battles to become the boss, 
-but will be driven from the group 
-if it loses. 
+  It leads a group of Pawniard. 
+   It battles to become the boss, 
+  but will be driven from the group 
+  if it loses. 
+	   Evolution Chain
+  Pawniard ► Bisharp ► Kingambit
 
-	Evolution Chain
-Pawniard ► Bisharp ► Kingambit
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:        125
+         defense:        100
+  special-attack:         60
+ special-defense:         70
+           speed:         70
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:        125
-        defense:        100
- special-attack:         60
-special-defense:         70
-          speed:         70
+ Genus: Sword Blade Pokémon
+ Happiness: 35	Pokedex ID: 625
+ Base Exp: 172	Capture Rate: 45
+ Height:    16	Weight: 700
 
-Pokedex ID: 625	Capture Rate: 45
-Base Exp: 172	Happiness: 35
-Height: 16	Weight: 700
-
-Genus: Sword Blade Pokémon
-Location Areas:
-unova-route-11-area
+ Location Areas:
+   Unova route 11 area

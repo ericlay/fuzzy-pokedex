@@ -1,25 +1,24 @@
 
-Nidoqueen	 A poison type Pokémon
+  Nidoqueen    Poison Type Pokémon
 
-Its hard scales provide strong 
-protection.  It uses its hefty 
-bulk to execute powerful moves. 
+  Its hard scales provide strong 
+  protection.  It uses its hefty 
+  bulk to execute powerful moves. 
+  
+	   Evolution Chain
+  Nidoran-f ► Nidorina ► Nidoqueen
 
-	Evolution Chain
-Nidoran-f ► Nidorina ► Nidoqueen
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:         92
+         defense:         87
+  special-attack:         75
+ special-defense:         85
+           speed:         76
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:         92
-        defense:         87
- special-attack:         75
-special-defense:         85
-          speed:         76
+ Genus: Drill Pokémon
+ Happiness: 50	Pokedex ID: 31
+ Base Exp: 253	Capture Rate: 45
+ Height:    13	Weight: 600
 
-Pokedex ID: 31	Capture Rate: 45
-Base Exp: 253	Happiness: 50
-Height: 13	Weight: 600
-
-Genus: Drill Pokémon
-Location Areas:
-
+ Location Areas:

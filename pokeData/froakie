@@ -1,26 +1,26 @@
 
-Froakie	 A water type Pokémon
+  Froakie    Water Type Pokémon
 
-It secretes flexible bubbles 
-from its chest and back.  The 
-bubbles reduce the damage it 
-would otherwise take when attacked. 
+  It secretes flexible bubbles 
+  from its chest and back.  The 
+  bubbles reduce the damage it 
+  would otherwise take when attacked. 
+  
+	   Evolution Chain
+  Froakie ► Frogadier ► Greninja
 
-	Evolution Chain
-Froakie ► Frogadier ► Greninja
+   ↞--------| STATS |--------↠ 
+              hp:         41
+          attack:         56
+         defense:         40
+  special-attack:         62
+ special-defense:         44
+           speed:         71
 
-  ↞--------| STATS |--------↠ 
-             hp:         41
-         attack:         56
-        defense:         40
- special-attack:         62
-special-defense:         44
-          speed:         71
+ Genus: Bubble Frog Pokémon
+ Happiness: 70	Pokedex ID: 656
+ Base Exp: 63	Capture Rate: 45
+ Height:    3	Weight: 70
 
-Pokedex ID: 656	Capture Rate: 45
-Base Exp: 63	Happiness: 70
-Height: 3	Weight: 70
-
-Genus: Bubble Frog Pokémon
-Location Areas:
-aquacorde-town-area
+ Location Areas:
+   Aquacorde town area

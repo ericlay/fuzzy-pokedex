@@ -1,33 +1,32 @@
 
-Trapinch	 A ground type Pokémon
+  Trapinch    Ground Type Pokémon
 
-TRAPINCH’s nest is a sloped, 
-bowl-like pit dug in sand.  This 
-Pokémon patiently waits for prey 
-to tumble down the pit.  Its 
-giant jaws have enough strength 
-to crush even boulders. 
+  TRAPINCH’s nest is a sloped, 
+  bowl-like pit dug in sand.  This 
+  Pokémon patiently waits for prey 
+  to tumble down the pit.  Its 
+  giant jaws have enough strength 
+  to crush even boulders. 
+	   Evolution Chain
+  Trapinch ► Vibrava ► Flygon
 
-	Evolution Chain
-Trapinch ► Vibrava ► Flygon
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:        100
+         defense:         45
+  special-attack:         45
+ special-defense:         45
+           speed:         10
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:        100
-        defense:         45
- special-attack:         45
-special-defense:         45
-          speed:         10
+ Genus: Ant Pit Pokémon
+ Happiness: 50	Pokedex ID: 328
+ Base Exp: 58	Capture Rate: 255
+ Height:    7	Weight: 150
 
-Pokedex ID: 328	Capture Rate: 255
-Base Exp: 58	Happiness: 50
-Height: 7	Weight: 150
-
-Genus: Ant Pit Pokémon
-Location Areas:
-sinnoh-route-228-area
-hoenn-route-111-area
-mirage-tower-area
-desert-resort-area
-reversal-mountain-unknown-area-48
-kalos-route-13-area
+ Location Areas:
+   Sinnoh route 228 area
+   Hoenn route 111 area
+   Mirage tower area
+   Desert resort area
+   Reversal mountain unknown area 48
+   Kalos route 13 area

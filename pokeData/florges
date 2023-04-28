@@ -1,26 +1,25 @@
 
-Florges	 A fairy type Pokémon
+  Florges    Fairy Type Pokémon
 
-It claims exquisite flower gardens 
-as its territory, and it obtains 
-power from basking in the energy 
-emitted by flowering plants. 
+  It claims exquisite flower gardens 
+  as its territory, and it obtains 
+  power from basking in the energy 
+  emitted by flowering plants. 
+  
+	   Evolution Chain
+  Flabebe ► Floette ► Florges
 
-	Evolution Chain
-Flabebe ► Floette ► Florges
+   ↞--------| STATS |--------↠ 
+              hp:         78
+          attack:         65
+         defense:         68
+  special-attack:        112
+ special-defense:        154
+           speed:         75
 
-  ↞--------| STATS |--------↠ 
-             hp:         78
-         attack:         65
-        defense:         68
- special-attack:        112
-special-defense:        154
-          speed:         75
+ Genus: Garden Pokémon
+ Happiness: 70	Pokedex ID: 671
+ Base Exp: 248	Capture Rate: 45
+ Height:    11	Weight: 100
 
-Pokedex ID: 671	Capture Rate: 45
-Base Exp: 248	Happiness: 70
-Height: 11	Weight: 100
-
-Genus: Garden Pokémon
-Location Areas:
-
+ Location Areas:

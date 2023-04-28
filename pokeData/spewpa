@@ -1,27 +1,25 @@
 
-Spewpa	 A bug type Pokémon
+  Spewpa    Bug Type Pokémon
 
-It lives hidden within thicket 
-shadows.  When predators attack, 
-it quickly bristles the fur covering 
-its body in an effort to threaten 
-them. 
+  It lives hidden within thicket 
+  shadows.  When predators attack, 
+  it quickly bristles the fur covering 
+  its body in an effort to threaten 
+  them. 
+	   Evolution Chain
+  Scatterbug ► Spewpa ► Vivillon
 
-	Evolution Chain
-Scatterbug ► Spewpa ► Vivillon
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         22
+         defense:         60
+  special-attack:         27
+ special-defense:         30
+           speed:         29
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         22
-        defense:         60
- special-attack:         27
-special-defense:         30
-          speed:         29
+ Genus: Scatterdust Pokémon
+ Happiness: 70	Pokedex ID: 665
+ Base Exp: 75	Capture Rate: 120
+ Height:    3	Weight: 84
 
-Pokedex ID: 665	Capture Rate: 120
-Base Exp: 75	Happiness: 70
-Height: 3	Weight: 84
-
-Genus: Scatterdust Pokémon
-Location Areas:
-
+ Location Areas:

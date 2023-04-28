@@ -1,32 +1,31 @@
 
-Smeargle	 A normal type Pokémon
+  Smeargle    Normal Type Pokémon
 
-A special fluid oozes from the 
-tip of its tail.  It paints the 
-fluid everywhere to mark its 
-territory. 
+  A special fluid oozes from the 
+  tip of its tail.  It paints the 
+  fluid everywhere to mark its 
+  territory. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         20
+         defense:         35
+  special-attack:         20
+ special-defense:         45
+           speed:         75
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         20
-        defense:         35
- special-attack:         20
-special-defense:         45
-          speed:         75
+ Genus: Painter Pokémon
+ Happiness: 70	Pokedex ID: 235
+ Base Exp: 88	Capture Rate: 45
+ Height:    12	Weight: 580
 
-Pokedex ID: 235	Capture Rate: 45
-Base Exp: 88	Happiness: 70
-Height: 12	Weight: 580
-
-Genus: Painter Pokémon
-Location Areas:
-sinnoh-route-208-area
-sinnoh-route-212-north-towards-hearthome-city
-ruins-of-alph-outside
-artisan-cave-area
-hoenn-altering-cave-i
-kanto-altering-cave-i
-kalos-route-7-area
-johto-safari-zone-zone-plains
+ Location Areas:
+   Sinnoh route 208 area
+   Sinnoh route 212 north towards hearthome city
+   Ruins of alph outside
+   Artisan cave area
+   Hoenn altering cave i
+   Kanto altering cave i
+   Kalos route 7 area
+   Johto safari zone zone plains

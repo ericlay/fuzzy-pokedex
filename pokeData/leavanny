@@ -1,28 +1,27 @@
 
-Leavanny	 A bug type Pokémon
+  Leavanny    Bug Type Pokémon
 
-Upon finding a small Pokémon, 
-it weaves clothing for it from 
-leaves, using the cutters on 
-its arms and sticky silk. 
+  Upon finding a small Pokémon, 
+  it weaves clothing for it from 
+  leaves, using the cutters on 
+  its arms and sticky silk. 
+	   Evolution Chain
+  Sewaddle ► Swadloon ► Leavanny
 
-	Evolution Chain
-Sewaddle ► Swadloon ► Leavanny
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:        103
+         defense:         80
+  special-attack:         70
+ special-defense:         80
+           speed:         92
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:        103
-        defense:         80
- special-attack:         70
-special-defense:         80
-          speed:         92
+ Genus: Nurturing Pokémon
+ Happiness: 70	Pokedex ID: 542
+ Base Exp: 225	Capture Rate: 45
+ Height:    12	Weight: 205
 
-Pokedex ID: 542	Capture Rate: 45
-Base Exp: 225	Happiness: 70
-Height: 12	Weight: 205
-
-Genus: Nurturing Pokémon
-Location Areas:
-unova-route-6-area
-unova-route-12-area
-lostlorn-forest-area
+ Location Areas:
+   Unova route 6 area
+   Unova route 12 area
+   Lostlorn forest area

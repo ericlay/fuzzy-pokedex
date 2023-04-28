@@ -1,28 +1,27 @@
 
-Treecko	 A grass type Pokémon
+  Treecko    Grass Type Pokémon
 
-TREECKO has small hooks on the 
-bottom of its feet that enable 
-it to scale vertical walls.  
-Treecko attacks by slamming 
-foes with its thick tail. 
+  TREECKO has small hooks on the 
+  bottom of its feet that enable 
+  it to scale vertical walls.  
+  Treecko attacks by slamming 
+  foes with its thick tail. 
+	   Evolution Chain
+  Treecko ► Grovyle ► Sceptile
 
-	Evolution Chain
-Treecko ► Grovyle ► Sceptile
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         45
+         defense:         35
+  special-attack:         65
+ special-defense:         55
+           speed:         70
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         45
-        defense:         35
- special-attack:         65
-special-defense:         55
-          speed:         70
+ Genus: Wood Gecko Pokémon
+ Happiness: 50	Pokedex ID: 252
+ Base Exp: 62	Capture Rate: 45
+ Height:    5	Weight: 50
 
-Pokedex ID: 252	Capture Rate: 45
-Base Exp: 62	Happiness: 50
-Height: 5	Weight: 50
-
-Genus: Wood Gecko Pokémon
-Location Areas:
-hoenn-route-101-area
-saffron-city-silph-co
+ Location Areas:
+   Hoenn route 101 area
+   Saffron city silph co

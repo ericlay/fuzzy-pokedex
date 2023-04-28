@@ -1,25 +1,23 @@
 
-Victini	 A psychic type Pokémon
+  Victini    Psychic Type Pokémon
 
-This Pokémon brings victory. 
- It is said that Trainers with 
-Victini always win, regardless 
-of the type of encounter. 
+  This Pokémon brings victory. 
+   It is said that Trainers with 
+  Victini always win, regardless 
+  of the type of encounter. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:        100
+         defense:        100
+  special-attack:        100
+ special-defense:        100
+           speed:        100
 
-  ↞--------| STATS |--------↠ 
-             hp:        100
-         attack:        100
-        defense:        100
- special-attack:        100
-special-defense:        100
-          speed:        100
+ Genus: Victory Pokémon
+ Happiness: 100	Pokedex ID: 494
+ Base Exp: 300	Capture Rate: 3
+ Height:    4	Weight: 40
 
-Pokedex ID: 494	Capture Rate: 3
-Base Exp: 300	Happiness: 100
-Height: 4	Weight: 40
-
-Genus: Victory Pokémon
-Location Areas:
-
+ Location Areas:

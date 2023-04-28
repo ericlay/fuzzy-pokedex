@@ -1,26 +1,24 @@
 
-Servine	 A grass type Pokémon
+  Servine    Grass Type Pokémon
 
-It moves along the ground as 
-if sliding.  Its swift movements 
-befuddle its foes, and it then 
-attacks with a vine whip. 
+  It moves along the ground as 
+  if sliding.  Its swift movements 
+  befuddle its foes, and it then 
+  attacks with a vine whip. 
+	   Evolution Chain
+  Snivy ► Servine ► Serperior
 
-	Evolution Chain
-Snivy ► Servine ► Serperior
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         60
+         defense:         75
+  special-attack:         60
+ special-defense:         75
+           speed:         83
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         60
-        defense:         75
- special-attack:         60
-special-defense:         75
-          speed:         83
+ Genus: Grass Snake Pokémon
+ Happiness: 70	Pokedex ID: 496
+ Base Exp: 145	Capture Rate: 45
+ Height:    8	Weight: 160
 
-Pokedex ID: 496	Capture Rate: 45
-Base Exp: 145	Happiness: 70
-Height: 8	Weight: 160
-
-Genus: Grass Snake Pokémon
-Location Areas:
-
+ Location Areas:

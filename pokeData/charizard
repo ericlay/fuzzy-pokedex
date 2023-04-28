@@ -1,25 +1,24 @@
 
-Charizard	 A fire type Pokémon
+  Charizard    Fire Type Pokémon
 
-Spits fire that is hot enough 
-to melt boulders.  Known to cause 
-forest fires unintentionally. 
+  Spits fire that is hot enough 
+  to melt boulders.  Known to cause 
+  forest fires unintentionally. 
+  
+	   Evolution Chain
+  Charmander ► Charmeleon ► Charizard
 
-	Evolution Chain
-Charmander ► Charmeleon ► Charizard
+   ↞--------| STATS |--------↠ 
+              hp:         78
+          attack:         84
+         defense:         78
+  special-attack:        109
+ special-defense:         85
+           speed:        100
 
-  ↞--------| STATS |--------↠ 
-             hp:         78
-         attack:         84
-        defense:         78
- special-attack:        109
-special-defense:         85
-          speed:        100
+ Genus: Flame Pokémon
+ Happiness: 50	Pokedex ID: 6
+ Base Exp: 267	Capture Rate: 45
+ Height:    17	Weight: 905
 
-Pokedex ID: 6	Capture Rate: 45
-Base Exp: 267	Happiness: 50
-Height: 17	Weight: 905
-
-Genus: Flame Pokémon
-Location Areas:
-
+ Location Areas:

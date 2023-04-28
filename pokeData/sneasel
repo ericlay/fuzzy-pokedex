@@ -1,48 +1,51 @@
 
-Sneasel	 A dark type Pokémon
+  Sneasel    Dark Type Pokémon
 
-Its paws conceal sharp claws. 
- If attacked, it sud­ denly extends 
-the claws and startles its enemy. 
-
+  Its paws conceal sharp claws. 
+   If attacked, it sud­ denly extends 
+  the claws and startles its enemy. 
+  
 	Evolution Chain
       Sneasel ► Weavile
-sneasler
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         95
-        defense:         55
- special-attack:         35
-special-defense:         75
-          speed:        115
+Stage 2 Forms:
+  weavile
+  sneasler
 
-Pokedex ID: 215	Capture Rate: 60
-Base Exp: 86	Happiness: 35
-Height: 9	Weight: 280
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         95
+         defense:         55
+  special-attack:         35
+ special-defense:         75
+           speed:        115
 
-Genus: Sharp Claw Pokémon
-Location Areas:
-snowpoint-temple-1f
-snowpoint-temple-b1f
-snowpoint-temple-b2f
-snowpoint-temple-b3f
-snowpoint-temple-b4f
-snowpoint-temple-b5f
-lake-acuity-area
-acuity-lakefront-area
-sinnoh-route-216-area
-sinnoh-route-217-area
-ice-path-b1f
-ice-path-b2f
-ice-path-b3f
-mt-silver-1f-top
-mt-silver-4f
-mt-silver-outside
-mt-silver-top
-kanto-route-28-area
-icefall-cave-1f
-icefall-cave-b1f
-giant-chasm-area
-giant-chasm-forest-cave
-kalos-route-17-area
+ Genus: Sharp Claw Pokémon
+ Happiness: 35	Pokedex ID: 215
+ Base Exp: 86	Capture Rate: 60
+ Height:    9	Weight: 280
+
+ Location Areas:
+   Snowpoint temple 1f
+   Snowpoint temple b1f
+   Snowpoint temple b2f
+   Snowpoint temple b3f
+   Snowpoint temple b4f
+   Snowpoint temple b5f
+   Lake acuity area
+   Acuity lakefront area
+   Sinnoh route 216 area
+   Sinnoh route 217 area
+   Ice path b1f
+   Ice path b2f
+   Ice path b3f
+   Mt silver 1f top
+   Mt silver 4f
+   Mt silver outside
+   Mt silver top
+   Kanto route 28 area
+   Icefall cave 1f
+   Icefall cave b1f
+   Giant chasm area
+   Giant chasm forest cave
+   Kalos route 17 area

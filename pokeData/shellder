@@ -1,58 +1,58 @@
 
-Shellder	 A water type Pokémon
+  Shellder    Water Type Pokémon
 
-Its hard shell repels any kind 
-of attack.  It is vulnerable 
-only when its shell is open. 
-
+  Its hard shell repels any kind 
+  of attack.  It is vulnerable 
+  only when its shell is open. 
+  
 	Evolution Chain
       Shellder ► Cloyster
 
-  ↞--------| STATS |--------↠ 
-             hp:         30
-         attack:         65
-        defense:        100
- special-attack:         45
-special-defense:         25
-          speed:         40
+   ↞--------| STATS |--------↠ 
+              hp:         30
+          attack:         65
+         defense:        100
+  special-attack:         45
+ special-defense:         25
+           speed:         40
 
-Pokedex ID: 90	Capture Rate: 190
-Base Exp: 61	Happiness: 50
-Height: 3	Weight: 40
+ Genus: Bivalve Pokémon
+ Happiness: 50	Pokedex ID: 90
+ Base Exp: 61	Capture Rate: 190
+ Height:    3	Weight: 40
 
-Genus: Bivalve Pokémon
-Location Areas:
-valley-windworks-area
-fuego-ironworks-area
-sinnoh-route-205-south-towards-floaroma-town
-new-bark-town-area
-johto-sea-route-41-area
-johto-route-47-area
-seafoam-islands-1f
-seafoam-islands-b1f
-seafoam-islands-b2f
-seafoam-islands-b3f
-seafoam-islands-b4f
-kanto-sea-route-19-area
-kanto-sea-route-20-area
-cinnabar-island-area
-vermilion-city-area
-pallet-town-area
-kanto-route-26-area
-kanto-route-27-area
-kanto-route-6-area
-kanto-route-11-area
-kanto-route-17-area
-kanto-route-18-area
-kanto-sea-route-21-area
-vermilion-city-ss-anne-dock
-ss-anne-area
-icefall-cave-waterfall
-one-island-area
-five-island-area
-undella-bay-area
-unova-route-13-area
-undella-town-area
-humilau-city-area
-seaside-cave-1f
-kalos-route-8-area
+ Location Areas:
+   Valley windworks area
+   Fuego ironworks area
+   Sinnoh route 205 south towards floaroma town
+   New bark town area
+   Johto sea route 41 area
+   Johto route 47 area
+   Seafoam islands 1f
+   Seafoam islands b1f
+   Seafoam islands b2f
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Kanto sea route 19 area
+   Kanto sea route 20 area
+   Cinnabar island area
+   Vermilion city area
+   Pallet town area
+   Kanto route 26 area
+   Kanto route 27 area
+   Kanto route 6 area
+   Kanto route 11 area
+   Kanto route 17 area
+   Kanto route 18 area
+   Kanto sea route 21 area
+   Vermilion city ss anne dock
+   Ss anne area
+   Icefall cave waterfall
+   One island area
+   Five island area
+   Undella bay area
+   Unova route 13 area
+   Undella town area
+   Humilau city area
+   Seaside cave 1f
+   Kalos route 8 area

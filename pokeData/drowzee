@@ -1,31 +1,31 @@
 
-Drowzee	 A psychic type Pokémon
+  Drowzee    Psychic Type Pokémon
 
-Puts enemies to sleep then eats 
-their dreams.  Occasionally gets 
-sick from eating bad dreams. 
-
+  Puts enemies to sleep then eats 
+  their dreams.  Occasionally gets 
+  sick from eating bad dreams. 
+  
 	Evolution Chain
       Drowzee ► Hypno
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         48
-        defense:         45
- special-attack:         43
-special-defense:         90
-          speed:         42
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         48
+         defense:         45
+  special-attack:         43
+ special-defense:         90
+           speed:         42
 
-Pokedex ID: 96	Capture Rate: 190
-Base Exp: 66	Happiness: 70
-Height: 10	Weight: 324
+ Genus: Hypnosis Pokémon
+ Happiness: 70	Pokedex ID: 96
+ Base Exp: 66	Capture Rate: 190
+ Height:    10	Weight: 324
 
-Genus: Hypnosis Pokémon
-Location Areas:
-sinnoh-route-215-area
-johto-route-34-area
-johto-route-35-area
-kanto-route-6-area
-kanto-route-11-area
-berry-forest-area
-johto-safari-zone-zone-swamp
+ Location Areas:
+   Sinnoh route 215 area
+   Johto route 34 area
+   Johto route 35 area
+   Kanto route 6 area
+   Kanto route 11 area
+   Berry forest area
+   Johto safari zone zone swamp

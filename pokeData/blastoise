@@ -1,25 +1,24 @@
 
-Blastoise	 A water type Pokémon
+  Blastoise    Water Type Pokémon
 
-A brutal Pokémon with pressurized 
-water jets on its shell.  They 
-are used for high speed tackles. 
+  A brutal Pokémon with pressurized 
+  water jets on its shell.  They 
+  are used for high speed tackles. 
+  
+	   Evolution Chain
+  Squirtle ► Wartortle ► Blastoise
 
-	Evolution Chain
-Squirtle ► Wartortle ► Blastoise
+   ↞--------| STATS |--------↠ 
+              hp:         79
+          attack:         83
+         defense:        100
+  special-attack:         85
+ special-defense:        105
+           speed:         78
 
-  ↞--------| STATS |--------↠ 
-             hp:         79
-         attack:         83
-        defense:        100
- special-attack:         85
-special-defense:        105
-          speed:         78
+ Genus: Shellfish Pokémon
+ Happiness: 50	Pokedex ID: 9
+ Base Exp: 265	Capture Rate: 45
+ Height:    16	Weight: 855
 
-Pokedex ID: 9	Capture Rate: 45
-Base Exp: 265	Happiness: 50
-Height: 16	Weight: 855
-
-Genus: Shellfish Pokémon
-Location Areas:
-
+ Location Areas:

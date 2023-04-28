@@ -1,39 +1,39 @@
 
-Rhyhorn	 A ground type Pokémon
+  Rhyhorn    Ground Type Pokémon
 
-A Pokémon with a one-track mind. 
- Once it charges,  it won't stop 
-running until it falls asleep. 
+  A Pokémon with a one-track mind. 
+   Once it charges,  it won't stop 
+  running until it falls asleep. 
+  
+	   Evolution Chain
+  Rhyhorn ► Rhydon ► Rhyperior
 
-	Evolution Chain
-Rhyhorn ► Rhydon ► Rhyperior
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:         85
+         defense:         95
+  special-attack:         30
+ special-defense:         30
+           speed:         25
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:         85
-        defense:         95
- special-attack:         30
-special-defense:         30
-          speed:         25
+ Genus: Spikes Pokémon
+ Happiness: 50	Pokedex ID: 111
+ Base Exp: 69	Capture Rate: 120
+ Height:    10	Weight: 1150
 
-Pokedex ID: 111	Capture Rate: 120
-Base Exp: 69	Happiness: 50
-Height: 10	Weight: 1150
-
-Genus: Spikes Pokémon
-Location Areas:
-sinnoh-victory-road-1f
-stark-mountain-area
-stark-mountain-entrance
-sinnoh-route-214-area
-sinnoh-route-227-area
-kanto-victory-road-1-1f
-kanto-victory-road-1-2f
-kanto-victory-road-1-3f
-cerulean-cave-2f
-cerulean-cave-b1f
-kanto-safari-zone-middle
-kanto-safari-zone-area-2-north
-hoenn-safari-zone-nwmach-bike-area
-glittering-cave-unknown-area-303
-johto-safari-zone-zone-savannah
+ Location Areas:
+   Sinnoh victory road 1f
+   Stark mountain area
+   Stark mountain entrance
+   Sinnoh route 214 area
+   Sinnoh route 227 area
+   Kanto victory road 1 1f
+   Kanto victory road 1 2f
+   Kanto victory road 1 3f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Kanto safari zone middle
+   Kanto safari zone area 2 north
+   Hoenn safari zone nwmach bike area
+   Glittering cave unknown area 303
+   Johto safari zone zone savannah

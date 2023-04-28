@@ -1,27 +1,26 @@
 
-Raichu	 A electric type Pokémon
+  Raichu    Electric Type Pokémon
 
-Its long tail serves as a ground 
-to protect itself from its own 
-high-voltage power. 
+  Its long tail serves as a ground 
+  to protect itself from its own 
+  high-voltage power. 
+	   Evolution Chain
+  Pichu ► Pikachu ► Raichu
 
-	Evolution Chain
-Pichu ► Pikachu ► Raichu
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         90
+         defense:         55
+  special-attack:         90
+ special-defense:         80
+           speed:        110
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         90
-        defense:         55
- special-attack:         90
-special-defense:         80
-          speed:        110
+ Genus: Mouse Pokémon
+ Happiness: 50	Pokedex ID: 26
+ Base Exp: 243	Capture Rate: 75
+ Height:    8	Weight: 300
 
-Pokedex ID: 26	Capture Rate: 75
-Base Exp: 243	Happiness: 50
-Height: 8	Weight: 300
-
-Genus: Mouse Pokémon
-Location Areas:
-cerulean-cave-1f
-cerulean-cave-b1f
-power-plant-area
+ Location Areas:
+   Cerulean cave 1f
+   Cerulean cave b1f
+   Power plant area

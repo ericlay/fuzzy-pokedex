@@ -1,28 +1,27 @@
 
-Golett	 A ground type Pokémon
+  Golett    Ground Type Pokémon
 
-The energy that burns inside 
-it enables it to move, but no 
-one has yet been able to identify 
-this energy. 
-
+  The energy that burns inside 
+  it enables it to move, but no 
+  one has yet been able to identify 
+  this energy. 
 	Evolution Chain
       Golett ► Golurk
 
-  ↞--------| STATS |--------↠ 
-             hp:         59
-         attack:         74
-        defense:         50
- special-attack:         35
-special-defense:         50
-          speed:         35
+   ↞--------| STATS |--------↠ 
+              hp:         59
+          attack:         74
+         defense:         50
+  special-attack:         35
+ special-defense:         50
+           speed:         35
 
-Pokedex ID: 622	Capture Rate: 190
-Base Exp: 61	Happiness: 50
-Height: 10	Weight: 920
+ Genus: Automaton Pokémon
+ Happiness: 50	Pokedex ID: 622
+ Base Exp: 61	Capture Rate: 190
+ Height:    10	Weight: 920
 
-Genus: Automaton Pokémon
-Location Areas:
-dragonspiral-tower-1f
-dragonspiral-tower-2f
-kalos-route-10-area
+ Location Areas:
+   Dragonspiral tower 1f
+   Dragonspiral tower 2f
+   Kalos route 10 area

@@ -1,35 +1,34 @@
 
-Weezing	 A poison type Pokémon
+  Weezing    Poison Type Pokémon
 
-Where two kinds of poison gases 
-meet, 2 KOFFINGs can fuse into 
-a WEEZING over many years. 
-
+  Where two kinds of poison gases 
+  meet, 2 KOFFINGs can fuse into 
+  a WEEZING over many years. 
 	Evolution Chain
       Koffing ► Weezing
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         90
-        defense:        120
- special-attack:         85
-special-defense:         70
-          speed:         60
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         90
+         defense:        120
+  special-attack:         85
+ special-defense:         70
+           speed:         60
 
-Pokedex ID: 110	Capture Rate: 60
-Base Exp: 172	Happiness: 50
-Height: 12	Weight: 95
+ Genus: Poison Gas Pokémon
+ Happiness: 50	Pokedex ID: 110
+ Base Exp: 172	Capture Rate: 60
+ Height:    12	Weight: 95
 
-Genus: Poison Gas Pokémon
-Location Areas:
-stark-mountain-area
-stark-mountain-entrance
-stark-mountain-inside
-sinnoh-route-227-area
-burned-tower-b1f
-pokemon-mansion-1f
-pokemon-mansion-2f
-pokemon-mansion-3f
-pokemon-mansion-b1f
-p2-laboratory-area
-johto-safari-zone-zone-marshland
+ Location Areas:
+   Stark mountain area
+   Stark mountain entrance
+   Stark mountain inside
+   Sinnoh route 227 area
+   Burned tower b1f
+   Pokemon mansion 1f
+   Pokemon mansion 2f
+   Pokemon mansion 3f
+   Pokemon mansion b1f
+   P2 laboratory area
+   Johto safari zone zone marshland

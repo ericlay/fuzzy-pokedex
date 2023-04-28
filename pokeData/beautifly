@@ -1,34 +1,40 @@
 
-Beautifly	 A bug type Pokémon
+  Beautifly    Bug Type Pokémon
 
-BEAUTIFLY’s favorite food is 
-the sweet pollen of flowers. 
- If you want to see Beautifly, 
-just leave a potted flower by 
-an open window.  BEAUTIFLY is 
-sure to come looking for pollen. 
+  BEAUTIFLY’s favorite food is 
+  the sweet pollen of flowers. 
+   If you want to see Beautifly, 
+  just leave a potted flower by 
+  an open window.  BEAUTIFLY is 
+  sure to come looking for pollen. 
+  
+	   Evolution Chain
+  Wurmple ► Silcoon ► Beautifly
 
-	Evolution Chain
-Wurmple ► Silcoon
-cascoon ► Beautifly
-dustox
+Stage 2 Forms:
+  silcoon
+  cascoon
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         70
-        defense:         50
- special-attack:        100
-special-defense:         50
-          speed:         65
+Stage 3 Forms:
+  beautifly
+  dustox
 
-Pokedex ID: 267	Capture Rate: 45
-Base Exp: 178	Happiness: 70
-Height: 10	Weight: 284
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         70
+         defense:         50
+  special-attack:        100
+ special-defense:         50
+           speed:         65
 
-Genus: Butterfly Pokémon
-Location Areas:
-eterna-forest-area
-sinnoh-route-205-east-towards-eterna-city
-sinnoh-route-224-area
-sinnoh-route-229-area
-sinnoh-sea-route-230-area
+ Genus: Butterfly Pokémon
+ Happiness: 70	Pokedex ID: 267
+ Base Exp: 178	Capture Rate: 45
+ Height:    10	Weight: 284
+
+ Location Areas:
+   Eterna forest area
+   Sinnoh route 205 east towards eterna city
+   Sinnoh route 224 area
+   Sinnoh route 229 area
+   Sinnoh sea route 230 area

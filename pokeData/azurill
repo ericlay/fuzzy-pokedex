@@ -1,35 +1,34 @@
 
-Azurill	 A normal type Pokémon
+  Azurill    Normal Type Pokémon
 
-A Pokémon that lives by water. 
- It moves quickly on land by 
-bouncing on its big tail. 
+  A Pokémon that lives by water. 
+   It moves quickly on land by 
+  bouncing on its big tail. 
+	   Evolution Chain
+  Azurill ► Marill ► Azumarill
 
-	Evolution Chain
-Azurill ► Marill ► Azumarill
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         20
+         defense:         40
+  special-attack:         20
+ special-defense:         40
+           speed:         20
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         20
-        defense:         40
- special-attack:         20
-special-defense:         40
-          speed:         20
+ Genus: Polka Dot Pokémon
+ Happiness: 50	Pokedex ID: 298
+ Base Exp: 38	Capture Rate: 150
+ Height:    2	Weight: 20
 
-Pokedex ID: 298	Capture Rate: 150
-Base Exp: 38	Happiness: 50
-Height: 2	Weight: 20
-
-Genus: Polka Dot Pokémon
-Location Areas:
-great-marsh-area-1
-great-marsh-area-2
-great-marsh-area-3
-great-marsh-area-4
-great-marsh-area-5
-great-marsh-area-6
-floccesy-ranch-outer
-floccesy-ranch-inner
-unova-route-20-area
-kalos-route-3-area
-kalos-route-22-area
+ Location Areas:
+   Great marsh area 1
+   Great marsh area 2
+   Great marsh area 3
+   Great marsh area 4
+   Great marsh area 5
+   Great marsh area 6
+   Floccesy ranch outer
+   Floccesy ranch inner
+   Unova route 20 area
+   Kalos route 3 area
+   Kalos route 22 area

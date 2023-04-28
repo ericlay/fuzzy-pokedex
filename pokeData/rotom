@@ -1,24 +1,23 @@
 
-Rotom	 A electric type Pokémon
+  Rotom    Electric Type Pokémon
 
-Its body is composed of plasma. 
- It is known to infiltrate electronic 
-devices and wreak havoc. 
+  Its body is composed of plasma. 
+   It is known to infiltrate electronic 
+  devices and wreak havoc. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         50
+         defense:         77
+  special-attack:         95
+ special-defense:         77
+           speed:         91
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         50
-        defense:         77
- special-attack:         95
-special-defense:         77
-          speed:         91
+ Genus: Plasma Pokémon
+ Happiness: 50	Pokedex ID: 479
+ Base Exp: 154	Capture Rate: 45
+ Height:    3	Weight: 3
 
-Pokedex ID: 479	Capture Rate: 45
-Base Exp: 154	Happiness: 50
-Height: 3	Weight: 3
-
-Genus: Plasma Pokémon
-Location Areas:
-old-chateau-2f-left-room
+ Location Areas:
+   Old chateau 2f left room

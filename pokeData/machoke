@@ -1,61 +1,62 @@
 
-Machoke	 A fighting type Pokémon
+  Machoke    Fighting Type Pokémon
 
-Its muscular body is so powerful, 
-it must wear a power save belt 
-to be able to regulate its motions. 
+  Its muscular body is so powerful, 
+  it must wear a power save belt 
+  to be able to regulate its motions. 
+  
+	   Evolution Chain
+  Machop ► Machoke ► Machamp
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:        100
+         defense:         70
+  special-attack:         50
+ special-defense:         60
+           speed:         45
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:        100
-        defense:         70
- special-attack:         50
-special-defense:         60
-          speed:         45
+ Genus: Superpower Pokémon
+ Happiness: 50	Pokedex ID: 67
+ Base Exp: 142	Capture Rate: 90
+ Height:    15	Weight: 705
 
-Pokedex ID: 67	Capture Rate: 90
-Base Exp: 142	Happiness: 50
-Height: 15	Weight: 705
-
-Genus: Superpower Pokémon
-Location Areas:
-mt-coronet-2f
-mt-coronet-3f
-mt-coronet-exterior-snowfall
-mt-coronet-exterior-blizzard
-mt-coronet-4f
-mt-coronet-4f-small-room
-mt-coronet-5f
-mt-coronet-6f
-mt-coronet-1f-from-exterior
-mt-coronet-1f-route-216
-mt-coronet-b1f
-sinnoh-victory-road-1f
-sinnoh-victory-road-b1f
-sinnoh-victory-road-inside-b1f
-sinnoh-victory-road-inside
-sinnoh-victory-road-inside-exit
-stark-mountain-entrance
-stark-mountain-inside
-acuity-lakefront-area
-sinnoh-route-210-west-towards-celestic-town
-sinnoh-route-211-east-towards-celestic-town
-sinnoh-route-216-area
-sinnoh-route-217-area
-sinnoh-route-225-area
-sinnoh-sea-route-226-area
-mt-mortar-upper-cave
-mt-silver-2f
-johto-route-47-inside-cave
-rock-tunnel-1f
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-kanto-victory-road-2-1f
-kanto-victory-road-2-2f
-kanto-victory-road-2-3f
-mt-ember-inside
-mt-ember-1f-cave-behind-team-rocket
-johto-safari-zone-zone-wasteland
+ Location Areas:
+   Mt coronet 2f
+   Mt coronet 3f
+   Mt coronet exterior snowfall
+   Mt coronet exterior blizzard
+   Mt coronet 4f
+   Mt coronet 4f small room
+   Mt coronet 5f
+   Mt coronet 6f
+   Mt coronet 1f from exterior
+   Mt coronet 1f route 216
+   Mt coronet b1f
+   Sinnoh victory road 1f
+   Sinnoh victory road b1f
+   Sinnoh victory road inside b1f
+   Sinnoh victory road inside
+   Sinnoh victory road inside exit
+   Stark mountain entrance
+   Stark mountain inside
+   Acuity lakefront area
+   Sinnoh route 210 west towards celestic town
+   Sinnoh route 211 east towards celestic town
+   Sinnoh route 216 area
+   Sinnoh route 217 area
+   Sinnoh route 225 area
+   Sinnoh sea route 226 area
+   Mt mortar upper cave
+   Mt silver 2f
+   Johto route 47 inside cave
+   Rock tunnel 1f
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Kanto victory road 2 1f
+   Kanto victory road 2 2f
+   Kanto victory road 2 3f
+   Mt ember inside
+   Mt ember 1f cave behind team rocket
+   Johto safari zone zone wasteland

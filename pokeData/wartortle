@@ -1,26 +1,24 @@
 
-Wartortle	 A water type Pokémon
+  Wartortle    Water Type Pokémon
 
-Often hides in water to stalk 
-unwary prey.  For swimming fast, 
-it moves its ears to maintain 
-balance. 
+  Often hides in water to stalk 
+  unwary prey.  For swimming fast, 
+  it moves its ears to maintain 
+  balance. 
+	   Evolution Chain
+  Squirtle ► Wartortle ► Blastoise
 
-	Evolution Chain
-Squirtle ► Wartortle ► Blastoise
+   ↞--------| STATS |--------↠ 
+              hp:         59
+          attack:         63
+         defense:         80
+  special-attack:         65
+ special-defense:         80
+           speed:         58
 
-  ↞--------| STATS |--------↠ 
-             hp:         59
-         attack:         63
-        defense:         80
- special-attack:         65
-special-defense:         80
-          speed:         58
+ Genus: Turtle Pokémon
+ Happiness: 50	Pokedex ID: 8
+ Base Exp: 142	Capture Rate: 45
+ Height:    10	Weight: 225
 
-Pokedex ID: 8	Capture Rate: 45
-Base Exp: 142	Happiness: 50
-Height: 10	Weight: 225
-
-Genus: Turtle Pokémon
-Location Areas:
-
+ Location Areas:

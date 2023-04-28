@@ -1,26 +1,24 @@
 
-Galvantula	 A bug type Pokémon
+  Galvantula    Bug Type Pokémon
 
-When attacked, they create an 
-electric barrier by spitting 
-out many electrically charged 
-threads. 
-
+  When attacked, they create an 
+  electric barrier by spitting 
+  out many electrically charged 
+  threads. 
 	Evolution Chain
       Joltik ► Galvantula
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         77
-        defense:         60
- special-attack:         97
-special-defense:         60
-          speed:        108
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         77
+         defense:         60
+  special-attack:         97
+ special-defense:         60
+           speed:        108
 
-Pokedex ID: 596	Capture Rate: 75
-Base Exp: 165	Happiness: 50
-Height: 8	Weight: 143
+ Genus: EleSpider Pokémon
+ Happiness: 50	Pokedex ID: 596
+ Base Exp: 165	Capture Rate: 75
+ Height:    8	Weight: 143
 
-Genus: EleSpider Pokémon
-Location Areas:
-
+ Location Areas:

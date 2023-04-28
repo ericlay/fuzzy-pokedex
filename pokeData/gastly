@@ -1,73 +1,73 @@
 
-Gastly	 A ghost type Pokémon
+  Gastly    Ghost Type Pokémon
 
-Almost invisible, this gaseous 
-Pokémon cloaks the target and 
-puts it to sleep without notice. 
+  Almost invisible, this gaseous 
+  Pokémon cloaks the target and 
+  puts it to sleep without notice. 
+  
+	   Evolution Chain
+  Gastly ► Haunter ► Gengar
 
-	Evolution Chain
-Gastly ► Haunter ► Gengar
+   ↞--------| STATS |--------↠ 
+              hp:         30
+          attack:         35
+         defense:         30
+  special-attack:        100
+ special-defense:         35
+           speed:         80
 
-  ↞--------| STATS |--------↠ 
-             hp:         30
-         attack:         35
-        defense:         30
- special-attack:        100
-special-defense:         35
-          speed:         80
+ Genus: Gas Pokémon
+ Happiness: 50	Pokedex ID: 92
+ Base Exp: 62	Capture Rate: 190
+ Height:    13	Weight: 1
 
-Pokedex ID: 92	Capture Rate: 190
-Base Exp: 62	Happiness: 50
-Height: 13	Weight: 1
-
-Genus: Gas Pokémon
-Location Areas:
-eterna-forest-area
-turnback-cave-pillar-1
-turnback-cave-before-pillar-1
-old-chateau-entrance
-old-chateau-dining-room
-old-chateau-2f-private-room
-old-chateau-2f
-old-chateau-2f-leftmost-room
-old-chateau-2f-left-room
-old-chateau-2f-middle-room
-old-chateau-2f-right-room
-old-chateau-2f-rightmost-room
-sinnoh-route-209-area
-lost-tower-1f
-lost-tower-2f
-lost-tower-3f
-lost-tower-4f
-lost-tower-5f
-johto-route-31-area
-sprout-tower-2f
-sprout-tower-3f
-johto-route-32-area
-johto-route-36-area
-bell-tower-2f
-bell-tower-3f
-bell-tower-4f
-bell-tower-5f
-bell-tower-6f
-bell-tower-7f
-bell-tower-8f
-bell-tower-9f
-bell-tower-10f
-pokemon-tower-3f
-pokemon-tower-4f
-pokemon-tower-5f
-pokemon-tower-6f
-pokemon-tower-7f
-lost-cave-room-1
-lost-cave-room-2
-lost-cave-room-3
-lost-cave-room-4
-lost-cave-room-5
-lost-cave-room-6
-lost-cave-room-7
-lost-cave-room-8
-lost-cave-room-9
-lost-cave-room-10
-lost-cave-item-rooms
-johto-safari-zone-zone-forest
+ Location Areas:
+   Eterna forest area
+   Turnback cave pillar 1
+   Turnback cave before pillar 1
+   Old chateau entrance
+   Old chateau dining room
+   Old chateau 2f private room
+   Old chateau 2f
+   Old chateau 2f leftmost room
+   Old chateau 2f left room
+   Old chateau 2f middle room
+   Old chateau 2f right room
+   Old chateau 2f rightmost room
+   Sinnoh route 209 area
+   Lost tower 1f
+   Lost tower 2f
+   Lost tower 3f
+   Lost tower 4f
+   Lost tower 5f
+   Johto route 31 area
+   Sprout tower 2f
+   Sprout tower 3f
+   Johto route 32 area
+   Johto route 36 area
+   Bell tower 2f
+   Bell tower 3f
+   Bell tower 4f
+   Bell tower 5f
+   Bell tower 6f
+   Bell tower 7f
+   Bell tower 8f
+   Bell tower 9f
+   Bell tower 10f
+   Pokemon tower 3f
+   Pokemon tower 4f
+   Pokemon tower 5f
+   Pokemon tower 6f
+   Pokemon tower 7f
+   Lost cave room 1
+   Lost cave room 2
+   Lost cave room 3
+   Lost cave room 4
+   Lost cave room 5
+   Lost cave room 6
+   Lost cave room 7
+   Lost cave room 8
+   Lost cave room 9
+   Lost cave room 10
+   Lost cave item rooms
+   Johto safari zone zone forest

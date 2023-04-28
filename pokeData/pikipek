@@ -1,26 +1,25 @@
 
-Pikipek	 A normal type Pokémon
+  Pikipek    Normal Type Pokémon
 
-It can peck at a rate of 16 
-times a second to drill holes 
-in trees.  It uses the holes 
-for food storage and for nesting. 
+  It can peck at a rate of 16 
+  times a second to drill holes 
+  in trees.  It uses the holes 
+  for food storage and for nesting. 
+  
+	   Evolution Chain
+  Pikipek ► Trumbeak ► Toucannon
 
-	Evolution Chain
-Pikipek ► Trumbeak ► Toucannon
+   ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:         75
+         defense:         30
+  special-attack:         30
+ special-defense:         30
+           speed:         65
 
-  ↞--------| STATS |--------↠ 
-             hp:         35
-         attack:         75
-        defense:         30
- special-attack:         30
-special-defense:         30
-          speed:         65
+ Genus: Woodpecker Pokémon
+ Happiness: 70	Pokedex ID: 731
+ Base Exp: 53	Capture Rate: 255
+ Height:    3	Weight: 12
 
-Pokedex ID: 731	Capture Rate: 255
-Base Exp: 53	Happiness: 70
-Height: 3	Weight: 12
-
-Genus: Woodpecker Pokémon
-Location Areas:
-
+ Location Areas:

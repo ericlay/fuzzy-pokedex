@@ -1,61 +1,61 @@
 
-Seadra	 A water type Pokémon
+  Seadra    Water Type Pokémon
 
-Capable of swim­ ming backwards 
-by rapidly flapping its wing-like 
-pectoral fins and stout tail. 
+  Capable of swim­ ming backwards 
+  by rapidly flapping its wing-like 
+  pectoral fins and stout tail. 
+  
+	   Evolution Chain
+  Horsea ► Seadra ► Kingdra
 
-	Evolution Chain
-Horsea ► Seadra ► Kingdra
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         65
+         defense:         95
+  special-attack:         95
+ special-defense:         45
+           speed:         85
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         65
-        defense:         95
- special-attack:         95
-special-defense:         45
-          speed:         85
+ Genus: Dragon Pokémon
+ Happiness: 50	Pokedex ID: 117
+ Base Exp: 154	Capture Rate: 75
+ Height:    12	Weight: 250
 
-Pokedex ID: 117	Capture Rate: 75
-Base Exp: 154	Happiness: 50
-Height: 12	Weight: 250
-
-Genus: Dragon Pokémon
-Location Areas:
-sinnoh-sea-route-226-area
-whirl-islands-1f
-whirl-islands-b2f
-whirl-islands-b3f
-seafoam-islands-b1f
-seafoam-islands-b3f
-seafoam-islands-b4f
-kanto-route-12-area
-kanto-sea-route-19-area
-kanto-sea-route-20-area
-cinnabar-island-area
-pallet-town-area
-kanto-route-13-area
-kanto-sea-route-21-area
-cerulean-cave-1f
-cerulean-cave-b1f
-kanto-route-23-area
-icefall-cave-waterfall
-kindle-road-area
-treasure-beach-area
-bond-bridge-area
-resort-gorgeous-area
-water-labyrinth-area
-five-isle-meadow-area
-memorial-pillar-area
-outcast-island-area
-green-path-area
-water-path-area
-trainer-tower-area
-tanoby-ruins-area
-one-island-area
-five-island-area
-p2-laboratory-area
-unova-route-18-area
-unova-route-17-area
-ambrette-town-area
-cyllage-city-area
+ Location Areas:
+   Sinnoh sea route 226 area
+   Whirl islands 1f
+   Whirl islands b2f
+   Whirl islands b3f
+   Seafoam islands b1f
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Kanto route 12 area
+   Kanto sea route 19 area
+   Kanto sea route 20 area
+   Cinnabar island area
+   Pallet town area
+   Kanto route 13 area
+   Kanto sea route 21 area
+   Cerulean cave 1f
+   Cerulean cave b1f
+   Kanto route 23 area
+   Icefall cave waterfall
+   Kindle road area
+   Treasure beach area
+   Bond bridge area
+   Resort gorgeous area
+   Water labyrinth area
+   Five isle meadow area
+   Memorial pillar area
+   Outcast island area
+   Green path area
+   Water path area
+   Trainer tower area
+   Tanoby ruins area
+   One island area
+   Five island area
+   P2 laboratory area
+   Unova route 18 area
+   Unova route 17 area
+   Ambrette town area
+   Cyllage city area

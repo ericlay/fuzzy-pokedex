@@ -1,24 +1,23 @@
 
-Mesprit	 A psychic type Pokémon
+  Mesprit    Psychic Type Pokémon
 
-Known as “The Being of Emotion. 
-” It taught humans the nobility 
-of sorrow, pain, and joy. 
+  Known as “The Being of Emotion. 
+  ” It taught humans the nobility 
+  of sorrow, pain, and joy. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:        105
+         defense:        105
+  special-attack:        105
+ special-defense:        105
+           speed:         80
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:        105
-        defense:        105
- special-attack:        105
-special-defense:        105
-          speed:         80
+ Genus: Emotion Pokémon
+ Happiness: 140	Pokedex ID: 481
+ Base Exp: 290	Capture Rate: 3
+ Height:    3	Weight: 3
 
-Pokedex ID: 481	Capture Rate: 3
-Base Exp: 290	Happiness: 140
-Height: 3	Weight: 3
-
-Genus: Emotion Pokémon
-Location Areas:
-roaming-sinnoh-area
+ Location Areas:
+   Roaming sinnoh area

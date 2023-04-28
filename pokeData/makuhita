@@ -1,77 +1,76 @@
 
-Makuhita	 A fighting type Pokémon
+  Makuhita    Fighting Type Pokémon
 
-MAKUHITA is tenacious - it will 
-keep getting up and attacking 
-its foe however many times it 
-is knocked down.  Every time 
-it gets back up, Makuhita 
-stores more energy in its body 
-for evolving. 
-
+  MAKUHITA is tenacious - it will 
+  keep getting up and attacking 
+  its foe however many times it 
+  is knocked down.  Every time 
+  it gets back up, Makuhita 
+  stores more energy in its body 
+  for evolving. 
 	Evolution Chain
       Makuhita ► Hariyama
 
-  ↞--------| STATS |--------↠ 
-             hp:         72
-         attack:         60
-        defense:         30
- special-attack:         20
-special-defense:         30
-          speed:         25
+   ↞--------| STATS |--------↠ 
+              hp:         72
+          attack:         60
+         defense:         30
+  special-attack:         20
+ special-defense:         30
+           speed:         25
 
-Pokedex ID: 296	Capture Rate: 180
-Base Exp: 47	Happiness: 70
-Height: 10	Weight: 864
+ Genus: Guts Pokémon
+ Happiness: 70	Pokedex ID: 296
+ Base Exp: 47	Capture Rate: 180
+ Height:    10	Weight: 864
 
-Genus: Guts Pokémon
-Location Areas:
-sinnoh-route-225-area
-union-cave-1f
-union-cave-b1f
-union-cave-b2f
-slowpoke-well-1f
-slowpoke-well-b1f
-whirl-islands-1f
-whirl-islands-b1f
-whirl-islands-b2f
-whirl-islands-b3f
-mt-mortar-1f
-mt-mortar-lower-cave
-mt-mortar-upper-cave
-mt-mortar-b1f
-ice-path-1f
-ice-path-b1f
-ice-path-b2f
-ice-path-b3f
-dark-cave-violet-city-entrance
-dark-cave-blackthorn-city-entrance
-seafoam-islands-1f
-seafoam-islands-b1f
-seafoam-islands-b2f
-seafoam-islands-b3f
-seafoam-islands-b4f
-mt-silver-2f
-mt-silver-1f-top
-mt-silver-4f
-johto-route-47-inside-cave
-mt-silver-1f
-mt-silver-mountainside
-mt-silver-3f
-mt-silver-top
-mt-moon-1f
-mt-moon-2f
-rock-tunnel-1f
-rock-tunnel-b1f
-kanto-victory-road-1-1f
-tohjo-falls-area
-digletts-cave-area
-kanto-victory-road-1-2f
-kanto-victory-road-1-3f
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-granite-cave-1f
-granite-cave-b1f
-granite-cave-1fsmall-room
-hoenn-victory-road-1f
+ Location Areas:
+   Sinnoh route 225 area
+   Union cave 1f
+   Union cave b1f
+   Union cave b2f
+   Slowpoke well 1f
+   Slowpoke well b1f
+   Whirl islands 1f
+   Whirl islands b1f
+   Whirl islands b2f
+   Whirl islands b3f
+   Mt mortar 1f
+   Mt mortar lower cave
+   Mt mortar upper cave
+   Mt mortar b1f
+   Ice path 1f
+   Ice path b1f
+   Ice path b2f
+   Ice path b3f
+   Dark cave violet city entrance
+   Dark cave blackthorn city entrance
+   Seafoam islands 1f
+   Seafoam islands b1f
+   Seafoam islands b2f
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Mt silver 2f
+   Mt silver 1f top
+   Mt silver 4f
+   Johto route 47 inside cave
+   Mt silver 1f
+   Mt silver mountainside
+   Mt silver 3f
+   Mt silver top
+   Mt moon 1f
+   Mt moon 2f
+   Rock tunnel 1f
+   Rock tunnel b1f
+   Kanto victory road 1 1f
+   Tohjo falls area
+   Digletts cave area
+   Kanto victory road 1 2f
+   Kanto victory road 1 3f
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Granite cave 1f
+   Granite cave b1f
+   Granite cave 1fsmall room
+   Hoenn victory road 1f

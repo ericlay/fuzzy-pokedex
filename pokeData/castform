@@ -1,27 +1,26 @@
 
-Castform	 A normal type Pokémon
+  Castform    Normal Type Pokémon
 
-CASTFORM’s appearance changes 
-with the weather.  Castform 
-gained the ability to use the 
-vast power of nature to protect 
-its tiny body. 
+  CASTFORM’s appearance changes 
+  with the weather.  Castform 
+  gained the ability to use the 
+  vast power of nature to protect 
+  its tiny body. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         70
+         defense:         70
+  special-attack:         70
+ special-defense:         70
+           speed:         70
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:         70
-        defense:         70
- special-attack:         70
-special-defense:         70
-          speed:         70
+ Genus: Weather Pokémon
+ Happiness: 70	Pokedex ID: 351
+ Base Exp: 147	Capture Rate: 45
+ Height:    3	Weight: 8
 
-Pokedex ID: 351	Capture Rate: 45
-Base Exp: 147	Happiness: 70
-Height: 3	Weight: 8
-
-Genus: Weather Pokémon
-Location Areas:
-unova-route-6-area
-hoenn-route-119-weather-institute
+ Location Areas:
+   Unova route 6 area
+   Hoenn route 119 weather institute

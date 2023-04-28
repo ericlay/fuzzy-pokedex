@@ -1,28 +1,28 @@
 
-Gothita	 A psychic type Pokémon
+  Gothita    Psychic Type Pokémon
 
-Their ribbonlike feelers increase 
-their psychic power.  They are 
-always staring at something. 
+  Their ribbonlike feelers increase 
+  their psychic power.  They are 
+  always staring at something. 
+  
+	   Evolution Chain
+  Gothita ► Gothorita ► Gothitelle
 
-	Evolution Chain
-Gothita ► Gothorita ► Gothitelle
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         30
+         defense:         50
+  special-attack:         55
+ special-defense:         65
+           speed:         45
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         30
-        defense:         50
- special-attack:         55
-special-defense:         65
-          speed:         45
+ Genus: Fixation Pokémon
+ Happiness: 50	Pokedex ID: 574
+ Base Exp: 58	Capture Rate: 200
+ Height:    4	Weight: 58
 
-Pokedex ID: 574	Capture Rate: 200
-Base Exp: 58	Happiness: 50
-Height: 4	Weight: 58
-
-Genus: Fixation Pokémon
-Location Areas:
-unova-route-5-area
-unova-route-16-area
-strange-house-1f
-strange-house-b1f
+ Location Areas:
+   Unova route 5 area
+   Unova route 16 area
+   Strange house 1f
+   Strange house b1f

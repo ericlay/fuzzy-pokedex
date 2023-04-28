@@ -1,27 +1,26 @@
 
-Sawsbuck	 A normal type Pokémon
+  Sawsbuck    Normal Type Pokémon
 
-They migrate according to the 
-seasons.  People can tell the 
-season by looking at Sawsbuck’s 
-horns. 
-
+  They migrate according to the 
+  seasons.  People can tell the 
+  season by looking at Sawsbuck’s 
+  horns. 
 	Evolution Chain
       Deerling ► Sawsbuck
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:        100
-        defense:         70
- special-attack:         60
-special-defense:         70
-          speed:         95
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:        100
+         defense:         70
+  special-attack:         60
+ special-defense:         70
+           speed:         95
 
-Pokedex ID: 586	Capture Rate: 75
-Base Exp: 166	Happiness: 70
-Height: 19	Weight: 925
+ Genus: Season Pokémon
+ Happiness: 70	Pokedex ID: 586
+ Base Exp: 166	Capture Rate: 75
+ Height:    19	Weight: 925
 
-Genus: Season Pokémon
-Location Areas:
-dragonspiral-tower-entrance
-dragonspiral-tower-outside
+ Location Areas:
+   Dragonspiral tower entrance
+   Dragonspiral tower outside

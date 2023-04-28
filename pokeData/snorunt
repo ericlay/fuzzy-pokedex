@@ -1,33 +1,36 @@
 
-Snorunt	 A ice type Pokémon
+  Snorunt    Ice Type Pokémon
 
-SNORUNT live in regions with 
-heavy snowfall.  In seasons without 
-snow, such as spring and summer, 
-Snorunt steals away to live 
-quietly among stalactites and 
-stalagmites deep in caverns. 
-
+  SNORUNT live in regions with 
+  heavy snowfall.  In seasons without 
+  snow, such as spring and summer, 
+  Snorunt steals away to live 
+  quietly among stalactites and 
+  stalagmites deep in caverns. 
+  
 	Evolution Chain
       Snorunt ► Glalie
-froslass
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         50
-        defense:         50
- special-attack:         50
-special-defense:         50
-          speed:         50
+Stage 2 Forms:
+  glalie
+  froslass
 
-Pokedex ID: 361	Capture Rate: 190
-Base Exp: 60	Happiness: 50
-Height: 7	Weight: 168
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         50
+         defense:         50
+  special-attack:         50
+ special-defense:         50
+           speed:         50
 
-Genus: Snow Hat Pokémon
-Location Areas:
-lake-acuity-area
-acuity-lakefront-area
-sinnoh-route-216-area
-sinnoh-route-217-area
-shoal-cave-b1f
+ Genus: Snow Hat Pokémon
+ Happiness: 50	Pokedex ID: 361
+ Base Exp: 60	Capture Rate: 190
+ Height:    7	Weight: 168
+
+ Location Areas:
+   Lake acuity area
+   Acuity lakefront area
+   Sinnoh route 216 area
+   Sinnoh route 217 area
+   Shoal cave b1f

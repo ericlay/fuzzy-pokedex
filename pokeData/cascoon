@@ -1,33 +1,38 @@
 
-Cascoon	 A bug type Pokémon
+  Cascoon    Bug Type Pokémon
 
-CASCOON makes its protective 
-cocoon by wrapping its body entirely 
-with a fine silk from its mouth. 
- Once the silk goes around its 
-body, it hardens.  Cascoon 
-prepares for its evolution inside 
-the cocoon. 
+  CASCOON makes its protective 
+  cocoon by wrapping its body entirely 
+  with a fine silk from its mouth. 
+   Once the silk goes around its 
+  body, it hardens.  Cascoon 
+  prepares for its evolution inside 
+  the cocoon. 
+	   Evolution Chain
+  Wurmple ► Silcoon ► Beautifly
 
-	Evolution Chain
-Wurmple ► Silcoon
-cascoon ► Beautifly
-dustox
+Stage 2 Forms:
+  silcoon
+  cascoon
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         35
-        defense:         55
- special-attack:         25
-special-defense:         25
-          speed:         15
+Stage 3 Forms:
+  beautifly
+  dustox
 
-Pokedex ID: 268	Capture Rate: 120
-Base Exp: 72	Happiness: 70
-Height: 7	Weight: 115
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         35
+         defense:         55
+  special-attack:         25
+ special-defense:         25
+           speed:         15
 
-Genus: Cocoon Pokémon
-Location Areas:
-eterna-forest-area
-sinnoh-route-205-east-towards-eterna-city
-petalburg-woods-area
+ Genus: Cocoon Pokémon
+ Happiness: 70	Pokedex ID: 268
+ Base Exp: 72	Capture Rate: 120
+ Height:    7	Weight: 115
+
+ Location Areas:
+   Eterna forest area
+   Sinnoh route 205 east towards eterna city
+   Petalburg woods area

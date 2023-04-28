@@ -1,42 +1,41 @@
 
-Azumarill	 A water type Pokémon
+  Azumarill    Water Type Pokémon
 
-It lives in water virtually 
-all day long.  Its body color 
-and pattern act as camouflage 
-that makes it tough for enemies 
-to spot in water. 
+  It lives in water virtually 
+  all day long.  Its body color 
+  and pattern act as camouflage 
+  that makes it tough for enemies 
+  to spot in water. 
+	   Evolution Chain
+  Azurill ► Marill ► Azumarill
 
-	Evolution Chain
-Azurill ► Marill ► Azumarill
+   ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:         50
+         defense:         80
+  special-attack:         60
+ special-defense:         80
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:        100
-         attack:         50
-        defense:         80
- special-attack:         60
-special-defense:         80
-          speed:         50
+ Genus: Aqua Rabbit Pokémon
+ Happiness: 50	Pokedex ID: 184
+ Base Exp: 210	Capture Rate: 75
+ Height:    8	Weight: 285
 
-Pokedex ID: 184	Capture Rate: 75
-Base Exp: 210	Happiness: 50
-Height: 8	Weight: 285
-
-Genus: Aqua Rabbit Pokémon
-Location Areas:
-sinnoh-victory-road-b1f
-sinnoh-victory-road-inside-b1f
-pinwheel-forest-inside
-village-bridge-area
-unova-route-6-area
-unova-route-11-area
-abundant-shrine-area
-unova-victory-road-2-unknown-area-71
-unova-victory-road-2-unknown-area-75
-unova-victory-road-2-unknown-area-78
-floccesy-ranch-outer
-floccesy-ranch-inner
-relic-passage-relic-castle-entrance
-unova-route-20-area
-unova-route-22-area
-kalos-route-22-area
+ Location Areas:
+   Sinnoh victory road b1f
+   Sinnoh victory road inside b1f
+   Pinwheel forest inside
+   Village bridge area
+   Unova route 6 area
+   Unova route 11 area
+   Abundant shrine area
+   Unova victory road 2 unknown area 71
+   Unova victory road 2 unknown area 75
+   Unova victory road 2 unknown area 78
+   Floccesy ranch outer
+   Floccesy ranch inner
+   Relic passage relic castle entrance
+   Unova route 20 area
+   Unova route 22 area
+   Kalos route 22 area

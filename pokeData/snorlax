@@ -1,28 +1,28 @@
 
-Snorlax	 A normal type Pokémon
+  Snorlax    Normal Type Pokémon
 
-Very lazy.  Just eats and sleeps. 
- As its rotund bulk builds, it 
-becomes steadily more slothful. 
-
+  Very lazy.  Just eats and sleeps. 
+   As its rotund bulk builds, it 
+  becomes steadily more slothful. 
+  
 	Evolution Chain
       Munchlax ► Snorlax
 
-  ↞--------| STATS |--------↠ 
-             hp:        160
-         attack:        110
-        defense:         65
- special-attack:         65
-special-defense:        110
-          speed:         30
+   ↞--------| STATS |--------↠ 
+              hp:        160
+          attack:        110
+         defense:         65
+  special-attack:         65
+ special-defense:        110
+           speed:         30
 
-Pokedex ID: 143	Capture Rate: 25
-Base Exp: 189	Happiness: 50
-Height: 21	Weight: 4600
+ Genus: Sleeping Pokémon
+ Happiness: 50	Pokedex ID: 143
+ Base Exp: 189	Capture Rate: 25
+ Height:    21	Weight: 4600
 
-Genus: Sleeping Pokémon
-Location Areas:
-kanto-route-12-area
-vermilion-city-area
-kanto-route-11-area
-kanto-route-16-area
+ Location Areas:
+   Kanto route 12 area
+   Vermilion city area
+   Kanto route 11 area
+   Kanto route 16 area

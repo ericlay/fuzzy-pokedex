@@ -1,25 +1,25 @@
 
-Porygon	 A normal type Pokémon
+  Porygon    Normal Type Pokémon
 
-A Pokémon that consists entirely 
-of programming code.  Capable 
-of moving freely in cyberspace. 
+  A Pokémon that consists entirely 
+  of programming code.  Capable 
+  of moving freely in cyberspace. 
+  
+	   Evolution Chain
+  Porygon ► Porygon2 ► Porygon-z
 
-	Evolution Chain
-Porygon ► Porygon2 ► Porygon-z
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         60
+         defense:         70
+  special-attack:         85
+ special-defense:         75
+           speed:         40
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         60
-        defense:         70
- special-attack:         85
-special-defense:         75
-          speed:         40
+ Genus: Virtual Pokémon
+ Happiness: 50	Pokedex ID: 137
+ Base Exp: 79	Capture Rate: 45
+ Height:    8	Weight: 365
 
-Pokedex ID: 137	Capture Rate: 45
-Base Exp: 79	Happiness: 50
-Height: 8	Weight: 365
-
-Genus: Virtual Pokémon
-Location Areas:
-veilstone-city-area
+ Location Areas:
+   Veilstone city area

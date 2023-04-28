@@ -1,29 +1,28 @@
 
-Pansage	 A grass type Pokémon
+  Pansage    Grass Type Pokémon
 
-This Pokémon dwells deep in 
-the forest.  Eating a leaf from 
-its head whisks weariness away 
-as if by magic. 
-
+  This Pokémon dwells deep in 
+  the forest.  Eating a leaf from 
+  its head whisks weariness away 
+  as if by magic. 
 	Evolution Chain
       Pansage ► Simisage
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         53
-        defense:         48
- special-attack:         53
-special-defense:         48
-          speed:         64
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         53
+         defense:         48
+  special-attack:         53
+ special-defense:         48
+           speed:         64
 
-Pokedex ID: 511	Capture Rate: 190
-Base Exp: 63	Happiness: 70
-Height: 6	Weight: 105
+ Genus: Grass Monkey Pokémon
+ Happiness: 70	Pokedex ID: 511
+ Base Exp: 63	Capture Rate: 190
+ Height:    6	Weight: 105
 
-Genus: Grass Monkey Pokémon
-Location Areas:
-dreamyard-area
-pinwheel-forest-inside
-lostlorn-forest-area
-santalune-forest-area
+ Location Areas:
+   Dreamyard area
+   Pinwheel forest inside
+   Lostlorn forest area
+   Santalune forest area

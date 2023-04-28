@@ -1,28 +1,28 @@
 
-Timburr	 A fighting type Pokémon
+  Timburr    Fighting Type Pokémon
 
-It fights by swinging a piece 
-of lumber around.  It is close 
-to evolving when it can handle 
-the lumber without difficulty. 
+  It fights by swinging a piece 
+  of lumber around.  It is close 
+  to evolving when it can handle 
+  the lumber without difficulty. 
+  
+	   Evolution Chain
+  Timburr ► Gurdurr ► Conkeldurr
 
-	Evolution Chain
-Timburr ► Gurdurr ► Conkeldurr
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         80
+         defense:         55
+  special-attack:         25
+ special-defense:         35
+           speed:         35
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:         80
-        defense:         55
- special-attack:         25
-special-defense:         35
-          speed:         35
+ Genus: Muscular Pokémon
+ Happiness: 70	Pokedex ID: 532
+ Base Exp: 61	Capture Rate: 180
+ Height:    6	Weight: 125
 
-Pokedex ID: 532	Capture Rate: 180
-Base Exp: 61	Happiness: 70
-Height: 6	Weight: 125
-
-Genus: Muscular Pokémon
-Location Areas:
-pinwheel-forest-outside
-cold-storage-area
-relic-passage-castelia-sewers-entrance
+ Location Areas:
+   Pinwheel forest outside
+   Cold storage area
+   Relic passage castelia sewers entrance

@@ -1,29 +1,28 @@
 
-Palpitoad	 A water type Pokémon
+  Palpitoad    Water Type Pokémon
 
-When they vibrate the bumps 
-on their heads, they can make 
-waves in water or earthquake-like 
-vibrations on land. 
+  When they vibrate the bumps 
+  on their heads, they can make 
+  waves in water or earthquake-like 
+  vibrations on land. 
+	   Evolution Chain
+  Tympole ► Palpitoad ► Seismitoad
 
-	Evolution Chain
-Tympole ► Palpitoad ► Seismitoad
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         65
+         defense:         55
+  special-attack:         65
+ special-defense:         55
+           speed:         69
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:         65
-        defense:         55
- special-attack:         65
-special-defense:         55
-          speed:         69
+ Genus: Vibration Pokémon
+ Happiness: 50	Pokedex ID: 536
+ Base Exp: 134	Capture Rate: 120
+ Height:    8	Weight: 170
 
-Pokedex ID: 536	Capture Rate: 120
-Base Exp: 134	Happiness: 50
-Height: 8	Weight: 170
-
-Genus: Vibration Pokémon
-Location Areas:
-icirrus-city-area
-pinwheel-forest-outside
-unova-route-8-area
-moor-of-icirrus-area
+ Location Areas:
+   Icirrus city area
+   Pinwheel forest outside
+   Unova route 8 area
+   Moor of icirrus area

@@ -1,42 +1,44 @@
 
-Slowbro	 A water type Pokémon
+  Slowbro    Water Type Pokémon
 
-The SHELLDER that is latched 
-onto SLOWPOKE's tail is said 
-to feed on the host's left over 
-scraps. 
-
+  The SHELLDER that is latched 
+  onto SLOWPOKE's tail is said 
+  to feed on the host's left over 
+  scraps. 
 	Evolution Chain
       Slowpoke ► Slowbro
-slowking
 
-  ↞--------| STATS |--------↠ 
-             hp:         95
-         attack:         75
-        defense:        110
- special-attack:        100
-special-defense:         80
-          speed:         30
+Stage 2 Forms:
+  slowbro
+  slowking
 
-Pokedex ID: 80	Capture Rate: 75
-Base Exp: 172	Happiness: 50
-Height: 16	Weight: 785
+   ↞--------| STATS |--------↠ 
+              hp:         95
+          attack:         75
+         defense:        110
+  special-attack:        100
+ special-defense:         80
+           speed:         30
 
-Genus: Hermit Crab Pokémon
-Location Areas:
-slowpoke-well-b1f
-seafoam-islands-1f
-seafoam-islands-b1f
-seafoam-islands-b2f
-seafoam-islands-b3f
-seafoam-islands-b4f
-kanto-route-12-area
-cinnabar-island-area
-kanto-route-13-area
-cerulean-cave-1f
-cerulean-cave-b1f
-kanto-route-23-area
-berry-forest-area
-cape-brink-area
-abundant-shrine-area
-johto-safari-zone-zone-rocky-beach
+ Genus: Hermit Crab Pokémon
+ Happiness: 50	Pokedex ID: 80
+ Base Exp: 172	Capture Rate: 75
+ Height:    16	Weight: 785
+
+ Location Areas:
+   Slowpoke well b1f
+   Seafoam islands 1f
+   Seafoam islands b1f
+   Seafoam islands b2f
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Kanto route 12 area
+   Cinnabar island area
+   Kanto route 13 area
+   Cerulean cave 1f
+   Cerulean cave b1f
+   Kanto route 23 area
+   Berry forest area
+   Cape brink area
+   Abundant shrine area
+   Johto safari zone zone rocky beach

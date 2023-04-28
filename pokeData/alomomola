@@ -1,33 +1,32 @@
 
-Alomomola	 A water type Pokémon
+  Alomomola    Water Type Pokémon
 
-The special membrane enveloping 
-Alomomola has the ability to 
-heal wounds. 
+  The special membrane enveloping 
+  Alomomola has the ability to 
+  heal wounds. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:        165
+          attack:         75
+         defense:         80
+  special-attack:         40
+ special-defense:         45
+           speed:         65
 
-  ↞--------| STATS |--------↠ 
-             hp:        165
-         attack:         75
-        defense:         80
- special-attack:         40
-special-defense:         45
-          speed:         65
+ Genus: Caring Pokémon
+ Happiness: 70	Pokedex ID: 594
+ Base Exp: 165	Capture Rate: 75
+ Height:    12	Weight: 316
 
-Pokedex ID: 594	Capture Rate: 75
-Base Exp: 165	Happiness: 70
-Height: 12	Weight: 316
-
-Genus: Caring Pokémon
-Location Areas:
-driftveil-city-area
-p2-laboratory-area
-unova-route-4-area
-unova-route-18-area
-unova-route-17-area
-virbank-city-area
-virbank-complex-outer
-unova-route-21-area
-shalour-city-area
-azure-bay-area
+ Location Areas:
+   Driftveil city area
+   P2 laboratory area
+   Unova route 4 area
+   Unova route 18 area
+   Unova route 17 area
+   Virbank city area
+   Virbank complex outer
+   Unova route 21 area
+   Shalour city area
+   Azure bay area

@@ -1,32 +1,31 @@
 
-Mr-mime	 A psychic type Pokémon
+  Mr-mime    Psychic Type Pokémon
 
-If interrupted while it is miming, 
-it will slap around the offender 
-with its broad hands. 
+  If interrupted while it is miming, 
+  it will slap around the offender 
+  with its broad hands. 
+	   Evolution Chain
+  Mime-jr ► Mr-mime ► Mr-rime
 
-	Evolution Chain
-Mime-jr ► Mr-mime ► Mr-rime
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         45
+         defense:         65
+  special-attack:        100
+ special-defense:        120
+           speed:         90
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         45
-        defense:         65
- special-attack:        100
-special-defense:        120
-          speed:         90
+ Genus: Barrier Pokémon
+ Happiness: 50	Pokedex ID: 122
+ Base Exp: 161	Capture Rate: 45
+ Height:    13	Weight: 545
 
-Pokedex ID: 122	Capture Rate: 45
-Base Exp: 161	Happiness: 50
-Height: 13	Weight: 545
-
-Genus: Barrier Pokémon
-Location Areas:
-sinnoh-route-218-area
-sinnoh-route-222-area
-kanto-sea-route-21-area
-reflection-cave-unknown-area-305
-reflection-cave-unknown-area-306
-reflection-cave-unknown-area-307
-reflection-cave-unknown-area-308
-johto-safari-zone-zone-forest
+ Location Areas:
+   Sinnoh route 218 area
+   Sinnoh route 222 area
+   Kanto sea route 21 area
+   Reflection cave unknown area 305
+   Reflection cave unknown area 306
+   Reflection cave unknown area 307
+   Reflection cave unknown area 308
+   Johto safari zone zone forest

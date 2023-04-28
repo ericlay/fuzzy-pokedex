@@ -1,26 +1,25 @@
 
-Maractus	 A grass type Pokémon
+  Maractus    Grass Type Pokémon
 
-It uses an up-tempo song and 
-dance to drive away the bird 
-Pokémon that prey on its flower 
-seeds. 
+  It uses an up-tempo song and 
+  dance to drive away the bird 
+  Pokémon that prey on its flower 
+  seeds. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         86
+         defense:         67
+  special-attack:        106
+ special-defense:         67
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:         86
-        defense:         67
- special-attack:        106
-special-defense:         67
-          speed:         60
+ Genus: Cactus Pokémon
+ Happiness: 50	Pokedex ID: 556
+ Base Exp: 161	Capture Rate: 255
+ Height:    10	Weight: 280
 
-Pokedex ID: 556	Capture Rate: 255
-Base Exp: 161	Happiness: 50
-Height: 10	Weight: 280
-
-Genus: Cactus Pokémon
-Location Areas:
-desert-resort-entrance
-desert-resort-area
+ Location Areas:
+   Desert resort entrance
+   Desert resort area

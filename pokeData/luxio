@@ -1,27 +1,26 @@
 
-Luxio	 A electric type Pokémon
+  Luxio    Electric Type Pokémon
 
-Its claws loose electricity 
-with enough amperage to cause 
-fainting.  They live in small 
-groups. 
+  Its claws loose electricity 
+  with enough amperage to cause 
+  fainting.  They live in small 
+  groups. 
+	   Evolution Chain
+  Shinx ► Luxio ► Luxray
 
-	Evolution Chain
-Shinx ► Luxio ► Luxray
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         85
+         defense:         49
+  special-attack:         60
+ special-defense:         49
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         85
-        defense:         49
- special-attack:         60
-special-defense:         49
-          speed:         60
+ Genus: Spark Pokémon
+ Happiness: 100	Pokedex ID: 404
+ Base Exp: 127	Capture Rate: 120
+ Height:    9	Weight: 305
 
-Pokedex ID: 404	Capture Rate: 120
-Base Exp: 127	Happiness: 100
-Height: 9	Weight: 305
-
-Genus: Spark Pokémon
-Location Areas:
-fuego-ironworks-area
-sinnoh-route-222-area
+ Location Areas:
+   Fuego ironworks area
+   Sinnoh route 222 area

@@ -1,26 +1,25 @@
 
-Illumise	 A bug type Pokémon
+  Illumise    Bug Type Pokémon
 
-With its sweet aroma, it guides 
-Volbeat to draw signs with light 
-in the night sky. 
+  With its sweet aroma, it guides 
+  Volbeat to draw signs with light 
+  in the night sky. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         47
+         defense:         75
+  special-attack:         73
+ special-defense:         85
+           speed:         85
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         47
-        defense:         75
- special-attack:         73
-special-defense:         85
-          speed:         85
+ Genus: Firefly Pokémon
+ Happiness: 70	Pokedex ID: 314
+ Base Exp: 151	Capture Rate: 150
+ Height:    6	Weight: 177
 
-Pokedex ID: 314	Capture Rate: 150
-Base Exp: 151	Happiness: 70
-Height: 6	Weight: 177
-
-Genus: Firefly Pokémon
-Location Areas:
-sinnoh-route-229-area
-hoenn-route-117-area
-kalos-route-7-area
+ Location Areas:
+   Sinnoh route 229 area
+   Hoenn route 117 area
+   Kalos route 7 area

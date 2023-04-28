@@ -1,27 +1,25 @@
 
-Toxel	 A electric type Pokémon
+  Toxel    Electric Type Pokémon
 
-It stores poison in an internal 
-poison sac and secretes that 
-poison through its skin.  If 
-you touch this Pokémon, a tingling 
-sensation follows. 
-
+  It stores poison in an internal 
+  poison sac and secretes that 
+  poison through its skin.  If 
+  you touch this Pokémon, a tingling 
+  sensation follows. 
 	Evolution Chain
       Toxel ► Toxtricity
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         38
-        defense:         35
- special-attack:         54
-special-defense:         35
-          speed:         40
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         38
+         defense:         35
+  special-attack:         54
+ special-defense:         35
+           speed:         40
 
-Pokedex ID: 848	Capture Rate: 75
-Base Exp: 48	Happiness: 50
-Height: 4	Weight: 110
+ Genus: Baby Pokémon
+ Happiness: 50	Pokedex ID: 848
+ Base Exp: 48	Capture Rate: 75
+ Height:    4	Weight: 110
 
-Genus: Baby Pokémon
-Location Areas:
-
+ Location Areas:

@@ -1,26 +1,25 @@
 
-Igglybuff	 A normal type Pokémon
+  Igglybuff    Normal Type Pokémon
 
-It has a very soft body.  If 
-it starts to roll, it will bounce 
-all over and be impossible to 
-stop. 
+  It has a very soft body.  If 
+  it starts to roll, it will bounce 
+  all over and be impossible to 
+  stop. 
+	   Evolution Chain
+  Igglybuff ► Jigglypuff ► Wigglytuff
 
-	Evolution Chain
-Igglybuff ► Jigglypuff ► Wigglytuff
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:         30
+         defense:         15
+  special-attack:         40
+ special-defense:         20
+           speed:         15
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:         30
-        defense:         15
- special-attack:         40
-special-defense:         20
-          speed:         15
+ Genus: Balloon Pokémon
+ Happiness: 50	Pokedex ID: 174
+ Base Exp: 42	Capture Rate: 170
+ Height:    3	Weight: 10
 
-Pokedex ID: 174	Capture Rate: 170
-Base Exp: 42	Happiness: 50
-Height: 3	Weight: 10
-
-Genus: Balloon Pokémon
-Location Areas:
-johto-route-34-area
+ Location Areas:
+   Johto route 34 area

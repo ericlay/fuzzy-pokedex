@@ -1,32 +1,31 @@
 
-Amoonguss	 A grass type Pokémon
+  Amoonguss    Grass Type Pokémon
 
-It lures prey close by dancing 
-and waving its arm caps, which 
-resemble Poké Balls, in a swaying 
-motion. 
-
+  It lures prey close by dancing 
+  and waving its arm caps, which 
+  resemble Poké Balls, in a swaying 
+  motion. 
 	Evolution Chain
       Foongus ► Amoonguss
 
-  ↞--------| STATS |--------↠ 
-             hp:        114
-         attack:         85
-        defense:         70
- special-attack:         85
-special-defense:         80
-          speed:         30
+   ↞--------| STATS |--------↠ 
+              hp:        114
+          attack:         85
+         defense:         70
+  special-attack:         85
+ special-defense:         80
+           speed:         30
 
-Pokedex ID: 591	Capture Rate: 75
-Base Exp: 162	Happiness: 50
-Height: 6	Weight: 105
+ Genus: Mushroom Pokémon
+ Happiness: 50	Pokedex ID: 591
+ Base Exp: 162	Capture Rate: 75
+ Height:    6	Weight: 105
 
-Genus: Mushroom Pokémon
-Location Areas:
-unova-route-10-area
-unova-route-10-victory-road-gate
-unova-route-11-area
-unova-route-22-area
-unova-route-23-area
-kalos-route-20-area
-pokemon-village-area
+ Location Areas:
+   Unova route 10 area
+   Unova route 10 victory road gate
+   Unova route 11 area
+   Unova route 22 area
+   Unova route 23 area
+   Kalos route 20 area
+   Pokemon village area

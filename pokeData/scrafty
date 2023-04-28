@@ -1,29 +1,28 @@
 
-Scrafty	 A dark type Pokémon
+  Scrafty    Dark Type Pokémon
 
-Groups of them beat up anything 
-that enters their territory. 
- Each can spit acidic liquid 
-from its mouth. 
-
+  Groups of them beat up anything 
+  that enters their territory. 
+   Each can spit acidic liquid 
+  from its mouth. 
 	Evolution Chain
       Scraggy ► Scrafty
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         90
-        defense:        115
- special-attack:         45
-special-defense:        115
-          speed:         58
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         90
+         defense:        115
+  special-attack:         45
+ special-defense:        115
+           speed:         58
 
-Pokedex ID: 560	Capture Rate: 90
-Base Exp: 171	Happiness: 50
-Height: 11	Weight: 300
+ Genus: Hoodlum Pokémon
+ Happiness: 50	Pokedex ID: 560
+ Base Exp: 171	Capture Rate: 90
+ Height:    11	Weight: 300
 
-Genus: Hoodlum Pokémon
-Location Areas:
-p2-laboratory-area
-unova-route-1-area
-unova-route-15-area
-unova-route-18-area
+ Location Areas:
+   P2 laboratory area
+   Unova route 1 area
+   Unova route 15 area
+   Unova route 18 area

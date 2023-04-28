@@ -1,36 +1,39 @@
 
-Eevee	 A normal type Pokémon
+  Eevee    Normal Type Pokémon
 
-Its genetic code is irregular. 
- It may mutate if it is exposed 
-to radiation from element STONEs. 
-
+  Its genetic code is irregular. 
+   It may mutate if it is exposed 
+  to radiation from element STONEs. 
+  
 	Evolution Chain
       Eevee ► Vaporeon
-jolteon
-flareon
-espeon
-umbreon
-leafeon
-glaceon
-sylveon
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         55
-        defense:         50
- special-attack:         45
-special-defense:         65
-          speed:         55
+Stage 2 Forms:
+  vaporeon
+  jolteon
+  flareon
+  espeon
+  umbreon
+  leafeon
+  glaceon
+  sylveon
 
-Pokedex ID: 133	Capture Rate: 45
-Base Exp: 65	Happiness: 50
-Height: 3	Weight: 65
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         55
+         defense:         50
+  special-attack:         45
+ special-defense:         65
+           speed:         55
 
-Genus: Evolution Pokémon
-Location Areas:
-castelia-city-area
-kalos-route-10-area
-celadon-city-celadon-mansion
-goldenrod-city-bills-house
-hearthome-city-area
+ Genus: Evolution Pokémon
+ Happiness: 50	Pokedex ID: 133
+ Base Exp: 65	Capture Rate: 45
+ Height:    3	Weight: 65
+
+ Location Areas:
+   Castelia city area
+   Kalos route 10 area
+   Celadon city celadon mansion
+   Goldenrod city bills house
+   Hearthome city area

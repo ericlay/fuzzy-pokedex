@@ -1,29 +1,28 @@
 
-Sudowoodo	 A rock type Pokémon
+  Sudowoodo    Rock Type Pokémon
 
-Although it always pretends 
-to be a tree, its composi­ tion 
-appears to be closer to a rock 
-than a plant. 
-
+  Although it always pretends 
+  to be a tree, its composi­ tion 
+  appears to be closer to a rock 
+  than a plant. 
 	Evolution Chain
       Bonsly ► Sudowoodo
 
-  ↞--------| STATS |--------↠ 
-             hp:         70
-         attack:        100
-        defense:        115
- special-attack:         30
-special-defense:         65
-          speed:         30
+   ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:        100
+         defense:        115
+  special-attack:         30
+ special-defense:         65
+           speed:         30
 
-Pokedex ID: 185	Capture Rate: 65
-Base Exp: 144	Happiness: 50
-Height: 12	Weight: 380
+ Genus: Imitation Pokémon
+ Happiness: 50	Pokedex ID: 185
+ Base Exp: 144	Capture Rate: 65
+ Height:    12	Weight: 380
 
-Genus: Imitation Pokémon
-Location Areas:
-sinnoh-route-214-area
-sinnoh-route-221-area
-johto-route-36-area
-hoenn-battle-frontier-area
+ Location Areas:
+   Sinnoh route 214 area
+   Sinnoh route 221 area
+   Johto route 36 area
+   Hoenn battle frontier area

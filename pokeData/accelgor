@@ -1,26 +1,24 @@
 
-Accelgor	 A bug type Pokémon
+  Accelgor    Bug Type Pokémon
 
-When its body dries out, it 
-weakens.  So, to prevent dehydration, 
-it wraps itself in many layers 
-of thin membrane. 
-
+  When its body dries out, it 
+  weakens.  So, to prevent dehydration, 
+  it wraps itself in many layers 
+  of thin membrane. 
 	Evolution Chain
       Shelmet ► Accelgor
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:         70
-        defense:         40
- special-attack:        100
-special-defense:         60
-          speed:        145
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:         70
+         defense:         40
+  special-attack:        100
+ special-defense:         60
+           speed:        145
 
-Pokedex ID: 617	Capture Rate: 75
-Base Exp: 173	Happiness: 50
-Height: 8	Weight: 253
+ Genus: Shell Out Pokémon
+ Happiness: 50	Pokedex ID: 617
+ Base Exp: 173	Capture Rate: 75
+ Height:    8	Weight: 253
 
-Genus: Shell Out Pokémon
-Location Areas:
-
+ Location Areas:

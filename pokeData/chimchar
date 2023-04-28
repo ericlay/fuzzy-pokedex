@@ -1,28 +1,27 @@
 
-Chimchar	 A fire type Pokémon
+  Chimchar    Fire Type Pokémon
 
-It agilely scales sheer cliffs 
-to live atop craggy mountains. 
- Its fire is put out when it 
-sleeps. 
+  It agilely scales sheer cliffs 
+  to live atop craggy mountains. 
+   Its fire is put out when it 
+  sleeps. 
+	   Evolution Chain
+  Chimchar ► Monferno ► Infernape
 
-	Evolution Chain
-Chimchar ► Monferno ► Infernape
+   ↞--------| STATS |--------↠ 
+              hp:         44
+          attack:         58
+         defense:         44
+  special-attack:         58
+ special-defense:         44
+           speed:         61
 
-  ↞--------| STATS |--------↠ 
-             hp:         44
-         attack:         58
-        defense:         44
- special-attack:         58
-special-defense:         44
-          speed:         61
+ Genus: Chimp Pokémon
+ Happiness: 70	Pokedex ID: 390
+ Base Exp: 62	Capture Rate: 45
+ Height:    5	Weight: 62
 
-Pokedex ID: 390	Capture Rate: 45
-Base Exp: 62	Happiness: 70
-Height: 5	Weight: 62
-
-Genus: Chimp Pokémon
-Location Areas:
-lake-verity-before-galactic-intervention
-sinnoh-route-201-area
-hoenn-route-101-area
+ Location Areas:
+   Lake verity before galactic intervention
+   Sinnoh route 201 area
+   Hoenn route 101 area

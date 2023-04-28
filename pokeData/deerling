@@ -1,30 +1,29 @@
 
-Deerling	 A normal type Pokémon
+  Deerling    Normal Type Pokémon
 
-The color and scent of their 
-fur changes to match the mountain 
-grass.  When they sense hostility, 
-they hide in the grass. 
-
+  The color and scent of their 
+  fur changes to match the mountain 
+  grass.  When they sense hostility, 
+  they hide in the grass. 
 	Evolution Chain
       Deerling ► Sawsbuck
 
-  ↞--------| STATS |--------↠ 
-             hp:         60
-         attack:         60
-        defense:         50
- special-attack:         40
-special-defense:         50
-          speed:         75
+   ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         60
+         defense:         50
+  special-attack:         40
+ special-defense:         50
+           speed:         75
 
-Pokedex ID: 585	Capture Rate: 190
-Base Exp: 67	Happiness: 70
-Height: 6	Weight: 195
+ Genus: Season Pokémon
+ Happiness: 70	Pokedex ID: 585
+ Base Exp: 67	Capture Rate: 190
+ Height:    6	Weight: 195
 
-Genus: Season Pokémon
-Location Areas:
-dragonspiral-tower-entrance
-dragonspiral-tower-outside
-unova-route-6-area
-unova-route-7-area
-unova-route-6-weather-institute
+ Location Areas:
+   Dragonspiral tower entrance
+   Dragonspiral tower outside
+   Unova route 6 area
+   Unova route 7 area
+   Unova route 6 weather institute

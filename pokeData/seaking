@@ -1,86 +1,85 @@
 
-Seaking	 A water type Pokémon
+  Seaking    Water Type Pokémon
 
-In the autumn spawning season, 
-they can be seen swimming powerfully 
-up rivers and creeks. 
-
+  In the autumn spawning season, 
+  they can be seen swimming powerfully 
+  up rivers and creeks. 
 	Evolution Chain
       Goldeen ► Seaking
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:         92
-        defense:         65
- special-attack:         65
-special-defense:         80
-          speed:         68
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:         92
+         defense:         65
+  special-attack:         65
+ special-defense:         80
+           speed:         68
 
-Pokedex ID: 119	Capture Rate: 60
-Base Exp: 158	Happiness: 50
-Height: 13	Weight: 390
+ Genus: Goldfish Pokémon
+ Happiness: 50	Pokedex ID: 119
+ Base Exp: 158	Capture Rate: 60
+ Height:    13	Weight: 390
 
-Genus: Goldfish Pokémon
-Location Areas:
-sendoff-spring-area
-lake-verity-before-galactic-intervention
-lake-verity-after-galactic-intervention
-lake-valor-area
-lake-acuity-area
-sinnoh-route-203-area
-sinnoh-route-204-south-towards-jubilife-city
-sinnoh-route-204-north-towards-floaroma-town
-sinnoh-route-208-area
-sinnoh-route-209-area
-sinnoh-route-212-north-towards-hearthome-city
-sinnoh-route-214-area
-sinnoh-route-229-area
-twinleaf-town-area
-celestic-town-area
-resort-area-area
-union-cave-1f
-union-cave-b1f
-slowpoke-well-1f
-slowpoke-well-b1f
-johto-route-42-area
-mt-mortar-1f
-mt-mortar-upper-cave
-mt-mortar-b1f
-dark-cave-violet-city-entrance
-dark-cave-blackthorn-city-entrance
-mt-silver-2f
-mt-silver-1f-top
-mt-silver-4f
-mt-silver-1f
-mt-silver-top
-cerulean-city-area
-fuchsia-city-area
-kanto-route-4-area
-kanto-route-9-area
-kanto-route-10-area
-kanto-route-24-area
-kanto-route-25-area
-tohjo-falls-area
-cerulean-cave-1f
-cerulean-cave-b1f
-kanto-route-23-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-hoenn-safari-zone-nwmach-bike-area
-hoenn-safari-zone-sw
-berry-forest-area
-striaton-city-area
-pinwheel-forest-inside
-unova-route-3-area
-unova-route-11-area
-unova-route-14-area
-abundant-shrine-area
-aspertia-city-area
-unova-route-22-area
-kalos-route-3-area
-kalos-route-22-area
-parfum-palace-area
-johto-safari-zone-zone-swamp
-johto-safari-zone-zone-rocky-beach
+ Location Areas:
+   Sendoff spring area
+   Lake verity before galactic intervention
+   Lake verity after galactic intervention
+   Lake valor area
+   Lake acuity area
+   Sinnoh route 203 area
+   Sinnoh route 204 south towards jubilife city
+   Sinnoh route 204 north towards floaroma town
+   Sinnoh route 208 area
+   Sinnoh route 209 area
+   Sinnoh route 212 north towards hearthome city
+   Sinnoh route 214 area
+   Sinnoh route 229 area
+   Twinleaf town area
+   Celestic town area
+   Resort area area
+   Union cave 1f
+   Union cave b1f
+   Slowpoke well 1f
+   Slowpoke well b1f
+   Johto route 42 area
+   Mt mortar 1f
+   Mt mortar upper cave
+   Mt mortar b1f
+   Dark cave violet city entrance
+   Dark cave blackthorn city entrance
+   Mt silver 2f
+   Mt silver 1f top
+   Mt silver 4f
+   Mt silver 1f
+   Mt silver top
+   Cerulean city area
+   Fuchsia city area
+   Kanto route 4 area
+   Kanto route 9 area
+   Kanto route 10 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Tohjo falls area
+   Cerulean cave 1f
+   Cerulean cave b1f
+   Kanto route 23 area
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Hoenn safari zone nwmach bike area
+   Hoenn safari zone sw
+   Berry forest area
+   Striaton city area
+   Pinwheel forest inside
+   Unova route 3 area
+   Unova route 11 area
+   Unova route 14 area
+   Abundant shrine area
+   Aspertia city area
+   Unova route 22 area
+   Kalos route 3 area
+   Kalos route 22 area
+   Parfum palace area
+   Johto safari zone zone swamp
+   Johto safari zone zone rocky beach

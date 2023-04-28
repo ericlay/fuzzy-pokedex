@@ -1,32 +1,31 @@
 
-Sawk	 A fighting type Pokémon
+  Sawk    Fighting Type Pokémon
 
-The sound of Sawk punching boulders 
-and trees can be heard all the 
-way from the mountains where 
-they train. 
+  The sound of Sawk punching boulders 
+  and trees can be heard all the 
+  way from the mountains where 
+  they train. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:        125
+         defense:         75
+  special-attack:         30
+ special-defense:         75
+           speed:         85
 
-  ↞--------| STATS |--------↠ 
-             hp:         75
-         attack:        125
-        defense:         75
- special-attack:         30
-special-defense:         75
-          speed:         85
+ Genus: Karate Pokémon
+ Happiness: 50	Pokedex ID: 539
+ Base Exp: 163	Capture Rate: 45
+ Height:    14	Weight: 510
 
-Pokedex ID: 539	Capture Rate: 45
-Base Exp: 163	Happiness: 50
-Height: 14	Weight: 510
-
-Genus: Karate Pokémon
-Location Areas:
-pinwheel-forest-outside
-unova-route-10-area
-unova-route-10-victory-road-gate
-unova-route-15-area
-unova-route-18-area
-unova-victory-road-2-unknown-area-76
-unova-route-23-area
-kalos-route-11-area
+ Location Areas:
+   Pinwheel forest outside
+   Unova route 10 area
+   Unova route 10 victory road gate
+   Unova route 15 area
+   Unova route 18 area
+   Unova victory road 2 unknown area 76
+   Unova route 23 area
+   Kalos route 11 area

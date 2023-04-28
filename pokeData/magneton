@@ -1,35 +1,35 @@
 
-Magneton	 A electric type Pokémon
+  Magneton    Electric Type Pokémon
 
-Formed by several MAGNEMITEs 
-linked together.  They frequently 
-appear when sunspots flare up. 
+  Formed by several MAGNEMITEs 
+  linked together.  They frequently 
+  appear when sunspots flare up. 
+  
+	   Evolution Chain
+  Magnemite ► Magneton ► Magnezone
 
-	Evolution Chain
-Magnemite ► Magneton ► Magnezone
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         60
+         defense:         95
+  special-attack:        120
+ special-defense:         70
+           speed:         70
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         60
-        defense:         95
- special-attack:        120
-special-defense:         70
-          speed:         70
+ Genus: Magnet Pokémon
+ Happiness: 50	Pokedex ID: 82
+ Base Exp: 163	Capture Rate: 60
+ Height:    10	Weight: 600
 
-Pokedex ID: 82	Capture Rate: 60
-Base Exp: 163	Happiness: 50
-Height: 10	Weight: 600
-
-Genus: Magnet Pokémon
-Location Areas:
-sinnoh-victory-road-2f
-sinnoh-route-222-area
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-power-plant-area
-new-mauville-area
-p2-laboratory-area
-lost-hotel-area
-johto-safari-zone-zone-peak
-johto-safari-zone-zone-mountain
+ Location Areas:
+   Sinnoh victory road 2f
+   Sinnoh route 222 area
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Power plant area
+   New mauville area
+   P2 laboratory area
+   Lost hotel area
+   Johto safari zone zone peak
+   Johto safari zone zone mountain

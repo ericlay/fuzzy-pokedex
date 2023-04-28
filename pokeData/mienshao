@@ -1,30 +1,29 @@
 
-Mienshao	 A fighting type Pokémon
+  Mienshao    Fighting Type Pokémon
 
-It wields the fur on its arms 
-like a whip.  Its arm attacks 
-come with such rapidity that 
-they cannot even be seen. 
-
+  It wields the fur on its arms 
+  like a whip.  Its arm attacks 
+  come with such rapidity that 
+  they cannot even be seen. 
 	Evolution Chain
       Mienfoo ► Mienshao
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:        125
-        defense:         60
- special-attack:         95
-special-defense:         60
-          speed:        105
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:        125
+         defense:         60
+  special-attack:         95
+ special-defense:         60
+           speed:        105
 
-Pokedex ID: 620	Capture Rate: 45
-Base Exp: 179	Happiness: 50
-Height: 14	Weight: 355
+ Genus: Martial Arts Pokémon
+ Happiness: 50	Pokedex ID: 620
+ Base Exp: 179	Capture Rate: 45
+ Height:    14	Weight: 355
 
-Genus: Martial Arts Pokémon
-Location Areas:
-dragonspiral-tower-entrance
-dragonspiral-tower-outside
-dragonspiral-tower-1f
-unova-route-14-area
-unova-route-23-area
+ Location Areas:
+   Dragonspiral tower entrance
+   Dragonspiral tower outside
+   Dragonspiral tower 1f
+   Unova route 14 area
+   Unova route 23 area

@@ -1,25 +1,24 @@
 
-Torracat	 A fire type Pokémon
+  Torracat    Fire Type Pokémon
 
-At its throat, it bears a bell 
-of fire.  The bell rings brightly 
-whenever this Pokémon spits fire. 
+  At its throat, it bears a bell 
+  of fire.  The bell rings brightly 
+  whenever this Pokémon spits fire. 
+  
+	   Evolution Chain
+  Litten ► Torracat ► Incineroar
 
-	Evolution Chain
-Litten ► Torracat ► Incineroar
+   ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         85
+         defense:         50
+  special-attack:         80
+ special-defense:         50
+           speed:         90
 
-  ↞--------| STATS |--------↠ 
-             hp:         65
-         attack:         85
-        defense:         50
- special-attack:         80
-special-defense:         50
-          speed:         90
+ Genus: Fire Cat Pokémon
+ Happiness: 50	Pokedex ID: 726
+ Base Exp: 147	Capture Rate: 45
+ Height:    7	Weight: 250
 
-Pokedex ID: 726	Capture Rate: 45
-Base Exp: 147	Happiness: 50
-Height: 7	Weight: 250
-
-Genus: Fire Cat Pokémon
-Location Areas:
-
+ Location Areas:

@@ -1,26 +1,25 @@
 
-Registeel	 A steel type Pokémon
+  Registeel    Steel Type Pokémon
 
-REGISTEEL has a body that is 
-harder than any kind of metal. 
- Its body is apparently hollow. 
- No one has any idea what this 
-Pokémon eats. 
+  REGISTEEL has a body that is 
+  harder than any kind of metal. 
+   Its body is apparently hollow. 
+   No one has any idea what this 
+  Pokémon eats. 
+  Single Stage Evolution Pokémon
 
-    Single Stage Evolution Pokémon
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:         75
+         defense:        150
+  special-attack:         75
+ special-defense:        150
+           speed:         50
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:         75
-        defense:        150
- special-attack:         75
-special-defense:        150
-          speed:         50
+ Genus: Iron Pokémon
+ Happiness: 35	Pokedex ID: 379
+ Base Exp: 290	Capture Rate: 3
+ Height:    19	Weight: 2050
 
-Pokedex ID: 379	Capture Rate: 3
-Base Exp: 290	Happiness: 35
-Height: 19	Weight: 2050
-
-Genus: Iron Pokémon
-Location Areas:
-ancient-tomb-area
+ Location Areas:
+   Ancient tomb area

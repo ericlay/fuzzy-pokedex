@@ -1,35 +1,35 @@
 
-Larvitar	 A rock type Pokémon
+  Larvitar    Rock Type Pokémon
 
-It feeds on soil.  After it 
-has eaten a large mountain, it 
-will fall asleep so it can grow. 
+  It feeds on soil.  After it 
+  has eaten a large mountain, it 
+  will fall asleep so it can grow. 
+  
+	   Evolution Chain
+  Larvitar ► Pupitar ► Tyranitar
 
-	Evolution Chain
-Larvitar ► Pupitar ► Tyranitar
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         64
+         defense:         50
+  special-attack:         45
+ special-defense:         50
+           speed:         41
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         64
-        defense:         50
- special-attack:         45
-special-defense:         50
-          speed:         41
+ Genus: Rock Skin Pokémon
+ Happiness: 35	Pokedex ID: 246
+ Base Exp: 60	Capture Rate: 45
+ Height:    6	Weight: 720
 
-Pokedex ID: 246	Capture Rate: 45
-Base Exp: 60	Happiness: 35
-Height: 6	Weight: 720
-
-Genus: Rock Skin Pokémon
-Location Areas:
-sinnoh-route-206-area
-sinnoh-route-207-area
-mt-silver-2f
-mt-silver-1f-top
-mt-silver-4f
-mt-silver-1f
-mt-silver-mountainside
-mt-silver-3f
-mt-silver-top
-sevault-canyon-area
-johto-safari-zone-zone-mountain
+ Location Areas:
+   Sinnoh route 206 area
+   Sinnoh route 207 area
+   Mt silver 2f
+   Mt silver 1f top
+   Mt silver 4f
+   Mt silver 1f
+   Mt silver mountainside
+   Mt silver 3f
+   Mt silver top
+   Sevault canyon area
+   Johto safari zone zone mountain

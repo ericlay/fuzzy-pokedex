@@ -1,25 +1,29 @@
 
-Burmy	 A bug type Pokémon
+  Burmy    Bug Type Pokémon
 
-To shelter itself from cold, 
-wintry winds, it covers itself 
-with a cloak made of twigs and 
-leaves. 
+  To shelter itself from cold, 
+  wintry winds, it covers itself 
+  with a cloak made of twigs and 
+  leaves. 
+	Evolution Chain
+      Burmy ► Wormadam
 
-    Single Stage Evolution Pokémon
+Stage 2 Forms:
+  wormadam
+  mothim
 
-  ↞--------| STATS |--------↠ 
-             hp:         40
-         attack:         29
-        defense:         45
- special-attack:         29
-special-defense:         45
-          speed:         36
+   ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         29
+         defense:         45
+  special-attack:         29
+ special-defense:         45
+           speed:         36
 
-Pokedex ID: 412	Capture Rate: 120
-Base Exp: 45	Happiness: 70
-Height: 2	Weight: 34
+ Genus: Bagworm Pokémon
+ Happiness: 70	Pokedex ID: 412
+ Base Exp: 45	Capture Rate: 120
+ Height:    2	Weight: 34
 
-Genus: Bagworm Pokémon
-Location Areas:
-kalos-route-3-area
+ Location Areas:
+   Kalos route 3 area

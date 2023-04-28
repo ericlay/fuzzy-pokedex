@@ -1,36 +1,38 @@
 
-Clamperl	 A water type Pokémon
+  Clamperl    Water Type Pokémon
 
-CLAMPERL’s sturdy shell is not 
-only good for protection - it 
-is also used for clamping and 
-catching prey.  A fully grown 
-CLAMPERL’s shell will be scored 
-with nicks and scratches all 
-over. 
-
+  CLAMPERL’s sturdy shell is not 
+  only good for protection - it 
+  is also used for clamping and 
+  catching prey.  A fully grown 
+  CLAMPERL’s shell will be scored 
+  with nicks and scratches all 
+  over. 
 	Evolution Chain
       Clamperl ► Huntail
-gorebyss
 
-  ↞--------| STATS |--------↠ 
-             hp:         35
-         attack:         64
-        defense:         85
- special-attack:         74
-special-defense:         55
-          speed:         32
+Stage 2 Forms:
+  huntail
+  gorebyss
 
-Pokedex ID: 366	Capture Rate: 255
-Base Exp: 69	Happiness: 70
-Height: 4	Weight: 525
+   ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:         64
+         defense:         85
+  special-attack:         74
+ special-defense:         55
+           speed:         32
 
-Genus: Bivalve Pokémon
-Location Areas:
-sinnoh-route-219-area
-sinnoh-route-221-area
-kanto-sea-route-19-area
-hoenn-route-124-underwater
-hoenn-route-126-underwater
-unova-route-4-area
-kalos-route-12-area
+ Genus: Bivalve Pokémon
+ Happiness: 70	Pokedex ID: 366
+ Base Exp: 69	Capture Rate: 255
+ Height:    4	Weight: 525
+
+ Location Areas:
+   Sinnoh route 219 area
+   Sinnoh route 221 area
+   Kanto sea route 19 area
+   Hoenn route 124 underwater
+   Hoenn route 126 underwater
+   Unova route 4 area
+   Kalos route 12 area

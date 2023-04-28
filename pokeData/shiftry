@@ -1,26 +1,25 @@
 
-Shiftry	 A grass type Pokémon
+  Shiftry    Grass Type Pokémon
 
-It lives quietly in the deep 
-forest.  It is said to create 
-chilly winter winds with the 
-fans it holds. 
+  It lives quietly in the deep 
+  forest.  It is said to create 
+  chilly winter winds with the 
+  fans it holds. 
+	   Evolution Chain
+  Seedot ► Nuzleaf ► Shiftry
 
-	Evolution Chain
-Seedot ► Nuzleaf ► Shiftry
+   ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:        100
+         defense:         60
+  special-attack:         90
+ special-defense:         60
+           speed:         80
 
-  ↞--------| STATS |--------↠ 
-             hp:         90
-         attack:        100
-        defense:         60
- special-attack:         90
-special-defense:         60
-          speed:         80
+ Genus: Wicked Pokémon
+ Happiness: 50	Pokedex ID: 275
+ Base Exp: 240	Capture Rate: 45
+ Height:    13	Weight: 596
 
-Pokedex ID: 275	Capture Rate: 45
-Base Exp: 240	Happiness: 50
-Height: 13	Weight: 596
-
-Genus: Wicked Pokémon
-Location Areas:
-nature-sanctuary-area
+ Location Areas:
+   Nature sanctuary area

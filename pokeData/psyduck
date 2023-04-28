@@ -1,112 +1,112 @@
 
-Psyduck	 A water type Pokémon
+  Psyduck    Water Type Pokémon
 
-While lulling its enemies with 
-its vacant look, this wily Pokémon 
-will use psychokinetic powers. 
-
+  While lulling its enemies with 
+  its vacant look, this wily Pokémon 
+  will use psychokinetic powers. 
+  
 	Evolution Chain
       Psyduck ► Golduck
 
-  ↞--------| STATS |--------↠ 
-             hp:         50
-         attack:         52
-        defense:         48
- special-attack:         65
-special-defense:         50
-          speed:         55
+   ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         52
+         defense:         48
+  special-attack:         65
+ special-defense:         50
+           speed:         55
 
-Pokedex ID: 54	Capture Rate: 190
-Base Exp: 64	Happiness: 50
-Height: 8	Weight: 196
+ Genus: Duck Pokémon
+ Happiness: 50	Pokedex ID: 54
+ Base Exp: 64	Capture Rate: 190
+ Height:    8	Weight: 196
 
-Genus: Duck Pokémon
-Location Areas:
-eterna-city-area
-great-marsh-area-1
-great-marsh-area-2
-great-marsh-area-3
-great-marsh-area-4
-great-marsh-area-6
-ravaged-path-area
-oreburgh-gate-1f
-oreburgh-gate-b1f
-lake-verity-before-galactic-intervention
-lake-verity-after-galactic-intervention
-lake-valor-area
-lake-acuity-area
-sinnoh-route-203-area
-sinnoh-route-204-south-towards-jubilife-city
-sinnoh-route-204-north-towards-floaroma-town
-sinnoh-route-205-east-towards-eterna-city
-sinnoh-route-208-area
-sinnoh-route-209-area
-sinnoh-route-210-west-towards-celestic-town
-sinnoh-route-212-north-towards-hearthome-city
-sinnoh-route-214-area
-sinnoh-route-225-area
-twinleaf-town-area
-celestic-town-area
-resort-area-area
-ilex-forest-area
-johto-route-35-area
-national-park-area
-seafoam-islands-1f
-seafoam-islands-b1f
-seafoam-islands-b2f
-seafoam-islands-b3f
-seafoam-islands-b4f
-kanto-route-12-area
-kanto-sea-route-19-area
-kanto-sea-route-20-area
-cinnabar-island-area
-viridian-city-area
-cerulean-city-area
-vermilion-city-area
-celadon-city-area
-fuchsia-city-area
-pallet-town-area
-kanto-route-4-area
-kanto-route-6-area
-kanto-route-10-area
-kanto-route-11-area
-kanto-route-13-area
-kanto-sea-route-21-area
-kanto-route-22-area
-kanto-route-24-area
-kanto-route-25-area
-cerulean-cave-1f
-cerulean-cave-2f
-cerulean-cave-b1f
-kanto-route-23-area
-kanto-safari-zone-middle
-kanto-safari-zone-area-1-east
-kanto-safari-zone-area-2-north
-kanto-safari-zone-area-3-west
-hoenn-safari-zone-nwmach-bike-area
-hoenn-safari-zone-sw
-ss-anne-area
-berry-forest-area
-icefall-cave-entrance
-icefall-cave-waterfall
-kindle-road-area
-treasure-beach-area
-cape-brink-area
-bond-bridge-area
-resort-gorgeous-area
-water-labyrinth-area
-five-isle-meadow-area
-memorial-pillar-area
-outcast-island-area
-green-path-area
-water-path-area
-ruin-valley-area
-trainer-tower-area
-canyon-entrance-area
-tanoby-ruins-area
-one-island-area
-four-island-area
-five-island-area
-floccesy-ranch-inner
-kalos-route-22-area
-johto-safari-zone-zone-wetland
+ Location Areas:
+   Eterna city area
+   Great marsh area 1
+   Great marsh area 2
+   Great marsh area 3
+   Great marsh area 4
+   Great marsh area 6
+   Ravaged path area
+   Oreburgh gate 1f
+   Oreburgh gate b1f
+   Lake verity before galactic intervention
+   Lake verity after galactic intervention
+   Lake valor area
+   Lake acuity area
+   Sinnoh route 203 area
+   Sinnoh route 204 south towards jubilife city
+   Sinnoh route 204 north towards floaroma town
+   Sinnoh route 205 east towards eterna city
+   Sinnoh route 208 area
+   Sinnoh route 209 area
+   Sinnoh route 210 west towards celestic town
+   Sinnoh route 212 north towards hearthome city
+   Sinnoh route 214 area
+   Sinnoh route 225 area
+   Twinleaf town area
+   Celestic town area
+   Resort area area
+   Ilex forest area
+   Johto route 35 area
+   National park area
+   Seafoam islands 1f
+   Seafoam islands b1f
+   Seafoam islands b2f
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Kanto route 12 area
+   Kanto sea route 19 area
+   Kanto sea route 20 area
+   Cinnabar island area
+   Viridian city area
+   Cerulean city area
+   Vermilion city area
+   Celadon city area
+   Fuchsia city area
+   Pallet town area
+   Kanto route 4 area
+   Kanto route 6 area
+   Kanto route 10 area
+   Kanto route 11 area
+   Kanto route 13 area
+   Kanto sea route 21 area
+   Kanto route 22 area
+   Kanto route 24 area
+   Kanto route 25 area
+   Cerulean cave 1f
+   Cerulean cave 2f
+   Cerulean cave b1f
+   Kanto route 23 area
+   Kanto safari zone middle
+   Kanto safari zone area 1 east
+   Kanto safari zone area 2 north
+   Kanto safari zone area 3 west
+   Hoenn safari zone nwmach bike area
+   Hoenn safari zone sw
+   Ss anne area
+   Berry forest area
+   Icefall cave entrance
+   Icefall cave waterfall
+   Kindle road area
+   Treasure beach area
+   Cape brink area
+   Bond bridge area
+   Resort gorgeous area
+   Water labyrinth area
+   Five isle meadow area
+   Memorial pillar area
+   Outcast island area
+   Green path area
+   Water path area
+   Ruin valley area
+   Trainer tower area
+   Canyon entrance area
+   Tanoby ruins area
+   One island area
+   Four island area
+   Five island area
+   Floccesy ranch inner
+   Kalos route 22 area
+   Johto safari zone zone wetland

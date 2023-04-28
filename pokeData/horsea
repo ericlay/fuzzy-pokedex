@@ -1,70 +1,70 @@
 
-Horsea	 A water type Pokémon
+  Horsea    Water Type Pokémon
 
-Known to shoot down flying bugs 
-with precision blasts of ink 
-from the surface of the water. 
+  Known to shoot down flying bugs 
+  with precision blasts of ink 
+  from the surface of the water. 
+  
+	   Evolution Chain
+  Horsea ► Seadra ► Kingdra
 
-	Evolution Chain
-Horsea ► Seadra ► Kingdra
+   ↞--------| STATS |--------↠ 
+              hp:         30
+          attack:         40
+         defense:         70
+  special-attack:         70
+ special-defense:         25
+           speed:         60
 
-  ↞--------| STATS |--------↠ 
-             hp:         30
-         attack:         40
-        defense:         70
- special-attack:         70
-special-defense:         25
-          speed:         60
+ Genus: Dragon Pokémon
+ Happiness: 50	Pokedex ID: 116
+ Base Exp: 59	Capture Rate: 225
+ Height:    4	Weight: 80
 
-Pokedex ID: 116	Capture Rate: 225
-Base Exp: 59	Happiness: 50
-Height: 4	Weight: 80
-
-Genus: Dragon Pokémon
-Location Areas:
-sinnoh-sea-route-226-area
-whirl-islands-1f
-whirl-islands-b2f
-whirl-islands-b3f
-seafoam-islands-1f
-seafoam-islands-b1f
-seafoam-islands-b2f
-seafoam-islands-b3f
-seafoam-islands-b4f
-kanto-route-12-area
-kanto-sea-route-19-area
-kanto-sea-route-20-area
-cinnabar-island-area
-cerulean-city-area
-vermilion-city-area
-pallet-town-area
-kanto-route-4-area
-kanto-route-10-area
-kanto-route-11-area
-kanto-route-13-area
-kanto-sea-route-21-area
-kanto-route-24-area
-hoenn-route-132-area
-hoenn-route-133-area
-hoenn-route-134-area
-ss-anne-area
-icefall-cave-waterfall
-kindle-road-area
-treasure-beach-area
-bond-bridge-area
-resort-gorgeous-area
-water-labyrinth-area
-five-isle-meadow-area
-memorial-pillar-area
-outcast-island-area
-green-path-area
-water-path-area
-trainer-tower-area
-tanoby-ruins-area
-one-island-area
-five-island-area
-p2-laboratory-area
-unova-route-18-area
-unova-route-17-area
-ambrette-town-area
-cyllage-city-area
+ Location Areas:
+   Sinnoh sea route 226 area
+   Whirl islands 1f
+   Whirl islands b2f
+   Whirl islands b3f
+   Seafoam islands 1f
+   Seafoam islands b1f
+   Seafoam islands b2f
+   Seafoam islands b3f
+   Seafoam islands b4f
+   Kanto route 12 area
+   Kanto sea route 19 area
+   Kanto sea route 20 area
+   Cinnabar island area
+   Cerulean city area
+   Vermilion city area
+   Pallet town area
+   Kanto route 4 area
+   Kanto route 10 area
+   Kanto route 11 area
+   Kanto route 13 area
+   Kanto sea route 21 area
+   Kanto route 24 area
+   Hoenn route 132 area
+   Hoenn route 133 area
+   Hoenn route 134 area
+   Ss anne area
+   Icefall cave waterfall
+   Kindle road area
+   Treasure beach area
+   Bond bridge area
+   Resort gorgeous area
+   Water labyrinth area
+   Five isle meadow area
+   Memorial pillar area
+   Outcast island area
+   Green path area
+   Water path area
+   Trainer tower area
+   Tanoby ruins area
+   One island area
+   Five island area
+   P2 laboratory area
+   Unova route 18 area
+   Unova route 17 area
+   Ambrette town area
+   Cyllage city area

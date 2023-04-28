@@ -1,27 +1,26 @@
 
-Honedge	 A steel type Pokémon
+  Honedge    Steel Type Pokémon
 
-Apparently this Pokémon is born 
-when a departed spirit inhabits 
-a sword.  It attaches itself 
-to people and drinks their life 
-force. 
+  Apparently this Pokémon is born 
+  when a departed spirit inhabits 
+  a sword.  It attaches itself 
+  to people and drinks their life 
+  force. 
+	   Evolution Chain
+  Honedge ► Doublade ► Aegislash
 
-	Evolution Chain
-Honedge ► Doublade ► Aegislash
+   ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         80
+         defense:        100
+  special-attack:         35
+ special-defense:         37
+           speed:         28
 
-  ↞--------| STATS |--------↠ 
-             hp:         45
-         attack:         80
-        defense:        100
- special-attack:         35
-special-defense:         37
-          speed:         28
+ Genus: Sword Pokémon
+ Happiness: 50	Pokedex ID: 679
+ Base Exp: 65	Capture Rate: 180
+ Height:    8	Weight: 20
 
-Pokedex ID: 679	Capture Rate: 180
-Base Exp: 65	Happiness: 50
-Height: 8	Weight: 20
-
-Genus: Sword Pokémon
-Location Areas:
-kalos-route-6-area
+ Location Areas:
+   Kalos route 6 area

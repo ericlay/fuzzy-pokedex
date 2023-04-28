@@ -1,46 +1,49 @@
 
-Wooper	 A water type Pokémon
+  Wooper    Water Type Pokémon
 
-Wooper lives in cold water. 
- It will leave the water to search 
-for food when it gets cold outside. 
-
+  Wooper lives in cold water. 
+   It will leave the water to search 
+  for food when it gets cold outside. 
+  
 	Evolution Chain
       Wooper ► Quagsire
-clodsire
 
-  ↞--------| STATS |--------↠ 
-             hp:         55
-         attack:         45
-        defense:         45
- special-attack:         25
-special-defense:         25
-          speed:         15
+Stage 2 Forms:
+  quagsire
+  clodsire
 
-Pokedex ID: 194	Capture Rate: 255
-Base Exp: 42	Happiness: 50
-Height: 4	Weight: 85
+   ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         45
+         defense:         45
+  special-attack:         25
+ special-defense:         25
+           speed:         15
 
-Genus: Water Fish Pokémon
-Location Areas:
-great-marsh-area-1
-great-marsh-area-2
-great-marsh-area-3
-great-marsh-area-4
-great-marsh-area-5
-great-marsh-area-6
-sinnoh-route-212-east-towards-pastoria-city
-johto-route-32-area
-ruins-of-alph-outside
-union-cave-1f
-union-cave-b1f
-johto-route-47-cave-gate
-johto-route-47-inside-cave
-hoenn-safari-zone-expansion-south
-icefall-cave-entrance
-ruin-valley-area
-four-island-area
-violet-city-pokemon-center
-johto-safari-zone-zone-meadow
-johto-safari-zone-zone-marshland
-johto-safari-zone-zone-wetland
+ Genus: Water Fish Pokémon
+ Happiness: 50	Pokedex ID: 194
+ Base Exp: 42	Capture Rate: 255
+ Height:    4	Weight: 85
+
+ Location Areas:
+   Great marsh area 1
+   Great marsh area 2
+   Great marsh area 3
+   Great marsh area 4
+   Great marsh area 5
+   Great marsh area 6
+   Sinnoh route 212 east towards pastoria city
+   Johto route 32 area
+   Ruins of alph outside
+   Union cave 1f
+   Union cave b1f
+   Johto route 47 cave gate
+   Johto route 47 inside cave
+   Hoenn safari zone expansion south
+   Icefall cave entrance
+   Ruin valley area
+   Four island area
+   Violet city pokemon center
+   Johto safari zone zone meadow
+   Johto safari zone zone marshland
+   Johto safari zone zone wetland

@@ -1,25 +1,23 @@
 
-Meganium	 A grass type Pokémon
+  Meganium    Grass Type Pokémon
 
-The aroma that rises from its 
-petals contains a substance that 
-calms aggressive feelings. 
+  The aroma that rises from its 
+  petals contains a substance that 
+  calms aggressive feelings. 
+	   Evolution Chain
+  Chikorita ► Bayleef ► Meganium
 
-	Evolution Chain
-Chikorita ► Bayleef ► Meganium
+   ↞--------| STATS |--------↠ 
+              hp:         80
+          attack:         82
+         defense:        100
+  special-attack:         83
+ special-defense:        100
+           speed:         80
 
-  ↞--------| STATS |--------↠ 
-             hp:         80
-         attack:         82
-        defense:        100
- special-attack:         83
-special-defense:        100
-          speed:         80
+ Genus: Herb Pokémon
+ Happiness: 70	Pokedex ID: 154
+ Base Exp: 236	Capture Rate: 45
+ Height:    18	Weight: 1005
 
-Pokedex ID: 154	Capture Rate: 45
-Base Exp: 236	Happiness: 70
-Height: 18	Weight: 1005
-
-Genus: Herb Pokémon
-Location Areas:
-
+ Location Areas:
