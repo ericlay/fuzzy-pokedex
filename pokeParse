@@ -52,7 +52,7 @@ if [[ ${#CHAIN1[@]} -gt 1 ]] ;
 fi;
 if [[ ${#CHAIN2[@]} -gt 1 ]] ;
 	then
-		printf "%s:\n" "Stage 2 Forms";
+		printf " %s:\n" "Stage 2 Forms";
 		for ((i=0; i<${#CHAIN2[@]}; i++)); do
 			printf "  %s\n" "${CHAIN2[i]}";
 		done;
@@ -60,7 +60,7 @@ if [[ ${#CHAIN2[@]} -gt 1 ]] ;
 fi;
 if [[ ${#CHAIN3[@]} -gt 1 ]] ;
 	then
-		printf "%s:\n" "Stage 3 Forms";
+		printf " %s:\n" "Stage 3 Forms";
 		for ((i=0; i<${#CHAIN3[@]}; i++)); do
 			printf "  %s\n" "${CHAIN3[i]}";
 		done;
