@@ -1,5 +1,5 @@
 # Fuzzy-Pokédex 
-## The Pokédex for your terminal
+### The Pokédex for your terminal
 Simple fzf based Pokédex I built for my son to enjoy.
 
 Parses results from [PokeAPI](pokeapi.co/) and feeds combined results from `pokemon-colorscripts` to `fzf`
