@@ -49,8 +49,7 @@ KEYBINDS
 ```
 
 Credits to the great projects below: \
-https://gitlab.com/phoneybadger/pokemon-colorscripts \
-https://github.com/rmccorm4/Pokefetch 
+[Pokémon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) && [Pokefetch](https://github.com/rmccorm4/Pokefetch)
  
 ## To-do
 * [ ] Better arg parsing
