@@ -21,6 +21,49 @@
  Base Exp: 66	Capture Rate: 120
  Height:    5	Weight: 335
 
+ Types:
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Pickup:
+
+    At the end of each turn, if 
+  another Pokémon consumed or Flung 
+  a held item that turn, this Pokémon 
+  picks up the item if it is not 
+  already holding one. After each 
+  battle, this Pokémon has a 10% 
+  chance of picking up an item 
+  if it is not already holding 
+  one.
+
+  The air balloon and eject button 
+  cannot be picked up.
+
+  The items that may be found 
+  vary by game, and, since Pokémon 
+  Emerald, by the Pokémon's level. 
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
+  Sand-veil:
+
+    During a sandstorm, this Pokémon 
+  has 1.25× its evasion, and it 
+  does not take sandstorm damage 
+  regardless of type.
+
+  The evasion bonus does not 
+  count as a stat modifier.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved in a sandstorm.
+
+
  Location Areas:
    Sinnoh route 207 area
    Johto route 45 area

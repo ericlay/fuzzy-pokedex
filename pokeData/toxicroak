@@ -20,5 +20,55 @@
  Base Exp: 172	Capture Rate: 75
  Height:    13	Weight: 444
 
+ Types:
+   Poison
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Anticipation:
+
+    When this Pokémon enters battle, 
+  if one of its opponents has a 
+  move that is super effective 
+  against it, self destruct, explosion, 
+  or a one-hit knockout move, all 
+  participating trainers are notified.
+
+  The move itself is not revealed; 
+  only that there is such a move. 
+  Moves that inflict typeless damage, 
+  such as future sight, and moves 
+  of variable type, such as hidden 
+  power, count as their listed 
+  types. counter, metal burst, 
+  mirror coat, and one-hit KO moves 
+  to which this Pokémon is immune 
+  do not trigger this ability.
+
+  Dry-skin:
+
+    This Pokémon takes 1/8 of its 
+  maximum HP in damage after each 
+  turn during strong sunlight, 
+  but it heals for 1/8 of its HP 
+  each turn during rain. This Pokémon 
+  takes 1.25× as much damage from 
+  fire-type moves, but whenever 
+  a water move hits it, it heals 
+  for 1/4 its maximum HP instead.
+
+  Poison-touch:
+
+    This Pokémon's contact moves 
+  have a 30% chance of poisoning 
+  the target with each hit.
+
+  This counts as an extra effect 
+  for the purposes of shield dust. 
+  This ability takes effect before 
+  mummy.
+
+
  Location Areas:
    Pinwheel forest outside

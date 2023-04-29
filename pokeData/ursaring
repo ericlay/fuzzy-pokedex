@@ -21,6 +21,45 @@
  Base Exp: 175	Capture Rate: 60
  Height:    18	Weight: 1258
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Guts:
+
+    Whenever this Pokémon is asleep, 
+  burned, paralyzed, or poisoned, 
+  it has 1.5× its Attack. This 
+  Pokémon is not affected by the 
+  usual Attack cut from a burn.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Quick-feet:
+
+    Whenever this Pokémon has a 
+  major status ailment, it has 
+  1.5× its Speed. This Pokémon 
+  is not affected by the usual 
+  Speed cut from paralysis.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved.
+
+  Unnerve:
+
+    Opposing Pokémon cannot eat 
+  held Berries while this Pokémon 
+  is in battle.
+
+  Affected Pokémon can still 
+  use bug bite or pluck to eat 
+  a target's Berry.
+
+
  Location Areas:
    Lake acuity area
    Acuity lakefront area

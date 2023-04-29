@@ -5,8 +5,7 @@
   from a fossil found in what was 
   once the ocean floor eons ago. 
   
-	Evolution Chain
-      Kabuto ► Kabutops
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         30
@@ -20,6 +19,39 @@
  Happiness: 50	Pokedex ID: 140
  Base Exp: 71	Capture Rate: 45
  Height:    5	Weight: 115
+
+ Types:
+   Rock
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Battle-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to shell armor.
+
+  Weak-armor:
+
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
+
+  This ability triggers on every 
+  hit of a multiple-hit move.
+
 
  Location Areas:
    Cinnabar island cinnabar lab

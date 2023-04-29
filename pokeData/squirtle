@@ -4,8 +4,7 @@
   After birth, its back swells 
   and hardens into a shell.  Powerfully 
   sprays foam from its mouth. 
-	   Evolution Chain
-  Squirtle ► Wartortle ► Blastoise
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         44
@@ -19,6 +18,25 @@
  Happiness: 50	Pokedex ID: 7
  Base Exp: 63	Capture Rate: 45
  Height:    5	Weight: 90
+
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Torrent:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  water-type moves inflict 1.5× 
+  as much regular damage.
+
+  Rain-dish:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during rain.
+
 
  Location Areas:
    Vermilion city area

@@ -21,4 +21,39 @@
  Base Exp: 275	Capture Rate: 15
  Height:    16	Weight: 460
 
+ Types:
+   Bug
+   Fire
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Flame-body:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  burned.
+
+  Overworld: If any Pokémon in 
+  the party has this ability, each 
+  egg in the party has its hatch 
+  counter decreased by 2 (rather 
+  than 1) each step cycle, making 
+  eggs hatch roughly twice as quickly. 
+  This effect does not stack if 
+  multiple Pokémon have this ability 
+  or magma armor.
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+
  Location Areas:

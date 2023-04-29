@@ -21,4 +21,32 @@
  Base Exp: 170	Capture Rate: 75
  Height:    10	Weight: 1155
 
+ Types:
+   Water
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Strong-jaw:
+
+    Strengthens biting moves to 
+  1.5× their power.
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+
  Location Areas:

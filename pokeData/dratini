@@ -21,6 +21,27 @@
  Base Exp: 60	Capture Rate: 45
  Height:    18	Weight: 33
 
+ Types:
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Shed-skin:
+
+    After each turn, this Pokémon 
+  has a 33% of being cured of any 
+  major status ailment.
+
+  Marvel-scale:
+
+    Whenever this Pokémon has a 
+  major status ailment, it has 
+  1.5× its Defense.
+
+  This bonus does not count as 
+  a stat modifier.
+
+
  Location Areas:
    Mt coronet 4f
    Dragons den area

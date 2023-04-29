@@ -21,6 +21,35 @@
  Base Exp: 44	Capture Rate: 255
  Height:    5	Weight: 26
 
+ Types:
+   Water
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Rain-dish:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during rain.
+
+  Own-tempo:
+
+    This Pokémon cannot be confused.
+
+  If a Pokémon is confused and 
+  acquires this ability, its confusion 
+  will immediately be healed.
+
+
  Location Areas:
    Sinnoh route 203 area
    Sinnoh route 204 south towards jubilife city

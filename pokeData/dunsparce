@@ -21,6 +21,43 @@
  Base Exp: 145	Capture Rate: 190
  Height:    15	Weight: 140
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Serene-grace:
+
+    This Pokémon's moves have twice 
+  their usual effect chance.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, flamethrower's chance 
+  of burning the target is doubled, 
+  but protect's chance of success 
+  and air cutter's increased critical 
+  hit rate are unaffected.
+
+  secret power is unaffected.
+
+  Run-away:
+
+    This Pokémon is always successful 
+  fleeing from wild battles, even 
+  if trapped by a move or ability.
+
+  Rattled:
+
+    This Pokémon's Speed rises 
+  one stage with each hit from 
+  a damaging dark-, ghost-, or 
+  bug-type move.
+
+
  Location Areas:
    Sinnoh route 208 area
    Dark cave violet city entrance

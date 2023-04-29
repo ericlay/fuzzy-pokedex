@@ -21,4 +21,37 @@
  Base Exp: 173	Capture Rate: 75
  Height:    7	Weight: 145
 
+ Types:
+   Poison
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Merciless:
+
+    This Pokémon's moves critical 
+  hit against poisoned targets.
+
+  Limber:
+
+    This Pokémon cannot be paralyzed.
+
+  If a Pokémon is paralyzed and 
+  acquires this ability, its paralysis 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+  Regenerator:
+
+    This Pokémon regains 1/3 of 
+  its maximum HP when it is switched 
+  out for another Pokémon under 
+  any circumstances other than 
+  having fainted.
+
+  This ability does not take 
+  effect when a battle ends.
+
+
  Location Areas:

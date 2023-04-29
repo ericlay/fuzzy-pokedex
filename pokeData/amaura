@@ -21,5 +21,37 @@
  Base Exp: 72	Capture Rate: 45
  Height:    13	Weight: 252
 
+ Types:
+   Rock
+   Ice
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Refrigerate:
+
+    Turns the bearer's normal-type 
+  moves into ice-type moves. Moves 
+  changed by this ability have 
+  1.3× their power.
+
+  Snow-warning:
+
+    The weather changes to hail 
+  when this Pokémon enters battle 
+  and does not end unless cancelled 
+  by another weather condition.
+
+  If multiple Pokémon with this 
+  ability, drizzle, drought, or 
+  sand stream are sent out at the 
+  same time, the abilities will 
+  activate in order of Speed, respecting 
+  trick room. Each ability's weather 
+  will cancel the previous weather, 
+  and only the weather summoned 
+  by the slowest of the Pokémon 
+  will stay.
+
+
  Location Areas:
    Glittering cave unknown area 303

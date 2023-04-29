@@ -21,6 +21,37 @@
  Base Exp: 62	Capture Rate: 255
  Height:    3	Weight: 25
 
+ Types:
+   Bug
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Overcoat:
+
+    This Pokémon does not take 
+  damage from weather.
+
+
  Location Areas:
    Pinwheel forest inside
    Unova route 12 area

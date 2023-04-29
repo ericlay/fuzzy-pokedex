@@ -20,6 +20,50 @@
  Base Exp: 110	Capture Rate: 130
  Height:    6	Weight: 244
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Natural-cure:
+
+    This Pokémon is cured of any 
+  major status ailment when it 
+  is switched out for another Pokémon.
+
+  If this ability is acquired 
+  during battle, the Pokémon is 
+  cured upon leaving battle before 
+  losing the temporary ability.
+
+  Serene-grace:
+
+    This Pokémon's moves have twice 
+  their usual effect chance.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, flamethrower's chance 
+  of burning the target is doubled, 
+  but protect's chance of success 
+  and air cutter's increased critical 
+  hit rate are unaffected.
+
+  secret power is unaffected.
+
+  Friend-guard:
+
+    All friendly Pokémon take 0.75× 
+  as much direct damage from moves 
+  while this Pokémon is in battle.
+
+  This effect stacks if multiple 
+  allied Pokémon have it.
+
+
  Location Areas:
    Hearthome city west gate
    Nacrene city west gate

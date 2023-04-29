@@ -21,5 +21,22 @@
  Base Exp: 142	Capture Rate: 60
  Height:    12	Weight: 220
 
+ Types:
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Levitate:
+
+    This Pokémon is immune to ground-type 
+  moves, spikes, toxic spikes, 
+  and arena trap.
+
+  This ability is disabled during 
+  gravity or ingrain, or while 
+  holding an iron ball. This ability 
+  is not disabled during roost.
+
+
  Location Areas:
    Seaside cave b1f

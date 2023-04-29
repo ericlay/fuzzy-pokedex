@@ -22,4 +22,47 @@
  Base Exp: 130	Capture Rate: 120
  Height:    8	Weight: 125
 
+ Types:
+   Dark
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Prankster:
+
+    This Pokémon's non-damaging 
+  moves have their priority increased 
+  by one stage.
+
+  Frisk:
+
+    When this Pokémon enters battle, 
+  it reveals an opposing Pokémon's 
+  held item to all participating 
+  trainers.
+
+  In a double battle, if one 
+  opponent has an item, this Pokémon 
+  will Frisk that Pokémon; if both 
+  have an item, it will Frisk one 
+  at random.
+
+  Pickpocket:
+
+    Whenever a move makes contact 
+  with this Pokémon, if it does 
+  not have a held item, it steals 
+  the attacker's held item.
+
+  This Pokémon cannot steal upon 
+  being knocked out. It can steal 
+  if the attacker has a substitute, 
+  but cannot steal when its own 
+  Substitute is hit. If a move 
+  hits multiple times, only the 
+  last hit triggers this ability. 
+  If this Pokémon is wild, it cannot 
+  steal from a trained Pokémon.
+
+
  Location Areas:

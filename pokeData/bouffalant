@@ -19,6 +19,48 @@
  Base Exp: 172	Capture Rate: 45
  Height:    16	Weight: 946
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Reckless:
+
+    This Pokémon's recoil moves 
+  and crash moves have 1.2× their 
+  base power.
+
+  struggle is unaffected.
+
+  The "crash moves" are the moves 
+  that damage the user upon missing: 
+  jump kick and high jump kick.
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+  Soundproof:
+
+    This Pokémon is immune to moves 
+  flagged as being sound-based.
+
+  heal bell is unaffected. uproar 
+  still prevents this Pokémon from 
+  sleeping. This Pokémon can still 
+  receive a Perish Song counter 
+  through baton pass, and will 
+  retain a Perish Song counter 
+  if it acquires this ability after 
+  Perish Song is used.
+
+  howl, roar of time, sonic boom, 
+  and yawn are not flagged as sound-based.
+
+
  Location Areas:
    Unova route 10 area
    Unova route 10 victory road gate

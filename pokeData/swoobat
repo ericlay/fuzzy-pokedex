@@ -21,4 +21,66 @@
  Base Exp: 149	Capture Rate: 45
  Height:    9	Weight: 105
 
+ Types:
+   Psychic
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Unaware:
+
+    This Pokémon ignores other 
+  Pokémon's stat modifiers for 
+  the purposes of damage and accuracy 
+  calculation.
+
+  Effectively, this affects modifiers 
+  of every stat except Speed.
+
+  The power of punishment and 
+  stored power is calculated as 
+  usual. When this Pokémon hurts 
+  itself in confusion, its stat 
+  modifiers affect damage as usual.
+
+  Klutz:
+
+    In battle, this Pokémon cannot 
+  use its held item, nor will the 
+  item have any passive effect 
+  on the battle, positive or negative. 
+  This Pokémon also cannot use 
+  fling.
+
+  The Speed cut from the iron 
+  ball and the effort items (the 
+  macho brace, power weight, power 
+  bracer, power belt, power lens, 
+  power band, and power anklet) 
+  is unaffected. Items that do 
+  not directly affect the battle, 
+  such as the exp share, the amulet 
+  coin, or the soothe bell, work 
+  as usual. All held items work 
+  as usual out of battle.
+
+  Other moves that use the held 
+  item, such as natural gift and 
+  switcheroo, work as usual.
+
+  Simple:
+
+    Each stage of this Pokémon's 
+  stat modifiers acts as two stages. 
+  These doubled stages are still 
+  limited to a minimum of -6 and 
+  a maximum of 6.
+
+  This Pokémon can still accumulate 
+  less than -3 or more than 3 stages 
+  of stat modifiers, even though 
+  the extra ones have no effect 
+  after doubling.
+
+
  Location Areas:

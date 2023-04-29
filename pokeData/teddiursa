@@ -5,8 +5,7 @@
   mark glows.  It always licks 
   its paws because they are soaked 
   with honey. 
-	   Evolution Chain
-  Teddiursa ► Ursaring ► Ursaluna
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         60
@@ -20,6 +19,62 @@
  Happiness: 70	Pokedex ID: 216
  Base Exp: 66	Capture Rate: 120
  Height:    6	Weight: 88
+
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Pickup:
+
+    At the end of each turn, if 
+  another Pokémon consumed or Flung 
+  a held item that turn, this Pokémon 
+  picks up the item if it is not 
+  already holding one. After each 
+  battle, this Pokémon has a 10% 
+  chance of picking up an item 
+  if it is not already holding 
+  one.
+
+  The air balloon and eject button 
+  cannot be picked up.
+
+  The items that may be found 
+  vary by game, and, since Pokémon 
+  Emerald, by the Pokémon's level. 
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
+  Quick-feet:
+
+    Whenever this Pokémon has a 
+  major status ailment, it has 
+  1.5× its Speed. This Pokémon 
+  is not affected by the usual 
+  Speed cut from paralysis.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved.
+
+  Honey-gather:
+
+    This Pokémon has a chance of 
+  picking up honey after each battle. 
+  This chance starts at 5% and 
+  rises another 5% after every 
+  tenth level: 5% from level 1–10, 
+  10% from 11–20, and so on, up 
+  to 50% from 91–100.
+
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
 
  Location Areas:
    Lake acuity area

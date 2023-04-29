@@ -4,7 +4,7 @@
 POKEMON="$1"
 
 ### Set temp files to hold raw data
-DATADIR="/kusr/share/fuzzy-pokedex/pokeData"
+DATADIR="/home/ez/Git/fuzzy-pokedex/pokeData"
 
 ### GET various pokeAPI endpoint URLs
 endpoint_POKEMON="$(curl -s "https://pokeapi.co/api/v2/pokemon/$POKEMON")"
@@ -24,6 +24,7 @@ FLAVOR="$(tr -d '\"' < <(sed -e 's/\\./ /g' -e 's/\./& /g' -e 's/.\{28\}\s/&\n  
 mapfile -t CHAIN1 < <(jq -r '.chain.species["name"]' <<< "$endpoint_CHAIN")
 mapfile -t CHAIN2 < <(jq -r '.chain.evolves_to[].species.name' <<< "$endpoint_CHAIN")
 mapfile -t CHAIN3 < <(jq -r '.chain.evolves_to[].evolves_to[].species.name' <<< "$endpoint_CHAIN")
+mapfile -t ABILITIES < <(jq -r '.abilities[].ability | [.name, .url] | @tsv' <<< "$endpoint_POKEMON")
 mapfile -t LOCATE < <(jq -r '.[].location_area["name"]' <<< "$endpoint_ENCOUNTER")
 
 ### Print formatted data
@@ -72,6 +73,20 @@ done;
 printf "\n Genus: %s" "${GENUS^}";
 printf "\n Happiness: %s\tPokedex ID: %s\n Base Exp: %s\tCapture Rate: %s\n Height:    %s\tWeight: %s\n" \
 	"$BASEHAPPY" "$ID" "$BASEX" "$CAPTURE" "$HEIGHT" "$WEIGHT";
+printf "\n Types:\n"
+for ((i=0; i<${#TYPE[@]}; i++)); do
+	TYPE_LIST_ITEM="${TYPE[i]}"
+	printf "   %s\n" "${TYPE_LIST_ITEM^}"
+done
+printf "\n%s\n\n" " ↞---------------|ABILITIES|---------------↠"
+for ((i=0; i<${#ABILITIES[@]}; i++)); do
+	ABILITY_NAME="$(awk '{print $1}' <<< "${ABILITIES[i]}")"
+	EFFECT_ENTRY="$(sed -e 's/\s\s/ /g' -e 's/^\w/  &/g' -e 's/.\{28\}\s/&\n  /g' \
+		< <(jq -r '.effect_entries[] | select(.language["name"] == "en") | .effect' \
+		< <(curl -s "$(awk '{print $2}' <<< "${ABILITIES[i]}")")))"
+	printf "  %s:\n\n" "${ABILITY_NAME^}"
+	printf "  %s\n\n" "$EFFECT_ENTRY"
+done
 printf "\n Location Areas:\n";
 for ((i=0; i<${#LOCATE[@]}; i++)); do
 	LOCATION_ITEM="$(sed 's/-/ /g' <<< "${LOCATE[i]}")";

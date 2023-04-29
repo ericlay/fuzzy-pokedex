@@ -21,4 +21,18 @@
  Base Exp: 186	Capture Rate: 45
  Height:    20	Weight: 1080
 
+ Types:
+   Bug
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Emergency-exit:
+
+    After this Pokémon is hit by 
+  a move, if that move caused this 
+  Pokémon's HP to drop below half, 
+  it switches out.
+
+
  Location Areas:

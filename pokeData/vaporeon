@@ -31,4 +31,26 @@ Stage 2 Forms:
  Base Exp: 184	Capture Rate: 45
  Height:    10	Weight: 290
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+
  Location Areas:

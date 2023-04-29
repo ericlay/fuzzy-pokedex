@@ -21,6 +21,47 @@
  Base Exp: 187	Capture Rate: 30
  Height:    20	Weight: 1286
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Leaf-guard:
+
+    This Pokémon cannot be given 
+  a major status ailment during 
+  strong sunlight.
+
+  This ability does not heal 
+  prior status ailments. rest will 
+  fail altogether with this ability 
+  in effect. yawn will immediately 
+  fail if used on this Pokémon 
+  during strong sunlight, and an 
+  already-used Yawn will fail if 
+  the weather turns to strong sunlight 
+  in the meantime.
+
+  Regenerator:
+
+    This Pokémon regains 1/3 of 
+  its maximum HP when it is switched 
+  out for another Pokémon under 
+  any circumstances other than 
+  having fainted.
+
+  This ability does not take 
+  effect when a battle ends.
+
+
  Location Areas:
    Giant chasm outside
    Unova route 13 area

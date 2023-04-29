@@ -21,6 +21,71 @@
  Base Exp: 70	Capture Rate: 190
  Height:    5	Weight: 105
 
+ Types:
+   Normal
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Sheer-force:
+
+    This Pokémon's moves with extra 
+  effects have 1.3× their power, 
+  but lose their extra effects.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, thunder shock's paralysis 
+  is an extra effect, but thunder 
+  wave's is not, nor are knock 
+  off's item removal and air cutter's 
+  increased critical hit rate.
+
+  Moves that lower the user's 
+  stats are unaffected.
+
+  Hustle:
+
+    This Pokémon's physical moves 
+  do 1.5× as much regular damage, 
+  but have 0.8× their usual accuracy.
+
+  Special moves are unaffected. 
+  Moves that do set damage, such 
+  as seismic toss, have their accuracy 
+  affected, but not their damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+
  Location Areas:
    Unova victory road outside
    Village bridge area

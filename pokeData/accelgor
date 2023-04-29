@@ -21,4 +21,47 @@
  Base Exp: 173	Capture Rate: 75
  Height:    8	Weight: 253
 
+ Types:
+   Bug
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+  Sticky-hold:
+
+    This Pokémon's hold item cannot 
+  be removed by other Pokémon.
+
+  Damaging moves that would remove 
+  this Pokémon's item can still 
+  inflict damage against this Pokémon, 
+  e.g. knock off or pluck. This 
+  Pokémon can still use moves that 
+  involve the loss of its own item, 
+  e.g. fling or trick.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the encounter 
+  rate while fishing is increased.
+
+  Unburden:
+
+    When this Pokémon uses or loses 
+  its held item, its Speed is doubled. 
+  If it gains another item or leaves 
+  battle, this bonus is lost.
+
+  This includes when the Pokémon 
+  drops its item because of knock 
+  off. This bonus does not count 
+  as a stat modifier. There is 
+  no notification when this ability 
+  takes effect.
+
+
  Location Areas:

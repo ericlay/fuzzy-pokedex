@@ -21,4 +21,23 @@
  Base Exp: 239	Capture Rate: 45
  Height:    16	Weight: 900
 
+ Types:
+   Grass
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Overgrow:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  grass-type moves inflict 1.5× 
+  as much regular damage.
+
+  Bulletproof:
+
+    Protects against bullet, ball, 
+  and bomb-based moves.
+
+
  Location Areas:

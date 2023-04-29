@@ -19,6 +19,32 @@
  Base Exp: 126	Capture Rate: 255
  Height:    11	Weight: 50
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Own-tempo:
+
+    This Pokémon cannot be confused.
+
+  If a Pokémon is confused and 
+  acquires this ability, its confusion 
+  will immediately be healed.
+
+  Tangled-feet:
+
+    When this Pokémon is confused, 
+  it has twice its evasion.
+
+  Contrary:
+
+    Whenever this Pokémon's stats 
+  would be raised, they are instead 
+  lowered by the same amount, and 
+  vice versa.
+
+
  Location Areas:
    Sinnoh route 227 area
    Sprout tower 2f

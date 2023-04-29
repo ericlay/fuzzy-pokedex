@@ -23,4 +23,23 @@
  Base Exp: 142	Capture Rate: 45
  Height:    9	Weight: 195
 
+ Types:
+   Fire
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Blaze:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  fire-type moves inflict 1.5× 
+  as much regular damage.
+
+  Speed-boost:
+
+    This Pokémon's Speed rises 
+  one stage after each turn.
+
+
  Location Areas:

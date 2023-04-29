@@ -21,4 +21,39 @@
  Base Exp: 175	Capture Rate: 45
  Height:    13	Weight: 960
 
+ Types:
+   Rock
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Tough-claws:
+
+    Strengthens moves that make 
+  contact to 1.33× their power.
+
+  Sniper:
+
+    This Pokémon inflicts triple 
+  damage with critical hits, rather 
+  than the usual double damage.
+
+  Pickpocket:
+
+    Whenever a move makes contact 
+  with this Pokémon, if it does 
+  not have a held item, it steals 
+  the attacker's held item.
+
+  This Pokémon cannot steal upon 
+  being knocked out. It can steal 
+  if the attacker has a substitute, 
+  but cannot steal when its own 
+  Substitute is hit. If a move 
+  hits multiple times, only the 
+  last hit triggers this ability. 
+  If this Pokémon is wild, it cannot 
+  steal from a trained Pokémon.
+
+
  Location Areas:

@@ -21,6 +21,51 @@
  Base Exp: 88	Capture Rate: 45
  Height:    5	Weight: 39
 
+ Types:
+   Water
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Poison-point:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  poisoned.
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Intimidate:
+
+    When this Pokémon enters battle, 
+  the opponent's Attack is lowered 
+  by one stage. In a double battle, 
+  both opponents are affected.
+
+  This ability also takes effect 
+  when acquired during a battle, 
+  but will not take effect again 
+  if lost and reobtained without 
+  leaving battle.
+
+  This ability has no effect 
+  on an opponent that has a substitute.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+
  Location Areas:
    Iron island area
    Johto route 32 area

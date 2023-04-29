@@ -21,4 +21,29 @@
  Base Exp: 166	Capture Rate: 80
  Height:    9	Weight: 190
 
+ Types:
+   Water
+   Psychic
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Dazzling:
+
+    When an opposing Pokémon attempts 
+  to use a move that targets this 
+  Pokémon or an ally, and that 
+  move has priority, it will fail.
+
+  Strong-jaw:
+
+    Strengthens biting moves to 
+  1.5× their power.
+
+  Wonder-skin:
+
+    Non-damaging moves have exactly 
+  50% base accuracy against this 
+  Pokémon.
+
+
  Location Areas:

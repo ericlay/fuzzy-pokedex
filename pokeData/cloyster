@@ -21,6 +21,35 @@
  Base Exp: 184	Capture Rate: 60
  Height:    15	Weight: 1325
 
+ Types:
+   Water
+   Ice
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Skill-link:
+
+    This Pokémon always hits five 
+  times with two-to-five-hit moves, 
+  such as icicle spear. It also 
+  bypasses the accuracy checks 
+  on triple kick's second and third 
+  hits.
+
+  Overcoat:
+
+    This Pokémon does not take 
+  damage from weather.
+
+
  Location Areas:
    Undella bay area
    Unova route 13 area

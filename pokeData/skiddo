@@ -21,5 +21,23 @@
  Base Exp: 70	Capture Rate: 200
  Height:    9	Weight: 310
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+  Grass-pelt:
+
+    Boosts Defense while grassy 
+  terrain is in effect.
+
+
  Location Areas:
    Kalos route 5 area

@@ -21,4 +21,33 @@
  Base Exp: 50	Capture Rate: 190
  Height:    3	Weight: 15
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Leaf-guard:
+
+    This Pokémon cannot be given 
+  a major status ailment during 
+  strong sunlight.
+
+  This ability does not heal 
+  prior status ailments. rest will 
+  fail altogether with this ability 
+  in effect. yawn will immediately 
+  fail if used on this Pokémon 
+  during strong sunlight, and an 
+  already-used Yawn will fail if 
+  the weather turns to strong sunlight 
+  in the meantime.
+
+  Contrary:
+
+    Whenever this Pokémon's stats 
+  would be raised, they are instead 
+  lowered by the same amount, and 
+  vice versa.
+
+
  Location Areas:

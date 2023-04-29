@@ -21,4 +21,65 @@
  Base Exp: 124	Capture Rate: 120
  Height:    6	Weight: 148
 
+ Types:
+   Normal
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Skill-link:
+
+    This Pokémon always hits five 
+  times with two-to-five-hit moves, 
+  such as icicle spear. It also 
+  bypasses the accuracy checks 
+  on triple kick's second and third 
+  hits.
+
+  Pickup:
+
+    At the end of each turn, if 
+  another Pokémon consumed or Flung 
+  a held item that turn, this Pokémon 
+  picks up the item if it is not 
+  already holding one. After each 
+  battle, this Pokémon has a 10% 
+  chance of picking up an item 
+  if it is not already holding 
+  one.
+
+  The air balloon and eject button 
+  cannot be picked up.
+
+  The items that may be found 
+  vary by game, and, since Pokémon 
+  Emerald, by the Pokémon's level. 
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
+
  Location Areas:

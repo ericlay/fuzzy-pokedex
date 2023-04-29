@@ -25,6 +25,33 @@
  Base Exp: 159	Capture Rate: 45
  Height:    7	Weight: 198
 
+ Types:
+   Normal
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Guts:
+
+    Whenever this Pokémon is asleep, 
+  burned, paralyzed, or poisoned, 
+  it has 1.5× its Attack. This 
+  Pokémon is not affected by the 
+  usual Attack cut from a burn.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Scrappy:
+
+    This Pokémon ignores ghost-type 
+  Pokémon's immunity to normal- 
+  and fighting-type moves.
+
+  Ghost Pokémon's other types 
+  affect damage as usual.
+
+
  Location Areas:
    Sinnoh route 213 area
    Hoenn route 115 area

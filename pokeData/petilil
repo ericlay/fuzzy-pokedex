@@ -1,8 +1,12 @@
 
   Petilil    Grass Type Pokémon
 
-  
-  Single Stage Evolution Pokémon
+  The leaves on its head are very 
+  bitter.  Eating one of these 
+  leaves is known to refresh a 
+  tired body. 
+	Evolution Chain
+      Petilil ► Lilligant
 
    ↞--------| STATS |--------↠ 
               hp:         45
@@ -12,10 +16,48 @@
  special-defense:         50
            speed:         30
 
- Genus: 
- Happiness: 	Pokedex ID: 548
- Base Exp: 56	Capture Rate: 
+ Genus: Bulb Pokémon
+ Happiness: 50	Pokedex ID: 548
+ Base Exp: 56	Capture Rate: 190
  Height:    5	Weight: 66
+
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Own-tempo:
+
+    This Pokémon cannot be confused.
+
+  If a Pokémon is confused and 
+  acquires this ability, its confusion 
+  will immediately be healed.
+
+  Leaf-guard:
+
+    This Pokémon cannot be given 
+  a major status ailment during 
+  strong sunlight.
+
+  This ability does not heal 
+  prior status ailments. rest will 
+  fail altogether with this ability 
+  in effect. yawn will immediately 
+  fail if used on this Pokémon 
+  during strong sunlight, and an 
+  already-used Yawn will fail if 
+  the weather turns to strong sunlight 
+  in the meantime.
+
 
  Location Areas:
    Pinwheel forest inside

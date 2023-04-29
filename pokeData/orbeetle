@@ -22,4 +22,42 @@
  Base Exp: 253	Capture Rate: 45
  Height:    4	Weight: 408
 
+ Types:
+   Bug
+   Psychic
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Frisk:
+
+    When this Pokémon enters battle, 
+  it reveals an opposing Pokémon's 
+  held item to all participating 
+  trainers.
+
+  In a double battle, if one 
+  opponent has an item, this Pokémon 
+  will Frisk that Pokémon; if both 
+  have an item, it will Frisk one 
+  at random.
+
+  Telepathy:
+
+    This Pokémon does not take 
+  damage from friendly Pokémon's 
+  moves, including single-target 
+  moves aimed at it.
+
+
  Location Areas:

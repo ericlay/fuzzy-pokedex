@@ -20,6 +20,42 @@
  Base Exp: 66	Capture Rate: 140
  Height:    8	Weight: 495
 
+ Types:
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sand-stream:
+
+    The weather changes to a sandstorm 
+  when this Pokémon enters battle 
+  and does not end unless cancelled 
+  by another weather condition.
+
+  If multiple Pokémon with this 
+  ability, drizzle, drought, or 
+  snow warning are sent out at 
+  the same time, the abilities 
+  will activate in order of Speed, 
+  respecting trick room. Each ability's 
+  weather will cancel the previous 
+  weather, and only the weather 
+  summoned by the slowest of the 
+  Pokémon will stay.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved in a sandstorm.
+
+  Sand-force:
+
+    During a sandstorm, this Pokémon's 
+  rock-, ground-, and steel-type 
+  moves have 1.3× their base power. 
+  This Pokémon does not take sandstorm 
+  damage, regardless of type.
+
+
  Location Areas:
    Ruin maniac cave 0 9 different unown caught
    Ruin maniac cave 10 25 different unown caught

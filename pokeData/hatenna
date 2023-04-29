@@ -22,4 +22,53 @@
  Base Exp: 53	Capture Rate: 235
  Height:    4	Weight: 34
 
+ Types:
+   Psychic
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Healer:
+
+    Friendly Pokémon next to this 
+  Pokémon in double and triple 
+  battles each have a 30% chance 
+  of being cured of any major status 
+  ailment after each turn.
+
+  Anticipation:
+
+    When this Pokémon enters battle, 
+  if one of its opponents has a 
+  move that is super effective 
+  against it, self destruct, explosion, 
+  or a one-hit knockout move, all 
+  participating trainers are notified.
+
+  The move itself is not revealed; 
+  only that there is such a move. 
+  Moves that inflict typeless damage, 
+  such as future sight, and moves 
+  of variable type, such as hidden 
+  power, count as their listed 
+  types. counter, metal burst, 
+  mirror coat, and one-hit KO moves 
+  to which this Pokémon is immune 
+  do not trigger this ability.
+
+  Magic-bounce:
+
+    When this Pokémon is targeted 
+  by a move flagged as being reflectable, 
+  the move is redirected to its 
+  user.
+
+  All reflectable moves are non-damaging, 
+  and most non-damaging moves that 
+  target other Pokémon are reflectable.
+
+  A move reflected by this ability 
+  or magic coat cannot be reflected 
+  back.
+
+
  Location Areas:

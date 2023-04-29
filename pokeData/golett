@@ -21,6 +21,63 @@
  Base Exp: 61	Capture Rate: 190
  Height:    10	Weight: 920
 
+ Types:
+   Ground
+   Ghost
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Iron-fist:
+
+    Moves flagged as being punch-based 
+  have 1.2× their base power for 
+  this Pokémon.
+
+  sucker punch is not flagged 
+  as punch-based; its original, 
+  Japanese name only means "surprise 
+  attack".
+
+  Klutz:
+
+    In battle, this Pokémon cannot 
+  use its held item, nor will the 
+  item have any passive effect 
+  on the battle, positive or negative. 
+  This Pokémon also cannot use 
+  fling.
+
+  The Speed cut from the iron 
+  ball and the effort items (the 
+  macho brace, power weight, power 
+  bracer, power belt, power lens, 
+  power band, and power anklet) 
+  is unaffected. Items that do 
+  not directly affect the battle, 
+  such as the exp share, the amulet 
+  coin, or the soothe bell, work 
+  as usual. All held items work 
+  as usual out of battle.
+
+  Other moves that use the held 
+  item, such as natural gift and 
+  switcheroo, work as usual.
+
+  No-guard:
+
+    Moves used by or against this 
+  Pokémon never miss.
+
+  One-hit KO moves are unaffected. 
+  Moves affected by this ability 
+  can hit Pokémon during the preparation 
+  turn of moves like dig or fly.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is doubled.
+
+
  Location Areas:
    Dragonspiral tower 1f
    Dragonspiral tower 2f

@@ -21,4 +21,26 @@
  Base Exp: 62	Capture Rate: 120
  Height:    1	Weight: 2
 
+ Types:
+   Ghost
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Weak-armor:
+
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
+
+  This ability triggers on every 
+  hit of a multiple-hit move.
+
+  Cursed-body:
+
+    Moves that hit this Pokémon 
+  have a 30% chance of being Disabled 
+  afterward.
+
+
  Location Areas:

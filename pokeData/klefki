@@ -19,6 +19,25 @@
  Base Exp: 165	Capture Rate: 75
  Height:    2	Weight: 30
 
+ Types:
+   Steel
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Prankster:
+
+    This Pokémon's non-damaging 
+  moves have their priority increased 
+  by one stage.
+
+  Magician:
+
+    Steals the target's held item 
+  when the bearer uses a damaging 
+  move.
+
+
  Location Areas:
    Kalos route 15 area
    Kalos route 16 area

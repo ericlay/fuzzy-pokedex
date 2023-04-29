@@ -24,6 +24,52 @@
  Base Exp: 75	Capture Rate: 255
  Height:    10	Weight: 970
 
+ Types:
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sturdy:
+
+    When this Pokémon is at full 
+  HP, any hit that would knock 
+  it out will instead leave it 
+  with 1 HP. Regardless of its 
+  current HP, it is also immune 
+  to the one-hit KO moves: fissure, 
+  guillotine, horn drill, and sheer 
+  cold.
+
+  If this Pokémon is holding 
+  a focus sash, this ability takes 
+  precedence and the item will 
+  not be consumed.
+
+  Magnet-pull:
+
+    While this Pokémon is in battle, 
+  opposing steel-type Pokémon cannot 
+  flee or switch out.
+
+  Pokémon with run away can still 
+  flee. Pokémon can still switch 
+  out with the use of a move or 
+  item.
+
+  Overworld: If the lead Pokémon 
+  has this ability, Steel-type 
+  Pokémon have a higher encounter 
+  rate.
+
+  Sand-force:
+
+    During a sandstorm, this Pokémon's 
+  rock-, ground-, and steel-type 
+  moves have 1.3× their base power. 
+  This Pokémon does not take sandstorm 
+  damage, regardless of type.
+
+
  Location Areas:
    Mt coronet 1f route 207
    Mt coronet 2f

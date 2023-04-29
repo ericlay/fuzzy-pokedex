@@ -21,4 +21,34 @@
  Base Exp: 63	Capture Rate: 255
  Height:    22	Weight: 76
 
+ Types:
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sand-spit:
+
+  
+
+  Shed-skin:
+
+    After each turn, this Pokémon 
+  has a 33% of being cured of any 
+  major status ailment.
+
+  Sand-veil:
+
+    During a sandstorm, this Pokémon 
+  has 1.25× its evasion, and it 
+  does not take sandstorm damage 
+  regardless of type.
+
+  The evasion bonus does not 
+  count as a stat modifier.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved in a sandstorm.
+
+
  Location Areas:

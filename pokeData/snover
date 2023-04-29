@@ -21,6 +21,48 @@
  Base Exp: 67	Capture Rate: 120
  Height:    10	Weight: 505
 
+ Types:
+   Grass
+   Ice
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Snow-warning:
+
+    The weather changes to hail 
+  when this Pokémon enters battle 
+  and does not end unless cancelled 
+  by another weather condition.
+
+  If multiple Pokémon with this 
+  ability, drizzle, drought, or 
+  sand stream are sent out at the 
+  same time, the abilities will 
+  activate in order of Speed, respecting 
+  trick room. Each ability's weather 
+  will cancel the previous weather, 
+  and only the weather summoned 
+  by the slowest of the Pokémon 
+  will stay.
+
+  Soundproof:
+
+    This Pokémon is immune to moves 
+  flagged as being sound-based.
+
+  heal bell is unaffected. uproar 
+  still prevents this Pokémon from 
+  sleeping. This Pokémon can still 
+  receive a Perish Song counter 
+  through baton pass, and will 
+  retain a Perish Song counter 
+  if it acquires this ability after 
+  Perish Song is used.
+
+  howl, roar of time, sonic boom, 
+  and yawn are not flagged as sound-based.
+
+
  Location Areas:
    Mt coronet exterior snowfall
    Mt coronet exterior blizzard

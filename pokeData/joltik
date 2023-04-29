@@ -21,6 +21,51 @@
  Base Exp: 64	Capture Rate: 190
  Height:    1	Weight: 6
 
+ Types:
+   Bug
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Compound-eyes:
+
+    This Pokémon's moves have 1.3× 
+  their accuracy.
+
+  This ability has no effect 
+  on the one-hit KO moves (fissure, 
+  guillotine, horn drill, and sheer 
+  cold).
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  the chance of a wild Pokémon 
+  holding a particular item is 
+  raised from 50%, 5%, or 1% to 
+  60%, 20%, or 5%, respectively.
+
+  Unnerve:
+
+    Opposing Pokémon cannot eat 
+  held Berries while this Pokémon 
+  is in battle.
+
+  Affected Pokémon can still 
+  use bug bite or pluck to eat 
+  a target's Berry.
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+
  Location Areas:
    Chargestone cave 1f
    Chargestone cave b1f

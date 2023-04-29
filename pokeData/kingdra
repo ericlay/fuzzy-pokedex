@@ -21,6 +21,34 @@
  Base Exp: 270	Capture Rate: 45
  Height:    18	Weight: 1520
 
+ Types:
+   Water
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Sniper:
+
+    This Pokémon inflicts triple 
+  damage with critical hits, rather 
+  than the usual double damage.
+
+  Damp:
+
+    While this Pokémon is in battle, 
+  self destruct and explosion will 
+  fail and aftermath will not take 
+  effect.
+
+
  Location Areas:
    P2 laboratory area
    Unova route 18 area

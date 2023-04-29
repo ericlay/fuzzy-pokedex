@@ -20,6 +20,46 @@
  Base Exp: 88	Capture Rate: 45
  Height:    12	Weight: 580
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Own-tempo:
+
+    This Pokémon cannot be confused.
+
+  If a Pokémon is confused and 
+  acquires this ability, its confusion 
+  will immediately be healed.
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
+  Moody:
+
+    After each turn, one of this 
+  Pokémon's stats at random rises 
+  two stages, and another falls 
+  one stage.
+
+  If a stat is already at 6 or 
+  -6 stages, it will not be chosen 
+  to be increased or decreased, 
+  respectively.
+
+
  Location Areas:
    Sinnoh route 208 area
    Sinnoh route 212 north towards hearthome city

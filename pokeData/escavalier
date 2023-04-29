@@ -21,4 +21,35 @@
  Base Exp: 173	Capture Rate: 75
  Height:    10	Weight: 330
 
+ Types:
+   Bug
+   Steel
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Overcoat:
+
+    This Pokémon does not take 
+  damage from weather.
+
+
  Location Areas:

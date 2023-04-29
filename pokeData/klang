@@ -21,5 +21,49 @@
  Base Exp: 154	Capture Rate: 60
  Height:    6	Weight: 510
 
+ Types:
+   Steel
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Plus:
+
+    This Pokémon has 1.5× its Special 
+  Attack if any friendly Pokémon 
+  has plus or minus.
+
+  This bonus does not count as 
+  a stat modifier. If either ability 
+  is disabled by gastro acid, both 
+  lose their effect.
+
+  Minus:
+
+    This Pokémon has 1.5× its Special 
+  Attack if any friendly Pokémon 
+  has plus or minus.
+
+  This bonus does not count as 
+  a stat modifier. If either ability 
+  is disabled by gastro acid, both 
+  lose their effect.
+
+  Clear-body:
+
+    This Pokémon cannot have its 
+  stats lowered by other Pokémon.
+
+  This ability does not prevent 
+  any stat losses other than stat 
+  modifiers, such as the Speed 
+  cut from paralysis. This Pokémon 
+  can still be passed negative 
+  stat modifiers through guard 
+  swap, heart swap, or power swap.
+
+  This ability functions identically 
+  to white smoke in battle.
+
+
  Location Areas:
    P2 laboratory area

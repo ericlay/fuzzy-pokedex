@@ -21,6 +21,32 @@
  Base Exp: 168	Capture Rate: 75
  Height:    7	Weight: 66
 
+ Types:
+   Grass
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Prankster:
+
+    This Pokémon's non-damaging 
+  moves have their priority increased 
+  by one stage.
+
+  Infiltrator:
+
+    This Pokémon's moves ignore 
+  light screen, reflect, and safeguard.
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+
  Location Areas:
    Pinwheel forest inside
    Abundant shrine area

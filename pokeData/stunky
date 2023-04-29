@@ -21,6 +21,57 @@
  Base Exp: 66	Capture Rate: 225
  Height:    4	Weight: 192
 
+ Types:
+   Poison
+   Dark
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Stench:
+
+    This Pokémon's damaging moves 
+  have a 10% chance to make the 
+  target flinch with each hit if 
+  they do not already cause flinching 
+  as a secondary effect.
+
+  This ability does not stack 
+  with a held item.
+
+  Overworld: The wild encounter 
+  rate is halved while this Pokémon 
+  is first in the party.
+
+  Aftermath:
+
+    When this Pokémon is knocked 
+  out by a move that makes contact, 
+  the move's user takes 1/4 its 
+  maximum HP in damage.
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+
  Location Areas:
    Sinnoh route 206 area
    Sinnoh route 214 area

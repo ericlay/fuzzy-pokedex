@@ -20,6 +20,51 @@
  Base Exp: 175	Capture Rate: 45
  Height:    15	Weight: 540
 
+ Types:
+   Bug
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Guts:
+
+    Whenever this Pokémon is asleep, 
+  burned, paralyzed, or poisoned, 
+  it has 1.5× its Attack. This 
+  Pokémon is not affected by the 
+  usual Attack cut from a burn.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Moxie:
+
+    This Pokémon's Attack rises 
+  one stage upon knocking out another 
+  Pokémon, even a friendly Pokémon.
+
+  This ability does not take 
+  effect when the Pokémon indirectly 
+  causes another Pokémon to faint, 
+  e.g. through poison or spikes.
+
+  If this Pokémon knocks out 
+  a Pokémon with mummy, the former's 
+  ability will change without taking 
+  effect.
+
+
  Location Areas:
    Johto route 29 area
    Johto route 30 area

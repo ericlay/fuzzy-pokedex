@@ -20,6 +20,51 @@
  Base Exp: 47	Capture Rate: 255
  Height:    4	Weight: 50
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Pickup:
+
+    At the end of each turn, if 
+  another Pokémon consumed or Flung 
+  a held item that turn, this Pokémon 
+  picks up the item if it is not 
+  already holding one. After each 
+  battle, this Pokémon has a 10% 
+  chance of picking up an item 
+  if it is not already holding 
+  one.
+
+  The air balloon and eject button 
+  cannot be picked up.
+
+  The items that may be found 
+  vary by game, and, since Pokémon 
+  Emerald, by the Pokémon's level. 
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
+  Cheek-pouch:
+
+    Restores HP upon eating a Berry, 
+  in addition to the Berry's effect.
+
+  Huge-power:
+
+    This Pokémon's Attack is doubled 
+  while in battle.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  This ability functions identically 
+  to pure power.
+
+
  Location Areas:
    Kalos route 2 area
    Kalos route 3 area

@@ -21,6 +21,28 @@
  Base Exp: 160	Capture Rate: 90
  Height:    13	Weight: 403
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Immunity:
+
+    This Pokémon cannot be poisoned. 
+  This includes bad poison.
+
+  If a Pokémon is poisoned and 
+  acquires this ability, its poison 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+  Toxic-boost:
+
+    This Pokémon has 1.5× its Attack 
+  when poisoned.
+
+
  Location Areas:
    Sinnoh route 208 area
    Sinnoh route 210 west towards celestic town

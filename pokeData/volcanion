@@ -20,4 +20,21 @@
  Base Exp: 300	Capture Rate: 3
  Height:    17	Weight: 1950
 
+ Types:
+   Fire
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+
  Location Areas:

@@ -21,6 +21,83 @@
  Base Exp: 242	Capture Rate: 25
  Height:    13	Weight: 400
 
+ Types:
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Cute-charm:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  infatuated.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any wild Pokémon whose species 
+  can be either gender has a 2/3 
+  chance of being set to the opposite 
+  gender, and a 1/3 chance of having 
+  a random gender as usual.
+
+  Magic-guard:
+
+    This Pokémon is immune to damage 
+  not directly caused by a move.
+
+  For example, this Pokémon takes 
+  no damage from from weather, 
+  recoil, status ailments, or spikes, 
+  but it still suffers from the 
+  Attack cut when burned, and a 
+  life orb will still power up 
+  this Pokémon's moves without 
+  damaging it. Anything that directly 
+  depends on such damage will also 
+  not happen; for example, leech 
+  seed will neither hurt this Pokémon 
+  nor heal the opponent, and Pokémon 
+  with a jaboca berry or rowap 
+  berry will not consume the berry 
+  when hit by this Pokémon.
+
+  The following are unaffected: 
+  struggle, pain split (whether 
+  used by or against this Pokémon), 
+  belly drum, substitute, curse, 
+  moves that knock the user out, 
+  and damage from confusion.
+
+  This Pokémon will neither lose 
+  nor regain HP if it drains HP 
+  from a Pokémon with liquid ooze.
+
+  If this Pokémon is badly poisoned, 
+  the poison counter is still increased 
+  each turn; if the Pokémon loses 
+  this ability, it will begin taking 
+  as much damage as it would be 
+  if it had been taking increasing 
+  damage each turn.
+
+  Unaware:
+
+    This Pokémon ignores other 
+  Pokémon's stat modifiers for 
+  the purposes of damage and accuracy 
+  calculation.
+
+  Effectively, this affects modifiers 
+  of every stat except Speed.
+
+  The power of punishment and 
+  stored power is calculated as 
+  usual. When this Pokémon hurts 
+  itself in confusion, its stat 
+  modifiers affect damage as usual.
+
+
  Location Areas:
    Giant chasm outside
    Giant chasm forest

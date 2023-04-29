@@ -21,6 +21,31 @@
  Base Exp: 61	Capture Rate: 200
  Height:    4	Weight: 77
 
+ Types:
+   Bug
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Overcoat:
+
+    This Pokémon does not take 
+  damage from weather.
+
+
  Location Areas:
    Icirrus city area
    Unova route 6 area

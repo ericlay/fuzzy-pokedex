@@ -23,6 +23,28 @@
  Base Exp: 161	Capture Rate: 60
  Height:    18	Weight: 888
 
+ Types:
+   Water
+   Dark
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Rough-skin:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user takes 1/8 of its maximum 
+  HP in damage.
+
+  This ability functions identically 
+  to iron barbs.
+
+  Speed-boost:
+
+    This Pokémon's Speed rises 
+  one stage after each turn.
+
+
  Location Areas:
    Sinnoh route 213 area
    Sinnoh route 222 area

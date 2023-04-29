@@ -21,6 +21,52 @@
  Base Exp: 149	Capture Rate: 50
  Height:    7	Weight: 333
 
+ Types:
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sand-veil:
+
+    During a sandstorm, this Pokémon 
+  has 1.25× its evasion, and it 
+  does not take sandstorm damage 
+  regardless of type.
+
+  The evasion bonus does not 
+  count as a stat modifier.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved in a sandstorm.
+
+  Arena-trap:
+
+    While this Pokémon is in battle, 
+  opposing Pokémon cannot flee 
+  or switch out. flying-type Pokémon 
+  and Pokémon in the air, e.g. 
+  due to levitate or magnet rise, 
+  are unaffected.
+
+  Pokémon with run away can still 
+  flee. Pokémon can still switch 
+  out with the use of a move or 
+  item.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is doubled.
+
+  Sand-force:
+
+    During a sandstorm, this Pokémon's 
+  rock-, ground-, and steel-type 
+  moves have 1.3× their base power. 
+  This Pokémon does not take sandstorm 
+  damage, regardless of type.
+
+
  Location Areas:
    Sinnoh route 228 area
    Digletts cave area

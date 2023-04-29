@@ -21,6 +21,27 @@
  Base Exp: 57	Capture Rate: 75
  Height:    7	Weight: 202
 
+ Types:
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Steadfast:
+
+    Whenever this Pokémon flinches, 
+  its Speed rises one stage.
+
+  Inner-focus:
+
+    This Pokémon cannot flinch.
+
+  Prankster:
+
+    This Pokémon's non-damaging 
+  moves have their priority increased 
+  by one stage.
+
+
  Location Areas:
    Iron island b2f left
    Challengers cave b1f

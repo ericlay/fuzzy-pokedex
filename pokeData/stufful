@@ -22,4 +22,57 @@
  Base Exp: 68	Capture Rate: 140
  Height:    5	Weight: 68
 
+ Types:
+   Normal
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Fluffy:
+
+    Damage from contact moves is 
+  halved. Damage from Fire moves 
+  is doubled.
+
+  Klutz:
+
+    In battle, this Pokémon cannot 
+  use its held item, nor will the 
+  item have any passive effect 
+  on the battle, positive or negative. 
+  This Pokémon also cannot use 
+  fling.
+
+  The Speed cut from the iron 
+  ball and the effort items (the 
+  macho brace, power weight, power 
+  bracer, power belt, power lens, 
+  power band, and power anklet) 
+  is unaffected. Items that do 
+  not directly affect the battle, 
+  such as the exp share, the amulet 
+  coin, or the soothe bell, work 
+  as usual. All held items work 
+  as usual out of battle.
+
+  Other moves that use the held 
+  item, such as natural gift and 
+  switcheroo, work as usual.
+
+  Cute-charm:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  infatuated.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any wild Pokémon whose species 
+  can be either gender has a 2/3 
+  chance of being set to the opposite 
+  gender, and a 1/3 chance of having 
+  a random gender as usual.
+
+
  Location Areas:

@@ -23,6 +23,65 @@
  Base Exp: 133	Capture Rate: 45
  Height:    5	Weight: 110
 
+ Types:
+   Dark
+   Ghost
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Stall:
+
+    This Pokémon moves last within 
+  its priority bracket.
+
+  Multiple Pokémon with this 
+  ability move in order of Speed 
+  amongst themselves.
+
+  The full incense and lagging 
+  tail take precedence over this 
+  ability; that is, Pokémon with 
+  these items move after Pokémon 
+  with this ability. Pokémon with 
+  both this ability and one of 
+  these items are delayed as much 
+  as if they had only the item.
+
+  This ability works as usual 
+  during trick room: Pokémon with 
+  this ability will move in reverse 
+  order of Speed after Pokémon 
+  without it.
+
+  Prankster:
+
+    This Pokémon's non-damaging 
+  moves have their priority increased 
+  by one stage.
+
+
  Location Areas:
    Iron island b1f left
    Iron island b1f right

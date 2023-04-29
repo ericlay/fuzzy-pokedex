@@ -20,6 +20,60 @@
  Base Exp: 116	Capture Rate: 45
  Height:    9	Weight: 160
 
+ Types:
+   Ice
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Vital-spirit:
+
+    This Pokémon cannot be asleep.
+
+  This causes rest to fail altogether. 
+  If a Pokémon is asleep and acquires 
+  this ability, it will immediately 
+  wake up; this includes when regaining 
+  a lost ability upon leaving battle.
+
+  This ability functions identically 
+  to insomnia in battle.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+  Hustle:
+
+    This Pokémon's physical moves 
+  do 1.5× as much regular damage, 
+  but have 0.8× their usual accuracy.
+
+  Special moves are unaffected. 
+  Moves that do set damage, such 
+  as seismic toss, have their accuracy 
+  affected, but not their damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+  Insomnia:
+
+    This Pokémon cannot be asleep.
+
+  This causes rest to fail altogether. 
+  If a Pokémon is asleep and acquires 
+  this ability, it will immediately 
+  wake up; this includes when regaining 
+  a lost ability upon leaving battle.
+
+  This ability functions identically 
+  to vital spirit in battle.
+
+
  Location Areas:
    Sinnoh route 216 area
    Sinnoh route 217 area

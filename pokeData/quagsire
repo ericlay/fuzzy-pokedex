@@ -25,6 +25,46 @@ Stage 2 Forms:
  Base Exp: 151	Capture Rate: 90
  Height:    14	Weight: 750
 
+ Types:
+   Water
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Damp:
+
+    While this Pokémon is in battle, 
+  self destruct and explosion will 
+  fail and aftermath will not take 
+  effect.
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+  Unaware:
+
+    This Pokémon ignores other 
+  Pokémon's stat modifiers for 
+  the purposes of damage and accuracy 
+  calculation.
+
+  Effectively, this affects modifiers 
+  of every stat except Speed.
+
+  The power of punishment and 
+  stored power is calculated as 
+  usual. When this Pokémon hurts 
+  itself in confusion, its stat 
+  modifiers affect damage as usual.
+
+
  Location Areas:
    Great marsh area 1
    Great marsh area 2

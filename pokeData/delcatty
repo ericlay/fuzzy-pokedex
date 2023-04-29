@@ -24,5 +24,53 @@
  Base Exp: 140	Capture Rate: 60
  Height:    11	Weight: 326
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Cute-charm:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  infatuated.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any wild Pokémon whose species 
+  can be either gender has a 2/3 
+  chance of being set to the opposite 
+  gender, and a 1/3 chance of having 
+  a random gender as usual.
+
+  Normalize:
+
+    This Pokémon's moves all act 
+  as if they were normal-type.
+
+  Moves that inflict typeless 
+  damage do so as usual. Moves 
+  of variable type, such as hidden 
+  power, are affected. They otherwise 
+  work as usual, however; weather 
+  ball, for example, is always 
+  forced to be Normal, but it still 
+  has doubled power and looks different 
+  during weather.
+
+  As thunder wave is prevented 
+  by immunities, unlike most non-damaging 
+  moves, it does not affect ghost-type 
+  Pokémon under the effect of this 
+  ability.
+
+  Wonder-skin:
+
+    Non-damaging moves have exactly 
+  50% base accuracy against this 
+  Pokémon.
+
+
  Location Areas:
    Castelia city area

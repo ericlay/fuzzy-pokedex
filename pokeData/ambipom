@@ -20,4 +20,56 @@
  Base Exp: 169	Capture Rate: 45
  Height:    12	Weight: 203
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
+  Pickup:
+
+    At the end of each turn, if 
+  another Pokémon consumed or Flung 
+  a held item that turn, this Pokémon 
+  picks up the item if it is not 
+  already holding one. After each 
+  battle, this Pokémon has a 10% 
+  chance of picking up an item 
+  if it is not already holding 
+  one.
+
+  The air balloon and eject button 
+  cannot be picked up.
+
+  The items that may be found 
+  vary by game, and, since Pokémon 
+  Emerald, by the Pokémon's level. 
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
+  Skill-link:
+
+    This Pokémon always hits five 
+  times with two-to-five-hit moves, 
+  such as icicle spear. It also 
+  bypasses the accuracy checks 
+  on triple kick's second and third 
+  hits.
+
+
  Location Areas:

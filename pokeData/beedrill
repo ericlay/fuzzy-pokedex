@@ -21,19 +21,28 @@
  Base Exp: 178	Capture Rate: 45
  Height:    10	Weight: 295
 
+ Types:
+   Bug
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Sniper:
+
+    This Pokémon inflicts triple 
+  damage with critical hits, rather 
+  than the usual double damage.
+
+
  Location Areas:
-   Ilex forest area
-   Johto route 34 area
-   Johto route 35 area
-   Johto route 36 area
-   Johto route 37 area
-   Johto route 38 area
-   Johto route 39 area
-   Lake of rage area
-   Kanto route 26 area
-   Kanto route 27 area
-   Kanto route 2 south towards viridian city
-   Kanto route 2 north towards pewter city
-   Viridian forest area
-   Unova route 12 area
-   Azalea town area

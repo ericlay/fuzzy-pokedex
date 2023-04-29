@@ -21,6 +21,37 @@
  Base Exp: 64	Capture Rate: 190
  Height:    8	Weight: 196
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Damp:
+
+    While this Pokémon is in battle, 
+  self destruct and explosion will 
+  fail and aftermath will not take 
+  effect.
+
+  Cloud-nine:
+
+    While this Pokémon is in battle, 
+  weather can still be in play, 
+  but will not have any of its 
+  effects.
+
+  This ability functions identically 
+  to air lock.
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+
  Location Areas:
    Eterna city area
    Great marsh area 1

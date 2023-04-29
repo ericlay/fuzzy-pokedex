@@ -28,4 +28,47 @@ Stage 2 Forms:
  Base Exp: 	Capture Rate: 
  Height:    18	Weight: 890
 
+ Types:
+   Bug
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Sheer-force:
+
+    This Pokémon's moves with extra 
+  effects have 1.3× their power, 
+  but lose their extra effects.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, thunder shock's paralysis 
+  is an extra effect, but thunder 
+  wave's is not, nor are knock 
+  off's item removal and air cutter's 
+  increased critical hit rate.
+
+  Moves that lower the user's 
+  stats are unaffected.
+
+  Steadfast:
+
+    Whenever this Pokémon flinches, 
+  its Speed rises one stage.
+
+
  Location Areas:

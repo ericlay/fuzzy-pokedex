@@ -20,6 +20,47 @@
  Base Exp: 65	Capture Rate: 190
  Height:    3	Weight: 145
 
+ Types:
+   Bug
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sturdy:
+
+    When this Pokémon is at full 
+  HP, any hit that would knock 
+  it out will instead leave it 
+  with 1 HP. Regardless of its 
+  current HP, it is also immune 
+  to the one-hit KO moves: fissure, 
+  guillotine, horn drill, and sheer 
+  cold.
+
+  If this Pokémon is holding 
+  a focus sash, this ability takes 
+  precedence and the item will 
+  not be consumed.
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Weak-armor:
+
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
+
+  This ability triggers on every 
+  hit of a multiple-hit move.
+
+
  Location Areas:
    Desert resort entrance
    Desert resort area

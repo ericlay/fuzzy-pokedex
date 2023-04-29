@@ -21,6 +21,29 @@
  Base Exp: 60	Capture Rate: 45
  Height:    8	Weight: 173
 
+ Types:
+   Dark
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Hustle:
+
+    This Pokémon's physical moves 
+  do 1.5× as much regular damage, 
+  but have 0.8× their usual accuracy.
+
+  Special moves are unaffected. 
+  Moves that do set damage, such 
+  as seismic toss, have their accuracy 
+  affected, but not their damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+
  Location Areas:
    Unova victory road unknown area 53
    Unova victory road unknown area 58

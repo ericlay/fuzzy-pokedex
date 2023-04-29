@@ -20,6 +20,53 @@
  Base Exp: 161	Capture Rate: 45
  Height:    13	Weight: 545
 
+ Types:
+   Psychic
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Soundproof:
+
+    This Pokémon is immune to moves 
+  flagged as being sound-based.
+
+  heal bell is unaffected. uproar 
+  still prevents this Pokémon from 
+  sleeping. This Pokémon can still 
+  receive a Perish Song counter 
+  through baton pass, and will 
+  retain a Perish Song counter 
+  if it acquires this ability after 
+  Perish Song is used.
+
+  howl, roar of time, sonic boom, 
+  and yawn are not flagged as sound-based.
+
+  Filter:
+
+    This Pokémon takes 0.75× as 
+  much damage from moves that are 
+  super effective against it.
+
+  This ability functions identically 
+  to solid rock.
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
+
  Location Areas:
    Sinnoh route 218 area
    Sinnoh route 222 area

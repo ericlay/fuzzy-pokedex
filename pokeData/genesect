@@ -1,10 +1,7 @@
 
   Genesect    Bug Type Pokémon
 
-  Over 300 million years ago, 
-  it was feared as the strongest 
-  of hunters.  It has been modified 
-  by Team Plasma. 
+  
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
@@ -15,9 +12,29 @@
  special-defense:         95
            speed:         99
 
- Genus: Paleozoic Pokémon
- Happiness: 0	Pokedex ID: 649
- Base Exp: 300	Capture Rate: 3
+ Genus: 
+ Happiness: 	Pokedex ID: 649
+ Base Exp: 300	Capture Rate: 
  Height:    15	Weight: 825
+
+ Types:
+   Bug
+   Steel
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Download:
+
+    When this Pokémon enters battle, 
+  its Attack or Special Attack, 
+  whichever corresponds to its 
+  opponents' weaker total defensive 
+  stat, rises one stage. In the 
+  event of a tie, Special Attack 
+  is raised.
+
+  This ability also takes effect 
+  when acquired during a battle.
+
 
  Location Areas:

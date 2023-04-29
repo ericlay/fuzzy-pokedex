@@ -21,4 +21,52 @@
  Base Exp: 144	Capture Rate: 120
  Height:    11	Weight: 780
 
+ Types:
+   Rock
+   Fire
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Steam-engine:
+
+  
+
+  Flame-body:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  burned.
+
+  Overworld: If any Pokémon in 
+  the party has this ability, each 
+  egg in the party has its hatch 
+  counter decreased by 2 (rather 
+  than 1) each step cycle, making 
+  eggs hatch roughly twice as quickly. 
+  This effect does not stack if 
+  multiple Pokémon have this ability 
+  or magma armor.
+
+  Flash-fire:
+
+    This Pokémon is immune to fire-type 
+  moves. Once this Pokémon has 
+  been hit by a Fire move, its 
+  own Fire moves will inflict 1.5× 
+  as much damage until it leaves 
+  battle.
+
+  This ability has no effect 
+  while the Pokémon is frozen. 
+  The Fire damage bonus is retained 
+  even if the Pokémon is frozen 
+  and thawed or the ability is 
+  lost or disabled. Fire moves 
+  will ignore this Pokémon's substitute. 
+  This ability takes effect even 
+  on non-damaging moves, i.e. will 
+  o wisp.
+
+
  Location Areas:

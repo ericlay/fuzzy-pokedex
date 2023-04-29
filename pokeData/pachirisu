@@ -20,6 +20,45 @@
  Base Exp: 142	Capture Rate: 200
  Height:    4	Weight: 39
 
+ Types:
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Run-away:
+
+    This Pokémon is always successful 
+  fleeing from wild battles, even 
+  if trapped by a move or ability.
+
+  Pickup:
+
+    At the end of each turn, if 
+  another Pokémon consumed or Flung 
+  a held item that turn, this Pokémon 
+  picks up the item if it is not 
+  already holding one. After each 
+  battle, this Pokémon has a 10% 
+  chance of picking up an item 
+  if it is not already holding 
+  one.
+
+  The air balloon and eject button 
+  cannot be picked up.
+
+  The items that may be found 
+  vary by game, and, since Pokémon 
+  Emerald, by the Pokémon's level. 
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
+  Volt-absorb:
+
+  
+
+
  Location Areas:
    Valley windworks area
    Fuego ironworks area

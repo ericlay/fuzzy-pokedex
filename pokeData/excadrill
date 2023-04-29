@@ -21,6 +21,86 @@
  Base Exp: 178	Capture Rate: 60
  Height:    7	Weight: 404
 
+ Types:
+   Ground
+   Steel
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sand-rush:
+
+    This Pokémon's Speed is doubled 
+  during a sandstorm, and it does 
+  not take sandstorm damage, regardless 
+  of type.
+
+  Sand-force:
+
+    During a sandstorm, this Pokémon's 
+  rock-, ground-, and steel-type 
+  moves have 1.3× their base power. 
+  This Pokémon does not take sandstorm 
+  damage, regardless of type.
+
+  Mold-breaker:
+
+    This Pokémon's moves completely 
+  ignore abilities that could hinder 
+  or prevent their effect on the 
+  target.
+
+  For example, this Pokémon's 
+  moves ignore abilities that would 
+  fully negate them, such as water 
+  absorb; abilities that would 
+  prevent any of their effects, 
+  such as clear body, shell armor, 
+  or sticky hold; and abilities 
+  that grant any general protective 
+  benefit, such as simple, snow 
+  cloak, or thick fat. If an ability 
+  could either hinder or help this 
+  Pokémon's moves, e.g. dry skin 
+  or unaware, the ability is ignored 
+  either way.
+
+  Abilities that do not fit this 
+  description, even if they could 
+  hinder moves in some other way, 
+  are not affected. For example, 
+  cursed body only affects potential 
+  future uses of the move, while 
+  liquid ooze and shadow tag can 
+  only hinder a move's effect on 
+  the user. This ablity cannot 
+  ignore type or form changes granted 
+  by abilities, for example color 
+  change or forecast; nor effects 
+  that were caused by abilities 
+  but are no longer tied to an 
+  ability, such as the rain from 
+  drizzle. This ability cannot 
+  ignore multitype at all.
+
+  An ability ignored by this 
+  ability is only nullified while 
+  the move is being used. For example, 
+  this Pokémon's moves can paralyze 
+  a Pokémon with limber, but Limber 
+  will activate and heal the paralysis 
+  immediately thereafter, and this 
+  Pokémon's spikes are not affected 
+  by this ability after they have 
+  been placed.
+
+  When this Pokémon enters battle, 
+  all participating trainers are 
+  notified that it has this ability.
+
+  This ability functions identically 
+  to teravolt and turboblaze.
+
+
  Location Areas:
    Twist mountain area
    Unova victory road unknown area 53

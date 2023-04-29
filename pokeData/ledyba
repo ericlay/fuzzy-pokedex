@@ -21,6 +21,41 @@
  Base Exp: 53	Capture Rate: 255
  Height:    10	Weight: 108
 
+ Types:
+   Bug
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Early-bird:
+
+    This Pokémon's remaining sleep 
+  turn count falls by 2 rather 
+  than 1.
+
+  If this Pokémon's sleep counter 
+  is at 1, it will fall to 0 and 
+  then the Pokémon will wake up.
+
+  Rattled:
+
+    This Pokémon's Speed rises 
+  one stage with each hit from 
+  a damaging dark-, ghost-, or 
+  bug-type move.
+
+
  Location Areas:
    Johto route 29 area
    Johto route 30 area

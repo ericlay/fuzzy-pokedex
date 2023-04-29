@@ -22,4 +22,50 @@
  Base Exp: 61	Capture Rate: 190
  Height:    1	Weight: 2
 
+ Types:
+   Bug
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Honey-gather:
+
+    This Pokémon has a chance of 
+  picking up honey after each battle. 
+  This chance starts at 5% and 
+  rises another 5% after every 
+  tenth level: 5% from level 1–10, 
+  10% from 11–20, and so on, up 
+  to 50% from 91–100.
+
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
+  Shield-dust:
+
+    This Pokémon is immune to the 
+  extra effects of moves used against 
+  it.
+
+  An extra effect is a move's 
+  chance, listed as an "effect 
+  chance", to inflict a status 
+  ailment, cause a stat change, 
+  or make the target flinch in 
+  addition to the move's main effect. 
+  For example, thunder shock's 
+  paralysis is an extra effect, 
+  but thunder wave's is not, nor 
+  are knock off's item removal 
+  and air cutter's increased critical 
+  hit rate.
+
+  Sweet-veil:
+
+    Prevents friendly Pokémon from 
+  sleeping.
+
+
  Location Areas:

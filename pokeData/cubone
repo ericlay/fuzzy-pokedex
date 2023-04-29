@@ -5,8 +5,7 @@
   skull helmet, no one has ever 
   seen Cubone's real face. 
   
-	Evolution Chain
-      Cubone ► Marowak
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         50
@@ -20,6 +19,59 @@
  Happiness: 50	Pokedex ID: 104
  Base Exp: 64	Capture Rate: 190
  Height:    4	Weight: 65
+
+ Types:
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Rock-head:
+
+    This Pokémon does not receive 
+  recoil damage from its recoil 
+  moves.
+
+  struggle's recoil is unaffected. 
+  This ability does not prevent 
+  crash damage from missing with 
+  jump kick or high jump kick.
+
+  Lightning-rod:
+
+    All other Pokémon's single-target 
+  electric-type moves are redirected 
+  to this Pokémon if it is an eligible 
+  target. Other Pokémon's Electric 
+  moves raise this Pokémon's Special 
+  Attack one stage, negating any 
+  other effect on it, and cannot 
+  miss it.
+
+  If the move's intended target 
+  also has this ability, the move 
+  is not redirected. When multiple 
+  Pokémon with this ability are 
+  possible targets for redirection, 
+  the move is redirected to the 
+  one with the highest Speed stat, 
+  or, in the case of a tie, to 
+  a random tied Pokémon. follow 
+  me takes precedence over this 
+  ability.
+
+  If the Pokémon is a ground-type 
+  and thus immune to Electric moves, 
+  its immunity prevents the Special 
+  Attack boost.
+
+  Battle-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to shell armor.
+
 
  Location Areas:
    Sinnoh route 203 area

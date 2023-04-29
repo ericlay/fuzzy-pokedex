@@ -19,6 +19,37 @@
  Base Exp: 165	Capture Rate: 75
  Height:    12	Weight: 316
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Healer:
+
+    Friendly Pokémon next to this 
+  Pokémon in double and triple 
+  battles each have a 30% chance 
+  of being cured of any major status 
+  ailment after each turn.
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+  Regenerator:
+
+    This Pokémon regains 1/3 of 
+  its maximum HP when it is switched 
+  out for another Pokémon under 
+  any circumstances other than 
+  having fainted.
+
+  This ability does not take 
+  effect when a battle ends.
+
+
  Location Areas:
    Driftveil city area
    P2 laboratory area

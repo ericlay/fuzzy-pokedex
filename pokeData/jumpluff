@@ -21,4 +21,40 @@
  Base Exp: 207	Capture Rate: 45
  Height:    8	Weight: 30
 
+ Types:
+   Grass
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Leaf-guard:
+
+    This Pokémon cannot be given 
+  a major status ailment during 
+  strong sunlight.
+
+  This ability does not heal 
+  prior status ailments. rest will 
+  fail altogether with this ability 
+  in effect. yawn will immediately 
+  fail if used on this Pokémon 
+  during strong sunlight, and an 
+  already-used Yawn will fail if 
+  the weather turns to strong sunlight 
+  in the meantime.
+
+  Infiltrator:
+
+    This Pokémon's moves ignore 
+  light screen, reflect, and safeguard.
+
+
  Location Areas:

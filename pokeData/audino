@@ -20,6 +20,56 @@
  Base Exp: 390	Capture Rate: 255
  Height:    11	Weight: 310
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Healer:
+
+    Friendly Pokémon next to this 
+  Pokémon in double and triple 
+  battles each have a 30% chance 
+  of being cured of any major status 
+  ailment after each turn.
+
+  Regenerator:
+
+    This Pokémon regains 1/3 of 
+  its maximum HP when it is switched 
+  out for another Pokémon under 
+  any circumstances other than 
+  having fainted.
+
+  This ability does not take 
+  effect when a battle ends.
+
+  Klutz:
+
+    In battle, this Pokémon cannot 
+  use its held item, nor will the 
+  item have any passive effect 
+  on the battle, positive or negative. 
+  This Pokémon also cannot use 
+  fling.
+
+  The Speed cut from the iron 
+  ball and the effort items (the 
+  macho brace, power weight, power 
+  bracer, power belt, power lens, 
+  power band, and power anklet) 
+  is unaffected. Items that do 
+  not directly affect the battle, 
+  such as the exp share, the amulet 
+  coin, or the soothe bell, work 
+  as usual. All held items work 
+  as usual out of battle.
+
+  Other moves that use the held 
+  item, such as natural gift and 
+  switcheroo, work as usual.
+
+
  Location Areas:
    Dreamyard area
    Pinwheel forest outside

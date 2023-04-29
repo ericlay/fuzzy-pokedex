@@ -27,6 +27,30 @@ Stage 2 Forms:
  Base Exp: 170	Capture Rate: 60
  Height:    17	Weight: 270
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Water-veil:
+
+    This Pokémon cannot be burned.
+
+  If a Pokémon is burned and 
+  acquires this ability, its burn 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+
  Location Areas:
    Unova route 4 area
    Kalos route 12 area

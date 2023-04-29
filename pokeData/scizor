@@ -24,4 +24,41 @@ Stage 2 Forms:
  Base Exp: 175	Capture Rate: 25
  Height:    18	Weight: 1180
 
+ Types:
+   Bug
+   Steel
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
+  Light-metal:
+
+    This Pokémon has half the usual 
+  weight for its species.
+
+
  Location Areas:

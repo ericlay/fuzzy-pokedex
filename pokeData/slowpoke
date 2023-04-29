@@ -25,6 +25,41 @@ Stage 2 Forms:
  Base Exp: 63	Capture Rate: 190
  Height:    12	Weight: 360
 
+ Types:
+   Water
+   Psychic
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Oblivious:
+
+    This Pokémon cannot be infatuated 
+  and is immune to captivate.
+
+  If a Pokémon is infatuated 
+  and acquires this ability, its 
+  infatuation is cleared.
+
+  Own-tempo:
+
+    This Pokémon cannot be confused.
+
+  If a Pokémon is confused and 
+  acquires this ability, its confusion 
+  will immediately be healed.
+
+  Regenerator:
+
+    This Pokémon regains 1/3 of 
+  its maximum HP when it is switched 
+  out for another Pokémon under 
+  any circumstances other than 
+  having fainted.
+
+  This ability does not take 
+  effect when a battle ends.
+
+
  Location Areas:
    Sinnoh route 205 east towards eterna city
    Slowpoke well 1f

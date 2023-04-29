@@ -23,6 +23,49 @@
  Base Exp: 166	Capture Rate: 200
  Height:    23	Weight: 2538
 
+ Types:
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Thick-fat:
+
+    This Pokémon takes half as 
+  much damage from fire- and ice-type 
+  moves.
+
+  Guts:
+
+    Whenever this Pokémon is asleep, 
+  burned, paralyzed, or poisoned, 
+  it has 1.5× its Attack. This 
+  Pokémon is not affected by the 
+  usual Attack cut from a burn.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Sheer-force:
+
+    This Pokémon's moves with extra 
+  effects have 1.3× their power, 
+  but lose their extra effects.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, thunder shock's paralysis 
+  is an extra effect, but thunder 
+  wave's is not, nor are knock 
+  off's item removal and air cutter's 
+  increased critical hit rate.
+
+  Moves that lower the user's 
+  stats are unaffected.
+
+
  Location Areas:
    Hoenn victory road 1f
    Hoenn victory road b1f

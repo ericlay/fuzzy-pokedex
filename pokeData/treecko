@@ -22,6 +22,33 @@
  Base Exp: 62	Capture Rate: 45
  Height:    5	Weight: 50
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Overgrow:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  grass-type moves inflict 1.5× 
+  as much regular damage.
+
+  Unburden:
+
+    When this Pokémon uses or loses 
+  its held item, its Speed is doubled. 
+  If it gains another item or leaves 
+  battle, this bonus is lost.
+
+  This includes when the Pokémon 
+  drops its item because of knock 
+  off. This bonus does not count 
+  as a stat modifier. There is 
+  no notification when this ability 
+  takes effect.
+
+
  Location Areas:
    Hoenn route 101 area
    Saffron city silph co

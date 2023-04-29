@@ -1,5 +1,5 @@
 
-  Butterfree    Bug Type Pokémon
+       Type Pokémon
 
   In battle, it flaps its wings 
   at high speed to release highly 
@@ -8,17 +8,16 @@
   Caterpie ► Metapod ► Butterfree
 
    ↞--------| STATS |--------↠ 
-              hp:         60
-          attack:         45
-         defense:         50
-  special-attack:         90
- special-defense:         80
-           speed:         70
 
  Genus: Butterfly Pokémon
- Happiness: 50	Pokedex ID: 12
- Base Exp: 198	Capture Rate: 45
- Height:    11	Weight: 320
+ Happiness: 50	Pokedex ID: 
+ Base Exp: 	Capture Rate: 45
+ Height:    	Weight: 
+
+ Types:
+
+ ↞---------------|ABILITIES|---------------↠
+
 
  Location Areas:
    Ilex forest area

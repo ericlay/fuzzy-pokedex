@@ -22,6 +22,30 @@
  Base Exp: 335	Capture Rate: 3
  Height:    45	Weight: 3520
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Drizzle:
+
+    The weather changes to rain 
+  when this Pokémon enters battle 
+  and does not end unless replaced 
+  by another weather condition.
+
+  If multiple Pokémon with this 
+  ability, drought, sand stream, 
+  or snow warning are sent out 
+  at the same time, the abilities 
+  will activate in order of Speed, 
+  respecting trick room. Each ability's 
+  weather will cancel the previous 
+  weather, and only the weather 
+  summoned by the slowest of the 
+  Pokémon will stay.
+
+
  Location Areas:
    Cave of origin b4f
    Marine cave area

@@ -20,4 +20,25 @@
  Base Exp: 300	Capture Rate: 3
  Height:    7	Weight: 222
 
+ Types:
+   Fighting
+   Ghost
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
+
  Location Areas:

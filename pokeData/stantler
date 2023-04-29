@@ -21,6 +21,55 @@
  Base Exp: 163	Capture Rate: 45
  Height:    14	Weight: 712
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Intimidate:
+
+    When this Pokémon enters battle, 
+  the opponent's Attack is lowered 
+  by one stage. In a double battle, 
+  both opponents are affected.
+
+  This ability also takes effect 
+  when acquired during a battle, 
+  but will not take effect again 
+  if lost and reobtained without 
+  leaving battle.
+
+  This ability has no effect 
+  on an opponent that has a substitute.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Frisk:
+
+    When this Pokémon enters battle, 
+  it reveals an opposing Pokémon's 
+  held item to all participating 
+  trainers.
+
+  In a double battle, if one 
+  opponent has an item, this Pokémon 
+  will Frisk that Pokémon; if both 
+  have an item, it will Frisk one 
+  at random.
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+
  Location Areas:
    Sinnoh route 207 area
    Johto route 36 area

@@ -21,5 +21,44 @@
  Base Exp: 300	Capture Rate: 45
  Height:    20	Weight: 2020
 
+ Types:
+   Rock
+   Dark
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sand-stream:
+
+    The weather changes to a sandstorm 
+  when this Pokémon enters battle 
+  and does not end unless cancelled 
+  by another weather condition.
+
+  If multiple Pokémon with this 
+  ability, drizzle, drought, or 
+  snow warning are sent out at 
+  the same time, the abilities 
+  will activate in order of Speed, 
+  respecting trick room. Each ability's 
+  weather will cancel the previous 
+  weather, and only the weather 
+  summoned by the slowest of the 
+  Pokémon will stay.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved in a sandstorm.
+
+  Unnerve:
+
+    Opposing Pokémon cannot eat 
+  held Berries while this Pokémon 
+  is in battle.
+
+  Affected Pokémon can still 
+  use bug bite or pluck to eat 
+  a target's Berry.
+
+
  Location Areas:
    Unova route 15 area

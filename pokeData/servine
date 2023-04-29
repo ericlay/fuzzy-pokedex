@@ -21,4 +21,24 @@
  Base Exp: 145	Capture Rate: 45
  Height:    8	Weight: 160
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Overgrow:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  grass-type moves inflict 1.5× 
+  as much regular damage.
+
+  Contrary:
+
+    Whenever this Pokémon's stats 
+  would be raised, they are instead 
+  lowered by the same amount, and 
+  vice versa.
+
+
  Location Areas:

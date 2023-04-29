@@ -21,6 +21,43 @@
  Base Exp: 50	Capture Rate: 255
  Height:    5	Weight: 85
 
+ Types:
+   Bug
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Insomnia:
+
+    This Pokémon cannot be asleep.
+
+  This causes rest to fail altogether. 
+  If a Pokémon is asleep and acquires 
+  this ability, it will immediately 
+  wake up; this includes when regaining 
+  a lost ability upon leaving battle.
+
+  This ability functions identically 
+  to vital spirit in battle.
+
+  Sniper:
+
+    This Pokémon inflicts triple 
+  damage with critical hits, rather 
+  than the usual double damage.
+
+
  Location Areas:
    Johto route 29 area
    Johto route 30 area

@@ -25,6 +25,38 @@ Stage 3 Forms:
  Base Exp: 255	Capture Rate: 45
  Height:    13	Weight: 540
 
+ Types:
+   Water
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+  Damp:
+
+    While this Pokémon is in battle, 
+  self destruct and explosion will 
+  fail and aftermath will not take 
+  effect.
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+
  Location Areas:
    Unova victory road unknown area 53
    Unova victory road unknown area 58

@@ -21,6 +21,48 @@
  Base Exp: 161	Capture Rate: 75
  Height:    12	Weight: 225
 
+ Types:
+   Water
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Volt-absorb:
+
+    Whenever an electric-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  This ability will not take 
+  effect if this Pokémon is ground-type 
+  and thus immune to Electric moves. 
+  Electric moves will ignore this 
+  Pokémon's substitute.
+
+  This effect includes non-damaging 
+  moves, i.e. thunder wave.
+
+  Illuminate:
+
+    Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is doubled.
+
+  This ability has no effect 
+  in battle.
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+
  Location Areas:
    Sinnoh sea route 220 area
    New bark town area

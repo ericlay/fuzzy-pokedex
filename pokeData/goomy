@@ -21,5 +21,29 @@
  Base Exp: 60	Capture Rate: 45
  Height:    3	Weight: 28
 
+ Types:
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+  Gooey:
+
+    Lowers attacking Pokémon's 
+  Speed by one stage on contact.
+
+
  Location Areas:
    Kalos route 14 area

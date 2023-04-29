@@ -21,5 +21,41 @@
  Base Exp: 42	Capture Rate: 170
  Height:    3	Weight: 10
 
+ Types:
+   Normal
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Cute-charm:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  infatuated.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any wild Pokémon whose species 
+  can be either gender has a 2/3 
+  chance of being set to the opposite 
+  gender, and a 1/3 chance of having 
+  a random gender as usual.
+
+  Competitive:
+
+    Raises Special Attack by two 
+  stages upon having any stat lowered.
+
+  Friend-guard:
+
+    All friendly Pokémon take 0.75× 
+  as much direct damage from moves 
+  while this Pokémon is in battle.
+
+  This effect stacks if multiple 
+  allied Pokémon have it.
+
+
  Location Areas:
    Johto route 34 area

@@ -21,6 +21,62 @@
  Base Exp: 174	Capture Rate: 75
  Height:    16	Weight: 795
 
+ Types:
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Lightning-rod:
+
+    All other Pokémon's single-target 
+  electric-type moves are redirected 
+  to this Pokémon if it is an eligible 
+  target. Other Pokémon's Electric 
+  moves raise this Pokémon's Special 
+  Attack one stage, negating any 
+  other effect on it, and cannot 
+  miss it.
+
+  If the move's intended target 
+  also has this ability, the move 
+  is not redirected. When multiple 
+  Pokémon with this ability are 
+  possible targets for redirection, 
+  the move is redirected to the 
+  one with the highest Speed stat, 
+  or, in the case of a tie, to 
+  a random tied Pokémon. follow 
+  me takes precedence over this 
+  ability.
+
+  If the Pokémon is a ground-type 
+  and thus immune to Electric moves, 
+  its immunity prevents the Special 
+  Attack boost.
+
+  Motor-drive:
+
+    Whenever an electric-type move 
+  hits this Pokémon, its Speed 
+  rises one stage, negating any 
+  other effect on it.
+
+  This ability will not take 
+  effect if this Pokémon is immune 
+  to Electric moves. Electric moves 
+  will ignore this Pokémon's substitute.
+
+  This effect includes non-damaging 
+  moves, i.e. thunder wave.
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+
  Location Areas:
    Unova route 3 area
    Unova route 7 area

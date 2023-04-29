@@ -21,6 +21,42 @@
  Base Exp: 142	Capture Rate: 90
  Height:    15	Weight: 705
 
+ Types:
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Guts:
+
+    Whenever this Pokémon is asleep, 
+  burned, paralyzed, or poisoned, 
+  it has 1.5× its Attack. This 
+  Pokémon is not affected by the 
+  usual Attack cut from a burn.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  No-guard:
+
+    Moves used by or against this 
+  Pokémon never miss.
+
+  One-hit KO moves are unaffected. 
+  Moves affected by this ability 
+  can hit Pokémon during the preparation 
+  turn of moves like dig or fly.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is doubled.
+
+  Steadfast:
+
+    Whenever this Pokémon flinches, 
+  its Speed rises one stage.
+
+
  Location Areas:
    Mt coronet 2f
    Mt coronet 3f

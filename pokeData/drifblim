@@ -21,6 +21,39 @@
  Base Exp: 174	Capture Rate: 60
  Height:    12	Weight: 150
 
+ Types:
+   Ghost
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Aftermath:
+
+    When this Pokémon is knocked 
+  out by a move that makes contact, 
+  the move's user takes 1/4 its 
+  maximum HP in damage.
+
+  Unburden:
+
+    When this Pokémon uses or loses 
+  its held item, its Speed is doubled. 
+  If it gains another item or leaves 
+  battle, this bonus is lost.
+
+  This includes when the Pokémon 
+  drops its item because of knock 
+  off. This bonus does not count 
+  as a stat modifier. There is 
+  no notification when this ability 
+  takes effect.
+
+  Flare-boost:
+
+    This Pokémon has 1.5× its Special 
+  Attack when burned.
+
+
  Location Areas:
    Giant chasm outside
    Unova route 13 area

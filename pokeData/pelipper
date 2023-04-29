@@ -20,6 +20,59 @@
  Base Exp: 154	Capture Rate: 45
  Height:    12	Weight: 280
 
+ Types:
+   Water
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Drizzle:
+
+    The weather changes to rain 
+  when this Pokémon enters battle 
+  and does not end unless replaced 
+  by another weather condition.
+
+  If multiple Pokémon with this 
+  ability, drought, sand stream, 
+  or snow warning are sent out 
+  at the same time, the abilities 
+  will activate in order of Speed, 
+  respecting trick room. Each ability's 
+  weather will cancel the previous 
+  weather, and only the weather 
+  summoned by the slowest of the 
+  Pokémon will stay.
+
+  Rain-dish:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during rain.
+
+
  Location Areas:
    Canalave city area
    Pastoria city area

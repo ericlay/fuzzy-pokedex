@@ -19,5 +19,64 @@
  Base Exp: 180	Capture Rate: 45
  Height:    18	Weight: 590
 
+ Types:
+   Rock
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Rock-head:
+
+    This Pokémon does not receive 
+  recoil damage from its recoil 
+  moves.
+
+  struggle's recoil is unaffected. 
+  This ability does not prevent 
+  crash damage from missing with 
+  jump kick or high jump kick.
+
+  Pressure:
+
+    Moves targetting this Pokémon 
+  use one extra PP.
+
+  This ability stacks if multiple 
+  targets have it. This ability 
+  still affects moves that fail 
+  or miss. This ability does not 
+  affect ally moves that target 
+  either the entire field or just 
+  its side, nor this Pokémon's 
+  self-targetted moves; it does, 
+  however, affect single-targetted 
+  ally moves aimed at this Pokémon, 
+  ally moves that target all other 
+  Pokémon, and opponents' moves 
+  that target the entire field. 
+  If this ability raises a move's 
+  PP cost above its remaining PP, 
+  it will use all remaining PP.
+
+  When this Pokémon enters battle, 
+  all participating trainers are 
+  notified that it has this ability.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+  Unnerve:
+
+    Opposing Pokémon cannot eat 
+  held Berries while this Pokémon 
+  is in battle.
+
+  Affected Pokémon can still 
+  use bug bite or pluck to eat 
+  a target's Berry.
+
+
  Location Areas:
    Cinnabar island cinnabar lab

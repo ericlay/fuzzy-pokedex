@@ -21,4 +21,34 @@
  Base Exp: 177	Capture Rate: 45
  Height:    20	Weight: 1750
 
+ Types:
+   Water
+   Ice
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+  Ice-body:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during hail, and it does 
+  not take hail damage regardless 
+  of type.
+
+  Slush-rush:
+
+    During Hail, this Pokémon has 
+  double Speed.
+
+
  Location Areas:

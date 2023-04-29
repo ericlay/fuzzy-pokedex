@@ -21,6 +21,34 @@
  Base Exp: 165	Capture Rate: 45
  Height:    18	Weight: 852
 
+ Types:
+   Normal
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Run-away:
+
+    This Pokémon is always successful 
+  fleeing from wild battles, even 
+  if trapped by a move or ability.
+
+  Early-bird:
+
+    This Pokémon's remaining sleep 
+  turn count falls by 2 rather 
+  than 1.
+
+  If this Pokémon's sleep counter 
+  is at 1, it will fall to 0 and 
+  then the Pokémon will wake up.
+
+  Tangled-feet:
+
+    When this Pokémon is confused, 
+  it has twice its evasion.
+
+
  Location Areas:
    Mt silver outside
    Kanto route 26 area

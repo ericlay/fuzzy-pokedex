@@ -23,4 +23,48 @@
  Base Exp: 173	Capture Rate: 45
  Height:    15	Weight: 604
 
+ Types:
+   Rock
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Suction-cups:
+
+    This Pokémon cannot be forced 
+  out of battle by moves such as 
+  whirlwind.
+
+  dragon tail and circle throw 
+  still inflict damage against 
+  this Pokémon.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the success 
+  rate while fishing is increased.
+
+  Storm-drain:
+
+    All other Pokémon's single-target 
+  water-type moves are redirected 
+  to this Pokémon, if it is an 
+  eligible target. Other Pokémon's 
+  Water moves raise this Pokémon's 
+  Special Attack one stage, negating 
+  any other effect on it, and cannot 
+  miss it.
+
+  If the move's intended target 
+  also has this ability, the move 
+  is not redirected. When multiple 
+  Pokémon with this ability are 
+  possible targets for redirection, 
+  the move is redirected to the 
+  one with the highest Speed stat, 
+  or, in the case of a tie, to 
+  a random tied Pokémon. follow 
+  me takes precedence over this 
+  ability.
+
+
  Location Areas:

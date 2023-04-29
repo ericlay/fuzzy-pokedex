@@ -20,4 +20,35 @@
  Base Exp: 170	Capture Rate: 70
  Height:    30	Weight: 1850
 
+ Types:
+   Normal
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Berserk:
+
+    Whenever this Pokémon takes 
+  damage from a move that causes 
+  its HP to drop below 50%, its 
+  Special Attack rises by one stage.
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+  Cloud-nine:
+
+    While this Pokémon is in battle, 
+  weather can still be in play, 
+  but will not have any of its 
+  effects.
+
+  This ability functions identically 
+  to air lock.
+
+
  Location Areas:

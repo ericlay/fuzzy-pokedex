@@ -24,6 +24,44 @@
  Base Exp: 59	Capture Rate: 225
  Height:    6	Weight: 23
 
+ Types:
+   Ghost
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Insomnia:
+
+    This Pokémon cannot be asleep.
+
+  This causes rest to fail altogether. 
+  If a Pokémon is asleep and acquires 
+  this ability, it will immediately 
+  wake up; this includes when regaining 
+  a lost ability upon leaving battle.
+
+  This ability functions identically 
+  to vital spirit in battle.
+
+  Frisk:
+
+    When this Pokémon enters battle, 
+  it reveals an opposing Pokémon's 
+  held item to all participating 
+  trainers.
+
+  In a double battle, if one 
+  opponent has an item, this Pokémon 
+  will Frisk that Pokémon; if both 
+  have an item, it will Frisk one 
+  at random.
+
+  Cursed-body:
+
+    Moves that hit this Pokémon 
+  have a 30% chance of being Disabled 
+  afterward.
+
+
  Location Areas:
    Mt pyre 1f
    Mt pyre 2f

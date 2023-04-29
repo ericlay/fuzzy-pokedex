@@ -22,4 +22,27 @@
  Base Exp: 64	Capture Rate: 120
  Height:    6	Weight: 48
 
+ Types:
+   Poison
+   Fire
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Corrosion:
+
+    This Pokémon's moves and item 
+  ignore the usual immunity of 
+  Poison and Steel Pokémon when 
+  attempting to inflict poison.
+
+  Oblivious:
+
+    This Pokémon cannot be infatuated 
+  and is immune to captivate.
+
+  If a Pokémon is infatuated 
+  and acquires this ability, its 
+  infatuation is cleared.
+
+
  Location Areas:

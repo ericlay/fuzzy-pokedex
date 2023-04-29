@@ -21,6 +21,26 @@
  Base Exp: 116	Capture Rate: 225
  Height:    6	Weight: 87
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+
  Location Areas:
    Sinnoh pokemon league area
    Sinnoh route 224 area

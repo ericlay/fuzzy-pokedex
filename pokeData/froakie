@@ -22,5 +22,26 @@
  Base Exp: 63	Capture Rate: 45
  Height:    3	Weight: 70
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Torrent:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  water-type moves inflict 1.5× 
+  as much regular damage.
+
+  Protean:
+
+    Changes the bearer's type to 
+  match each move it uses.
+
+  The type change takes place 
+  just before the move is used.
+
+
  Location Areas:
    Aquacorde town area

@@ -21,4 +21,50 @@
  Base Exp: 177	Capture Rate: 45
  Height:    18	Weight: 1900
 
+ Types:
+   Electric
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Volt-absorb:
+
+    Whenever an electric-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  This ability will not take 
+  effect if this Pokémon is ground-type 
+  and thus immune to Electric moves. 
+  Electric moves will ignore this 
+  Pokémon's substitute.
+
+  This effect includes non-damaging 
+  moves, i.e. thunder wave.
+
+  Hustle:
+
+    This Pokémon's physical moves 
+  do 1.5× as much regular damage, 
+  but have 0.8× their usual accuracy.
+
+  Special moves are unaffected. 
+  Moves that do set damage, such 
+  as seismic toss, have their accuracy 
+  affected, but not their damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+  Sand-rush:
+
+    This Pokémon's Speed is doubled 
+  during a sandstorm, and it does 
+  not take sandstorm damage, regardless 
+  of type.
+
+
  Location Areas:

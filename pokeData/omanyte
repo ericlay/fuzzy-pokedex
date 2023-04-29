@@ -20,5 +20,38 @@
  Base Exp: 71	Capture Rate: 45
  Height:    4	Weight: 75
 
+ Types:
+   Rock
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Weak-armor:
+
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
+
+  This ability triggers on every 
+  hit of a multiple-hit move.
+
+
  Location Areas:
    Cinnabar island cinnabar lab

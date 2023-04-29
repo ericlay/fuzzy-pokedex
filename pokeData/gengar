@@ -21,5 +21,18 @@
  Base Exp: 250	Capture Rate: 45
  Height:    15	Weight: 405
 
+ Types:
+   Ghost
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Cursed-body:
+
+    Moves that hit this Pokémon 
+  have a 30% chance of being Disabled 
+  afterward.
+
+
  Location Areas:
    Old chateau 2f right room

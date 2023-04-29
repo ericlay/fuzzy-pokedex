@@ -22,6 +22,42 @@
  Base Exp: 133	Capture Rate: 120
  Height:    5	Weight: 73
 
+ Types:
+   Bug
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Leaf-guard:
+
+    This Pokémon cannot be given 
+  a major status ailment during 
+  strong sunlight.
+
+  This ability does not heal 
+  prior status ailments. rest will 
+  fail altogether with this ability 
+  in effect. yawn will immediately 
+  fail if used on this Pokémon 
+  during strong sunlight, and an 
+  already-used Yawn will fail if 
+  the weather turns to strong sunlight 
+  in the meantime.
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Overcoat:
+
+    This Pokémon does not take 
+  damage from weather.
+
+
  Location Areas:
    Pinwheel forest inside
    Unova route 6 area

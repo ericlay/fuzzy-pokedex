@@ -20,6 +20,32 @@
  Base Exp: 65	Capture Rate: 190
  Height:    11	Weight: 900
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Thick-fat:
+
+    This Pokémon takes half as 
+  much damage from fire- and ice-type 
+  moves.
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+  Ice-body:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during hail, and it does 
+  not take hail damage regardless 
+  of type.
+
+
  Location Areas:
    Sinnoh sea route 226 area
    Sinnoh sea route 230 area

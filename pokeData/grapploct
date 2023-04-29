@@ -22,4 +22,34 @@
  Base Exp: 168	Capture Rate: 45
  Height:    16	Weight: 390
 
+ Types:
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Limber:
+
+    This Pokémon cannot be paralyzed.
+
+  If a Pokémon is paralyzed and 
+  acquires this ability, its paralysis 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
+
  Location Areas:

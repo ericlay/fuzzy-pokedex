@@ -20,4 +20,33 @@
  Base Exp: 144	Capture Rate: 60
  Height:    3	Weight: 12
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Innards-out:
+
+    When this Pokémon faints from 
+  an opponent's move, that opponent 
+  takes damage equal to the HP 
+  this Pokémon had remaining.
+
+  Unaware:
+
+    This Pokémon ignores other 
+  Pokémon's stat modifiers for 
+  the purposes of damage and accuracy 
+  calculation.
+
+  Effectively, this affects modifiers 
+  of every stat except Speed.
+
+  The power of punishment and 
+  stored power is calculated as 
+  usual. When this Pokémon hurts 
+  itself in confusion, its stat 
+  modifiers affect damage as usual.
+
+
  Location Areas:

@@ -21,6 +21,61 @@
  Base Exp: 61	Capture Rate: 45
  Height:    4	Weight: 60
 
+ Types:
+   Ice
+   Psychic
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Oblivious:
+
+    This Pokémon cannot be infatuated 
+  and is immune to captivate.
+
+  If a Pokémon is infatuated 
+  and acquires this ability, its 
+  infatuation is cleared.
+
+  Forewarn:
+
+    When this Pokémon enters battle, 
+  it reveals the move with the 
+  highest base power known by any 
+  opposing Pokémon to all participating 
+  trainers.
+
+  In the event of a tie, one 
+  is chosen at random.
+
+  Moves without a listed base 
+  power are assigned one as follows:
+
+  Power | Moves
+----: | -----
+ 160 | One-hit KO moves: fissure, 
+  guillotine, horn drill, and sheer 
+  cold
+ 120 | Counter moves: counter, 
+  metal burst, and mirror coat
+  80 | Variable power or set 
+  damage: crush grip, dragon rage, 
+  electro ball, endeavor, final 
+  gambit, flail, frustration, grass 
+  knot, gyro ball, heat crash, 
+  heavy slam, hidden power, low 
+  kick, natural gift, night shade, 
+  psywave, return, reversal, seismic 
+  toss, sonic boom, trump card, 
+  and wring out
+  0 | Any such move not listed
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+
  Location Areas:
    Snowpoint temple 1f
    Lake acuity area

@@ -21,6 +21,34 @@
  Base Exp: 61	Capture Rate: 190
  Height:    3	Weight: 40
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Skill-link:
+
+    This Pokémon always hits five 
+  times with two-to-five-hit moves, 
+  such as icicle spear. It also 
+  bypasses the accuracy checks 
+  on triple kick's second and third 
+  hits.
+
+  Overcoat:
+
+    This Pokémon does not take 
+  damage from weather.
+
+
  Location Areas:
    Valley windworks area
    Fuego ironworks area

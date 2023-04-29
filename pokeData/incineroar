@@ -22,4 +22,41 @@
  Base Exp: 265	Capture Rate: 45
  Height:    18	Weight: 830
 
+ Types:
+   Fire
+   Dark
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Blaze:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  fire-type moves inflict 1.5× 
+  as much regular damage.
+
+  Intimidate:
+
+    When this Pokémon enters battle, 
+  the opponent's Attack is lowered 
+  by one stage. In a double battle, 
+  both opponents are affected.
+
+  This ability also takes effect 
+  when acquired during a battle, 
+  but will not take effect again 
+  if lost and reobtained without 
+  leaving battle.
+
+  This ability has no effect 
+  on an opponent that has a substitute.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+
  Location Areas:

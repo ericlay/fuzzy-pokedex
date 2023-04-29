@@ -21,6 +21,37 @@
  Base Exp: 74	Capture Rate: 190
  Height:    5	Weight: 90
 
+ Types:
+   Dark
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Big-pecks:
+
+    This Pokémon's Defense cannot 
+  be lowered by other Pokémon.
+
+  This Pokémon can still be passed 
+  negative Defense modifiers through 
+  heart swap or guard swap.
+
+  Overcoat:
+
+    This Pokémon does not take 
+  damage from weather.
+
+  Weak-armor:
+
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
+
+  This ability triggers on every 
+  hit of a multiple-hit move.
+
+
  Location Areas:
    Unova victory road outside
    Village bridge area

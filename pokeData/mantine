@@ -21,6 +21,41 @@
  Base Exp: 170	Capture Rate: 25
  Height:    21	Weight: 2200
 
+ Types:
+   Water
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+  Water-veil:
+
+    This Pokémon cannot be burned.
+
+  If a Pokémon is burned and 
+  acquires this ability, its burn 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+
  Location Areas:
    Johto sea route 41 area
    Trainer tower area

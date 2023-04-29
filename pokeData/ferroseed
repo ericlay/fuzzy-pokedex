@@ -21,6 +21,23 @@
  Base Exp: 61	Capture Rate: 255
  Height:    6	Weight: 188
 
+ Types:
+   Grass
+   Steel
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Iron-barbs:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user takes 1/8 of its maximum 
+  HP in damage.
+
+  This ability functions identically 
+  to rough skin.
+
+
  Location Areas:
    Chargestone cave 1f
    Chargestone cave b1f

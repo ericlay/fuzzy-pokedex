@@ -21,6 +21,38 @@
  Base Exp: 60	Capture Rate: 45
  Height:    6	Weight: 720
 
+ Types:
+   Rock
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Guts:
+
+    Whenever this Pokémon is asleep, 
+  burned, paralyzed, or poisoned, 
+  it has 1.5× its Attack. This 
+  Pokémon is not affected by the 
+  usual Attack cut from a burn.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Sand-veil:
+
+    During a sandstorm, this Pokémon 
+  has 1.25× its evasion, and it 
+  does not take sandstorm damage 
+  regardless of type.
+
+  The evasion bonus does not 
+  count as a stat modifier.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved in a sandstorm.
+
+
  Location Areas:
    Sinnoh route 206 area
    Sinnoh route 207 area

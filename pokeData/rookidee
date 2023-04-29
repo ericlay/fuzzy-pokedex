@@ -22,4 +22,51 @@
  Base Exp: 49	Capture Rate: 255
  Height:    2	Weight: 18
 
+ Types:
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Unnerve:
+
+    Opposing Pokémon cannot eat 
+  held Berries while this Pokémon 
+  is in battle.
+
+  Affected Pokémon can still 
+  use bug bite or pluck to eat 
+  a target's Berry.
+
+  Big-pecks:
+
+    This Pokémon's Defense cannot 
+  be lowered by other Pokémon.
+
+  This Pokémon can still be passed 
+  negative Defense modifiers through 
+  heart swap or guard swap.
+
+
  Location Areas:

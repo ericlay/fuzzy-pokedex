@@ -5,8 +5,7 @@
   Poké Ball pattern, then releases 
   poison spores.  Why it resembles 
   a Poké Ball is unknown. 
-	Evolution Chain
-      Foongus ► Amoonguss
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         69
@@ -20,6 +19,38 @@
  Happiness: 50	Pokedex ID: 590
  Base Exp: 59	Capture Rate: 190
  Height:    2	Weight: 10
+
+ Types:
+   Grass
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Effect-spore:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  paralyzed, poisoned, or put to 
+  sleep, chosen at random.
+
+  Nothing is done to compensate 
+  if the move's user is immune 
+  to one of these ailments; there 
+  is simply a lower chance that 
+  the move's user will be affected.
+
+  Regenerator:
+
+    This Pokémon regains 1/3 of 
+  its maximum HP when it is switched 
+  out for another Pokémon under 
+  any circumstances other than 
+  having fainted.
+
+  This ability does not take 
+  effect when a battle ends.
+
 
  Location Areas:
    Unova route 6 area

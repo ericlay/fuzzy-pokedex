@@ -21,6 +21,47 @@
  Base Exp: 128	Capture Rate: 120
  Height:    9	Weight: 195
 
+ Types:
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Poison-point:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  poisoned.
+
+  Rivalry:
+
+    This Pokémon inflicts 1.25× 
+  as much regular damage against 
+  Pokémon of the same gender and 
+  0.75× as much regular damage 
+  against Pokémon of the opposite 
+  gender.
+
+  If either Pokémon is genderless, 
+  damage is unaffected.
+
+  Hustle:
+
+    This Pokémon's physical moves 
+  do 1.5× as much regular damage, 
+  but have 0.8× their usual accuracy.
+
+  Special moves are unaffected. 
+  Moves that do set damage, such 
+  as seismic toss, have their accuracy 
+  affected, but not their damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+
  Location Areas:
    Valor lakefront area
    Sinnoh route 221 area

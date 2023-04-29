@@ -28,6 +28,27 @@ Stage 2 Forms:
  Base Exp: 69	Capture Rate: 255
  Height:    4	Weight: 525
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Rattled:
+
+    This Pokémon's Speed rises 
+  one stage with each hit from 
+  a damaging dark-, ghost-, or 
+  bug-type move.
+
+
  Location Areas:
    Sinnoh route 219 area
    Sinnoh route 221 area

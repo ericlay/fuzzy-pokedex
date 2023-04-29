@@ -25,4 +25,39 @@ Stage 2 Forms:
  Base Exp: 170	Capture Rate: 45
  Height:    3	Weight: 10
 
+ Types:
+   Grass
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Ripen:
+
+  
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+  Hustle:
+
+    This Pokémon's physical moves 
+  do 1.5× as much regular damage, 
+  but have 0.8× their usual accuracy.
+
+  Special moves are unaffected. 
+  Moves that do set damage, such 
+  as seismic toss, have their accuracy 
+  affected, but not their damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+
  Location Areas:

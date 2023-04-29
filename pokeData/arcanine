@@ -21,4 +21,62 @@
  Base Exp: 194	Capture Rate: 75
  Height:    19	Weight: 1550
 
+ Types:
+   Fire
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Intimidate:
+
+    When this Pokémon enters battle, 
+  the opponent's Attack is lowered 
+  by one stage. In a double battle, 
+  both opponents are affected.
+
+  This ability also takes effect 
+  when acquired during a battle, 
+  but will not take effect again 
+  if lost and reobtained without 
+  leaving battle.
+
+  This ability has no effect 
+  on an opponent that has a substitute.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Flash-fire:
+
+    This Pokémon is immune to fire-type 
+  moves. Once this Pokémon has 
+  been hit by a Fire move, its 
+  own Fire moves will inflict 1.5× 
+  as much damage until it leaves 
+  battle.
+
+  This ability has no effect 
+  while the Pokémon is frozen. 
+  The Fire damage bonus is retained 
+  even if the Pokémon is frozen 
+  and thawed or the ability is 
+  lost or disabled. Fire moves 
+  will ignore this Pokémon's substitute. 
+  This ability takes effect even 
+  on non-damaging moves, i.e. will 
+  o wisp.
+
+  Justified:
+
+    Whenever a dark-type move hits 
+  this Pokémon, its Attack rises 
+  one stage.
+
+  The move is not negated in 
+  any way.
+
+
  Location Areas:

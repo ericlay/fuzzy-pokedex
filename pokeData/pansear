@@ -21,6 +21,27 @@
  Base Exp: 63	Capture Rate: 190
  Height:    6	Weight: 110
 
+ Types:
+   Fire
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+  Blaze:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  fire-type moves inflict 1.5× 
+  as much regular damage.
+
+
  Location Areas:
    Dreamyard area
    Pinwheel forest inside

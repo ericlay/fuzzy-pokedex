@@ -23,6 +23,38 @@
  Base Exp: 151	Capture Rate: 150
  Height:    7	Weight: 177
 
+ Types:
+   Bug
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Illuminate:
+
+    Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is doubled.
+
+  This ability has no effect 
+  in battle.
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Prankster:
+
+    This Pokémon's non-damaging 
+  moves have their priority increased 
+  by one stage.
+
+
  Location Areas:
    Sinnoh route 229 area
    Hoenn route 117 area

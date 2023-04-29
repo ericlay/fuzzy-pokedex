@@ -25,6 +25,36 @@ Stage 3 Forms:
  Base Exp: 138	Capture Rate: 120
  Height:    8	Weight: 86
 
+ Types:
+   Grass
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Stench:
+
+    This Pokémon's damaging moves 
+  have a 10% chance to make the 
+  target flinch with each hit if 
+  they do not already cause flinching 
+  as a secondary effect.
+
+  This ability does not stack 
+  with a held item.
+
+  Overworld: The wild encounter 
+  rate is halved while this Pokémon 
+  is first in the party.
+
+
  Location Areas:
    Sinnoh route 224 area
    Sinnoh route 229 area

@@ -23,4 +23,43 @@
  Base Exp: 265	Capture Rate: 45
  Height:    21	Weight: 3600
 
+ Types:
+   Steel
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sturdy:
+
+    When this Pokémon is at full 
+  HP, any hit that would knock 
+  it out will instead leave it 
+  with 1 HP. Regardless of its 
+  current HP, it is also immune 
+  to the one-hit KO moves: fissure, 
+  guillotine, horn drill, and sheer 
+  cold.
+
+  If this Pokémon is holding 
+  a focus sash, this ability takes 
+  precedence and the item will 
+  not be consumed.
+
+  Rock-head:
+
+    This Pokémon does not receive 
+  recoil damage from its recoil 
+  moves.
+
+  struggle's recoil is unaffected. 
+  This ability does not prevent 
+  crash damage from missing with 
+  jump kick or high jump kick.
+
+  Heavy-metal:
+
+    This Pokémon has double the 
+  usual weight for its species.
+
+
  Location Areas:

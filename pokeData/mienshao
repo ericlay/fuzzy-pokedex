@@ -21,6 +21,39 @@
  Base Exp: 179	Capture Rate: 45
  Height:    14	Weight: 355
 
+ Types:
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Inner-focus:
+
+    This Pokémon cannot flinch.
+
+  Regenerator:
+
+    This Pokémon regains 1/3 of 
+  its maximum HP when it is switched 
+  out for another Pokémon under 
+  any circumstances other than 
+  having fainted.
+
+  This ability does not take 
+  effect when a battle ends.
+
+  Reckless:
+
+    This Pokémon's recoil moves 
+  and crash moves have 1.2× their 
+  base power.
+
+  struggle is unaffected.
+
+  The "crash moves" are the moves 
+  that damage the user upon missing: 
+  jump kick and high jump kick.
+
+
  Location Areas:
    Dragonspiral tower entrance
    Dragonspiral tower outside

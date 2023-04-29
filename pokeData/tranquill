@@ -20,6 +20,40 @@
  Base Exp: 125	Capture Rate: 120
  Height:    6	Weight: 150
 
+ Types:
+   Normal
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Big-pecks:
+
+    This Pokémon's Defense cannot 
+  be lowered by other Pokémon.
+
+  This Pokémon can still be passed 
+  negative Defense modifiers through 
+  heart swap or guard swap.
+
+  Super-luck:
+
+    This Pokémon's moves have critical 
+  hit rates one stage higher than 
+  normal.
+
+  Rivalry:
+
+    This Pokémon inflicts 1.25× 
+  as much regular damage against 
+  Pokémon of the same gender and 
+  0.75× as much regular damage 
+  against Pokémon of the opposite 
+  gender.
+
+  If either Pokémon is genderless, 
+  damage is unaffected.
+
+
  Location Areas:
    Pinwheel forest inside
    Dragonspiral tower entrance

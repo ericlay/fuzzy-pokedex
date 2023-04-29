@@ -24,6 +24,47 @@
  Base Exp: 44	Capture Rate: 255
  Height:    5	Weight: 40
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Early-bird:
+
+    This Pokémon's remaining sleep 
+  turn count falls by 2 rather 
+  than 1.
+
+  If this Pokémon's sleep counter 
+  is at 1, it will fall to 0 and 
+  then the Pokémon will wake up.
+
+  Pickpocket:
+
+    Whenever a move makes contact 
+  with this Pokémon, if it does 
+  not have a held item, it steals 
+  the attacker's held item.
+
+  This Pokémon cannot steal upon 
+  being knocked out. It can steal 
+  if the attacker has a substitute, 
+  but cannot steal when its own 
+  Substitute is hit. If a move 
+  hits multiple times, only the 
+  last hit triggers this ability. 
+  If this Pokémon is wild, it cannot 
+  steal from a trained Pokémon.
+
+
  Location Areas:
    Eterna forest area
    Sinnoh route 203 area

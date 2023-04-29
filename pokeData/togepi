@@ -21,6 +21,52 @@
  Base Exp: 49	Capture Rate: 190
  Height:    3	Weight: 15
 
+ Types:
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Hustle:
+
+    This Pokémon's physical moves 
+  do 1.5× as much regular damage, 
+  but have 0.8× their usual accuracy.
+
+  Special moves are unaffected. 
+  Moves that do set damage, such 
+  as seismic toss, have their accuracy 
+  affected, but not their damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+  Serene-grace:
+
+    This Pokémon's moves have twice 
+  their usual effect chance.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, flamethrower's chance 
+  of burning the target is doubled, 
+  but protect's chance of success 
+  and air cutter's increased critical 
+  hit rate are unaffected.
+
+  secret power is unaffected.
+
+  Super-luck:
+
+    This Pokémon's moves have critical 
+  hit rates one stage higher than 
+  normal.
+
+
  Location Areas:
    Sinnoh sea route 230 area
    Violet city area

@@ -21,5 +21,36 @@
  Base Exp: 149	Capture Rate: 120
  Height:    8	Weight: 85
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Solar-power:
+
+    During strong sunlight, this 
+  Pokémon has 1.5× its Special 
+  Attack but takes 1/8 of its maximum 
+  HP in damage after each turn.
+
+  Early-bird:
+
+    This Pokémon's remaining sleep 
+  turn count falls by 2 rather 
+  than 1.
+
+  If this Pokémon's sleep counter 
+  is at 1, it will fall to 0 and 
+  then the Pokémon will wake up.
+
+
  Location Areas:
    Unova route 12 area

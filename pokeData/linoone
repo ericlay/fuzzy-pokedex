@@ -23,6 +23,55 @@
  Base Exp: 147	Capture Rate: 90
  Height:    5	Weight: 325
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Pickup:
+
+    At the end of each turn, if 
+  another Pokémon consumed or Flung 
+  a held item that turn, this Pokémon 
+  picks up the item if it is not 
+  already holding one. After each 
+  battle, this Pokémon has a 10% 
+  chance of picking up an item 
+  if it is not already holding 
+  one.
+
+  The air balloon and eject button 
+  cannot be picked up.
+
+  The items that may be found 
+  vary by game, and, since Pokémon 
+  Emerald, by the Pokémon's level. 
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+  Quick-feet:
+
+    Whenever this Pokémon has a 
+  major status ailment, it has 
+  1.5× its Speed. This Pokémon 
+  is not affected by the usual 
+  Speed cut from paralysis.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved.
+
+
  Location Areas:
    Johto route 30 area
    Johto route 31 area

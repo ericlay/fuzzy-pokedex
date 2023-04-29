@@ -28,6 +28,36 @@ Stage 2 Forms:
  Base Exp: 60	Capture Rate: 190
  Height:    7	Weight: 168
 
+ Types:
+   Ice
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Inner-focus:
+
+    This Pokémon cannot flinch.
+
+  Ice-body:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during hail, and it does 
+  not take hail damage regardless 
+  of type.
+
+  Moody:
+
+    After each turn, one of this 
+  Pokémon's stats at random rises 
+  two stages, and another falls 
+  one stage.
+
+  If a stat is already at 6 or 
+  -6 stages, it will not be chosen 
+  to be increased or decreased, 
+  respectively.
+
+
  Location Areas:
    Lake acuity area
    Acuity lakefront area

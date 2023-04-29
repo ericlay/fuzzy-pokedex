@@ -21,6 +21,51 @@
  Base Exp: 144	Capture Rate: 60
  Height:    6	Weight: 50
 
+ Types:
+   Water
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Hustle:
+
+    This Pokémon's physical moves 
+  do 1.5× as much regular damage, 
+  but have 0.8× their usual accuracy.
+
+  Special moves are unaffected. 
+  Moves that do set damage, such 
+  as seismic toss, have their accuracy 
+  affected, but not their damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+  Natural-cure:
+
+    This Pokémon is cured of any 
+  major status ailment when it 
+  is switched out for another Pokémon.
+
+  If this ability is acquired 
+  during battle, the Pokémon is 
+  cured upon leaving battle before 
+  losing the temporary ability.
+
+  Regenerator:
+
+    This Pokémon regains 1/3 of 
+  its maximum HP when it is switched 
+  out for another Pokémon under 
+  any circumstances other than 
+  having fainted.
+
+  This ability does not take 
+  effect when a battle ends.
+
+
  Location Areas:
    Sinnoh sea route 230 area
    Cherrygrove city area

@@ -21,5 +21,22 @@
  Base Exp: 300	Capture Rate: 45
  Height:    22	Weight: 2100
 
+ Types:
+   Dragon
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Inner-focus:
+
+    This Pokémon cannot flinch.
+
+  Multiscale:
+
+    This Pokémon takes half as 
+  much damage when it is hit having 
+  full HP.
+
+
  Location Areas:
    Dragonspiral tower outside

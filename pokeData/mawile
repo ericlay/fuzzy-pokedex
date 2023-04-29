@@ -23,6 +23,69 @@
  Base Exp: 133	Capture Rate: 45
  Height:    6	Weight: 115
 
+ Types:
+   Steel
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Hyper-cutter:
+
+    This Pokémon's Attack cannot 
+  be lowered by other Pokémon.
+
+  This ability does not prevent 
+  any Attack losses other than 
+  stat modifiers, such as the Attack 
+  cut from a burn. This Pokémon 
+  can still be passed negative 
+  Attack modifiers through heart 
+  swap or power swap.
+
+  Intimidate:
+
+    When this Pokémon enters battle, 
+  the opponent's Attack is lowered 
+  by one stage. In a double battle, 
+  both opponents are affected.
+
+  This ability also takes effect 
+  when acquired during a battle, 
+  but will not take effect again 
+  if lost and reobtained without 
+  leaving battle.
+
+  This ability has no effect 
+  on an opponent that has a substitute.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Sheer-force:
+
+    This Pokémon's moves with extra 
+  effects have 1.3× their power, 
+  but lose their extra effects.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, thunder shock's paralysis 
+  is an extra effect, but thunder 
+  wave's is not, nor are knock 
+  off's item removal and air cutter's 
+  increased critical hit rate.
+
+  Moves that lower the user's 
+  stats are unaffected.
+
+
  Location Areas:
    Iron island b1f left
    Iron island b1f right

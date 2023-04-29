@@ -29,6 +29,26 @@ Stage 2 Forms:
  Base Exp: 170	Capture Rate: 60
  Height:    18	Weight: 226
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+
  Location Areas:
    Unova route 4 area
    Kalos route 12 area

@@ -21,6 +21,45 @@
  Base Exp: 137	Capture Rate: 90
  Height:    14	Weight: 356
 
+ Types:
+   Bug
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Early-bird:
+
+    This Pokémon's remaining sleep 
+  turn count falls by 2 rather 
+  than 1.
+
+  If this Pokémon's sleep counter 
+  is at 1, it will fall to 0 and 
+  then the Pokémon will wake up.
+
+  Iron-fist:
+
+    Moves flagged as being punch-based 
+  have 1.2× their base power for 
+  this Pokémon.
+
+  sucker punch is not flagged 
+  as punch-based; its original, 
+  Japanese name only means "surprise 
+  attack".
+
+
  Location Areas:
    Sinnoh route 229 area
    Kanto route 2 south towards viridian city

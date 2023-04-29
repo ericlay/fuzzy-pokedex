@@ -21,5 +21,35 @@
  Base Exp: 265	Capture Rate: 45
  Height:    14	Weight: 1506
 
+ Types:
+   Ice
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Thick-fat:
+
+    This Pokémon takes half as 
+  much damage from fire- and ice-type 
+  moves.
+
+  Ice-body:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during hail, and it does 
+  not take hail damage regardless 
+  of type.
+
+  Oblivious:
+
+    This Pokémon cannot be infatuated 
+  and is immune to captivate.
+
+  If a Pokémon is infatuated 
+  and acquires this ability, its 
+  infatuation is cleared.
+
+
  Location Areas:
    Undella bay area

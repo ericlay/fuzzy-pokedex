@@ -19,6 +19,34 @@
  Base Exp: 172	Capture Rate: 45
  Height:    12	Weight: 755
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Thick-fat:
+
+    This Pokémon takes half as 
+  much damage from fire- and ice-type 
+  moves.
+
+  Scrappy:
+
+    This Pokémon ignores ghost-type 
+  Pokémon's immunity to normal- 
+  and fighting-type moves.
+
+  Ghost Pokémon's other types 
+  affect damage as usual.
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+
  Location Areas:
    Sinnoh route 209 area
    Sinnoh route 210 south towards solaceon town

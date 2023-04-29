@@ -20,4 +20,24 @@
  Base Exp: 285	Capture Rate: 3
  Height:    12	Weight: 186
 
+ Types:
+   Psychic
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Psychic-surge:
+
+    When this Pokémon enters battle, 
+  it changes the terrain to psychic 
+  terrain.
+
+  Telepathy:
+
+    This Pokémon does not take 
+  damage from friendly Pokémon's 
+  moves, including single-target 
+  moves aimed at it.
+
+
  Location Areas:

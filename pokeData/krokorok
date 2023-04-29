@@ -21,6 +21,62 @@
  Base Exp: 123	Capture Rate: 90
  Height:    10	Weight: 334
 
+ Types:
+   Ground
+   Dark
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Intimidate:
+
+    When this Pokémon enters battle, 
+  the opponent's Attack is lowered 
+  by one stage. In a double battle, 
+  both opponents are affected.
+
+  This ability also takes effect 
+  when acquired during a battle, 
+  but will not take effect again 
+  if lost and reobtained without 
+  leaving battle.
+
+  This ability has no effect 
+  on an opponent that has a substitute.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Moxie:
+
+    This Pokémon's Attack rises 
+  one stage upon knocking out another 
+  Pokémon, even a friendly Pokémon.
+
+  This ability does not take 
+  effect when the Pokémon indirectly 
+  causes another Pokémon to faint, 
+  e.g. through poison or spikes.
+
+  If this Pokémon knocks out 
+  a Pokémon with mummy, the former's 
+  ability will change without taking 
+  effect.
+
+  Anger-point:
+
+    Whenever this Pokémon receives 
+  a critical hit, its Attack rises 
+  to the maximum of 6 stages.
+
+  This ability will still take 
+  effect if the critical hit is 
+  received by a substitute.
+
+
  Location Areas:
    Relic castle b
    Relic castle c

@@ -24,6 +24,37 @@
  Base Exp: 40	Capture Rate: 255
  Height:    6	Weight: 74
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Oblivious:
+
+    This Pokémon cannot be infatuated 
+  and is immune to captivate.
+
+  If a Pokémon is infatuated 
+  and acquires this ability, its 
+  infatuation is cleared.
+
+  Adaptability:
+
+    This Pokémon inflicts twice 
+  as much damage with moves whose 
+  types match its own, rather than 
+  the usual same-type attack bonus 
+  of 1.5×.
+
+
  Location Areas:
    Hoenn route 119 area
    Unova route 1 area

@@ -21,4 +21,27 @@
  Base Exp: 221	Capture Rate: 45
  Height:    17	Weight: 155
 
+ Types:
+   Grass
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+
  Location Areas:

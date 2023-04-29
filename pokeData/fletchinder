@@ -22,4 +22,33 @@
  Base Exp: 134	Capture Rate: 120
  Height:    7	Weight: 160
 
+ Types:
+   Fire
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Flame-body:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  burned.
+
+  Overworld: If any Pokémon in 
+  the party has this ability, each 
+  egg in the party has its hatch 
+  counter decreased by 2 (rather 
+  than 1) each step cycle, making 
+  eggs hatch roughly twice as quickly. 
+  This effect does not stack if 
+  multiple Pokémon have this ability 
+  or magma armor.
+
+  Gale-wings:
+
+    Raises flying moves' priority 
+  by one stage.
+
+
  Location Areas:

@@ -1,14 +1,8 @@
 
   Nuzleaf    Grass Type Pokémon
 
-  NUZLEAF live in densely overgrown 
-  forests.  They occasionally venture 
-  out of the forest to startle 
-  people.  Nuzleaf dislikes 
-  having its long nose pinched. 
   
-	   Evolution Chain
-  Seedot ► Nuzleaf ► Shiftry
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         70
@@ -18,10 +12,52 @@
  special-defense:         40
            speed:         60
 
- Genus: Wily Pokémon
- Happiness: 50	Pokedex ID: 274
- Base Exp: 119	Capture Rate: 120
+ Genus: 
+ Happiness: 	Pokedex ID: 274
+ Base Exp: 119	Capture Rate: 
  Height:    10	Weight: 280
+
+ Types:
+   Grass
+   Dark
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Early-bird:
+
+    This Pokémon's remaining sleep 
+  turn count falls by 2 rather 
+  than 1.
+
+  If this Pokémon's sleep counter 
+  is at 1, it will fall to 0 and 
+  then the Pokémon will wake up.
+
+  Pickpocket:
+
+    Whenever a move makes contact 
+  with this Pokémon, if it does 
+  not have a held item, it steals 
+  the attacker's held item.
+
+  This Pokémon cannot steal upon 
+  being knocked out. It can steal 
+  if the attacker has a substitute, 
+  but cannot steal when its own 
+  Substitute is hit. If a move 
+  hits multiple times, only the 
+  last hit triggers this ability. 
+  If this Pokémon is wild, it cannot 
+  steal from a trained Pokémon.
+
 
  Location Areas:
    Sinnoh route 210 south towards solaceon town

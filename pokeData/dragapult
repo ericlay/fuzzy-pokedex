@@ -22,4 +22,38 @@
  Base Exp: 300	Capture Rate: 45
  Height:    30	Weight: 500
 
+ Types:
+   Dragon
+   Ghost
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Clear-body:
+
+    This Pokémon cannot have its 
+  stats lowered by other Pokémon.
+
+  This ability does not prevent 
+  any stat losses other than stat 
+  modifiers, such as the Speed 
+  cut from paralysis. This Pokémon 
+  can still be passed negative 
+  stat modifiers through guard 
+  swap, heart swap, or power swap.
+
+  This ability functions identically 
+  to white smoke in battle.
+
+  Infiltrator:
+
+    This Pokémon's moves ignore 
+  light screen, reflect, and safeguard.
+
+  Cursed-body:
+
+    Moves that hit this Pokémon 
+  have a 30% chance of being Disabled 
+  afterward.
+
+
  Location Areas:

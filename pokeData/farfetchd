@@ -4,8 +4,7 @@
   The sprig of green onions it 
   holds is its weapon.  It is used 
   much like a metal sword. 
-	Evolution Chain
-      Farfetchd ► Sirfetchd
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         52
@@ -19,6 +18,49 @@
  Happiness: 50	Pokedex ID: 83
  Base Exp: 132	Capture Rate: 45
  Height:    8	Weight: 150
+
+ Types:
+   Normal
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Inner-focus:
+
+    This Pokémon cannot flinch.
+
+  Defiant:
+
+    When any of this Pokémon's 
+  stats are lowered, its Attack 
+  rises by two stages.
+
+  If multiple stats are lowered 
+  at once, this ability takes effect 
+  with each stat lowered.
+
 
  Location Areas:
    Sinnoh route 221 area

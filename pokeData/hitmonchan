@@ -26,5 +26,48 @@ Stage 2 Forms:
  Base Exp: 159	Capture Rate: 45
  Height:    14	Weight: 502
 
+ Types:
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Iron-fist:
+
+    Moves flagged as being punch-based 
+  have 1.2× their base power for 
+  this Pokémon.
+
+  sucker punch is not flagged 
+  as punch-based; its original, 
+  Japanese name only means "surprise 
+  attack".
+
+  Inner-focus:
+
+    This Pokémon cannot flinch.
+
+
  Location Areas:
    Saffron city fighting dojo

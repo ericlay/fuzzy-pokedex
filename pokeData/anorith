@@ -22,5 +22,28 @@
  Base Exp: 71	Capture Rate: 45
  Height:    7	Weight: 125
 
+ Types:
+   Rock
+   Bug
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Battle-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to shell armor.
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+
  Location Areas:
    Rustboro city area

@@ -22,6 +22,37 @@
  Base Exp: 210	Capture Rate: 75
  Height:    8	Weight: 285
 
+ Types:
+   Water
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Thick-fat:
+
+    This Pokémon takes half as 
+  much damage from fire- and ice-type 
+  moves.
+
+  Huge-power:
+
+    This Pokémon's Attack is doubled 
+  while in battle.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  This ability functions identically 
+  to pure power.
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+
  Location Areas:
    Sinnoh victory road b1f
    Sinnoh victory road inside b1f

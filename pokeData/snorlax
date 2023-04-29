@@ -21,6 +21,37 @@
  Base Exp: 189	Capture Rate: 25
  Height:    21	Weight: 4600
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Immunity:
+
+    This Pokémon cannot be poisoned. 
+  This includes bad poison.
+
+  If a Pokémon is poisoned and 
+  acquires this ability, its poison 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+  Thick-fat:
+
+    This Pokémon takes half as 
+  much damage from fire- and ice-type 
+  moves.
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+
  Location Areas:
    Kanto route 12 area
    Vermilion city area

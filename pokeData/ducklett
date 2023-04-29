@@ -21,6 +21,50 @@
  Base Exp: 61	Capture Rate: 190
  Height:    5	Weight: 55
 
+ Types:
+   Water
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Big-pecks:
+
+    This Pokémon's Defense cannot 
+  be lowered by other Pokémon.
+
+  This Pokémon can still be passed 
+  negative Defense modifiers through 
+  heart swap or guard swap.
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+
  Location Areas:
    Driftveil drawbridge area
    Kalos route 7 area

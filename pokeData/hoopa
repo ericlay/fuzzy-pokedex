@@ -20,4 +20,17 @@
  Base Exp: 270	Capture Rate: 3
  Height:    5	Weight: 90
 
+ Types:
+   Psychic
+   Ghost
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Magician:
+
+    Steals the target's held item 
+  when the bearer uses a damaging 
+  move.
+
+
  Location Areas:

@@ -23,4 +23,27 @@
  Base Exp: 173	Capture Rate: 45
  Height:    15	Weight: 682
 
+ Types:
+   Rock
+   Bug
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Battle-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to shell armor.
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+
  Location Areas:

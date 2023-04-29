@@ -23,6 +23,27 @@
  Base Exp: 54	Capture Rate: 200
  Height:    5	Weight: 17
 
+ Types:
+   Bug
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Rain-dish:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during rain.
+
+
  Location Areas:
    Lake verity before galactic intervention
    Lake verity after galactic intervention

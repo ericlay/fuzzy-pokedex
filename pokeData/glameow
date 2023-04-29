@@ -20,6 +20,52 @@
  Base Exp: 62	Capture Rate: 190
  Height:    5	Weight: 39
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Limber:
+
+    This Pokémon cannot be paralyzed.
+
+  If a Pokémon is paralyzed and 
+  acquires this ability, its paralysis 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+  Own-tempo:
+
+    This Pokémon cannot be confused.
+
+  If a Pokémon is confused and 
+  acquires this ability, its confusion 
+  will immediately be healed.
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+
  Location Areas:
    Sinnoh route 218 area
    Sinnoh route 222 area

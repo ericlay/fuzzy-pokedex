@@ -21,4 +21,65 @@
  Base Exp: 152	Capture Rate: 180
  Height:    3	Weight: 33
 
+ Types:
+   Electric
+   Steel
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Iron-barbs:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user takes 1/8 of its maximum 
+  HP in damage.
+
+  This ability functions identically 
+  to rough skin.
+
+  Lightning-rod:
+
+    All other Pokémon's single-target 
+  electric-type moves are redirected 
+  to this Pokémon if it is an eligible 
+  target. Other Pokémon's Electric 
+  moves raise this Pokémon's Special 
+  Attack one stage, negating any 
+  other effect on it, and cannot 
+  miss it.
+
+  If the move's intended target 
+  also has this ability, the move 
+  is not redirected. When multiple 
+  Pokémon with this ability are 
+  possible targets for redirection, 
+  the move is redirected to the 
+  one with the highest Speed stat, 
+  or, in the case of a tie, to 
+  a random tied Pokémon. follow 
+  me takes precedence over this 
+  ability.
+
+  If the Pokémon is a ground-type 
+  and thus immune to Electric moves, 
+  its immunity prevents the Special 
+  Attack boost.
+
+  Sturdy:
+
+    When this Pokémon is at full 
+  HP, any hit that would knock 
+  it out will instead leave it 
+  with 1 HP. Regardless of its 
+  current HP, it is also immune 
+  to the one-hit KO moves: fissure, 
+  guillotine, horn drill, and sheer 
+  cold.
+
+  If this Pokémon is holding 
+  a focus sash, this ability takes 
+  precedence and the item will 
+  not be consumed.
+
+
  Location Areas:

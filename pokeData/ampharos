@@ -21,4 +21,38 @@
  Base Exp: 230	Capture Rate: 45
  Height:    14	Weight: 615
 
+ Types:
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Static:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  paralyzed.
+
+  Pokémon that are immune to 
+  electric-type moves can still 
+  be paralyzed by this ability.
+
+  Overworld: If the lead Pokémon 
+  has this ability, there is a 
+  50% chance that encounters will 
+  be with an electric Pokémon, 
+  if applicable.
+
+  Plus:
+
+    This Pokémon has 1.5× its Special 
+  Attack if any friendly Pokémon 
+  has plus or minus.
+
+  This bonus does not count as 
+  a stat modifier. If either ability 
+  is disabled by gastro acid, both 
+  lose their effect.
+
+
  Location Areas:

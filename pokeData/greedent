@@ -22,4 +22,23 @@
  Base Exp: 161	Capture Rate: 90
  Height:    6	Weight: 60
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Cheek-pouch:
+
+    Restores HP upon eating a Berry, 
+  in addition to the Berry's effect.
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+
  Location Areas:

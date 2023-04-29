@@ -21,6 +21,42 @@
  Base Exp: 255	Capture Rate: 45
  Height:    15	Weight: 620
 
+ Types:
+   Water
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Poison-touch:
+
+    This Pokémon's contact moves 
+  have a 30% chance of poisoning 
+  the target with each hit.
+
+  This counts as an extra effect 
+  for the purposes of shield dust. 
+  This ability takes effect before 
+  mummy.
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+
  Location Areas:
    Icirrus city area
    Pinwheel forest outside

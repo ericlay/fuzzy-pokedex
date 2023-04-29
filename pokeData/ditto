@@ -20,6 +20,29 @@
  Base Exp: 101	Capture Rate: 35
  Height:    3	Weight: 40
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Limber:
+
+    This Pokémon cannot be paralyzed.
+
+  If a Pokémon is paralyzed and 
+  acquires this ability, its paralysis 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+  Imposter:
+
+    This Pokémon transforms into 
+  a random opponent upon entering 
+  battle. This effect is identical 
+  to the move transform.
+
+
  Location Areas:
    Sinnoh route 218 area
    Johto route 34 area

@@ -20,6 +20,65 @@
  Base Exp: 169	Capture Rate: 90
  Height:    14	Weight: 580
 
+ Types:
+   Fire
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+  Flash-fire:
+
+    This Pokémon is immune to fire-type 
+  moves. Once this Pokémon has 
+  been hit by a Fire move, its 
+  own Fire moves will inflict 1.5× 
+  as much damage until it leaves 
+  battle.
+
+  This ability has no effect 
+  while the Pokémon is frozen. 
+  The Fire damage bonus is retained 
+  even if the Pokémon is frozen 
+  and thawed or the ability is 
+  lost or disabled. Fire moves 
+  will ignore this Pokémon's substitute. 
+  This ability takes effect even 
+  on non-damaging moves, i.e. will 
+  o wisp.
+
+  White-smoke:
+
+    This Pokémon cannot have its 
+  stats lowered by other Pokémon.
+
+  This ability does not prevent 
+  any stat losses other than stat 
+  modifiers, such as the Speed 
+  cut from paralysis; nor self-inflicted 
+  stat drops, such as the Special 
+  Attack drop from overheat; nor 
+  opponent-triggered stat boosts, 
+  such as the Attack boost from 
+  swagger. This Pokémon can still 
+  be passed negative stat modifiers 
+  through guard swap, heart swap, 
+  or power swap.
+
+  This ability functions identically 
+  to clear body in battle.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved.
+
+
  Location Areas:
    Twist mountain area
    Unova victory road outside

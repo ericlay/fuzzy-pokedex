@@ -21,6 +21,55 @@
  Base Exp: 65	Capture Rate: 190
  Height:    9	Weight: 300
 
+ Types:
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Stench:
+
+    This Pokémon's damaging moves 
+  have a 10% chance to make the 
+  target flinch with each hit if 
+  they do not already cause flinching 
+  as a secondary effect.
+
+  This ability does not stack 
+  with a held item.
+
+  Overworld: The wild encounter 
+  rate is halved while this Pokémon 
+  is first in the party.
+
+  Sticky-hold:
+
+    This Pokémon's hold item cannot 
+  be removed by other Pokémon.
+
+  Damaging moves that would remove 
+  this Pokémon's item can still 
+  inflict damage against this Pokémon, 
+  e.g. knock off or pluck. This 
+  Pokémon can still use moves that 
+  involve the loss of its own item, 
+  e.g. fling or trick.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the encounter 
+  rate while fishing is increased.
+
+  Poison-touch:
+
+    This Pokémon's contact moves 
+  have a 30% chance of poisoning 
+  the target with each hit.
+
+  This counts as an extra effect 
+  for the purposes of shield dust. 
+  This ability takes effect before 
+  mummy.
+
+
  Location Areas:
    Sinnoh route 212 east towards pastoria city
    Celadon city area

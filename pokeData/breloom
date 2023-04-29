@@ -7,8 +7,7 @@
   stretchy arms.  Breloom’s 
   fighting technique puts boxers 
   to shame. 
-	Evolution Chain
-      Shroomish ► Breloom
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         60
@@ -22,5 +21,48 @@
  Happiness: 70	Pokedex ID: 286
  Base Exp: 161	Capture Rate: 90
  Height:    12	Weight: 392
+
+ Types:
+   Grass
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Effect-spore:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  paralyzed, poisoned, or put to 
+  sleep, chosen at random.
+
+  Nothing is done to compensate 
+  if the move's user is immune 
+  to one of these ailments; there 
+  is simply a lower chance that 
+  the move's user will be affected.
+
+  Poison-heal:
+
+    If this Pokémon is poisoned, 
+  it will heal for 1/8 of its maximum 
+  HP after each turn rather than 
+  taking damage. This includes 
+  bad poison.
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
 
  Location Areas:

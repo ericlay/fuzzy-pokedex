@@ -21,6 +21,33 @@
  Base Exp: 59	Capture Rate: 225
  Height:    4	Weight: 80
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Sniper:
+
+    This Pokémon inflicts triple 
+  damage with critical hits, rather 
+  than the usual double damage.
+
+  Damp:
+
+    While this Pokémon is in battle, 
+  self destruct and explosion will 
+  fail and aftermath will not take 
+  effect.
+
+
  Location Areas:
    Sinnoh sea route 226 area
    Whirl islands 1f

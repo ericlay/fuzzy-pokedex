@@ -21,6 +21,30 @@
  Base Exp: 173	Capture Rate: 75
  Height:    11	Weight: 335
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Water-veil:
+
+    This Pokémon cannot be burned.
+
+  If a Pokémon is burned and 
+  acquires this ability, its burn 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+
  Location Areas:
    Fuego ironworks area
    Sinnoh victory road b1f

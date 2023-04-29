@@ -25,6 +25,27 @@ Stage 3 Forms:
  Base Exp: 64	Capture Rate: 255
  Height:    5	Weight: 54
 
+ Types:
+   Grass
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Run-away:
+
+    This Pokémon is always successful 
+  fleeing from wild battles, even 
+  if trapped by a move or ability.
+
+
  Location Areas:
    Sinnoh route 224 area
    Sinnoh route 229 area

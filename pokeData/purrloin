@@ -21,6 +21,42 @@
  Base Exp: 56	Capture Rate: 255
  Height:    4	Weight: 101
 
+ Types:
+   Dark
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Limber:
+
+    This Pokémon cannot be paralyzed.
+
+  If a Pokémon is paralyzed and 
+  acquires this ability, its paralysis 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+  Unburden:
+
+    When this Pokémon uses or loses 
+  its held item, its Speed is doubled. 
+  If it gains another item or leaves 
+  battle, this bonus is lost.
+
+  This includes when the Pokémon 
+  drops its item because of knock 
+  off. This bonus does not count 
+  as a stat modifier. There is 
+  no notification when this ability 
+  takes effect.
+
+  Prankster:
+
+    This Pokémon's non-damaging 
+  moves have their priority increased 
+  by one stage.
+
+
  Location Areas:
    Dreamyard area
    Unova route 2 area

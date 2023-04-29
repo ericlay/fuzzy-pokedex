@@ -21,6 +21,22 @@
  Base Exp: 49	Capture Rate: 255
  Height:    8	Weight: 75
 
+ Types:
+   Poison
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Inner-focus:
+
+    This Pokémon cannot flinch.
+
+  Infiltrator:
+
+    This Pokémon's moves ignore 
+  light screen, reflect, and safeguard.
+
+
  Location Areas:
    Oreburgh mine 1f
    Oreburgh mine b1f

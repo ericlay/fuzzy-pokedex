@@ -21,6 +21,27 @@
  Base Exp: 40	Capture Rate: 255
  Height:    9	Weight: 100
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Rattled:
+
+    This Pokémon's Speed rises 
+  one stage with each hit from 
+  a damaging dark-, ghost-, or 
+  bug-type move.
+
+
  Location Areas:
    Canalave city area
    Eterna city area

@@ -21,6 +21,58 @@
  Base Exp: 127	Capture Rate: 120
  Height:    9	Weight: 305
 
+ Types:
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Rivalry:
+
+    This Pokémon inflicts 1.25× 
+  as much regular damage against 
+  Pokémon of the same gender and 
+  0.75× as much regular damage 
+  against Pokémon of the opposite 
+  gender.
+
+  If either Pokémon is genderless, 
+  damage is unaffected.
+
+  Intimidate:
+
+    When this Pokémon enters battle, 
+  the opponent's Attack is lowered 
+  by one stage. In a double battle, 
+  both opponents are affected.
+
+  This ability also takes effect 
+  when acquired during a battle, 
+  but will not take effect again 
+  if lost and reobtained without 
+  leaving battle.
+
+  This ability has no effect 
+  on an opponent that has a substitute.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Guts:
+
+    Whenever this Pokémon is asleep, 
+  burned, paralyzed, or poisoned, 
+  it has 1.5× its Attack. This 
+  Pokémon is not affected by the 
+  usual Attack cut from a burn.
+
+  This bonus does not count as 
+  a stat modifier.
+
+
  Location Areas:
    Fuego ironworks area
    Sinnoh route 222 area

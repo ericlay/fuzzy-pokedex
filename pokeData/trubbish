@@ -21,6 +21,51 @@
  Base Exp: 66	Capture Rate: 190
  Height:    6	Weight: 310
 
+ Types:
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Stench:
+
+    This Pokémon's damaging moves 
+  have a 10% chance to make the 
+  target flinch with each hit if 
+  they do not already cause flinching 
+  as a secondary effect.
+
+  This ability does not stack 
+  with a held item.
+
+  Overworld: The wild encounter 
+  rate is halved while this Pokémon 
+  is first in the party.
+
+  Sticky-hold:
+
+    This Pokémon's hold item cannot 
+  be removed by other Pokémon.
+
+  Damaging moves that would remove 
+  this Pokémon's item can still 
+  inflict damage against this Pokémon, 
+  e.g. knock off or pluck. This 
+  Pokémon can still use moves that 
+  involve the loss of its own item, 
+  e.g. fling or trick.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the encounter 
+  rate while fishing is increased.
+
+  Aftermath:
+
+    When this Pokémon is knocked 
+  out by a move that makes contact, 
+  the move's user takes 1/4 its 
+  maximum HP in damage.
+
+
  Location Areas:
    Unova route 4 area
    Unova route 5 area

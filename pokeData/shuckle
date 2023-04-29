@@ -19,6 +19,44 @@
  Base Exp: 177	Capture Rate: 190
  Height:    6	Weight: 205
 
+ Types:
+   Bug
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sturdy:
+
+    When this Pokémon is at full 
+  HP, any hit that would knock 
+  it out will instead leave it 
+  with 1 HP. Regardless of its 
+  current HP, it is also immune 
+  to the one-hit KO moves: fissure, 
+  guillotine, horn drill, and sheer 
+  cold.
+
+  If this Pokémon is holding 
+  a focus sash, this ability takes 
+  precedence and the item will 
+  not be consumed.
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+  Contrary:
+
+    Whenever this Pokémon's stats 
+  would be raised, they are instead 
+  lowered by the same amount, and 
+  vice versa.
+
+
  Location Areas:
    Sinnoh route 224 area
    Johto sea route 40 area

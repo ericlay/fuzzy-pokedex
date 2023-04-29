@@ -22,6 +22,39 @@
  Base Exp: 142	Capture Rate: 200
  Height:    4	Weight: 42
 
+ Types:
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Minus:
+
+    This Pokémon has 1.5× its Special 
+  Attack if any friendly Pokémon 
+  has plus or minus.
+
+  This bonus does not count as 
+  a stat modifier. If either ability 
+  is disabled by gastro acid, both 
+  lose their effect.
+
+  Volt-absorb:
+
+    Whenever an electric-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  This ability will not take 
+  effect if this Pokémon is ground-type 
+  and thus immune to Electric moves. 
+  Electric moves will ignore this 
+  Pokémon's substitute.
+
+  This effect includes non-damaging 
+  moves, i.e. thunder wave.
+
+
  Location Areas:
    Johto route 29 area
    Johto route 33 area

@@ -20,6 +20,37 @@
  Base Exp: 187	Capture Rate: 45
  Height:    25	Weight: 2200
 
+ Types:
+   Water
+   Ice
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Hydration:
+
+    This Pokémon is cured of any 
+  major status ailment after each 
+  turn during rain.
+
+
  Location Areas:
    Sinnoh victory road inside b1f
    Union cave b2f

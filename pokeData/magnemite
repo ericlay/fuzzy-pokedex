@@ -21,6 +21,54 @@
  Base Exp: 65	Capture Rate: 190
  Height:    3	Weight: 60
 
+ Types:
+   Electric
+   Steel
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Magnet-pull:
+
+    While this Pokémon is in battle, 
+  opposing steel-type Pokémon cannot 
+  flee or switch out.
+
+  Pokémon with run away can still 
+  flee. Pokémon can still switch 
+  out with the use of a move or 
+  item.
+
+  Overworld: If the lead Pokémon 
+  has this ability, Steel-type 
+  Pokémon have a higher encounter 
+  rate.
+
+  Sturdy:
+
+    When this Pokémon is at full 
+  HP, any hit that would knock 
+  it out will instead leave it 
+  with 1 HP. Regardless of its 
+  current HP, it is also immune 
+  to the one-hit KO moves: fissure, 
+  guillotine, horn drill, and sheer 
+  cold.
+
+  If this Pokémon is holding 
+  a focus sash, this ability takes 
+  precedence and the item will 
+  not be consumed.
+
+  Analytic:
+
+    This Pokémon's moves have 1.3× 
+  their power when it moves last 
+  in a turn.
+
+  future sight and doom desire 
+  are unaffected.
+
+
  Location Areas:
    Fuego ironworks area
    Sinnoh route 222 area

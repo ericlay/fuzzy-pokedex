@@ -23,6 +23,36 @@
  Base Exp: 48	Capture Rate: 190
  Height:    6	Weight: 163
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Soundproof:
+
+    This Pokémon is immune to moves 
+  flagged as being sound-based.
+
+  heal bell is unaffected. uproar 
+  still prevents this Pokémon from 
+  sleeping. This Pokémon can still 
+  receive a Perish Song counter 
+  through baton pass, and will 
+  retain a Perish Song counter 
+  if it acquires this ability after 
+  Perish Song is used.
+
+  howl, roar of time, sonic boom, 
+  and yawn are not flagged as sound-based.
+
+  Rattled:
+
+    This Pokémon's Speed rises 
+  one stage with each hit from 
+  a damaging dark-, ghost-, or 
+  bug-type move.
+
+
  Location Areas:
    Johto route 30 area
    Johto route 31 area

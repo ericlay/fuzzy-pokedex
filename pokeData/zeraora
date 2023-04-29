@@ -21,4 +21,26 @@
  Base Exp: 300	Capture Rate: 3
  Height:    15	Weight: 445
 
+ Types:
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Volt-absorb:
+
+    Whenever an electric-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  This ability will not take 
+  effect if this Pokémon is ground-type 
+  and thus immune to Electric moves. 
+  Electric moves will ignore this 
+  Pokémon's substitute.
+
+  This effect includes non-damaging 
+  moves, i.e. thunder wave.
+
+
  Location Areas:

@@ -24,4 +24,26 @@ Stage 3 Forms:
  Base Exp: 40	Capture Rate: 45
  Height:    2	Weight: 1
 
+ Types:
+   Psychic
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Unaware:
+
+    This Pokémon ignores other 
+  Pokémon's stat modifiers for 
+  the purposes of damage and accuracy 
+  calculation.
+
+  Effectively, this affects modifiers 
+  of every stat except Speed.
+
+  The power of punishment and 
+  stored power is calculated as 
+  usual. When this Pokémon hurts 
+  itself in confusion, its stat 
+  modifiers affect damage as usual.
+
+
  Location Areas:

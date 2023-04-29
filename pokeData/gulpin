@@ -23,6 +23,47 @@
  Base Exp: 60	Capture Rate: 225
  Height:    4	Weight: 103
 
+ Types:
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Liquid-ooze:
+
+    Whenever a Pokémon would heal 
+  after hitting this Pokémon with 
+  a leeching move like absorb, 
+  it instead loses as many HP as 
+  it would usually gain.
+
+  dream eater is unaffected.
+
+  Sticky-hold:
+
+    This Pokémon's hold item cannot 
+  be removed by other Pokémon.
+
+  Damaging moves that would remove 
+  this Pokémon's item can still 
+  inflict damage against this Pokémon, 
+  e.g. knock off or pluck. This 
+  Pokémon can still use moves that 
+  involve the loss of its own item, 
+  e.g. fling or trick.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the encounter 
+  rate while fishing is increased.
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+
  Location Areas:
    Kanto route 3 area
    Hoenn route 110 area

@@ -21,6 +21,52 @@
  Base Exp: 147	Capture Rate: 255
  Height:    11	Weight: 270
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Illuminate:
+
+    Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is doubled.
+
+  This ability has no effect 
+  in battle.
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Analytic:
+
+    This Pokémon's moves have 1.3× 
+  their power when it moves last 
+  in a turn.
+
+  future sight and doom desire 
+  are unaffected.
+
+
  Location Areas:
    Dreamyard area
    Dreamyard b1f

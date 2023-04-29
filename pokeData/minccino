@@ -21,6 +21,50 @@
  Base Exp: 60	Capture Rate: 255
  Height:    4	Weight: 58
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Cute-charm:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  infatuated.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any wild Pokémon whose species 
+  can be either gender has a 2/3 
+  chance of being set to the opposite 
+  gender, and a 1/3 chance of having 
+  a random gender as usual.
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
+  Skill-link:
+
+    This Pokémon always hits five 
+  times with two-to-five-hit moves, 
+  such as icicle spear. It also 
+  bypasses the accuracy checks 
+  on triple kick's second and third 
+  hits.
+
+
  Location Areas:
    Cold storage area
    Unova route 4 area

@@ -22,5 +22,35 @@
  Base Exp: 290	Capture Rate: 3
  Height:    18	Weight: 1750
 
+ Types:
+   Ice
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Clear-body:
+
+    This Pokémon cannot have its 
+  stats lowered by other Pokémon.
+
+  This ability does not prevent 
+  any stat losses other than stat 
+  modifiers, such as the Speed 
+  cut from paralysis. This Pokémon 
+  can still be passed negative 
+  stat modifiers through guard 
+  swap, heart swap, or power swap.
+
+  This ability functions identically 
+  to white smoke in battle.
+
+  Ice-body:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during hail, and it does 
+  not take hail damage regardless 
+  of type.
+
+
  Location Areas:
    Island cave area

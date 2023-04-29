@@ -21,6 +21,46 @@
  Base Exp: 137	Capture Rate: 120
  Height:    9	Weight: 1020
 
+ Types:
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sturdy:
+
+    When this Pokémon is at full 
+  HP, any hit that would knock 
+  it out will instead leave it 
+  with 1 HP. Regardless of its 
+  current HP, it is also immune 
+  to the one-hit KO moves: fissure, 
+  guillotine, horn drill, and sheer 
+  cold.
+
+  If this Pokémon is holding 
+  a focus sash, this ability takes 
+  precedence and the item will 
+  not be consumed.
+
+  Weak-armor:
+
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
+
+  This ability triggers on every 
+  hit of a multiple-hit move.
+
+  Sand-force:
+
+    During a sandstorm, this Pokémon's 
+  rock-, ground-, and steel-type 
+  moves have 1.3× their base power. 
+  This Pokémon does not take sandstorm 
+  damage, regardless of type.
+
+
  Location Areas:
    Chargestone cave 1f
    Chargestone cave b1f

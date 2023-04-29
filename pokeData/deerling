@@ -21,6 +21,46 @@
  Base Exp: 67	Capture Rate: 190
  Height:    6	Weight: 195
 
+ Types:
+   Normal
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+  Serene-grace:
+
+    This Pokémon's moves have twice 
+  their usual effect chance.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, flamethrower's chance 
+  of burning the target is doubled, 
+  but protect's chance of success 
+  and air cutter's increased critical 
+  hit rate are unaffected.
+
+  secret power is unaffected.
+
+
  Location Areas:
    Dragonspiral tower entrance
    Dragonspiral tower outside

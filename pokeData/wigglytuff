@@ -21,6 +21,46 @@
  Base Exp: 218	Capture Rate: 50
  Height:    10	Weight: 120
 
+ Types:
+   Normal
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Cute-charm:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  infatuated.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any wild Pokémon whose species 
+  can be either gender has a 2/3 
+  chance of being set to the opposite 
+  gender, and a 1/3 chance of having 
+  a random gender as usual.
+
+  Competitive:
+
+    Raises Special Attack by two 
+  stages upon having any stat lowered.
+
+  Frisk:
+
+    When this Pokémon enters battle, 
+  it reveals an opposing Pokémon's 
+  held item to all participating 
+  trainers.
+
+  In a double battle, if one 
+  opponent has an item, this Pokémon 
+  will Frisk that Pokémon; if both 
+  have an item, it will Frisk one 
+  at random.
+
+
  Location Areas:
    Cerulean cave 2f
    Dreamyard area

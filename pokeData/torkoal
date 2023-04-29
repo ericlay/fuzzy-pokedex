@@ -20,6 +20,64 @@
  Base Exp: 165	Capture Rate: 90
  Height:    5	Weight: 804
 
+ Types:
+   Fire
+
+ ↞---------------|ABILITIES|---------------↠
+
+  White-smoke:
+
+    This Pokémon cannot have its 
+  stats lowered by other Pokémon.
+
+  This ability does not prevent 
+  any stat losses other than stat 
+  modifiers, such as the Speed 
+  cut from paralysis; nor self-inflicted 
+  stat drops, such as the Special 
+  Attack drop from overheat; nor 
+  opponent-triggered stat boosts, 
+  such as the Attack boost from 
+  swagger. This Pokémon can still 
+  be passed negative stat modifiers 
+  through guard swap, heart swap, 
+  or power swap.
+
+  This ability functions identically 
+  to clear body in battle.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved.
+
+  Drought:
+
+    The weather changes to strong 
+  sunlight when this Pokémon enters 
+  battle and does not end unless 
+  cancelled by another weather 
+  condition.
+
+  If multiple Pokémon with this 
+  ability, drizzle, sand stream, 
+  or snow warning are sent out 
+  at the same time, the abilities 
+  will activate in order of Speed, 
+  respecting trick room. Each ability's 
+  weather will cancel the previous 
+  weather, and only the weather 
+  summoned by the slowest of the 
+  Pokémon will stay.
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+
  Location Areas:
    Stark mountain area
    Sinnoh route 227 area

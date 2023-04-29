@@ -20,4 +20,25 @@
  Base Exp: 172	Capture Rate: 45
  Height:    20	Weight: 828
 
+ Types:
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Receiver:
+
+    When an ally faints, this Pokémon 
+  gains its Ability.
+
+  Defiant:
+
+    When any of this Pokémon's 
+  stats are lowered, its Attack 
+  rises by two stages.
+
+  If multiple stats are lowered 
+  at once, this ability takes effect 
+  with each stat lowered.
+
+
  Location Areas:

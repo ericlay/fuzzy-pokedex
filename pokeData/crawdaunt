@@ -24,6 +24,42 @@
  Base Exp: 164	Capture Rate: 155
  Height:    11	Weight: 328
 
+ Types:
+   Water
+   Dark
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Hyper-cutter:
+
+    This Pokémon's Attack cannot 
+  be lowered by other Pokémon.
+
+  This ability does not prevent 
+  any Attack losses other than 
+  stat modifiers, such as the Attack 
+  cut from a burn. This Pokémon 
+  can still be passed negative 
+  Attack modifiers through heart 
+  swap or power swap.
+
+  Shell-armor:
+
+    Moves cannot score critical 
+  hits against this Pokémon.
+
+  This ability functions identically 
+  to battle armor.
+
+  Adaptability:
+
+    This Pokémon inflicts twice 
+  as much damage with moves whose 
+  types match its own, rather than 
+  the usual same-type attack bonus 
+  of 1.5×.
+
+
  Location Areas:
    Celestic town area
    Striaton city area

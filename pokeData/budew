@@ -21,6 +21,47 @@
  Base Exp: 56	Capture Rate: 255
  Height:    2	Weight: 12
 
+ Types:
+   Grass
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Natural-cure:
+
+    This Pokémon is cured of any 
+  major status ailment when it 
+  is switched out for another Pokémon.
+
+  If this ability is acquired 
+  during battle, the Pokémon is 
+  cured upon leaving battle before 
+  losing the temporary ability.
+
+  Poison-point:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  poisoned.
+
+  Leaf-guard:
+
+    This Pokémon cannot be given 
+  a major status ailment during 
+  strong sunlight.
+
+  This ability does not heal 
+  prior status ailments. rest will 
+  fail altogether with this ability 
+  in effect. yawn will immediately 
+  fail if used on this Pokémon 
+  during strong sunlight, and an 
+  already-used Yawn will fail if 
+  the weather turns to strong sunlight 
+  in the meantime.
+
+
  Location Areas:
    Eterna forest area
    Great marsh area 1

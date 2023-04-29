@@ -25,6 +25,43 @@ Stage 2 Forms:
  Base Exp: 100	Capture Rate: 45
  Height:    15	Weight: 560
 
+ Types:
+   Bug
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
+  Steadfast:
+
+    Whenever this Pokémon flinches, 
+  its Speed rises one stage.
+
+
  Location Areas:
    Sinnoh route 210 south towards solaceon town
    Sinnoh route 210 west towards celestic town

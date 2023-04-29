@@ -20,6 +20,43 @@
  Base Exp: 60	Capture Rate: 45
  Height:    6	Weight: 421
 
+ Types:
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Rock-head:
+
+    This Pokémon does not receive 
+  recoil damage from its recoil 
+  moves.
+
+  struggle's recoil is unaffected. 
+  This ability does not prevent 
+  crash damage from missing with 
+  jump kick or high jump kick.
+
+  Sheer-force:
+
+    This Pokémon's moves with extra 
+  effects have 1.3× their power, 
+  but lose their extra effects.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, thunder shock's paralysis 
+  is an extra effect, but thunder 
+  wave's is not, nor are knock 
+  off's item removal and air cutter's 
+  increased critical hit rate.
+
+  Moves that lower the user's 
+  stats are unaffected.
+
+
  Location Areas:
    Sinnoh route 210 west towards celestic town
    Meteor falls backsmall room

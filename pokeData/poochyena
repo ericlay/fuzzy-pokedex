@@ -23,6 +23,37 @@
  Base Exp: 56	Capture Rate: 255
  Height:    5	Weight: 136
 
+ Types:
+   Dark
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Run-away:
+
+    This Pokémon is always successful 
+  fleeing from wild battles, even 
+  if trapped by a move or ability.
+
+  Quick-feet:
+
+    Whenever this Pokémon has a 
+  major status ailment, it has 
+  1.5× its Speed. This Pokémon 
+  is not affected by the usual 
+  Speed cut from paralysis.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved.
+
+  Rattled:
+
+    This Pokémon's Speed rises 
+  one stage with each hit from 
+  a damaging dark-, ghost-, or 
+  bug-type move.
+
+
  Location Areas:
    Sinnoh route 214 area
    Kanto route 1 area

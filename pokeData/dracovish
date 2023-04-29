@@ -21,4 +21,33 @@
  Base Exp: 177	Capture Rate: 45
  Height:    23	Weight: 2150
 
+ Types:
+   Water
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+  Strong-jaw:
+
+    Strengthens biting moves to 
+  1.5× their power.
+
+  Sand-rush:
+
+    This Pokémon's Speed is doubled 
+  during a sandstorm, and it does 
+  not take sandstorm damage, regardless 
+  of type.
+
+
  Location Areas:

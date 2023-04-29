@@ -21,5 +21,46 @@
  Base Exp: 166	Capture Rate: 60
  Height:    15	Weight: 710
 
+ Types:
+   Ghost
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Natural-cure:
+
+    This Pokémon is cured of any 
+  major status ailment when it 
+  is switched out for another Pokémon.
+
+  If this ability is acquired 
+  during battle, the Pokémon is 
+  cured upon leaving battle before 
+  losing the temporary ability.
+
+  Frisk:
+
+    When this Pokémon enters battle, 
+  it reveals an opposing Pokémon's 
+  held item to all participating 
+  trainers.
+
+  In a double battle, if one 
+  opponent has an item, this Pokémon 
+  will Frisk that Pokémon; if both 
+  have an item, it will Frisk one 
+  at random.
+
+  Harvest:
+
+    After each turn, if the last 
+  item this Pokémon consumed was 
+  a Berry and it is not currently 
+  holding an item, it has a 50% 
+  chance of regaining that Berry, 
+  or a 100% chance during strong 
+  sunlight.
+
+
  Location Areas:
    Kalos route 20 area

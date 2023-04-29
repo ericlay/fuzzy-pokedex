@@ -20,5 +20,23 @@
  Base Exp: 300	Capture Rate: 45
  Height:    6	Weight: 50
 
+ Types:
+   Psychic
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Natural-cure:
+
+    This Pokémon is cured of any 
+  major status ailment when it 
+  is switched out for another Pokémon.
+
+  If this ability is acquired 
+  during battle, the Pokémon is 
+  cured upon leaving battle before 
+  losing the temporary ability.
+
+
  Location Areas:
    Ilex forest area

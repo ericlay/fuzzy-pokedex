@@ -20,6 +20,54 @@
  Base Exp: 50	Capture Rate: 255
  Height:    5	Weight: 200
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Simple:
+
+    Each stage of this Pokémon's 
+  stat modifiers acts as two stages. 
+  These doubled stages are still 
+  limited to a minimum of -6 and 
+  a maximum of 6.
+
+  This Pokémon can still accumulate 
+  less than -3 or more than 3 stages 
+  of stat modifiers, even though 
+  the extra ones have no effect 
+  after doubling.
+
+  Unaware:
+
+    This Pokémon ignores other 
+  Pokémon's stat modifiers for 
+  the purposes of damage and accuracy 
+  calculation.
+
+  Effectively, this affects modifiers 
+  of every stat except Speed.
+
+  The power of punishment and 
+  stored power is calculated as 
+  usual. When this Pokémon hurts 
+  itself in confusion, its stat 
+  modifiers affect damage as usual.
+
+  Moody:
+
+    After each turn, one of this 
+  Pokémon's stats at random rises 
+  two stages, and another falls 
+  one stage.
+
+  If a stat is already at 6 or 
+  -6 stages, it will not be chosen 
+  to be increased or decreased, 
+  respectively.
+
+
  Location Areas:
    Valley windworks area
    Eterna forest area

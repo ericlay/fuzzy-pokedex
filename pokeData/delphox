@@ -21,4 +21,24 @@
  Base Exp: 240	Capture Rate: 45
  Height:    15	Weight: 390
 
+ Types:
+   Fire
+   Psychic
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Blaze:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  fire-type moves inflict 1.5× 
+  as much regular damage.
+
+  Magician:
+
+    Steals the target's held item 
+  when the bearer uses a damaging 
+  move.
+
+
  Location Areas:

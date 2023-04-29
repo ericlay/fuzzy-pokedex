@@ -24,5 +24,45 @@
  Base Exp: 59	Capture Rate: 255
  Height:    4	Weight: 45
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Effect-spore:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  paralyzed, poisoned, or put to 
+  sleep, chosen at random.
+
+  Nothing is done to compensate 
+  if the move's user is immune 
+  to one of these ailments; there 
+  is simply a lower chance that 
+  the move's user will be affected.
+
+  Poison-heal:
+
+    If this Pokémon is poisoned, 
+  it will heal for 1/8 of its maximum 
+  HP after each turn rather than 
+  taking damage. This includes 
+  bad poison.
+
+  Quick-feet:
+
+    Whenever this Pokémon has a 
+  major status ailment, it has 
+  1.5× its Speed. This Pokémon 
+  is not affected by the usual 
+  Speed cut from paralysis.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved.
+
+
  Location Areas:
    Petalburg woods area

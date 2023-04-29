@@ -21,6 +21,53 @@
  Base Exp: 161	Capture Rate: 75
  Height:    12	Weight: 240
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swift-swim:
+
+    This Pokémon's Speed is doubled 
+  during rain.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Storm-drain:
+
+    All other Pokémon's single-target 
+  water-type moves are redirected 
+  to this Pokémon, if it is an 
+  eligible target. Other Pokémon's 
+  Water moves raise this Pokémon's 
+  Special Attack one stage, negating 
+  any other effect on it, and cannot 
+  miss it.
+
+  If the move's intended target 
+  also has this ability, the move 
+  is not redirected. When multiple 
+  Pokémon with this ability are 
+  possible targets for redirection, 
+  the move is redirected to the 
+  one with the highest Speed stat, 
+  or, in the case of a tie, to 
+  a random tied Pokémon. follow 
+  me takes precedence over this 
+  ability.
+
+  Water-veil:
+
+    This Pokémon cannot be burned.
+
+  If a Pokémon is burned and 
+  acquires this ability, its burn 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+
  Location Areas:
    Canalave city area
    Valley windworks area

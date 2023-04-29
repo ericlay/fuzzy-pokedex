@@ -21,6 +21,32 @@
  Base Exp: 154	Capture Rate: 75
  Height:    12	Weight: 250
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Poison-point:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  poisoned.
+
+  Sniper:
+
+    This Pokémon inflicts triple 
+  damage with critical hits, rather 
+  than the usual double damage.
+
+  Damp:
+
+    While this Pokémon is in battle, 
+  self destruct and explosion will 
+  fail and aftermath will not take 
+  effect.
+
+
  Location Areas:
    Sinnoh sea route 226 area
    Whirl islands 1f

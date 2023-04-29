@@ -21,6 +21,36 @@
  Base Exp: 168	Capture Rate: 60
  Height:    22	Weight: 1350
 
+ Types:
+   Water
+   Ghost
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Water-absorb:
+
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+  Cursed-body:
+
+    Moves that hit this Pokémon 
+  have a 30% chance of being Disabled 
+  afterward.
+
+  Damp:
+
+    While this Pokémon is in battle, 
+  self destruct and explosion will 
+  fail and aftermath will not take 
+  effect.
+
+
  Location Areas:
    Driftveil city area
    P2 laboratory area

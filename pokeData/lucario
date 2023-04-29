@@ -20,5 +20,30 @@
  Base Exp: 184	Capture Rate: 45
  Height:    12	Weight: 540
 
+ Types:
+   Fighting
+   Steel
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Steadfast:
+
+    Whenever this Pokémon flinches, 
+  its Speed rises one stage.
+
+  Inner-focus:
+
+    This Pokémon cannot flinch.
+
+  Justified:
+
+    Whenever a dark-type move hits 
+  this Pokémon, its Attack rises 
+  one stage.
+
+  The move is not negated in 
+  any way.
+
+
  Location Areas:
    Tower of mastery area

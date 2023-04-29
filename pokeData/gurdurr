@@ -21,6 +21,54 @@
  Base Exp: 142	Capture Rate: 90
  Height:    12	Weight: 400
 
+ Types:
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Guts:
+
+    Whenever this Pokémon is asleep, 
+  burned, paralyzed, or poisoned, 
+  it has 1.5× its Attack. This 
+  Pokémon is not affected by the 
+  usual Attack cut from a burn.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Sheer-force:
+
+    This Pokémon's moves with extra 
+  effects have 1.3× their power, 
+  but lose their extra effects.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, thunder shock's paralysis 
+  is an extra effect, but thunder 
+  wave's is not, nor are knock 
+  off's item removal and air cutter's 
+  increased critical hit rate.
+
+  Moves that lower the user's 
+  stats are unaffected.
+
+  Iron-fist:
+
+    Moves flagged as being punch-based 
+  have 1.2× their base power for 
+  this Pokémon.
+
+  sucker punch is not flagged 
+  as punch-based; its original, 
+  Japanese name only means "surprise 
+  attack".
+
+
  Location Areas:
    Pinwheel forest outside
    Twist mountain area

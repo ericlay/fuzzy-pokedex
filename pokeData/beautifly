@@ -32,6 +32,36 @@ Stage 3 Forms:
  Base Exp: 178	Capture Rate: 45
  Height:    10	Weight: 284
 
+ Types:
+   Bug
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Rivalry:
+
+    This Pokémon inflicts 1.25× 
+  as much regular damage against 
+  Pokémon of the same gender and 
+  0.75× as much regular damage 
+  against Pokémon of the opposite 
+  gender.
+
+  If either Pokémon is genderless, 
+  damage is unaffected.
+
+
  Location Areas:
    Eterna forest area
    Sinnoh route 205 east towards eterna city

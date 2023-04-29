@@ -21,6 +21,26 @@
  Base Exp: 62	Capture Rate: 45
  Height:    6	Weight: 85
 
+ Types:
+   Fire
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Blaze:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  fire-type moves inflict 1.5× 
+  as much regular damage.
+
+  Solar-power:
+
+    During strong sunlight, this 
+  Pokémon has 1.5× its Special 
+  Attack but takes 1/8 of its maximum 
+  HP in damage after each turn.
+
+
  Location Areas:
    Pallet town area
    Kanto route 24 area

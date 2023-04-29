@@ -21,6 +21,60 @@
  Base Exp: 151	Capture Rate: 75
  Height:    8	Weight: 550
 
+ Types:
+   Fire
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Magma-armor:
+
+    This Pokémon cannot be frozen.
+
+  If a Pokémon is frozen and 
+  acquires this ability, it will 
+  immediately thaw out; this includes 
+  when regaining a lost ability 
+  upon leaving battle.
+
+  Overworld: If any Pokémon in 
+  the party has this ability, each 
+  egg in the party has its hatch 
+  counter decreased by 2 (rather 
+  than 1) each step cycle, making 
+  eggs hatch roughly twice as quickly. 
+  This effect does not stack if 
+  multiple Pokémon have this ability 
+  or flame body.
+
+  Flame-body:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  burned.
+
+  Overworld: If any Pokémon in 
+  the party has this ability, each 
+  egg in the party has its hatch 
+  counter decreased by 2 (rather 
+  than 1) each step cycle, making 
+  eggs hatch roughly twice as quickly. 
+  This effect does not stack if 
+  multiple Pokémon have this ability 
+  or magma armor.
+
+  Weak-armor:
+
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
+
+  This ability triggers on every 
+  hit of a multiple-hit move.
+
+
  Location Areas:
    Stark mountain entrance
    Stark mountain inside

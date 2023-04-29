@@ -21,4 +21,29 @@
  Base Exp: 186	Capture Rate: 45
  Height:    20	Weight: 1200
 
+ Types:
+   Grass
+   Psychic
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Harvest:
+
+    After each turn, if the last 
+  item this Pokémon consumed was 
+  a Berry and it is not currently 
+  holding an item, it has a 50% 
+  chance of regaining that Berry, 
+  or a 100% chance during strong 
+  sunlight.
+
+
  Location Areas:

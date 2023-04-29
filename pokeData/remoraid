@@ -21,6 +21,46 @@
  Base Exp: 60	Capture Rate: 190
  Height:    6	Weight: 120
 
+ Types:
+   Water
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Hustle:
+
+    This Pokémon's physical moves 
+  do 1.5× as much regular damage, 
+  but have 0.8× their usual accuracy.
+
+  Special moves are unaffected. 
+  Moves that do set damage, such 
+  as seismic toss, have their accuracy 
+  affected, but not their damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+  Sniper:
+
+    This Pokémon inflicts triple 
+  damage with critical hits, rather 
+  than the usual double damage.
+
+  Moody:
+
+    After each turn, one of this 
+  Pokémon's stats at random rises 
+  two stages, and another falls 
+  one stage.
+
+  If a stat is already at 6 or 
+  -6 stages, it will not be chosen 
+  to be increased or decreased, 
+  respectively.
+
+
  Location Areas:
    Pastoria city area
    Sunyshore city area

@@ -23,6 +23,44 @@
  Base Exp: 61	Capture Rate: 255
  Height:    7	Weight: 240
 
+ Types:
+   Fire
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Oblivious:
+
+    This Pokémon cannot be infatuated 
+  and is immune to captivate.
+
+  If a Pokémon is infatuated 
+  and acquires this ability, its 
+  infatuation is cleared.
+
+  Simple:
+
+    Each stage of this Pokémon's 
+  stat modifiers acts as two stages. 
+  These doubled stages are still 
+  limited to a minimum of -6 and 
+  a maximum of 6.
+
+  This Pokémon can still accumulate 
+  less than -3 or more than 3 stages 
+  of stat modifiers, even though 
+  the extra ones have no effect 
+  after doubling.
+
+  Own-tempo:
+
+    This Pokémon cannot be confused.
+
+  If a Pokémon is confused and 
+  acquires this ability, its confusion 
+  will immediately be healed.
+
+
  Location Areas:
    Stark mountain area
    Sinnoh route 227 area

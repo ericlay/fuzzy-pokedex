@@ -22,4 +22,40 @@
  Base Exp: 142	Capture Rate: 75
  Height:    10	Weight: 115
 
+ Types:
+   Grass
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Illuminate:
+
+    Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is doubled.
+
+  This ability has no effect 
+  in battle.
+
+  Effect-spore:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  paralyzed, poisoned, or put to 
+  sleep, chosen at random.
+
+  Nothing is done to compensate 
+  if the move's user is immune 
+  to one of these ailments; there 
+  is simply a lower chance that 
+  the move's user will be affected.
+
+  Rain-dish:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during rain.
+
+
  Location Areas:

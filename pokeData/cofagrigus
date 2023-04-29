@@ -25,6 +25,23 @@ Stage 2 Forms:
  Base Exp: 169	Capture Rate: 90
  Height:    17	Weight: 765
 
+ Types:
+   Ghost
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Mummy:
+
+    Whenever a contact move hits 
+  this Pokémon, the attacking Pokémon's 
+  ability changes to Mummy.
+
+  multitype is unaffected. If 
+  a Pokémon with moxie knocks this 
+  Pokémon out, the former's ability 
+  will change without taking effect.
+
+
  Location Areas:
    Relic castle b
    Relic castle c

@@ -20,6 +20,47 @@
  Base Exp: 172	Capture Rate: 45
  Height:    11	Weight: 300
 
+ Types:
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Static:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  paralyzed.
+
+  Pokémon that are immune to 
+  electric-type moves can still 
+  be paralyzed by this ability.
+
+  Overworld: If the lead Pokémon 
+  has this ability, there is a 
+  50% chance that encounters will 
+  be with an electric Pokémon, 
+  if applicable.
+
+  Vital-spirit:
+
+    This Pokémon cannot be asleep.
+
+  This causes rest to fail altogether. 
+  If a Pokémon is asleep and acquires 
+  this ability, it will immediately 
+  wake up; this includes when regaining 
+  a lost ability upon leaving battle.
+
+  This ability functions identically 
+  to insomnia in battle.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+
  Location Areas:
    Sinnoh route 222 area
    Kanto route 10 area

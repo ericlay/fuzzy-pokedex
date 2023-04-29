@@ -20,4 +20,33 @@
  Base Exp: 170	Capture Rate: 60
  Height:    1	Weight: 3
 
+ Types:
+   Fairy
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Flower-veil:
+
+    Protects friendly grass Pokémon 
+  from having their stats lowered 
+  by other Pokémon.
+
+  Triage:
+
+    This Pokémon's healing moves 
+  have their priority increased 
+  by 3.
+
+  Natural-cure:
+
+    This Pokémon is cured of any 
+  major status ailment when it 
+  is switched out for another Pokémon.
+
+  If this ability is acquired 
+  during battle, the Pokémon is 
+  cured upon leaving battle before 
+  losing the temporary ability.
+
+
  Location Areas:

@@ -21,14 +21,51 @@
  Base Exp: 43	Capture Rate: 255
  Height:    8	Weight: 60
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Run-away:
+
+    This Pokémon is always successful 
+  fleeing from wild battles, even 
+  if trapped by a move or ability.
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Frisk:
+
+    When this Pokémon enters battle, 
+  it reveals an opposing Pokémon's 
+  held item to all participating 
+  trainers.
+
+  In a double battle, if one 
+  opponent has an item, this Pokémon 
+  will Frisk that Pokémon; if both 
+  have an item, it will Frisk one 
+  at random.
+
+
  Location Areas:
-   Sinnoh route 202 area
-   Johto route 29 area
-   Johto route 43 area
-   Kanto route 1 area
-   Five isle meadow area
-   Water path area
-   Canyon entrance area
-   Kalos route 6 area
-   Johto safari zone zone swamp
-   Johto safari zone zone wetland

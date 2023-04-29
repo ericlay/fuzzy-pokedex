@@ -22,4 +22,22 @@
  Base Exp: 186	Capture Rate: 45
  Height:    17	Weight: 910
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sap-sipper:
+
+    Whenever a grass-type move 
+  hits this Pokémon, its Attack 
+  rises one stage, negating any 
+  other effect on it.
+
+  Grass-pelt:
+
+    Boosts Defense while grassy 
+  terrain is in effect.
+
+
  Location Areas:

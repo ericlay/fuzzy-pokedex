@@ -20,4 +20,46 @@
  Base Exp: 218	Capture Rate: 45
  Height:    12	Weight: 249
 
+ Types:
+   Normal
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Intimidate:
+
+    When this Pokémon enters battle, 
+  the opponent's Attack is lowered 
+  by one stage. In a double battle, 
+  both opponents are affected.
+
+  This ability also takes effect 
+  when acquired during a battle, 
+  but will not take effect again 
+  if lost and reobtained without 
+  leaving battle.
+
+  This ability has no effect 
+  on an opponent that has a substitute.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Reckless:
+
+    This Pokémon's recoil moves 
+  and crash moves have 1.2× their 
+  base power.
+
+  struggle is unaffected.
+
+  The "crash moves" are the moves 
+  that damage the user upon missing: 
+  jump kick and high jump kick.
+
+
  Location Areas:

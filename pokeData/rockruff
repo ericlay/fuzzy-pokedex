@@ -22,4 +22,55 @@
  Base Exp: 56	Capture Rate: 190
  Height:    5	Weight: 92
 
+ Types:
+   Rock
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Keen-eye:
+
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Vital-spirit:
+
+    This Pokémon cannot be asleep.
+
+  This causes rest to fail altogether. 
+  If a Pokémon is asleep and acquires 
+  this ability, it will immediately 
+  wake up; this includes when regaining 
+  a lost ability upon leaving battle.
+
+  This ability functions identically 
+  to insomnia in battle.
+
+  Overworld: If the lead Pokémon 
+  has this ability, higher-levelled 
+  Pokémon have their encounter 
+  rate increased.
+
+  Steadfast:
+
+    Whenever this Pokémon flinches, 
+  its Speed rises one stage.
+
+
  Location Areas:

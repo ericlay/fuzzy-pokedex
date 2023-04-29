@@ -20,4 +20,50 @@
  Base Exp: 253	Capture Rate: 45
  Height:    14	Weight: 620
 
+ Types:
+   Poison
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Poison-point:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  poisoned.
+
+  Rivalry:
+
+    This Pokémon inflicts 1.25× 
+  as much regular damage against 
+  Pokémon of the same gender and 
+  0.75× as much regular damage 
+  against Pokémon of the opposite 
+  gender.
+
+  If either Pokémon is genderless, 
+  damage is unaffected.
+
+  Sheer-force:
+
+    This Pokémon's moves with extra 
+  effects have 1.3× their power, 
+  but lose their extra effects.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, thunder shock's paralysis 
+  is an extra effect, but thunder 
+  wave's is not, nor are knock 
+  off's item removal and air cutter's 
+  increased critical hit rate.
+
+  Moves that lower the user's 
+  stats are unaffected.
+
+
  Location Areas:

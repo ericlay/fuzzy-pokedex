@@ -22,6 +22,48 @@
  Base Exp: 268	Capture Rate: 45
  Height:    13	Weight: 575
 
+ Types:
+   Ice
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Ice-body:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during hail, and it does 
+  not take hail damage regardless 
+  of type.
+
+  Snow-warning:
+
+    The weather changes to hail 
+  when this Pokémon enters battle 
+  and does not end unless cancelled 
+  by another weather condition.
+
+  If multiple Pokémon with this 
+  ability, drizzle, drought, or 
+  sand stream are sent out at the 
+  same time, the abilities will 
+  activate in order of Speed, respecting 
+  trick room. Each ability's weather 
+  will cancel the previous weather, 
+  and only the weather summoned 
+  by the slowest of the Pokémon 
+  will stay.
+
+  Weak-armor:
+
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
+
+  This ability triggers on every 
+  hit of a multiple-hit move.
+
+
  Location Areas:
    Dragonspiral tower entrance
    Dragonspiral tower outside

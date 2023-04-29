@@ -21,4 +21,40 @@
  Base Exp: 42	Capture Rate: 235
  Height:    3	Weight: 32
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Leaf-guard:
+
+    This Pokémon cannot be given 
+  a major status ailment during 
+  strong sunlight.
+
+  This ability does not heal 
+  prior status ailments. rest will 
+  fail altogether with this ability 
+  in effect. yawn will immediately 
+  fail if used on this Pokémon 
+  during strong sunlight, and an 
+  already-used Yawn will fail if 
+  the weather turns to strong sunlight 
+  in the meantime.
+
+  Oblivious:
+
+    This Pokémon cannot be infatuated 
+  and is immune to captivate.
+
+  If a Pokémon is infatuated 
+  and acquires this ability, its 
+  infatuation is cleared.
+
+  Sweet-veil:
+
+    Prevents friendly Pokémon from 
+  sleeping.
+
+
  Location Areas:

@@ -23,6 +23,34 @@
  Base Exp: 62	Capture Rate: 255
  Height:    4	Weight: 12
 
+ Types:
+   Normal
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Natural-cure:
+
+    This Pokémon is cured of any 
+  major status ailment when it 
+  is switched out for another Pokémon.
+
+  If this ability is acquired 
+  during battle, the Pokémon is 
+  cured upon leaving battle before 
+  losing the temporary ability.
+
+  Cloud-nine:
+
+    While this Pokémon is in battle, 
+  weather can still be in play, 
+  but will not have any of its 
+  effects.
+
+  This ability functions identically 
+  to air lock.
+
+
  Location Areas:
    Sinnoh route 210 west towards celestic town
    Sinnoh route 211 east towards celestic town

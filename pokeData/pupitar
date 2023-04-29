@@ -21,6 +21,19 @@
  Base Exp: 144	Capture Rate: 45
  Height:    12	Weight: 1520
 
+ Types:
+   Rock
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Shed-skin:
+
+    After each turn, this Pokémon 
+  has a 33% of being cured of any 
+  major status ailment.
+
+
  Location Areas:
    Mt silver 3f
    Mt silver top

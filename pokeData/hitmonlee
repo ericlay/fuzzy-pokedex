@@ -26,5 +26,47 @@ Stage 2 Forms:
  Base Exp: 159	Capture Rate: 45
  Height:    15	Weight: 498
 
+ Types:
+   Fighting
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Limber:
+
+    This Pokémon cannot be paralyzed.
+
+  If a Pokémon is paralyzed and 
+  acquires this ability, its paralysis 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+  Reckless:
+
+    This Pokémon's recoil moves 
+  and crash moves have 1.2× their 
+  base power.
+
+  struggle is unaffected.
+
+  The "crash moves" are the moves 
+  that damage the user upon missing: 
+  jump kick and high jump kick.
+
+  Unburden:
+
+    When this Pokémon uses or loses 
+  its held item, its Speed is doubled. 
+  If it gains another item or leaves 
+  battle, this bonus is lost.
+
+  This includes when the Pokémon 
+  drops its item because of knock 
+  off. This bonus does not count 
+  as a stat modifier. There is 
+  no notification when this ability 
+  takes effect.
+
+
  Location Areas:
    Saffron city fighting dojo

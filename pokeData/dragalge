@@ -22,6 +22,39 @@
  Base Exp: 173	Capture Rate: 55
  Height:    18	Weight: 815
 
+ Types:
+   Poison
+   Dragon
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Poison-point:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  poisoned.
+
+  Poison-touch:
+
+    This Pokémon's contact moves 
+  have a 30% chance of poisoning 
+  the target with each hit.
+
+  This counts as an extra effect 
+  for the purposes of shield dust. 
+  This ability takes effect before 
+  mummy.
+
+  Adaptability:
+
+    This Pokémon inflicts twice 
+  as much damage with moves whose 
+  types match its own, rather than 
+  the usual same-type attack bonus 
+  of 1.5×.
+
+
  Location Areas:
    Ambrette town area
    Cyllage city area

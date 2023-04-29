@@ -21,6 +21,24 @@
  Base Exp: 62	Capture Rate: 190
  Height:    13	Weight: 1
 
+ Types:
+   Ghost
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Levitate:
+
+    This Pokémon is immune to ground-type 
+  moves, spikes, toxic spikes, 
+  and arena trap.
+
+  This ability is disabled during 
+  gravity or ingrain, or while 
+  holding an iron ball. This ability 
+  is not disabled during roost.
+
+
  Location Areas:
    Eterna forest area
    Turnback cave pillar 1

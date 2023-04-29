@@ -1,5 +1,5 @@
 
-  Drilbur    Ground Type Pokémon
+       Type Pokémon
 
   It can dig through the ground 
   at a speed of 30 mph.  It could 
@@ -9,17 +9,16 @@
       Drilbur ► Excadrill
 
    ↞--------| STATS |--------↠ 
-              hp:         60
-          attack:         85
-         defense:         40
-  special-attack:         30
- special-defense:         45
-           speed:         68
 
  Genus: Mole Pokémon
- Happiness: 50	Pokedex ID: 529
- Base Exp: 66	Capture Rate: 120
- Height:    3	Weight: 85
+ Happiness: 50	Pokedex ID: 
+ Base Exp: 	Capture Rate: 120
+ Height:    	Weight: 
+
+ Types:
+
+ ↞---------------|ABILITIES|---------------↠
+
 
  Location Areas:
    Chargestone cave 1f

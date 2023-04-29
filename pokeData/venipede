@@ -21,4 +21,37 @@
  Base Exp: 52	Capture Rate: 255
  Height:    4	Weight: 53
 
+ Types:
+   Bug
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Poison-point:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  poisoned.
+
+  Swarm:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
+
+  Speed-boost:
+
+    This Pokémon's Speed rises 
+  one stage after each turn.
+
+
  Location Areas:
+   Pinwheel forest inside
+   Lostlorn forest area
+   Unova route 20 area

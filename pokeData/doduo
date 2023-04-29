@@ -5,8 +5,7 @@
   poor flying with its fast foot 
   speed.  Leaves giant footprints. 
   
-	Evolution Chain
-      Doduo ► Dodrio
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         35
@@ -20,6 +19,34 @@
  Happiness: 70	Pokedex ID: 84
  Base Exp: 62	Capture Rate: 190
  Height:    14	Weight: 392
+
+ Types:
+   Normal
+   Flying
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Run-away:
+
+    This Pokémon is always successful 
+  fleeing from wild battles, even 
+  if trapped by a move or ability.
+
+  Early-bird:
+
+    This Pokémon's remaining sleep 
+  turn count falls by 2 rather 
+  than 1.
+
+  If this Pokémon's sleep counter 
+  is at 1, it will fall to 0 and 
+  then the Pokémon will wake up.
+
+  Tangled-feet:
+
+    When this Pokémon is confused, 
+  it has twice its evasion.
+
 
  Location Areas:
    Sinnoh route 201 area

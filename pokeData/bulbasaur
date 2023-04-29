@@ -21,6 +21,28 @@
  Base Exp: 64	Capture Rate: 45
  Height:    7	Weight: 69
 
+ Types:
+   Grass
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Overgrow:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  grass-type moves inflict 1.5× 
+  as much regular damage.
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+
  Location Areas:
    Cerulean city area
    Pallet town area

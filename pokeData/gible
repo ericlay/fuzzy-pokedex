@@ -21,6 +21,37 @@
  Base Exp: 60	Capture Rate: 45
  Height:    7	Weight: 205
 
+ Types:
+   Dragon
+   Ground
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Sand-veil:
+
+    During a sandstorm, this Pokémon 
+  has 1.25× its evasion, and it 
+  does not take sandstorm damage 
+  regardless of type.
+
+  The evasion bonus does not 
+  count as a stat modifier.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved in a sandstorm.
+
+  Rough-skin:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user takes 1/8 of its maximum 
+  HP in damage.
+
+  This ability functions identically 
+  to iron barbs.
+
+
  Location Areas:
    Wayward cave b1f
    Kalos route 13 area

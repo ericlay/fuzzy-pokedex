@@ -1,12 +1,8 @@
 
   Paras    Bug Type Pokémon
 
-  Burrows to suck tree roots. 
-   The mushrooms on its back grow 
-  by draw­ ing nutrients from the 
-  bug host. 
-	Evolution Chain
-      Paras ► Parasect
+  
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         35
@@ -16,10 +12,50 @@
  special-defense:         55
            speed:         25
 
- Genus: Mushroom Pokémon
- Happiness: 70	Pokedex ID: 46
- Base Exp: 57	Capture Rate: 190
+ Genus: 
+ Happiness: 	Pokedex ID: 46
+ Base Exp: 57	Capture Rate: 
  Height:    3	Weight: 54
+
+ Types:
+   Bug
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Effect-spore:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  paralyzed, poisoned, or put to 
+  sleep, chosen at random.
+
+  Nothing is done to compensate 
+  if the move's user is immune 
+  to one of these ailments; there 
+  is simply a lower chance that 
+  the move's user will be affected.
+
+  Dry-skin:
+
+    This Pokémon takes 1/8 of its 
+  maximum HP in damage after each 
+  turn during strong sunlight, 
+  but it heals for 1/8 of its HP 
+  each turn during rain. This Pokémon 
+  takes 1.25× as much damage from 
+  fire-type moves, but whenever 
+  a water move hits it, it heals 
+  for 1/4 its maximum HP instead.
+
+  Damp:
+
+    While this Pokémon is in battle, 
+  self destruct and explosion will 
+  fail and aftermath will not take 
+  effect.
+
 
  Location Areas:
    Ilex forest area

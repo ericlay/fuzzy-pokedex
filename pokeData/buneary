@@ -21,6 +21,53 @@
  Base Exp: 70	Capture Rate: 190
  Height:    4	Weight: 55
 
+ Types:
+   Normal
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Run-away:
+
+    This Pokémon is always successful 
+  fleeing from wild battles, even 
+  if trapped by a move or ability.
+
+  Klutz:
+
+    In battle, this Pokémon cannot 
+  use its held item, nor will the 
+  item have any passive effect 
+  on the battle, positive or negative. 
+  This Pokémon also cannot use 
+  fling.
+
+  The Speed cut from the iron 
+  ball and the effort items (the 
+  macho brace, power weight, power 
+  bracer, power belt, power lens, 
+  power band, and power anklet) 
+  is unaffected. Items that do 
+  not directly affect the battle, 
+  such as the exp share, the amulet 
+  coin, or the soothe bell, work 
+  as usual. All held items work 
+  as usual out of battle.
+
+  Other moves that use the held 
+  item, such as natural gift and 
+  switcheroo, work as usual.
+
+  Limber:
+
+    This Pokémon cannot be paralyzed.
+
+  If a Pokémon is paralyzed and 
+  acquires this ability, its paralysis 
+  is healed; this includes when 
+  regaining a lost ability upon 
+  leaving battle.
+
+
  Location Areas:
    Eterna forest area
    Kanto route 25 area

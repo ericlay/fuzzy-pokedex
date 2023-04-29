@@ -21,4 +21,25 @@
  Base Exp: 174	Capture Rate: 75
  Height:    11	Weight: 305
 
+ Types:
+   Grass
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Gluttony:
+
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
+
+  Overgrow:
+
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  grass-type moves inflict 1.5× 
+  as much regular damage.
+
+
  Location Areas:

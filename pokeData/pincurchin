@@ -20,4 +20,44 @@
  Base Exp: 152	Capture Rate: 75
  Height:    3	Weight: 10
 
+ Types:
+   Electric
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Lightning-rod:
+
+    All other Pokémon's single-target 
+  electric-type moves are redirected 
+  to this Pokémon if it is an eligible 
+  target. Other Pokémon's Electric 
+  moves raise this Pokémon's Special 
+  Attack one stage, negating any 
+  other effect on it, and cannot 
+  miss it.
+
+  If the move's intended target 
+  also has this ability, the move 
+  is not redirected. When multiple 
+  Pokémon with this ability are 
+  possible targets for redirection, 
+  the move is redirected to the 
+  one with the highest Speed stat, 
+  or, in the case of a tie, to 
+  a random tied Pokémon. follow 
+  me takes precedence over this 
+  ability.
+
+  If the Pokémon is a ground-type 
+  and thus immune to Electric moves, 
+  its immunity prevents the Special 
+  Attack boost.
+
+  Electric-surge:
+
+    When this Pokémon enters battle, 
+  it changes the terrain to electric 
+  terrain.
+
+
  Location Areas:

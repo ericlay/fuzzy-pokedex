@@ -21,5 +21,43 @@
  Base Exp: 166	Capture Rate: 60
  Height:    19	Weight: 1073
 
+ Types:
+   Poison
+
+ ↞---------------|ABILITIES|---------------↠
+
+  Stench:
+
+    This Pokémon's damaging moves 
+  have a 10% chance to make the 
+  target flinch with each hit if 
+  they do not already cause flinching 
+  as a secondary effect.
+
+  This ability does not stack 
+  with a held item.
+
+  Overworld: The wild encounter 
+  rate is halved while this Pokémon 
+  is first in the party.
+
+  Weak-armor:
+
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
+
+  This ability triggers on every 
+  hit of a multiple-hit move.
+
+  Aftermath:
+
+    When this Pokémon is knocked 
+  out by a move that makes contact, 
+  the move's user takes 1/4 its 
+  maximum HP in damage.
+
+
  Location Areas:
    Unova route 9 area
