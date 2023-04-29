@@ -1,10 +1,25 @@
 # Fuzzy-Pokédex 
-## The Pokédex for your terminal!
-Very simple fzf based Pokédex  I built for my son to enjoy
+## The Pokédex for your terminal
+Simple fzf based Pokédex I built for my son to enjoy.
+
+Parses results from [PokeAPI](pokeapi.co/) and feeds combined results from `pokemon-colorscripts` to `fzf`
 
 ![Screenshot](https://github.com/ericlay/fuzzy-pokedex/blob/main/screenshot.png?raw=true)
 
+A very wonky preview:
+[![asciicast](https://asciinema.org/a/581487.svg)](https://asciinema.org/a/581487)
+
+## Install
+
 Requires fzf, parallel, jq, espeak-ng, pokemon-colorscipts and, any nerd font; all else should be there
+
+### Arch (and arch based)
+```
+$ git clone https://github.com/ericlay/fuzzy-pokedex.git
+$ cd fuzzy-pokedex
+$ makepkg -si
+```
+## Usage
 
 ```
 Use fzf to search Pokemon stats 
