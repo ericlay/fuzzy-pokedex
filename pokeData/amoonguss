@@ -1,8 +1,12 @@
 
   Amoonguss    Grass Type Pokémon
 
-  
-  Single Stage Evolution Pokémon
+  It lures prey close by dancing 
+  and waving its arm caps, which 
+  resemble Poké Balls, in a swaying 
+  motion. 
+	Evolution Chain
+      Foongus ► Amoonguss
 
    ↞--------| STATS |--------↠ 
               hp:        114
@@ -12,9 +16,9 @@
  special-defense:         80
            speed:         30
 
- Genus: 
- Happiness: 	Pokedex ID: 
- Base Exp: 162	Capture Rate: 
+ Genus: Mushroom Pokémon
+ Happiness: 50	Pokedex ID: 592
+ Base Exp: 162	Capture Rate: 75
  Height:    6	Weight: 105
 
  Types:

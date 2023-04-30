@@ -1,5 +1,5 @@
 
-  Empoleon    Water Type Pokémon
+  Drifloon    Ghost Type Pokémon
 
   The three horns that extend 
   from its beak attest to its power. 
@@ -9,40 +9,49 @@
   Piplup ► Prinplup ► Empoleon
 
    ↞--------| STATS |--------↠ 
-              hp:         84
-          attack:         86
-         defense:         88
-  special-attack:        111
- special-defense:        101
-           speed:         60
+              hp:         90
+          attack:         50
+         defense:         34
+  special-attack:         60
+ special-defense:         44
+           speed:         70
 
  Genus: Emperor Pokémon
  Happiness: 70	Pokedex ID: 425
- Base Exp: 239	Capture Rate: 45
- Height:    17	Weight: 845
+ Base Exp: 70	Capture Rate: 45
+ Height:    4	Weight: 12
 
  Types:
-   Water
-   Steel
+   Ghost
+   Flying
 
  ↞---------------|ABILITIES|---------------↠
 
-  Torrent:
+  Aftermath:
 
-    When this Pokémon has 1/3 or 
-  less of its HP remaining, its 
-  water-type moves inflict 1.5× 
-  as much regular damage.
+    When this Pokémon is knocked 
+  out by a move that makes contact, 
+  the move's user takes 1/4 its 
+  maximum HP in damage.
 
-  Defiant:
+  Unburden:
 
-    When any of this Pokémon's 
-  stats are lowered, its Attack 
-  rises by two stages.
+    When this Pokémon uses or loses 
+  its held item, its Speed is doubled. 
+  If it gains another item or leaves 
+  battle, this bonus is lost.
 
-  If multiple stats are lowered 
-  at once, this ability takes effect 
-  with each stat lowered.
+  This includes when the Pokémon 
+  drops its item because of knock 
+  off. This bonus does not count 
+  as a stat modifier. There is 
+  no notification when this ability 
+  takes effect.
+
+  Flare-boost:
+
+    This Pokémon has 1.5× its Special 
+  Attack when burned.
 
 
  Location Areas Unknown

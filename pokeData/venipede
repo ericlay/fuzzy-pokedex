@@ -1,12 +1,8 @@
 
   Venipede    Bug Type Pokémon
 
-  Its bite injects a potent poison, 
-  enough to paralyze large bird 
-  Pokémon that try to prey on it. 
   
-	   Evolution Chain
-  Venipede ► Whirlipede ► Scolipede
+  Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
               hp:         30
@@ -16,9 +12,7 @@
  special-defense:         39
            speed:         57
 
- Genus: Centipede Pokémon
- Happiness: 50	Pokedex ID: 544
- Base Exp: 52	Capture Rate: 255
+ Happiness: 	Pokedex ID: 
  Height:    4	Weight: 53
 
  Types:

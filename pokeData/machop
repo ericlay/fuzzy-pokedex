@@ -1,5 +1,5 @@
 
-  Tentacool    Water Type Pokémon
+  Machop    Fighting Type Pokémon
 
   Loves to build its muscles. 
    It trains in all styles of martial 
@@ -9,55 +9,52 @@
   Machop ► Machoke ► Machamp
 
    ↞--------| STATS |--------↠ 
-              hp:         40
-          attack:         40
-         defense:         35
-  special-attack:         50
- special-defense:        100
-           speed:         70
+              hp:         70
+          attack:         80
+         defense:         50
+  special-attack:         35
+ special-defense:         35
+           speed:         35
 
  Genus: Superpower Pokémon
  Happiness: 50	Pokedex ID: 72
- Base Exp: 67	Capture Rate: 180
- Height:    9	Weight: 455
+ Base Exp: 61	Capture Rate: 180
+ Height:    8	Weight: 195
 
  Types:
-   Water
-   Poison
+   Fighting
 
  ↞---------------|ABILITIES|---------------↠
 
-  Clear-body:
+  Guts:
 
-    This Pokémon cannot have its 
-  stats lowered by other Pokémon.
+    Whenever this Pokémon is asleep, 
+  burned, paralyzed, or poisoned, 
+  it has 1.5× its Attack. This 
+  Pokémon is not affected by the 
+  usual Attack cut from a burn.
 
-  This ability does not prevent 
-  any stat losses other than stat 
-  modifiers, such as the Speed 
-  cut from paralysis. This Pokémon 
-  can still be passed negative 
-  stat modifiers through guard 
-  swap, heart swap, or power swap.
+  This bonus does not count as 
+  a stat modifier.
 
-  This ability functions identically 
-  to white smoke in battle.
+  No-guard:
 
-  Liquid-ooze:
+    Moves used by or against this 
+  Pokémon never miss.
 
-    Whenever a Pokémon would heal 
-  after hitting this Pokémon with 
-  a leeching move like absorb, 
-  it instead loses as many HP as 
-  it would usually gain.
+  One-hit KO moves are unaffected. 
+  Moves affected by this ability 
+  can hit Pokémon during the preparation 
+  turn of moves like dig or fly.
 
-  dream eater is unaffected.
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is doubled.
 
-  Rain-dish:
+  Steadfast:
 
-    This Pokémon heals for 1/16 
-  of its maximum HP after each 
-  turn during rain.
+    Whenever this Pokémon flinches, 
+  its Speed rises one stage.
 
 
  Location Areas:

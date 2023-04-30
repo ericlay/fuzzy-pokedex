@@ -1,5 +1,5 @@
 
-  Gabite    Dragon Type Pokémon
+  Tangrowth    Grass Type Pokémon
 
   There is a long-held belief 
   that medicine made from its scales 
@@ -9,47 +9,57 @@
   Gible ► Gabite ► Garchomp
 
    ↞--------| STATS |--------↠ 
-              hp:         68
-          attack:         90
-         defense:         65
-  special-attack:         50
- special-defense:         55
-           speed:         82
+              hp:        100
+          attack:        100
+         defense:        125
+  special-attack:        110
+ special-defense:         50
+           speed:         50
 
  Genus: Cave Pokémon
  Happiness: 50	Pokedex ID: 465
- Base Exp: 144	Capture Rate: 45
- Height:    14	Weight: 560
+ Base Exp: 187	Capture Rate: 45
+ Height:    20	Weight: 1286
 
  Types:
-   Dragon
-   Ground
+   Grass
 
  ↞---------------|ABILITIES|---------------↠
 
-  Sand-veil:
+  Chlorophyll:
 
-    During a sandstorm, this Pokémon 
-  has 1.25× its evasion, and it 
-  does not take sandstorm damage 
-  regardless of type.
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
 
-  The evasion bonus does not 
-  count as a stat modifier.
+  This bonus does not count as 
+  a stat modifier.
 
-  Overworld: If the lead Pokémon 
-  has this ability, the wild encounter 
-  rate is halved in a sandstorm.
+  Leaf-guard:
 
-  Rough-skin:
+    This Pokémon cannot be given 
+  a major status ailment during 
+  strong sunlight.
 
-    Whenever a move makes contact 
-  with this Pokémon, the move's 
-  user takes 1/8 of its maximum 
-  HP in damage.
+  This ability does not heal 
+  prior status ailments. rest will 
+  fail altogether with this ability 
+  in effect. yawn will immediately 
+  fail if used on this Pokémon 
+  during strong sunlight, and an 
+  already-used Yawn will fail if 
+  the weather turns to strong sunlight 
+  in the meantime.
 
-  This ability functions identically 
-  to iron barbs.
+  Regenerator:
+
+    This Pokémon regains 1/3 of 
+  its maximum HP when it is switched 
+  out for another Pokémon under 
+  any circumstances other than 
+  having fainted.
+
+  This ability does not take 
+  effect when a battle ends.
 
 
  Location Areas:
