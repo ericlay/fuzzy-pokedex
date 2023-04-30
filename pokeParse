@@ -37,6 +37,9 @@ mapfile -t ABILITIES < <(jq -r '.abilities[].ability | [.name, .url] | @tsv' <<<
 mapfile -t LOCATE < <(jq -r '.[].location_area["name"]' <<< "$endpoint_ENCOUNTER")
 
 ### Print formatted data
+##   - a lot if/then to test for empty vars not found in API data
+##   - would like to catch this in jq step and avert any on screen errors
+ 
 { printf "\n  %s    %s Type Pokémon\n" \
 	"${NAME^}" "${TYPE_ITEM^}";
 printf "\n  %s\n" "$FLAVOR";
@@ -79,23 +82,39 @@ printf "   ↞--------| STATS |--------↠ \n";
 for ((i=0; i<${#STAT[@]}; i++)); do
 	printf " %15s: %10s\n" "${STAT[i]}" "${VAL[i]}";
 done;
-printf "\n Genus: %s" "${GENUS^}";
-printf "\n Happiness: %s\tPokedex ID: %s\n Base Exp: %s\tCapture Rate: %s\n Height:    %s\tWeight: %s\n" \
-	"$BASEHAPPY" "$ID" "$BASEX" "$CAPTURE" "$HEIGHT" "$WEIGHT";
+if [[ -n "$GENUS" ]]
+	then
+		printf "\n Genus: %s" "${GENUS^}";
+	else
+		:
+fi;
+if [[ -n "$BASEX" ]] && [[ -n "$CAPTURE" ]]
+	then
+		printf "\n Happiness: %s\tPokedex ID: %s\n Base Exp: %s\tCapture Rate: %s\n Height:    %s\tWeight: %s\n" \
+			"$BASEHAPPY" "$ID" "$BASEX" "$CAPTURE" "$HEIGHT" "$WEIGHT";
+	else
+		printf "\n Happiness: %s\tPokedex ID: %s\n Height:    %s\tWeight: %s\n" \
+			"$BASEHAPPY" "$ID" "$HEIGHT" "$WEIGHT";
+fi
 printf "\n Types:\n"
 for ((i=0; i<${#TYPE[@]}; i++)); do
 	TYPE_LIST_ITEM="${TYPE[i]}"
 	printf "   %s\n" "${TYPE_LIST_ITEM^}"
 done;
-printf "\n%s\n\n" " ↞---------------|ABILITIES|---------------↠"
-for ((i=0; i<${#ABILITIES[@]}; i++)); do
-	ABILITY_NAME="$(awk '{print $1}' <<< "${ABILITIES[i]}")"
-	EFFECT_ENTRY="$(sed -e 's/\s\s/ /g' -e 's/^\w/  &/g' -e 's/.\{28\}\s/&\n  /g' \
-		< <(jq -r '.effect_entries[] | select(.language["name"] == "en") | .effect' \
-		< <(curl -s "$(awk '{print $2}' <<< "${ABILITIES[i]}")")))"
-	printf "  %s:\n\n" "${ABILITY_NAME^}"
-	printf "  %s\n\n" "$EFFECT_ENTRY"
-done;
+if [[ -n "$ABILITIES" ]]
+	then
+		printf "\n%s\n\n" " ↞---------------|ABILITIES|---------------↠"
+		for ((i=0; i<${#ABILITIES[@]}; i++)); do
+			ABILITY_NAME="$(awk '{print $1}' <<< "${ABILITIES[i]}")"
+			EFFECT_ENTRY="$(sed -e 's/\s\s/ /g' -e 's/^\w/  &/g' -e 's/.\{28\}\s/&\n  /g' \
+				< <(jq -r '.effect_entries[] | select(.language["name"] == "en") | .effect' \
+				< <(curl -s "$(awk '{print $2}' <<< "${ABILITIES[i]}")")))"
+			printf "  %s:\n\n" "${ABILITY_NAME^}"
+			printf "  %s\n\n" "$EFFECT_ENTRY"
+		done;
+	else
+		:
+fi
 if [[ -n "$LOCATE" ]]
 	then
 		printf "\n Location Areas:\n";
