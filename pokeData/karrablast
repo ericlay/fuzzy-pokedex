@@ -17,7 +17,7 @@
            speed:         60
 
  Genus: Clamping Pokémon
- Happiness: 50	Pokedex ID: 588
+ Happiness: 50	Pokedex ID: 589
  Base Exp: 63	Capture Rate: 200
  Height:    5	Weight: 59
 
@@ -28,7 +28,14 @@
 
   Swarm:
 
-  
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
 
   Shed-skin:
 

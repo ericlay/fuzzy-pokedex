@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Eiscue-ice    Ice Type Pokémon
 
   It drifted in on the flow of 
   ocean waters from a frigid place. 
@@ -9,15 +9,26 @@
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         80
+         defense:        110
+  special-attack:         65
+ special-defense:         90
+           speed:         50
 
  Genus: Penguin Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 60
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 875
+ Base Exp: 165	Capture Rate: 60
+ Height:    14	Weight: 890
 
  Types:
+   Ice
 
  ↞---------------|ABILITIES|---------------↠
 
+  Ice-face:
 
- Location Areas:
+  
+
+
+ Location Areas Unknown

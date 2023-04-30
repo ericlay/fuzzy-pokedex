@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Mimikyu-disguised    Ghost Type Pokémon
 
   Its actual appearance is unknown. 
    A scholar who saw what was under 
@@ -8,15 +8,35 @@
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:         55
+          attack:         90
+         defense:         80
+  special-attack:         50
+ special-defense:        105
+           speed:         96
 
  Genus: Disguise Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 45
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 778
+ Base Exp: 167	Capture Rate: 45
+ Height:    2	Weight: 7
 
  Types:
+   Ghost
+   Fairy
 
  ↞---------------|ABILITIES|---------------↠
 
+  Disguise:
 
- Location Areas:
+    If this Pokémon is in its Disguised 
+  Form and takes damage from a 
+  move, it switches to its Busted 
+  Form and the damage is prevented. 
+  Other effects are not prevented.
+
+  This ability cannot be copied 
+  or replaced. This ability only 
+  takes effect for Mimikyu.
+
+
+ Location Areas Unknown

@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Maractus    Grass Type Pokémon
 
   Its internal fire burns at 2,500° 
   F, making enough power that it 
@@ -9,15 +9,63 @@
       Darumaka ► Darmanitan
 
    ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         86
+         defense:         67
+  special-attack:        106
+ special-defense:         67
+           speed:         60
 
  Genus: Blazing Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 60
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 556
+ Base Exp: 161	Capture Rate: 60
+ Height:    10	Weight: 280
 
  Types:
+   Grass
 
  ↞---------------|ABILITIES|---------------↠
 
+  Water-absorb:
 
- Location Areas:
+    Whenever a water-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  Water moves will ignore this 
+  Pokémon's substitute.
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Storm-drain:
+
+    All other Pokémon's single-target 
+  water-type moves are redirected 
+  to this Pokémon, if it is an 
+  eligible target. Other Pokémon's 
+  Water moves raise this Pokémon's 
+  Special Attack one stage, negating 
+  any other effect on it, and cannot 
+  miss it.
+
+  If the move's intended target 
+  also has this ability, the move 
+  is not redirected. When multiple 
+  Pokémon with this ability are 
+  possible targets for redirection, 
+  the move is redirected to the 
+  one with the highest Speed stat, 
+  or, in the case of a tie, to 
+  a random tied Pokémon. follow 
+  me takes precedence over this 
+  ability.
+
+
+ Location Areas Unknown

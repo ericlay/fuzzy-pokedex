@@ -1,5 +1,5 @@
 
-  Phanpy    Ground Type Pokémon
+  Zigzagoon    Normal Type Pokémon
 
   It swings its long snout around 
   play­ fully, but because it is 
@@ -9,20 +9,20 @@
       Phanpy ► Donphan
 
    ↞--------| STATS |--------↠ 
-              hp:         90
-          attack:         60
-         defense:         60
-  special-attack:         40
- special-defense:         40
-           speed:         40
+              hp:         38
+          attack:         30
+         defense:         41
+  special-attack:         30
+ special-defense:         41
+           speed:         60
 
  Genus: Long Nose Pokémon
- Happiness: 70	Pokedex ID: 231
- Base Exp: 66	Capture Rate: 120
- Height:    5	Weight: 335
+ Happiness: 70	Pokedex ID: 263
+ Base Exp: 56	Capture Rate: 120
+ Height:    4	Weight: 175
 
  Types:
-   Ground
+   Normal
 
  ↞---------------|ABILITIES|---------------↠
 
@@ -49,19 +49,25 @@
   any temporary ability changes 
   have worn off.
 
-  Sand-veil:
+  Gluttony:
 
-    During a sandstorm, this Pokémon 
-  has 1.25× its evasion, and it 
-  does not take sandstorm damage 
-  regardless of type.
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
 
-  The evasion bonus does not 
-  count as a stat modifier.
+  Quick-feet:
+
+    Whenever this Pokémon has a 
+  major status ailment, it has 
+  1.5× its Speed. This Pokémon 
+  is not affected by the usual 
+  Speed cut from paralysis.
 
   Overworld: If the lead Pokémon 
   has this ability, the wild encounter 
-  rate is halved in a sandstorm.
+  rate is halved.
 
 
  Location Areas:

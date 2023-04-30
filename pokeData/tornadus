@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Thundurus-incarnate    Electric Type Pokémon
 
   The lower half of its body is 
   wrapped in a cloud of energy. 
@@ -8,15 +8,39 @@
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:         79
+          attack:        115
+         defense:         70
+  special-attack:        125
+ special-defense:         80
+           speed:        111
 
  Genus: Cyclone Pokémon
- Happiness: 90	Pokedex ID: 
- Base Exp: 	Capture Rate: 3
- Height:    	Weight: 
+ Happiness: 90	Pokedex ID: 642
+ Base Exp: 290	Capture Rate: 3
+ Height:    15	Weight: 610
 
  Types:
+   Electric
+   Flying
 
  ↞---------------|ABILITIES|---------------↠
 
+  Prankster:
 
- Location Areas:
+    This Pokémon's non-damaging 
+  moves have their priority increased 
+  by one stage.
+
+  Defiant:
+
+    When any of this Pokémon's 
+  stats are lowered, its Attack 
+  rises by two stages.
+
+  If multiple stats are lowered 
+  at once, this ability takes effect 
+  with each stat lowered.
+
+
+ Location Areas Unknown

@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Oricorio-baile    Fire Type Pokémon
 
   It beats its wings together 
   to create fire.  As it moves 
@@ -9,15 +9,30 @@
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         70
+         defense:         70
+  special-attack:         98
+ special-defense:         70
+           speed:         93
 
  Genus: Dancing Pokémon
- Happiness: 70	Pokedex ID: 
- Base Exp: 	Capture Rate: 45
- Height:    	Weight: 
+ Happiness: 70	Pokedex ID: 741
+ Base Exp: 167	Capture Rate: 45
+ Height:    6	Weight: 34
 
  Types:
+   Fire
+   Flying
 
  ↞---------------|ABILITIES|---------------↠
 
+  Dancer:
 
- Location Areas:
+    Whenever another Pokémon uses 
+  a dance move, this Pokémon will 
+  use the same move immediately 
+  afterwards.
+
+
+ Location Areas Unknown

@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Wishiwashi-solo    Water Type Pokémon
 
   When it’s in trouble, its eyes 
   moisten and begin to shine.  
@@ -9,15 +9,34 @@
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:         45
+          attack:         20
+         defense:         20
+  special-attack:         25
+ special-defense:         25
+           speed:         40
 
  Genus: Small Fry Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 60
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 746
+ Base Exp: 61	Capture Rate: 60
+ Height:    2	Weight: 3
 
  Types:
+   Water
 
  ↞---------------|ABILITIES|---------------↠
 
+  Schooling:
 
- Location Areas:
+    If this Pokémon is a wishiwashi 
+  and level 20 or above, then when 
+  it enters battle and at the start 
+  of each turn, it becomes Schooling 
+  Form if its HP is 25% or higher 
+  and Solo Form otherwise.
+
+  This ability cannot be replaced, 
+  copied, or nullified.
+
+
+ Location Areas Unknown

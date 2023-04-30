@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Meloetta-aria    Normal Type Pokémon
 
   By blasting water from its hooves, 
   it can glide across water.  It 
@@ -8,15 +8,41 @@
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:         77
+         defense:         77
+  special-attack:        128
+ special-defense:        128
+           speed:         90
 
  Genus: Colt Pokémon
- Happiness: 35	Pokedex ID: 
- Base Exp: 	Capture Rate: 3
- Height:    	Weight: 
+ Happiness: 35	Pokedex ID: 648
+ Base Exp: 270	Capture Rate: 3
+ Height:    6	Weight: 65
 
  Types:
+   Normal
+   Psychic
 
  ↞---------------|ABILITIES|---------------↠
 
+  Serene-grace:
 
- Location Areas:
+    This Pokémon's moves have twice 
+  their usual effect chance.
+
+  An effect chance is a move's 
+  chance to inflict a status ailment, 
+  cause a stat change, or make 
+  the target flinch in addition 
+  to the move's main effect. For 
+  example, flamethrower's chance 
+  of burning the target is doubled, 
+  but protect's chance of success 
+  and air cutter's increased critical 
+  hit rate are unaffected.
+
+  secret power is unaffected.
+
+
+ Location Areas Unknown

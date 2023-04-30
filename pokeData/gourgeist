@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Gourgeist-average    Ghost Type Pokémon
 
   Singing in eerie voices, they 
   wander town streets on the night 
@@ -9,15 +9,72 @@
       Pumpkaboo ► Gourgeist
 
    ↞--------| STATS |--------↠ 
+              hp:         65
+          attack:         90
+         defense:        122
+  special-attack:         58
+ special-defense:         75
+           speed:         84
 
  Genus: Pumpkin Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 60
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 711
+ Base Exp: 173	Capture Rate: 60
+ Height:    9	Weight: 125
 
  Types:
+   Ghost
+   Grass
 
  ↞---------------|ABILITIES|---------------↠
 
+  Pickup:
 
- Location Areas:
+    At the end of each turn, if 
+  another Pokémon consumed or Flung 
+  a held item that turn, this Pokémon 
+  picks up the item if it is not 
+  already holding one. After each 
+  battle, this Pokémon has a 10% 
+  chance of picking up an item 
+  if it is not already holding 
+  one.
+
+  The air balloon and eject button 
+  cannot be picked up.
+
+  The items that may be found 
+  vary by game, and, since Pokémon 
+  Emerald, by the Pokémon's level. 
+  This ability is checked after 
+  the battle ends, at which point 
+  any temporary ability changes 
+  have worn off.
+
+  Frisk:
+
+    When this Pokémon enters battle, 
+  it reveals an opposing Pokémon's 
+  held item to all participating 
+  trainers.
+
+  In a double battle, if one 
+  opponent has an item, this Pokémon 
+  will Frisk that Pokémon; if both 
+  have an item, it will Frisk one 
+  at random.
+
+  Insomnia:
+
+    This Pokémon cannot be asleep.
+
+  This causes rest to fail altogether. 
+  If a Pokémon is asleep and acquires 
+  this ability, it will immediately 
+  wake up; this includes when regaining 
+  a lost ability upon leaving battle.
+
+  This ability functions identically 
+  to vital spirit in battle.
+
+
+ Location Areas Unknown

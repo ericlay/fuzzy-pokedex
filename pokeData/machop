@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Tentacool    Water Type Pokémon
 
   Loves to build its muscles. 
    It trains in all styles of martial 
@@ -9,15 +9,55 @@
   Machop ► Machoke ► Machamp
 
    ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         40
+         defense:         35
+  special-attack:         50
+ special-defense:        100
+           speed:         70
 
  Genus: Superpower Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 180
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 72
+ Base Exp: 67	Capture Rate: 180
+ Height:    9	Weight: 455
 
  Types:
+   Water
+   Poison
 
  ↞---------------|ABILITIES|---------------↠
+
+  Clear-body:
+
+    This Pokémon cannot have its 
+  stats lowered by other Pokémon.
+
+  This ability does not prevent 
+  any stat losses other than stat 
+  modifiers, such as the Speed 
+  cut from paralysis. This Pokémon 
+  can still be passed negative 
+  stat modifiers through guard 
+  swap, heart swap, or power swap.
+
+  This ability functions identically 
+  to white smoke in battle.
+
+  Liquid-ooze:
+
+    Whenever a Pokémon would heal 
+  after hitting this Pokémon with 
+  a leeching move like absorb, 
+  it instead loses as many HP as 
+  it would usually gain.
+
+  dream eater is unaffected.
+
+  Rain-dish:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during rain.
 
 
  Location Areas:

@@ -1,8 +1,14 @@
 
   Nuzleaf    Grass Type Pokémon
 
+  NUZLEAF live in densely overgrown 
+  forests.  They occasionally venture 
+  out of the forest to startle 
+  people.  Nuzleaf dislikes 
+  having its long nose pinched. 
   
-  Single Stage Evolution Pokémon
+	   Evolution Chain
+  Seedot ► Nuzleaf ► Shiftry
 
    ↞--------| STATS |--------↠ 
               hp:         70
@@ -12,9 +18,9 @@
  special-defense:         40
            speed:         60
 
- Genus: 
- Happiness: 	Pokedex ID: 274
- Base Exp: 119	Capture Rate: 
+ Genus: Wily Pokémon
+ Happiness: 50	Pokedex ID: 299
+ Base Exp: 119	Capture Rate: 120
  Height:    10	Weight: 280
 
  Types:

@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Toxtricity-amped    Electric Type Pokémon
 
   When this Pokémon sounds as 
   if it’s strumming a guitar, it’s 
@@ -10,15 +10,52 @@
       Toxel ► Toxtricity
 
    ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:         98
+         defense:         70
+  special-attack:        114
+ special-defense:         70
+           speed:         75
 
  Genus: Punk Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 45
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 849
+ Base Exp: 176	Capture Rate: 45
+ Height:    16	Weight: 400
 
  Types:
+   Electric
+   Poison
 
  ↞---------------|ABILITIES|---------------↠
 
+  Punk-rock:
 
- Location Areas:
+  
+
+  Plus:
+
+    This Pokémon has 1.5× its Special 
+  Attack if any friendly Pokémon 
+  has plus or minus.
+
+  This bonus does not count as 
+  a stat modifier. If either ability 
+  is disabled by gastro acid, both 
+  lose their effect.
+
+  Technician:
+
+    This Pokémon's moves have 1.5× 
+  their power if their base power 
+  is 60 or less.
+
+  This includes moves of variable 
+  power, such as hidden power and 
+  magnitude, when their power is 
+  60 or less. helping hand's power 
+  boost is taken into account for 
+  any move, as is defense curl's 
+  power boost for rollout.
+
+
+ Location Areas Unknown

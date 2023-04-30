@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Genesect    Bug Type Pokémon
 
   Its melodies are sung with a 
   special vocalization method that 
@@ -8,15 +8,36 @@
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:         71
+          attack:        120
+         defense:         95
+  special-attack:        120
+ special-defense:         95
+           speed:         99
 
  Genus: Melody Pokémon
- Happiness: 100	Pokedex ID: 
- Base Exp: 	Capture Rate: 3
- Height:    	Weight: 
+ Happiness: 100	Pokedex ID: 649
+ Base Exp: 300	Capture Rate: 3
+ Height:    15	Weight: 825
 
  Types:
+   Bug
+   Steel
 
  ↞---------------|ABILITIES|---------------↠
 
+  Download:
 
- Location Areas:
+    When this Pokémon enters battle, 
+  its Attack or Special Attack, 
+  whichever corresponds to its 
+  opponents' weaker total defensive 
+  stat, rises one stage. In the 
+  event of a tie, Special Attack 
+  is raised.
+
+  This ability also takes effect 
+  when acquired during a battle.
+
+
+ Location Areas Unknown

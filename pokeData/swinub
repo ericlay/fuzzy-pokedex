@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Swinub    Ice Type Pokémon
 
   It rubs its snout on the ground 
   to find and dig up food.  It 
@@ -9,15 +9,52 @@
   Swinub ► Piloswine ► Mamoswine
 
    ↞--------| STATS |--------↠ 
+              hp:         50
+          attack:         50
+         defense:         40
+  special-attack:         30
+ special-defense:         30
+           speed:         50
 
  Genus: Pig Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 225
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 251
+ Base Exp: 50	Capture Rate: 225
+ Height:    4	Weight: 65
 
  Types:
+   Ice
+   Ground
 
  ↞---------------|ABILITIES|---------------↠
+
+  Oblivious:
+
+    This Pokémon cannot be infatuated 
+  and is immune to captivate.
+
+  If a Pokémon is infatuated 
+  and acquires this ability, its 
+  infatuation is cleared.
+
+  Snow-cloak:
+
+    During hail, this Pokémon has 
+  1.25× its evasion, and it does 
+  not take hail damage regardless 
+  of type.
+
+  The evasion bonus does not 
+  count as a stat modifier.
+
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is halved in snow.
+
+  Thick-fat:
+
+    This Pokémon takes half as 
+  much damage from fire- and ice-type 
+  moves.
 
 
  Location Areas:

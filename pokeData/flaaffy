@@ -17,7 +17,7 @@
            speed:         45
 
  Genus: Wool Pokémon
- Happiness: 70	Pokedex ID: 180
+ Happiness: 70	Pokedex ID: 209
  Base Exp: 128	Capture Rate: 120
  Height:    8	Weight: 133
 
@@ -28,20 +28,7 @@
 
   Static:
 
-    Whenever a move makes contact 
-  with this Pokémon, the move's 
-  user has a 30% chance of being 
-  paralyzed.
-
-  Pokémon that are immune to 
-  electric-type moves can still 
-  be paralyzed by this ability.
-
-  Overworld: If the lead Pokémon 
-  has this ability, there is a 
-  50% chance that encounters will 
-  be with an electric Pokémon, 
-  if applicable.
+  
 
   Plus:
 

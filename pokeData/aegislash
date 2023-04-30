@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Spritzee    Fairy Type Pokémon
 
   Generations of kings were attended 
   by these Pokémon, which used 
@@ -10,15 +10,35 @@
   Honedge ► Doublade ► Aegislash
 
    ↞--------| STATS |--------↠ 
+              hp:         78
+          attack:         52
+         defense:         60
+  special-attack:         63
+ special-defense:         65
+           speed:         23
 
  Genus: Royal Sword Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 45
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 682
+ Base Exp: 68	Capture Rate: 45
+ Height:    2	Weight: 5
 
  Types:
+   Fairy
 
  ↞---------------|ABILITIES|---------------↠
 
+  Healer:
 
- Location Areas:
+    Friendly Pokémon next to this 
+  Pokémon in double and triple 
+  battles each have a 30% chance 
+  of being cured of any major status 
+  ailment after each turn.
+
+  Aroma-veil:
+
+    Protects allies against moves 
+  that affect their mental state.
+
+
+ Location Areas Unknown

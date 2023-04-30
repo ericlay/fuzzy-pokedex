@@ -4,16 +4,25 @@
 POKEMON="$1"
 
 ### Set temp files to hold raw data
-DATADIR="/home/ez/Git/fuzzy-pokedex/pokeData"
+DATADIR="/usr/bin/fuzzy-pokedex/pokeData"
 
 ### GET various pokeAPI endpoint URLs
-endpoint_POKEMON="$(curl -s "https://pokeapi.co/api/v2/pokemon/$POKEMON")"
 endpoint_SPECIES="$(curl -s "https://pokeapi.co/api/v2/pokemon-species/$POKEMON")"
+ID="$(jq -r '.order' <<< "$endpoint_SPECIES")"
+endpoint_POKEMON="$(curl -s "https://pokeapi.co/api/v2/pokemon/$POKEMON")"
 endpoint_ENCOUNTER="$(curl -s "https://pokeapi.co/api/v2/pokemon/$POKEMON/encounters")"
 endpoint_CHAIN="$(curl -s "$(jq -r '.evolution_chain["url"]' <<< "$endpoint_SPECIES")")"
 
+### Test for alt_endpoint
+if NAME="$(jq -e -r '[.name]' <<< "$endpoint_POKEMON")" && [[ -n "$NAME" ]]
+	then
+		:
+	else
+		endpoint_POKEMON="$(curl -s "https://pokeapi.co/api/v2/pokemon/$ID")"
+fi
+
 ### Parse JSON for attributes and assign to vars
-IFS=$'\t' read -r NAME HEIGHT WEIGHT ID BASEX < <( jq -r '[.name, .height, .weight, .id, .base_experience] | @tsv' <<< "$endpoint_POKEMON")
+IFS=$'\t' read -r NAME HEIGHT WEIGHT BASEX < <( jq -e -r '[.name, .height, .weight, .base_experience] | @tsv' <<< "$endpoint_POKEMON")
 IFS=$'\t' read -r BASEHAPPY CAPTURE GENUS < <( jq -r '[.base_happiness, .capture_rate, .genera[7].genus] | @tsv' <<< "$endpoint_SPECIES")
 mapfile -t TYPE < <(jq -r '.types[].type["name"]' <<< "$endpoint_POKEMON"); TYPE_ITEM="${TYPE[0]}"
 mapfile -t STAT < <(jq -r '.stats[].stat["name"]' <<< "$endpoint_POKEMON")
@@ -77,7 +86,7 @@ printf "\n Types:\n"
 for ((i=0; i<${#TYPE[@]}; i++)); do
 	TYPE_LIST_ITEM="${TYPE[i]}"
 	printf "   %s\n" "${TYPE_LIST_ITEM^}"
-done
+done;
 printf "\n%s\n\n" " ↞---------------|ABILITIES|---------------↠"
 for ((i=0; i<${#ABILITIES[@]}; i++)); do
 	ABILITY_NAME="$(awk '{print $1}' <<< "${ABILITIES[i]}")"
@@ -86,10 +95,15 @@ for ((i=0; i<${#ABILITIES[@]}; i++)); do
 		< <(curl -s "$(awk '{print $2}' <<< "${ABILITIES[i]}")")))"
 	printf "  %s:\n\n" "${ABILITY_NAME^}"
 	printf "  %s\n\n" "$EFFECT_ENTRY"
-done
-printf "\n Location Areas:\n";
-for ((i=0; i<${#LOCATE[@]}; i++)); do
-	LOCATION_ITEM="$(sed 's/-/ /g' <<< "${LOCATE[i]}")";
-	printf "   %s\n" "${LOCATION_ITEM^}";
-done; } > "$DATADIR/$POKEMON"
+done;
+if [[ -n "$LOCATE" ]]
+	then
+		printf "\n Location Areas:\n";
+		for ((i=0; i<${#LOCATE[@]}; i++)); do
+			LOCATION_ITEM="$(sed 's/-/ /g' <<< "${LOCATE[i]}")";
+			printf "   %s\n" "${LOCATION_ITEM^}";
+		done;
+	else
+		printf "\n Location Areas Unknown\n";
+fi; } > "$DATADIR/$POKEMON"
 

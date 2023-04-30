@@ -17,7 +17,7 @@
            speed:         66
 
  Genus: Devious Pokémon
- Happiness: 50	Pokedex ID: 509
+ Happiness: 50	Pokedex ID: 510
  Base Exp: 56	Capture Rate: 255
  Height:    4	Weight: 101
 
@@ -52,9 +52,7 @@
 
   Prankster:
 
-    This Pokémon's non-damaging 
-  moves have their priority increased 
-  by one stage.
+  
 
 
  Location Areas:

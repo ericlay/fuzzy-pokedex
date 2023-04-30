@@ -1,5 +1,5 @@
 
-  Simisear    Fire Type Pokémon
+  Panpour    Water Type Pokémon
 
   It loves sweets because they 
   become energy for the fire burning 
@@ -8,33 +8,37 @@
       Pansear ► Simisear
 
    ↞--------| STATS |--------↠ 
-              hp:         75
-          attack:         98
-         defense:         63
-  special-attack:         98
- special-defense:         63
-           speed:        101
+              hp:         50
+          attack:         53
+         defense:         48
+  special-attack:         53
+ special-defense:         48
+           speed:         64
 
  Genus: Ember Pokémon
- Happiness: 70	Pokedex ID: 514
- Base Exp: 174	Capture Rate: 75
- Height:    10	Weight: 280
+ Happiness: 70	Pokedex ID: 515
+ Base Exp: 63	Capture Rate: 75
+ Height:    6	Weight: 135
 
  Types:
-   Fire
+   Water
 
  ↞---------------|ABILITIES|---------------↠
 
   Gluttony:
 
-  
+    This Pokémon eats any held 
+  Berry triggered by low HP when 
+  it falls below 50% of its HP, 
+  regardless of the Berry's usual 
+  threshold.
 
-  Blaze:
+  Torrent:
 
     When this Pokémon has 1/3 or 
   less of its HP remaining, its 
-  fire-type moves inflict 1.5× 
+  water-type moves inflict 1.5× 
   as much regular damage.
 
 
- Location Areas:
+ Location Areas Unknown

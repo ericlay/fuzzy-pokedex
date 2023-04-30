@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Thievul    Dark Type Pokémon
 
   It secretly marks potential 
   targets with a scent.  By following 
@@ -10,15 +10,48 @@
       Nickit ► Thievul
 
    ↞--------| STATS |--------↠ 
+              hp:         70
+          attack:         58
+         defense:         58
+  special-attack:         87
+ special-defense:         92
+           speed:         90
 
  Genus: Fox Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 127
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 828
+ Base Exp: 159	Capture Rate: 127
+ Height:    12	Weight: 199
 
  Types:
+   Dark
 
  ↞---------------|ABILITIES|---------------↠
 
+  Run-away:
 
- Location Areas:
+    This Pokémon is always successful 
+  fleeing from wild battles, even 
+  if trapped by a move or ability.
+
+  Unburden:
+
+    When this Pokémon uses or loses 
+  its held item, its Speed is doubled. 
+  If it gains another item or leaves 
+  battle, this bonus is lost.
+
+  This includes when the Pokémon 
+  drops its item because of knock 
+  off. This bonus does not count 
+  as a stat modifier. There is 
+  no notification when this ability 
+  takes effect.
+
+  Stakeout:
+
+    This Pokémon's moves have double 
+  power against Pokémon that switched 
+  in this turn.
+
+
+ Location Areas Unknown

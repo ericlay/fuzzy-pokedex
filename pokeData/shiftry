@@ -1,22 +1,66 @@
 
-       Type Pokémon
+  Shiftry    Grass Type Pokémon
 
   It lives quietly in the deep 
   forest.  It is said to create 
   chilly winter winds with the 
   fans it holds. 
-  Single Stage Evolution Pokémon
+	   Evolution Chain
+  Seedot ► Nuzleaf ► Shiftry
 
    ↞--------| STATS |--------↠ 
+              hp:         90
+          attack:        100
+         defense:         60
+  special-attack:         90
+ special-defense:         60
+           speed:         80
 
  Genus: Wicked Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 45
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 300
+ Base Exp: 240	Capture Rate: 45
+ Height:    13	Weight: 596
 
  Types:
+   Grass
+   Dark
 
  ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Early-bird:
+
+    This Pokémon's remaining sleep 
+  turn count falls by 2 rather 
+  than 1.
+
+  If this Pokémon's sleep counter 
+  is at 1, it will fall to 0 and 
+  then the Pokémon will wake up.
+
+  Pickpocket:
+
+    Whenever a move makes contact 
+  with this Pokémon, if it does 
+  not have a held item, it steals 
+  the attacker's held item.
+
+  This Pokémon cannot steal upon 
+  being knocked out. It can steal 
+  if the attacker has a substitute, 
+  but cannot steal when its own 
+  Substitute is hit. If a move 
+  hits multiple times, only the 
+  last hit triggers this ability. 
+  If this Pokémon is wild, it cannot 
+  steal from a trained Pokémon.
 
 
  Location Areas:

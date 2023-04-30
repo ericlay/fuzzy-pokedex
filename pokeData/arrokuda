@@ -1,8 +1,13 @@
 
   Arrokuda    Water Type Pokémon
 
-  
-  Single Stage Evolution Pokémon
+  If it sees any movement around 
+  it, this Pokémon charges for 
+  it straightaway, leading with 
+  its sharply pointed jaw.  It’s 
+  very proud of that jaw. 
+	Evolution Chain
+      Arrokuda ► Barraskewda
 
    ↞--------| STATS |--------↠ 
               hp:         41
@@ -12,9 +17,9 @@
  special-defense:         30
            speed:         66
 
- Genus: 
- Happiness: 	Pokedex ID: 846
- Base Exp: 56	Capture Rate: 
+ Genus: Rush Pokémon
+ Happiness: 50	Pokedex ID: 846
+ Base Exp: 56	Capture Rate: 255
  Height:    5	Weight: 10
 
  Types:
@@ -35,4 +40,4 @@
   
 
 
- Location Areas:
+ Location Areas Unknown

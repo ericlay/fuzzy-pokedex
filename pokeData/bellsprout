@@ -1,8 +1,12 @@
 
   Bellsprout    Grass Type Pokémon
 
+  A carnivorous Pokémon that traps 
+  and eats bugs.  It uses its root 
+  feet to soak up needed moisture. 
   
-  Single Stage Evolution Pokémon
+	   Evolution Chain
+  Bellsprout ► Weepinbell ► Victreebel
 
    ↞--------| STATS |--------↠ 
               hp:         50
@@ -12,9 +16,9 @@
  special-defense:         30
            speed:         40
 
- Genus: 
- Happiness: 	Pokedex ID: 69
- Base Exp: 60	Capture Rate: 
+ Genus: Flower Pokémon
+ Happiness: 70	Pokedex ID: 75
+ Base Exp: 60	Capture Rate: 255
  Height:    7	Weight: 40
 
  Types:

@@ -8,7 +8,7 @@
 	Evolution Chain
       Eevee ► Vaporeon
 
-Stage 2 Forms:
+ Stage 2 Forms:
   vaporeon
   jolteon
   flareon
@@ -27,7 +27,7 @@ Stage 2 Forms:
            speed:        130
 
  Genus: Lightning Pokémon
- Happiness: 50	Pokedex ID: 135
+ Happiness: 50	Pokedex ID: 159
  Base Exp: 184	Capture Rate: 45
  Height:    8	Weight: 245
 
@@ -38,7 +38,19 @@ Stage 2 Forms:
 
   Volt-absorb:
 
-  
+    Whenever an electric-type move 
+  hits this Pokémon, it heals for 
+  1/4 of its maximum HP, negating 
+  any other effect on it.
+
+  This ability will not take 
+  effect if this Pokémon is ground-type 
+  and thus immune to Electric moves. 
+  Electric moves will ignore this 
+  Pokémon's substitute.
+
+  This effect includes non-damaging 
+  moves, i.e. thunder wave.
 
   Quick-feet:
 
@@ -53,4 +65,4 @@ Stage 2 Forms:
   rate is halved.
 
 
- Location Areas:
+ Location Areas Unknown

@@ -7,7 +7,7 @@
 	Evolution Chain
       Tyrogue ► Hitmonlee
 
-Stage 2 Forms:
+ Stage 2 Forms:
   hitmonlee
   hitmonchan
   hitmontop
@@ -21,7 +21,7 @@ Stage 2 Forms:
            speed:         70
 
  Genus: Handstand Pokémon
- Happiness: 50	Pokedex ID: 237
+ Happiness: 50	Pokedex ID: 118
  Base Exp: 159	Capture Rate: 45
  Height:    14	Weight: 480
 
@@ -32,7 +32,26 @@ Stage 2 Forms:
 
   Intimidate:
 
-  
+    When this Pokémon enters battle, 
+  the opponent's Attack is lowered 
+  by one stage. In a double battle, 
+  both opponents are affected.
+
+  This ability also takes effect 
+  when acquired during a battle, 
+  but will not take effect again 
+  if lost and reobtained without 
+  leaving battle.
+
+  This ability has no effect 
+  on an opponent that has a substitute.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
 
   Technician:
 
@@ -54,4 +73,4 @@ Stage 2 Forms:
   its Speed rises one stage.
 
 
- Location Areas:
+ Location Areas Unknown

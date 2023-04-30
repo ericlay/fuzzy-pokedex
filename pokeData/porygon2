@@ -1,5 +1,5 @@
 
-  Porygon2    Normal Type Pokémon
+  Spinarak    Bug Type Pokémon
 
   This upgraded version of PORYGON 
   is designed for space exploration. 
@@ -8,55 +8,53 @@
   Porygon ► Porygon2 ► Porygon-z
 
    ↞--------| STATS |--------↠ 
-              hp:         85
-          attack:         80
-         defense:         90
-  special-attack:        105
- special-defense:         95
-           speed:         60
+              hp:         40
+          attack:         60
+         defense:         40
+  special-attack:         40
+ special-defense:         40
+           speed:         30
 
  Genus: Virtual Pokémon
- Happiness: 50	Pokedex ID: 233
- Base Exp: 180	Capture Rate: 45
- Height:    6	Weight: 325
+ Happiness: 50	Pokedex ID: 167
+ Base Exp: 50	Capture Rate: 45
+ Height:    5	Weight: 85
 
  Types:
-   Normal
+   Bug
+   Poison
 
  ↞---------------|ABILITIES|---------------↠
 
-  Trace:
+  Swarm:
 
-    When this Pokémon enters battle, 
-  it copies a random opponent's 
-  ability.
+    When this Pokémon has 1/3 or 
+  less of its HP remaining, its 
+  bug-type moves inflict 1.5× as 
+  much regular damage.
 
-  This ability cannot copy flower 
-  gift, forecast, illusion, imposter, 
-  multitype, trace, wonder guard, 
-  or zen mode.
+  Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is increased.
 
-  Download:
+  Insomnia:
 
-    When this Pokémon enters battle, 
-  its Attack or Special Attack, 
-  whichever corresponds to its 
-  opponents' weaker total defensive 
-  stat, rises one stage. In the 
-  event of a tie, Special Attack 
-  is raised.
+    This Pokémon cannot be asleep.
 
-  This ability also takes effect 
-  when acquired during a battle.
+  This causes rest to fail altogether. 
+  If a Pokémon is asleep and acquires 
+  this ability, it will immediately 
+  wake up; this includes when regaining 
+  a lost ability upon leaving battle.
 
-  Analytic:
+  This ability functions identically 
+  to vital spirit in battle.
 
-    This Pokémon's moves have 1.3× 
-  their power when it moves last 
-  in a turn.
+  Sniper:
 
-  future sight and doom desire 
-  are unaffected.
+    This Pokémon inflicts triple 
+  damage with critical hits, rather 
+  than the usual double damage.
 
 
- Location Areas:
+ Location Areas Unknown

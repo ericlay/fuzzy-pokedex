@@ -19,7 +19,7 @@
            speed:         50
 
  Genus: Iron Armor Pokémon
- Happiness: 35	Pokedex ID: 306
+ Happiness: 35	Pokedex ID: 332
  Base Exp: 265	Capture Rate: 45
  Height:    21	Weight: 3600
 
@@ -31,19 +31,7 @@
 
   Sturdy:
 
-    When this Pokémon is at full 
-  HP, any hit that would knock 
-  it out will instead leave it 
-  with 1 HP. Regardless of its 
-  current HP, it is also immune 
-  to the one-hit KO moves: fissure, 
-  guillotine, horn drill, and sheer 
-  cold.
-
-  If this Pokémon is holding 
-  a focus sash, this ability takes 
-  precedence and the item will 
-  not be consumed.
+  
 
   Rock-head:
 
@@ -62,4 +50,4 @@
   usual weight for its species.
 
 
- Location Areas:
+ Location Areas Unknown

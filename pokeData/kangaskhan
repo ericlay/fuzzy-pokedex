@@ -15,7 +15,7 @@
            speed:         90
 
  Genus: Parent Pokémon
- Happiness: 50	Pokedex ID: 115
+ Happiness: 50	Pokedex ID: 131
  Base Exp: 172	Capture Rate: 45
  Height:    22	Weight: 800
 
@@ -26,7 +26,13 @@
 
   Early-bird:
 
-  
+    This Pokémon's remaining sleep 
+  turn count falls by 2 rather 
+  than 1.
+
+  If this Pokémon's sleep counter 
+  is at 1, it will fall to 0 and 
+  then the Pokémon will wake up.
 
   Scrappy:
 

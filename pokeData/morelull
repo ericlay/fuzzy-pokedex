@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Morelull    Grass Type Pokémon
 
   It scatters spores that flicker 
   and glow.  Anyone seeing these 
@@ -9,15 +9,52 @@
       Morelull ► Shiinotic
 
    ↞--------| STATS |--------↠ 
+              hp:         40
+          attack:         35
+         defense:         55
+  special-attack:         65
+ special-defense:         75
+           speed:         15
 
  Genus: Illuminating Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 190
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 755
+ Base Exp: 57	Capture Rate: 190
+ Height:    2	Weight: 15
 
  Types:
+   Grass
+   Fairy
 
  ↞---------------|ABILITIES|---------------↠
 
+  Illuminate:
 
- Location Areas:
+    Overworld: If the lead Pokémon 
+  has this ability, the wild encounter 
+  rate is doubled.
+
+  This ability has no effect 
+  in battle.
+
+  Effect-spore:
+
+    Whenever a move makes contact 
+  with this Pokémon, the move's 
+  user has a 30% chance of being 
+  paralyzed, poisoned, or put to 
+  sleep, chosen at random.
+
+  Nothing is done to compensate 
+  if the move's user is immune 
+  to one of these ailments; there 
+  is simply a lower chance that 
+  the move's user will be affected.
+
+  Rain-dish:
+
+    This Pokémon heals for 1/16 
+  of its maximum HP after each 
+  turn during rain.
+
+
+ Location Areas Unknown

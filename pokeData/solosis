@@ -17,7 +17,7 @@
            speed:         20
 
  Genus: Cell Pokémon
- Happiness: 50	Pokedex ID: 577
+ Happiness: 50	Pokedex ID: 578
  Base Exp: 58	Capture Rate: 200
  Height:    3	Weight: 10
 
@@ -28,7 +28,8 @@
 
   Overcoat:
 
-  
+    This Pokémon does not take 
+  damage from weather.
 
   Magic-guard:
 

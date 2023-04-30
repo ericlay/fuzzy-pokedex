@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Urshifu-single-strike    Fighting Type Pokémon
 
   This form of Urshifu is a strong 
   believer in the one-hit KO.  
@@ -10,15 +10,27 @@
       Kubfu ► Urshifu
 
    ↞--------| STATS |--------↠ 
+              hp:        100
+          attack:        130
+         defense:        100
+  special-attack:         63
+ special-defense:         60
+           speed:         97
 
  Genus: Wushu Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 3
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 892
+ Base Exp: 275	Capture Rate: 3
+ Height:    19	Weight: 1050
 
  Types:
+   Fighting
+   Dark
 
  ↞---------------|ABILITIES|---------------↠
 
+  Unseen-fist:
 
- Location Areas:
+  
+
+
+ Location Areas Unknown

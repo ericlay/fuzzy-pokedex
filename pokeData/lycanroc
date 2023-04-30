@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Lycanroc-midday    Rock Type Pokémon
 
   Its quick movements confuse 
   its enemies.  Well equipped with 
@@ -10,15 +10,56 @@
       Rockruff ► Lycanroc
 
    ↞--------| STATS |--------↠ 
+              hp:         75
+          attack:        115
+         defense:         65
+  special-attack:         55
+ special-defense:         65
+           speed:        112
 
  Genus: Wolf Pokémon
- Happiness: 50	Pokedex ID: 
- Base Exp: 	Capture Rate: 90
- Height:    	Weight: 
+ Happiness: 50	Pokedex ID: 745
+ Base Exp: 170	Capture Rate: 90
+ Height:    8	Weight: 250
 
  Types:
+   Rock
 
  ↞---------------|ABILITIES|---------------↠
 
+  Keen-eye:
 
- Location Areas:
+    This Pokémon cannot have its 
+  accuracy lowered.
+
+  This ability does not prevent 
+  any accuracy losses other than 
+  stat modifiers, such as the accuracy 
+  cut from fog; nor does it prevent 
+  other Pokémon's evasion from 
+  making this Pokémon's moves less 
+  accurate. This Pokémon can still 
+  be passed negative accuracy modifiers 
+  through heart swap.
+
+  Overworld: If the first Pokémon 
+  in the party has this ability, 
+  any random encounter with a Pokémon 
+  five or more levels lower than 
+  it has a 50% chance of being 
+  skipped.
+
+  Sand-rush:
+
+    This Pokémon's Speed is doubled 
+  during a sandstorm, and it does 
+  not take sandstorm damage, regardless 
+  of type.
+
+  Steadfast:
+
+    Whenever this Pokémon flinches, 
+  its Speed rises one stage.
+
+
+ Location Areas Unknown

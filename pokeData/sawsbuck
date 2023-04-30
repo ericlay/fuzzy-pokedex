@@ -1,8 +1,12 @@
 
   Sawsbuck    Normal Type Pokémon
 
-  
-  Single Stage Evolution Pokémon
+  They migrate according to the 
+  seasons.  People can tell the 
+  season by looking at Sawsbuck’s 
+  horns. 
+	Evolution Chain
+      Deerling ► Sawsbuck
 
    ↞--------| STATS |--------↠ 
               hp:         80
@@ -12,9 +16,9 @@
  special-defense:         70
            speed:         95
 
- Genus: 
- Happiness: 	Pokedex ID: 586
- Base Exp: 166	Capture Rate: 
+ Genus: Season Pokémon
+ Happiness: 70	Pokedex ID: 587
+ Base Exp: 166	Capture Rate: 75
  Height:    19	Weight: 925
 
  Types:

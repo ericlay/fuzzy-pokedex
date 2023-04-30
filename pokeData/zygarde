@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Zygarde-50    Dragon Type Pokémon
 
   When the Kalos region’s ecosystem 
   falls into disarray, it appears 
@@ -8,15 +8,31 @@
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:        108
+          attack:        100
+         defense:        121
+  special-attack:         81
+ special-defense:         95
+           speed:         95
 
  Genus: Order Pokémon
- Happiness: 0	Pokedex ID: 
- Base Exp: 	Capture Rate: 3
- Height:    	Weight: 
+ Happiness: 0	Pokedex ID: 718
+ Base Exp: 300	Capture Rate: 3
+ Height:    50	Weight: 3050
 
  Types:
+   Dragon
+   Ground
 
  ↞---------------|ABILITIES|---------------↠
 
+  Aura-break:
 
- Location Areas:
+    While this Pokémon is on the 
+  field, dark aura and fairy aura 
+  weaken moves of their respective 
+  types to 2/3 their power, rather 
+  than strengthening them.
+
+
+ Location Areas Unknown

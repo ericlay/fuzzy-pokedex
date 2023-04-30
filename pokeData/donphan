@@ -1,8 +1,12 @@
 
   Donphan    Ground Type Pokémon
 
-  
-  Single Stage Evolution Pokémon
+  It has sharp, hard tusks and 
+  a rugged hide.  Its TACKLE is 
+  strong enough to knock down a 
+  house. 
+	Evolution Chain
+      Phanpy ► Donphan
 
    ↞--------| STATS |--------↠ 
               hp:         90
@@ -12,9 +16,9 @@
  special-defense:         60
            speed:         50
 
- Genus: 
- Happiness: 	Pokedex ID: 232
- Base Exp: 175	Capture Rate: 
+ Genus: Armor Pokémon
+ Happiness: 70	Pokedex ID: 264
+ Base Exp: 175	Capture Rate: 60
  Height:    11	Weight: 1200
 
  Types:

@@ -1,19 +1,40 @@
 
-       Type Pokémon
+  Cresselia    Psychic Type Pokémon
 
-  
+  A Pokémon that is said to live 
+  in a world on the reverse side 
+  of ours.  It appears in an ancient 
+  cemetery. 
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:        120
+          attack:         70
+         defense:        120
+  special-attack:         75
+ special-defense:        130
+           speed:         85
 
- Genus: 
- Happiness: 	Pokedex ID: 
- Base Exp: 	Capture Rate: 
- Height:    	Weight: 
+ Genus: Renegade Pokémon
+ Happiness: 0	Pokedex ID: 488
+ Base Exp: 300	Capture Rate: 3
+ Height:    15	Weight: 856
 
  Types:
+   Psychic
 
  ↞---------------|ABILITIES|---------------↠
 
+  Levitate:
 
- Location Areas:
+    This Pokémon is immune to ground-type 
+  moves, spikes, toxic spikes, 
+  and arena trap.
+
+  This ability is disabled during 
+  gravity or ingrain, or while 
+  holding an iron ball. This ability 
+  is not disabled during roost.
+
+
+ Location Areas Unknown

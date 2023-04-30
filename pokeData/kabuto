@@ -5,7 +5,8 @@
   from a fossil found in what was 
   once the ocean floor eons ago. 
   
-  Single Stage Evolution Pokémon
+	Evolution Chain
+      Kabuto ► Kabutops
 
    ↞--------| STATS |--------↠ 
               hp:         30
@@ -16,7 +17,7 @@
            speed:         55
 
  Genus: Shellfish Pokémon
- Happiness: 50	Pokedex ID: 140
+ Happiness: 50	Pokedex ID: 171
  Base Exp: 71	Capture Rate: 45
  Height:    5	Weight: 115
 

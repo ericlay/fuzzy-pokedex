@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Minior-red-meteor    Rock Type Pokémon
 
   Originally making its home in 
   the ozone layer, it hurtles to 
@@ -8,15 +8,42 @@
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
+              hp:         60
+          attack:         60
+         defense:        100
+  special-attack:         60
+ special-defense:        100
+           speed:         60
 
  Genus: Meteor Pokémon
- Happiness: 70	Pokedex ID: 
- Base Exp: 	Capture Rate: 30
- Height:    	Weight: 
+ Happiness: 70	Pokedex ID: 774
+ Base Exp: 154	Capture Rate: 30
+ Height:    3	Weight: 400
 
  Types:
+   Rock
+   Flying
 
  ↞---------------|ABILITIES|---------------↠
 
+  Shields-down:
 
- Location Areas:
+    When this Pokémon enters battle 
+  and at the end of each turn, 
+  if its HP is 50% or above, it 
+  changes into Meteor Form; otherwise, 
+  it changes into Core Form. In 
+  Meteor Form, it cannot be given 
+  a major status ailment (though 
+  existing ones are not cured), 
+  cannot become drowsy from yawn, 
+  and cannot use rest (which will 
+  simply fail).
+
+  This ability cannot be copied, 
+  replaced, or nullified. This 
+  ability only takes effect for 
+  Minior.
+
+
+ Location Areas Unknown

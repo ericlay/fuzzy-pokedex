@@ -7,7 +7,8 @@
   fires.  When it enters a battle, 
   Manectric creates thunderclouds. 
   
-  Single Stage Evolution Pokémon
+	Evolution Chain
+      Electrike ► Manectric
 
    ↞--------| STATS |--------↠ 
               hp:         70
@@ -18,7 +19,7 @@
            speed:        105
 
  Genus: Discharge Pokémon
- Happiness: 50	Pokedex ID: 310
+ Happiness: 50	Pokedex ID: 336
  Base Exp: 166	Capture Rate: 45
  Height:    15	Weight: 402
 

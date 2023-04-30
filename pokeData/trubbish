@@ -1,5 +1,5 @@
 
-  Trubbish    Poison Type Pokémon
+  Garbodor    Poison Type Pokémon
 
   Inhaling the gas they belch 
   will make you sleep for a week. 
@@ -9,17 +9,17 @@
       Trubbish ► Garbodor
 
    ↞--------| STATS |--------↠ 
-              hp:         50
-          attack:         50
-         defense:         62
-  special-attack:         40
- special-defense:         62
-           speed:         65
+              hp:         80
+          attack:         95
+         defense:         82
+  special-attack:         60
+ special-defense:         82
+           speed:         75
 
  Genus: Trash Bag Pokémon
- Happiness: 50	Pokedex ID: 568
- Base Exp: 66	Capture Rate: 190
- Height:    6	Weight: 310
+ Happiness: 50	Pokedex ID: 569
+ Base Exp: 166	Capture Rate: 190
+ Height:    19	Weight: 1073
 
  Types:
    Poison
@@ -41,22 +41,15 @@
   rate is halved while this Pokémon 
   is first in the party.
 
-  Sticky-hold:
+  Weak-armor:
 
-    This Pokémon's hold item cannot 
-  be removed by other Pokémon.
+    Whenever a physical move hits 
+  this Pokémon, its Speed rises 
+  one stage and its Defense falls 
+  one stage.
 
-  Damaging moves that would remove 
-  this Pokémon's item can still 
-  inflict damage against this Pokémon, 
-  e.g. knock off or pluck. This 
-  Pokémon can still use moves that 
-  involve the loss of its own item, 
-  e.g. fling or trick.
-
-  Overworld: If the lead Pokémon 
-  has this ability, the encounter 
-  rate while fishing is increased.
+  This ability triggers on every 
+  hit of a multiple-hit move.
 
   Aftermath:
 

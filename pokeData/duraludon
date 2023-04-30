@@ -1,7 +1,10 @@
 
   Duraludon    Steel Type Pokémon
 
-  
+  Its body resembles polished 
+  metal, and it’s both lightweight 
+  and strong.  The only drawback 
+  is that it rusts easily. 
   Single Stage Evolution Pokémon
 
    ↞--------| STATS |--------↠ 
@@ -12,9 +15,9 @@
  special-defense:         50
            speed:         85
 
- Genus: 
- Happiness: 	Pokedex ID: 884
- Base Exp: 187	Capture Rate: 
+ Genus: Alloy Pokémon
+ Happiness: 50	Pokedex ID: 884
+ Base Exp: 187	Capture Rate: 45
  Height:    18	Weight: 400
 
  Types:
@@ -38,4 +41,4 @@
   
 
 
- Location Areas:
+ Location Areas Unknown

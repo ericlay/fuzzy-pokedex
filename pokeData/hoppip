@@ -1,5 +1,5 @@
 
-       Type Pokémon
+  Hoppip    Grass Type Pokémon
 
   To keep from being blown away 
   by the wind, they gather in clusters. 
@@ -9,15 +9,52 @@
   Hoppip ► Skiploom ► Jumpluff
 
    ↞--------| STATS |--------↠ 
+              hp:         35
+          attack:         35
+         defense:         40
+  special-attack:         35
+ special-defense:         55
+           speed:         50
 
  Genus: Cottonweed Pokémon
- Happiness: 70	Pokedex ID: 
- Base Exp: 	Capture Rate: 255
- Height:    	Weight: 
+ Happiness: 70	Pokedex ID: 216
+ Base Exp: 50	Capture Rate: 255
+ Height:    4	Weight: 5
 
  Types:
+   Grass
+   Flying
 
  ↞---------------|ABILITIES|---------------↠
+
+  Chlorophyll:
+
+    This Pokémon's Speed is doubled 
+  during strong sunlight.
+
+  This bonus does not count as 
+  a stat modifier.
+
+  Leaf-guard:
+
+    This Pokémon cannot be given 
+  a major status ailment during 
+  strong sunlight.
+
+  This ability does not heal 
+  prior status ailments. rest will 
+  fail altogether with this ability 
+  in effect. yawn will immediately 
+  fail if used on this Pokémon 
+  during strong sunlight, and an 
+  already-used Yawn will fail if 
+  the weather turns to strong sunlight 
+  in the meantime.
+
+  Infiltrator:
+
+    This Pokémon's moves ignore 
+  light screen, reflect, and safeguard.
 
 
  Location Areas:
